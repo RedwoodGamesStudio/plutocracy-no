@@ -1196,62 +1196,62 @@
         <text id="shareholder_offer" need_translate="true" value=""/>
     </map_check>
     <map_filters>
-        <text id="absolute_influence" need_translate="true" value=""/>
-        <text id="absolute_value" need_translate="true" value=""/>
-        <text id="actual_income" need_translate="true" value=""/>
-        <text id="authority" need_translate="true" value=""/>
-        <text id="button_hint_header" need_translate="true" value=""/>
-        <text id="button_hint_text" need_translate="true" value=""/>
-        <text id="capitalization" need_translate="true" value=""/>
-        <text id="companies" need_translate="true" value=""/>
-        <text id="companies_types" need_translate="true" value=""/>
-        <text id="corporate_taxes" need_translate="true" value=""/>
-        <text id="democrats" need_translate="true" value=""/>
-        <text id="dividends" need_translate="true" value=""/>
-        <text id="enemies" need_translate="true" value=""/>
-        <text id="federal" need_translate="true" value=""/>
-        <text id="filters" need_translate="true" value=""/>
-        <text id="friends" need_translate="true" value=""/>
-        <text id="gdp" need_translate="true" value=""/>
-        <text id="global_influence" need_translate="true" value=""/>
-        <text id="holder" need_translate="true" value=""/>
-        <text id="in_developing" need_translate="true" value=""/>
-        <text id="income_per_person" need_translate="true" value=""/>
-        <text id="income_taxes_for_person" need_translate="true" value=""/>
-        <text id="influence_in_state" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="links_with_the_politicans" need_translate="true" value=""/>
-        <text id="local" need_translate="true" value=""/>
-        <text id="local_influence" need_translate="true" value=""/>
-        <text id="loyalty" need_translate="true" value=""/>
-        <text id="macroeconomics" need_translate="true" value=""/>
-        <text id="marginalization" need_translate="true" value=""/>
-        <text id="market_size" need_translate="true" value=""/>
-        <text id="microeconomics" need_translate="true" value=""/>
-        <text id="net_profit" need_translate="true" value=""/>
-        <text id="neutral" need_translate="true" value=""/>
-        <text id="neutrals" need_translate="true" value=""/>
-        <text id="party" need_translate="true" value=""/>
-        <text id="player" need_translate="true" value=""/>
-        <text id="population" need_translate="true" value=""/>
-        <text id="potential_income" need_translate="true" value=""/>
-        <text id="profit_in_company" need_translate="true" value=""/>
-        <text id="relative_influence" need_translate="true" value=""/>
-        <text id="relative_value" need_translate="true" value=""/>
-        <text id="republicans" need_translate="true" value=""/>
-        <text id="reset" need_translate="true" value=""/>
-        <text id="resources" need_translate="true" value=""/>
-        <text id="roa" need_translate="true" value=""/>
-        <text id="roi" need_translate="true" value=""/>
-        <text id="show_all" need_translate="true" value=""/>
-        <text id="sort_by_number" need_translate="true" value=""/>
-        <text id="taxes" need_translate="true" value=""/>
-        <text id="technology" need_translate="true" value=""/>
-        <text id="title_holders" need_translate="true" value=""/>
-        <text id="type" need_translate="true" value=""/>
-        <text id="unemployment" need_translate="true" value=""/>
-        <text id="workers" need_translate="true" value=""/>
-        <text id="workers_count" need_translate="true" value=""/>
+        <text id="absolute_influence" need_translate="false" value="Absolutt innflytelse"/>
+        <text id="absolute_value" need_translate="false" value="Absolutt verdi"/>
+        <text id="actual_income" need_translate="false" value="Faktisk inntekt"/>
+        <text id="authority" need_translate="false" value="Autoritet"/>
+        <text id="button_hint_header" need_translate="false" value="Filtre"/>
+        <text id="button_hint_text" need_translate="false" value="Her kan du utføre bedriftssøk enkelt"/>
+        <text id="capitalization" need_translate="false" value="Markedsverdi"/>
+        <text id="companies" need_translate="false" value="Bedrifter"/>
+        <text id="companies_types" need_translate="false" value="Bedriftstype"/>
+        <text id="corporate_taxes" need_translate="false" value="Bedriftsskatter"/>
+        <text id="democrats" need_translate="false" value="Demokrater"/>
+        <text id="dividends" need_translate="false" value="Utbytte"/>
+        <text id="enemies" need_translate="false" value="Motstandere"/>
+        <text id="federal" need_translate="false" value="Føderal"/>
+        <text id="filters" need_translate="false" value="Filtre"/>
+        <text id="friends" need_translate="false" value="Venner"/>
+        <text id="gdp" need_translate="false" value="BNP"/>
+        <text id="global_influence" need_translate="false" value="Global innflytelse"/>
+        <text id="holder" need_translate="false" value="Eier:"/>
+        <text id="in_developing" need_translate="false" value="I utvikling"/>
+        <text id="income_per_person" need_translate="false" value="Inntekt per person"/>
+        <text id="income_taxes_for_person" need_translate="false" value="Personlig inntektsskatt"/>
+        <text id="influence_in_state" need_translate="false" value="Innflytelse i staten"/>
+        <text id="level" need_translate="false" value="Nivå"/>
+        <text id="links_with_the_politicans" need_translate="false" value="Politiske relasjoner"/>
+        <text id="local" need_translate="false" value="Lokal"/>
+        <text id="local_influence" need_translate="false" value="Lokal innflytelse"/>
+        <text id="loyalty" need_translate="false" value="Lojalitet"/>
+        <text id="macroeconomics" need_translate="false" value="Makroøkonomi"/>
+        <text id="marginalization" need_translate="false" value="Andel i bedriften"/>
+        <text id="market_size" need_translate="false" value="Markedskapasitet"/>
+        <text id="microeconomics" need_translate="false" value="Mikroøkonomi"/>
+        <text id="net_profit" need_translate="false" value="Netto inntekt"/>
+        <text id="neutral" need_translate="false" value="Nøytral"/>
+        <text id="neutrals" need_translate="false" value="Nøytrale"/>
+        <text id="party" need_translate="false" value="Parti"/>
+        <text id="player" need_translate="false" value="Spiller"/>
+        <text id="population" need_translate="false" value="Befolkning"/>
+        <text id="potential_income" need_translate="false" value="Potensiell inntekt"/>
+        <text id="profit_in_company" need_translate="false" value="Lønnsomhet i bedriften"/>
+        <text id="relative_influence" need_translate="false" value="Relativ innflytelse"/>
+        <text id="relative_value" need_translate="false" value="Relativ verdi"/>
+        <text id="republicans" need_translate="false" value="Republikanere"/>
+        <text id="reset" need_translate="false" value="Tilbakestill alle"/>
+        <text id="resources" need_translate="false" value="Ressurser"/>
+        <text id="roa" need_translate="false" value="ROA"/>
+        <text id="roi" need_translate="false" value="Lønnsomhet"/>
+        <text id="show_all" need_translate="false" value="Vis alle"/>
+        <text id="sort_by_number" need_translate="false" value="Sorter etter nummer"/>
+        <text id="taxes" need_translate="false" value="Skatter"/>
+        <text id="technology" need_translate="false" value="Teknologi"/>
+        <text id="title_holders" need_translate="false" value="Eier"/>
+        <text id="type" need_translate="false" value="Type"/>
+        <text id="unemployment" need_translate="false" value="Arbeidsledighet"/>
+        <text id="workers" need_translate="false" value="Arbeidere"/>
+        <text id="workers_count" need_translate="false" value="Antall arbeidere"/>
     </map_filters>
     <map_filters_handler>
         <text id="actual_income" need_translate="true" value=""/>
