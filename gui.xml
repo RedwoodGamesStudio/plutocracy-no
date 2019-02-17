@@ -1189,11 +1189,11 @@
         <text id="sandbox" need_translate="true" value=""/>
     </main_menu>
     <map_check>
-        <text id="auction" need_translate="true" value=""/>
-        <text id="init_price" need_translate="true" value=""/>
-        <text id="player" need_translate="true" value=""/>
+        <text id="auction" need_translate="false" value="Auksjon..."/>
+        <text id="init_price" need_translate="false" value="Startpris:"/>
+        <text id="player" need_translate="false" value="Spiller..."/>
         <text id="share_portion" need_translate="true" value=""/>
-        <text id="shareholder_offer" need_translate="true" value=""/>
+        <text id="shareholder_offer" need_translate="false" value="Aksjonærtilbud"/>
     </map_check>
     <map_filters>
         <text id="absolute_influence" need_translate="true" value=""/>
