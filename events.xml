@@ -1,125 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <events>
     <event>
-        <text id="1" need_translate="true" value=""/>
-        <text id="10" need_translate="true" value=""/>
-        <text id="10_header" need_translate="true" value=""/>
-        <text id="11" need_translate="true" value=""/>
-        <text id="11_header" need_translate="true" value=""/>
-        <text id="12" need_translate="true" value=""/>
-        <text id="12_header" need_translate="true" value=""/>
-        <text id="13" need_translate="true" value=""/>
-        <text id="13_header" need_translate="true" value=""/>
-        <text id="14" need_translate="true" value=""/>
-        <text id="14_header" need_translate="true" value=""/>
-        <text id="15" need_translate="true" value=""/>
-        <text id="15_header" need_translate="true" value=""/>
-        <text id="16" need_translate="true" value=""/>
-        <text id="16_header" need_translate="true" value=""/>
-        <text id="17" need_translate="true" value=""/>
-        <text id="17_header" need_translate="true" value=""/>
-        <text id="18" need_translate="true" value=""/>
-        <text id="18_header" need_translate="true" value=""/>
-        <text id="19" need_translate="true" value=""/>
-        <text id="19_header" need_translate="true" value=""/>
-        <text id="1_header" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="20" need_translate="true" value=""/>
-        <text id="20_header" need_translate="true" value=""/>
-        <text id="2_header" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="3_header" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="4_header" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
-        <text id="5_header" need_translate="true" value=""/>
-        <text id="6" need_translate="true" value=""/>
-        <text id="6_header" need_translate="true" value=""/>
-        <text id="7" need_translate="true" value=""/>
-        <text id="7_header" need_translate="true" value=""/>
-        <text id="8" need_translate="true" value=""/>
-        <text id="8_header" need_translate="true" value=""/>
-        <text id="9" need_translate="true" value=""/>
-        <text id="9_header" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="Under festen har en av de inviterte drukket mye alkohol, og starter å fornærme en venns kone offentlig. Hva gjør du?"/>
+        <text id="10" need_translate="false" value="Gjestene har organisert poker uten ditt samtykke. Hva gjør du?"/>
+        <text id="10_header" need_translate="false" value="Forstyrrelse"/>
+        <text id="11" need_translate="false" value="En av politikerne har foreslått at du sponser hans valgkampanje. Hva gjør du?"/>
+        <text id="11_header" need_translate="false" value="Gjensidig hjelp"/>
+        <text id="12" need_translate="false" value="Et mordforsøk har blitt gjort på en innflytelsesrik gjest. Den kriminelle rømmer med en gang. Hva gjør du?"/>
+        <text id="12_header" need_translate="false" value="Mordforsøk"/>
+        <text id="13" need_translate="false" value="En av gjestene spurte deg om å arrangere et privat møte med en av danserne. Hva gjør du?"/>
+        <text id="13_header" need_translate="false" value="Privat møte"/>
+        <text id="14" need_translate="false" value="Under fyrverkeriet har en av gjestene dine fått et epileptisk anfall. Hva gjør du?"/>
+        <text id="14_header" need_translate="false" value="Epilepsi"/>
+        <text id="15" need_translate="false" value="En ambisiøs aksjonær har bestemt seg for å kjøpe ut din bedrifts eierandel. Hvordan svarer du?"/>
+        <text id="15_header" need_translate="false" value="Bedriftens eierandel"/>
+        <text id="16" need_translate="false" value="Plutselig har noen brølt ut: Jeg vil gjerne se hvordan du danser. Til din overraskelse, er han støttet av publikum. Hva gjør du?"/>
+        <text id="16_header" need_translate="false" value="Danser"/>
+        <text id="17" need_translate="false" value="De to berusede gjestene har begynt å sloss. En av de tar frem en revolver. Hva gjør du?"/>
+        <text id="17_header" need_translate="false" value="Vanskelig valg"/>
+        <text id="18" need_translate="false" value="Hva faen er i maten?!, sier en av gjestene i det han reiser seg fra bordet med indignasjon. Hva gjør du?"/>
+        <text id="18_header" need_translate="false" value="Smakløs mat"/>
+        <text id="19" need_translate="false" value="Sangeren har glemt teksten under forestillingen. Hva gjør du?"/>
+        <text id="19_header" need_translate="false" value="Slettet fra minnet!"/>
+        <text id="1_header" need_translate="false" value="Fornærmelse"/>
+        <text id="2" need_translate="false" value="Under talen foran gjestene føler en av de inviterte seg dårlig for å ha falt og knust en dyr vase. Hva gjør du?"/>
+        <text id="20" need_translate="false" value="Du har blitt invitert til å spille golf. Hva svarer du?"/>
+        <text id="20_header" need_translate="false" value="Golf"/>
+        <text id="2_header" need_translate="false" value="Dyr vase"/>
+        <text id="3" need_translate="false" value="En av de inviterte har valgt å tulle med servitøren ved å spenne bein på han. Servitøren faller og søler champagne på damene. Hva gjør du?"/>
+        <text id="3_header" need_translate="false" value="Dårlig vits"/>
+        <text id="4" need_translate="false" value="Et av musikerens instrumenter har gått i stykker. Gjestene begynner å forlate festen. Hva gjør du?"/>
+        <text id="4_header" need_translate="false" value="Musikalsk instrument"/>
+        <text id="5" need_translate="false" value="Plutselig har en av gjestene bestemt seg for å dele de innsamlede pengene likt. Hva gjør du?"/>
+        <text id="5_header" need_translate="false" value="Denne fyren er noe annet"/>
+        <text id="6" need_translate="false" value="En av gjestene har spurt deg om en tjeneste å arrangere en kveld til ære for hans forlovelse med guvernørens datter. Hva gjør du?"/>
+        <text id="6_header" need_translate="false" value="Tjeneste"/>
+        <text id="7" need_translate="false" value="En av gjestene dine har bursdag i dag. Han vil bli fornøyd å høre en offentlig gratulasjon fra deg. Hva gjør du?"/>
+        <text id="7_header" need_translate="false" value="Bursdag"/>
+        <text id="8" need_translate="false" value="En lokal forretningsmann har foreslått at du skal tippe på hesteridning. Hva gjør du?"/>
+        <text id="8_header" need_translate="false" value="Tipping"/>
+        <text id="9" need_translate="false" value="Du har funnet ut at en politimann har kommet inn. Hva gjør du?"/>
+        <text id="9_header" need_translate="false" value="På utkikk"/>
     </event>
     <event_button>
-        <text id="button_text_10_1" need_translate="true" value=""/>
-        <text id="button_text_10_2" need_translate="true" value=""/>
-        <text id="button_text_10_3" need_translate="true" value=""/>
-        <text id="button_text_11_1" need_translate="true" value=""/>
-        <text id="button_text_11_2" need_translate="true" value=""/>
-        <text id="button_text_11_3" need_translate="true" value=""/>
-        <text id="button_text_12_1" need_translate="true" value=""/>
-        <text id="button_text_12_2" need_translate="true" value=""/>
-        <text id="button_text_12_3" need_translate="true" value=""/>
-        <text id="button_text_13_1" need_translate="true" value=""/>
-        <text id="button_text_13_2" need_translate="true" value=""/>
-        <text id="button_text_13_3" need_translate="true" value=""/>
-        <text id="button_text_14_1" need_translate="true" value=""/>
-        <text id="button_text_14_2" need_translate="true" value=""/>
-        <text id="button_text_14_3" need_translate="true" value=""/>
-        <text id="button_text_15_1" need_translate="true" value=""/>
-        <text id="button_text_15_2" need_translate="true" value=""/>
-        <text id="button_text_15_3" need_translate="true" value=""/>
-        <text id="button_text_16_1" need_translate="true" value=""/>
-        <text id="button_text_16_2" need_translate="true" value=""/>
-        <text id="button_text_16_3" need_translate="true" value=""/>
-        <text id="button_text_17_1" need_translate="true" value=""/>
-        <text id="button_text_17_2" need_translate="true" value=""/>
-        <text id="button_text_17_3" need_translate="true" value=""/>
-        <text id="button_text_18_1" need_translate="true" value=""/>
-        <text id="button_text_18_2" need_translate="true" value=""/>
-        <text id="button_text_18_3" need_translate="true" value=""/>
-        <text id="button_text_19_1" need_translate="true" value=""/>
-        <text id="button_text_19_2" need_translate="true" value=""/>
-        <text id="button_text_19_3" need_translate="true" value=""/>
-        <text id="button_text_1_1" need_translate="true" value=""/>
-        <text id="button_text_1_2" need_translate="true" value=""/>
-        <text id="button_text_1_3" need_translate="true" value=""/>
-        <text id="button_text_20_1" need_translate="true" value=""/>
-        <text id="button_text_20_2" need_translate="true" value=""/>
-        <text id="button_text_20_3" need_translate="true" value=""/>
-        <text id="button_text_2_1" need_translate="true" value=""/>
-        <text id="button_text_2_2" need_translate="true" value=""/>
-        <text id="button_text_2_3" need_translate="true" value=""/>
-        <text id="button_text_3_1" need_translate="true" value=""/>
-        <text id="button_text_3_2" need_translate="true" value=""/>
-        <text id="button_text_3_3" need_translate="true" value=""/>
-        <text id="button_text_4_1" need_translate="true" value=""/>
-        <text id="button_text_4_2" need_translate="true" value=""/>
-        <text id="button_text_4_3" need_translate="true" value=""/>
-        <text id="button_text_5_1" need_translate="true" value=""/>
-        <text id="button_text_5_2" need_translate="true" value=""/>
-        <text id="button_text_5_3" need_translate="true" value=""/>
-        <text id="button_text_6_1" need_translate="true" value=""/>
-        <text id="button_text_6_2" need_translate="true" value=""/>
-        <text id="button_text_6_3" need_translate="true" value=""/>
-        <text id="button_text_7_1" need_translate="true" value=""/>
-        <text id="button_text_7_2" need_translate="true" value=""/>
-        <text id="button_text_7_3" need_translate="true" value=""/>
-        <text id="button_text_8_1" need_translate="true" value=""/>
-        <text id="button_text_8_2" need_translate="true" value=""/>
-        <text id="button_text_8_3" need_translate="true" value=""/>
-        <text id="button_text_9_1" need_translate="true" value=""/>
-        <text id="button_text_9_2" need_translate="true" value=""/>
-        <text id="button_text_9_3" need_translate="true" value=""/>
+        <text id="button_text_10_1" need_translate="false" value="Bli med og start en samtale"/>
+        <text id="button_text_10_2" need_translate="false" value="Stopp det umiddelbart! Jeg kan ikke fordra poker"/>
+        <text id="button_text_10_3" need_translate="false" value="La oss øke innsatsen, damer og herrer!"/>
+        <text id="button_text_11_1" need_translate="false" value="Aksepter tilbudet til politikeren"/>
+        <text id="button_text_11_2" need_translate="false" value="Jeg kan ikke gi deg svaret mitt nå. Vi kan diskutere dette senere, ok?"/>
+        <text id="button_text_11_3" need_translate="false" value="Politikk er en skitten virksomhet"/>
+        <text id="button_text_12_1" need_translate="false" value="Ikke bekymre deg. Jeg skal bruke mine forbindelser til å hjelpe deg"/>
+        <text id="button_text_12_2" need_translate="false" value="Jeg kan utføre førstehjelp. Ring en lege, vær så snill!"/>
+        <text id="button_text_12_3" need_translate="false" value="Vel, jeg burde bli kvitt revolveren og beviset"/>
+        <text id="button_text_13_1" need_translate="false" value="Jeg tror jeg kan arrangere det for deg"/>
+        <text id="button_text_13_2" need_translate="false" value="Aldri! Hjemmet mitt er ikke et bordell. Nå må jeg gå."/>
+        <text id="button_text_13_3" need_translate="false" value="Jeg skal invitere alle ut og bli med"/>
+        <text id="button_text_14_1" need_translate="false" value="Vær rolig! Jeg skal få han inn i huset"/>
+        <text id="button_text_14_2" need_translate="false" value="Ring en lege og gå til sykehuset sammen."/>
+        <text id="button_text_14_3" need_translate="false" value="Ha ha... se på dette. Hva er galt med han?"/>
+        <text id="button_text_15_1" need_translate="false" value="Kanskje jeg er enig. La oss sette en dato for møtet."/>
+        <text id="button_text_15_2" need_translate="false" value="Som de sier: forretninger foran fornøyelser"/>
+        <text id="button_text_15_3" need_translate="false" value="Forsvinn! Det er bare min andel."/>
+        <text id="button_text_16_1" need_translate="false" value="Så jeg burde invitere en dame til valsen"/>
+        <text id="button_text_16_2" need_translate="false" value="Uhm... kjenner du til et ordtak om en dårlig arbeidsmann?"/>
+        <text id="button_text_16_3" need_translate="false" value="Neeei... jeg danset allerede cancan!"/>
+        <text id="button_text_17_1" need_translate="false" value="Ikke gjør det! Du vil ikke ha noen problemer med det, vil du?"/>
+        <text id="button_text_17_2" need_translate="false" value="Ta en kule for målet!"/>
+        <text id="button_text_17_3" need_translate="false" value="Jeg er redd! Jeg må komme meg ut herfra umiddelbart."/>
+        <text id="button_text_18_1" need_translate="false" value="Jeg bryr meg ikke om det."/>
+        <text id="button_text_18_2" need_translate="false" value="Jeg beklager for det. Vær så snill og kom tilbake."/>
+        <text id="button_text_18_3" need_translate="false" value="Servitør, skift retten straks!"/>
+        <text id="button_text_19_1" need_translate="false" value="Greit. Jeg kjenner teksten, jeg hjelper han."/>
+        <text id="button_text_19_2" need_translate="false" value="Åh, så leit. La oss se fyrverkeriet i hagen, ok?"/>
+        <text id="button_text_19_3" need_translate="false" value="Du har ødelagt kvelden min! Kom deg ut herfra."/>
+        <text id="button_text_1_1" need_translate="false" value="Knus hans/hennes ansikt"/>
+        <text id="button_text_1_2" need_translate="false" value="Rop på bråkmakeren for å møtes ansikt til ansikt."/>
+        <text id="button_text_1_3" need_translate="false" value="Du likte aldri den bitchen."/>
+        <text id="button_text_20_1" need_translate="false" value="Jeg aksepterer utfordringen"/>
+        <text id="button_text_20_2" need_translate="false" value="Vel, jeg nekter. Jeg er en elendig golfer"/>
+        <text id="button_text_20_3" need_translate="false" value="Jeg vil ikke gi deg en sjanse til å vinne."/>
+        <text id="button_text_2_1" need_translate="false" value="Utfør grunnleggende førstehjelp"/>
+        <text id="button_text_2_2" need_translate="false" value="Kom igjen.. du må betale for det"/>
+        <text id="button_text_2_3" need_translate="false" value="Herregud! Det var min favorittvase, din idiot!"/>
+        <text id="button_text_3_1" need_translate="false" value="Skjell ut den klossete servitøren"/>
+        <text id="button_text_3_2" need_translate="false" value="Se gjestene ut til damenes rom."/>
+        <text id="button_text_3_3" need_translate="false" value="Det er ok. De fortjente det."/>
+        <text id="button_text_4_1" need_translate="false" value="Inviter alle gjestene til hagen"/>
+        <text id="button_text_4_2" need_translate="false" value="Gå til midten av hallen og dans cancan"/>
+        <text id="button_text_4_3" need_translate="false" value="Godt å bli kvitt de idiotene"/>
+        <text id="button_text_5_1" need_translate="false" value="Jeg er ikke interessert"/>
+        <text id="button_text_5_2" need_translate="false" value="Kall han\henne en tyv i offentligheten"/>
+        <text id="button_text_5_3" need_translate="false" value="Aksepter og ta vekk alle pengene"/>
+        <text id="button_text_6_1" need_translate="false" value="Aksepter. Brukbare relasjoner er viktig."/>
+        <text id="button_text_6_2" need_translate="false" value="Nekt. Jeg prøver å stjele bruden"/>
+        <text id="button_text_6_3" need_translate="false" value="Ignorer"/>
+        <text id="button_text_7_1" need_translate="false" value="Jeg gjør det med glede"/>
+        <text id="button_text_7_2" need_translate="false" value="Bare fortell han en vits"/>
+        <text id="button_text_7_3" need_translate="false" value="Gi han penger og klapp han på skuldra"/>
+        <text id="button_text_8_1" need_translate="false" value="Hvorfor ikke? Jeg er med"/>
+        <text id="button_text_8_2" need_translate="false" value="Vet du hva? Jeg vil ikke ta en sjanse"/>
+        <text id="button_text_8_3" need_translate="false" value="Sats alt!"/>
+        <text id="button_text_9_1" need_translate="false" value="Få han/henne full og finn ut av årsaken til besøket"/>
+        <text id="button_text_9_2" need_translate="false" value="Åh, jeg er glad for seg deg, min venn."/>
+        <text id="button_text_9_3" need_translate="false" value="Uhm... jeg burde komme meg ut herfra med pengene mine!"/>
     </event_button>
     <event_result>
-        <text id="bad_luck" need_translate="true" value=""/>
-        <text id="good_luck" need_translate="true" value=""/>
+        <text id="bad_luck" need_translate="false" value="Uflaks"/>
+        <text id="good_luck" need_translate="false" value="Du er heldig"/>
     </event_result>
     <player_resource>
-        <text id="1" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="Penger"/>
+        <text id="2" need_translate="false" value="Innflytelse"/>
+        <text id="3" need_translate="false" value="Omdømme"/>
+        <text id="4" need_translate="false" value="Prestisje"/>
+        <text id="5" need_translate="false" value="Lojalitet"/>
     </player_resource>
     <rout_option>
-        <text id="1" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="Musikere"/>
+        <text id="2" need_translate="false" value="Bankett"/>
+        <text id="3" need_translate="false" value="Cabaret dansere"/>
+        <text id="4" need_translate="false" value="Fyrverkeri"/>
+        <text id="5" need_translate="false" value="Kjendis"/>
     </rout_option>
 </events>

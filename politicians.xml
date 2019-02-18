@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <politicians>
     <descriptions>
-        <text id="congressman" need_translate="true" value=""/>
-        <text id="governor" need_translate="true" value=""/>
-        <text id="judge" need_translate="true" value=""/>
-        <text id="marshal" need_translate="true" value=""/>
+        <text id="congressman" need_translate="false" value="Kongressmannen øker innflytelsen din med 1"/>
+        <text id="governor" need_translate="false" value="Bedrifter til alle konkurrenter i staten (hvor det ikke er noen andel av spilleren som lobbyiserte guvernørern) begynner å fungere med modifikatoren &quot;Skatterevisjon&quot;"/>
+        <text id="judge" need_translate="false" value="Dommeren avbryter avgjørelsen av lover som går mot spilleren i den staten. Spilleren er bøtlagt, politikeren blir fjernet fra kontoret ved tilfeller av lobbyvirksomhet av politikere og tjenestemenn gjennom en bestikkelse."/>
+        <text id="marshal" need_translate="false" value="Marskalken legger tilrette hindringer for konkurrenter av spilleren i staten han er."/>
         <text id="prosecutor" need_translate="true" value=""/>
-        <text id="senator" need_translate="true" value=""/>
-        <text id="state_treasurer" need_translate="true" value=""/>
+        <text id="senator" need_translate="false" value="Senatoren øker innflytelsen din med 5, og gir deg 1 stemme under avstemning i senatet. Du kan sette i gang enhver lov gjennom han."/>
+        <text id="state_treasurer" need_translate="false" value="Statskasserer"/>
         <text id="сhief_police" need_translate="true" value=""/>
     </descriptions>
     <role_names>
-        <text id="congressman" need_translate="true" value=""/>
-        <text id="governor" need_translate="true" value=""/>
-        <text id="judge" need_translate="true" value=""/>
-        <text id="marshal" need_translate="true" value=""/>
+        <text id="congressman" need_translate="false" value="Kongressmann"/>
+        <text id="governor" need_translate="false" value="Guvernør"/>
+        <text id="judge" need_translate="false" value="Dommer"/>
+        <text id="marshal" need_translate="false" value="Marskalk"/>
         <text id="prosecutor" need_translate="true" value=""/>
-        <text id="senator" need_translate="true" value=""/>
-        <text id="state_treasurer" need_translate="true" value=""/>
+        <text id="senator" need_translate="false" value="Senator"/>
+        <text id="state_treasurer" need_translate="false" value="Statskasserer"/>
         <text id="сhief_police" need_translate="true" value=""/>
     </role_names>
 </politicians>
