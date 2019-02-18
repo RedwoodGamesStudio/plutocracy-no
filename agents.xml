@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agents>
     <agent_class>
-        <text id="class_1" need_translate="true" value=""/>
-        <text id="class_2" need_translate="true" value=""/>
-        <text id="class_3" need_translate="true" value=""/>
-        <text id="class_4" need_translate="true" value=""/>
-        <text id="class_5" need_translate="true" value=""/>
-        <text id="class_6" need_translate="true" value=""/>
-        <text id="class_7" need_translate="true" value=""/>
+        <text id="class_1" need_translate="false" value="Bølle"/>
+        <text id="class_2" need_translate="false" value="Kurtisane"/>
+        <text id="class_3" need_translate="false" value="Detektiv"/>
+        <text id="class_4" need_translate="false" value="Journalist"/>
+        <text id="class_5" need_translate="false" value="Gangster"/>
+        <text id="class_6" need_translate="false" value="Leiemorder"/>
+        <text id="class_7" need_translate="false" value="Diplomat"/>
         <text id="class_8" need_translate="true" value=""/>
         <text id="no_data" need_translate="true" value=""/>
     </agent_class>
