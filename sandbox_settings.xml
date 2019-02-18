@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sandbox_settings>
-    <text id="btn_start_game" need_translate="true" value=""/>
+    <text id="btn_start_game" need_translate="false" value="Start spill"/>
     <win_settings>
-        <text id="economy" need_translate="true" value=""/>
-        <text id="monopoly" need_translate="true" value=""/>
-        <text id="politial_influence" need_translate="true" value=""/>
-        <text id="superiority" need_translate="true" value=""/>
+        <text id="economy" need_translate="false" value="Du må svare på spørsmålet: er grådighet bra? Målet ditt er å bli den første dollar milliardæren i historien. Du har 10 år før 1880-tallet. Velg velstandsnivået du ønsker å oppnå."/>
+        <text id="monopoly" need_translate="false" value="Oppnå 80% av markedsandelen i den valgte industrien: olje, bank, logisikk og annet. Bygg det kraftigste økonomiske imperiet og press ut all konkurranse!"/>
+        <text id="politial_influence" need_translate="false" value="Du må oppnå den totale internasjonele politiske innflytelsen for å vinne! Du kan lobbyisere politikere og lover, samt korrupte tjenestemenn. Gjør ditt valg for å oppnå målet!"/>
+        <text id="superiority" need_translate="false" value="Ta din plass sammen med de rikeste kapitalistene og forretningsmennene i historien. Du sliter med konkurrentene til de rikeste internasjonale klanene og familiene. Er du i stand til å utfordre dem?"/>
     </win_settings>
     <world_settings>
         <game_difficult>
-            <text id="financial_genius" need_translate="true" value=""/>
-            <text id="newbie" need_translate="true" value=""/>
-            <text id="plutocrat" need_translate="true" value=""/>
-            <text id="shark_of_capitalism" need_translate="true" value=""/>
+            <text id="financial_genius" need_translate="false" value="Beinhar økonomi med dynamiske finansielle indikatorer. Oppturer og nedturer av markedet, samt stadig skiftende priser, skjer hvert kvartal. Det er en ganske tøff konkurrerende verden."/>
+            <text id="newbie" need_translate="false" value="Du har akkurat startet å lære det grunnleggende innen økonomi. Konkurrentene dine er vennlige og medgjørlige."/>
+            <text id="plutocrat" need_translate="false" value="For å oppnå makt og storhet, må du gi en overmenneskelig innsats. Er du klar for å føle konsekvensene av avgjørelsene som påvirker menneskets skjebne?"/>
+            <text id="shark_of_capitalism" need_translate="false" value="Du vet hvordan du lager en bedrift. For å vinne mot motstanderne dine, burde du finne den mest snedige måten å oppnå målet. Vær klar til å bruke hjernen din."/>
         </game_difficult>
         <start_condition>
-            <text id="company_owner" need_translate="true" value=""/>
-            <text id="experienced_investor" need_translate="true" value=""/>
-            <text id="low_start" need_translate="true" value=""/>
+            <text id="company_owner" need_translate="false" value="Du eier 100% av bedriftens aksjer og en liten stab med 10 personer. Kontanter på hånd er $1,000,000"/>
+            <text id="experienced_investor" need_translate="false" value="Du eier aksjer av en bedrift verdt $1,000,000. Kontanter på hånd er $100,000"/>
+            <text id="low_start" need_translate="false" value="Du har en sparekonto med $100,000. Hvordan vil du starte? Det er opp til deg!"/>
         </start_condition>
         <start_time>
-            <text id="gilded_epoch" need_translate="true" value=""/>
+            <text id="gilded_epoch" need_translate="false" value="Amerika etter borgerkrigen og avskaffelsen av slaveri, oppgangen av monopolene og dannelsen av den største private egenkapitalen! Det er olje, bank, logisikk og andre næringer. Du har ubegrensede muligheter!"/>
         </start_time>
         <world_size>
-            <text id="big" need_translate="true" value=""/>
-            <text id="large" need_translate="true" value=""/>
-            <text id="medium" need_translate="true" value=""/>
-            <text id="small" need_translate="true" value=""/>
+            <text id="big" need_translate="false" value="Et stort antall bedrifter og karakterer. Den gjennomsnittlige spilltiden er 3-5 timer."/>
+            <text id="large" need_translate="false" value="Noen titusener av karakterer og en enorm mengde bedrifter. Den gjennomsnittlige spilltiden er mer enn 10 timer."/>
+            <text id="medium" need_translate="false" value="Økt antall karakterer og bedrifter. Den gjennomsnittlige spilltiden er 2 timer."/>
+            <text id="small" need_translate="false" value="Rask kamp. Det er få karakterer og bedrifter."/>
         </world_size>
     </world_settings>
 </sandbox_settings>
