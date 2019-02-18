@@ -1179,14 +1179,14 @@
         <text id="you_miss_step" need_translate="true" value=""/>
     </main_events_sequence>
     <main_menu>
-        <text id="advancement" need_translate="true" value=""/>
-        <text id="campaign" need_translate="true" value=""/>
-        <text id="config" need_translate="true" value=""/>
-        <text id="developers" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="load" need_translate="true" value=""/>
-        <text id="network_game" need_translate="true" value=""/>
-        <text id="sandbox" need_translate="true" value=""/>
+        <text id="advancement" need_translate="false" value="Prestasjoner"/>
+        <text id="campaign" need_translate="false" value="Kampanje"/>
+        <text id="config" need_translate="false" value="Innstillinger"/>
+        <text id="developers" need_translate="false" value="Utviklere"/>
+        <text id="exit" need_translate="false" value="Avslutt"/>
+        <text id="load" need_translate="false" value="Last spill"/>
+        <text id="network_game" need_translate="false" value="Flerspiller"/>
+        <text id="sandbox" need_translate="false" value="Sandkasse"/>
     </main_menu>
     <map_check>
         <text id="auction" need_translate="true" value=""/>
