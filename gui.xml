@@ -102,8 +102,8 @@
         <text id="apply" need_translate="true" value=""/>
     </agent_skill>
     <agent_skills_window>
-        <text id="agents_skills" need_translate="true" value=""/>
-        <text id="pay" need_translate="true" value=""/>
+        <text id="agents_skills" need_translate="false" value="Agenters ferdigheter"/>
+        <text id="pay" need_translate="false" value="Assistenter"/>
     </agent_skills_window>
     <agents_board>
         <text id="agents_board" need_translate="true" value=""/>
