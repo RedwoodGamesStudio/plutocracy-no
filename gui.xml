@@ -49,7 +49,7 @@
         <text id="apply_agent" need_translate="false" value="Brukt agent"/>
         <text id="avaliable_influence" need_translate="false" value="Innflytelse: %1"/>
         <text id="back" need_translate="false" value="Tilbake"/>
-        <text id="blocked_hire_button_reason1" need_translate="true" value=""/>
+        <text id="blocked_hire_button_reason1" need_translate="false" value="Gå til agentlisten for å bruke en agent!"/>
         <text id="cancel_skill" need_translate="false" value="Avbryt"/>
         <text id="days_icon_hint" need_translate="false" value="Gjennomføringsperiode"/>
         <text id="description" need_translate="false" value="Om agent:"/>
