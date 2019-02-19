@@ -106,8 +106,8 @@
         <text id="pay" need_translate="true" value=""/>
     </agent_skills_window>
     <agents_board>
-        <text id="agents_board" need_translate="true" value=""/>
-        <text id="assistants" need_translate="true" value=""/>
+        <text id="agents_board" need_translate="false" value="Agentliste"/>
+        <text id="assistants" need_translate="false" value="Assistenter"/>
     </agents_board>
     <agents_handler>
         <text id="agent_serve_a_term_of_inprisonment" need_translate="true" value=""/>
