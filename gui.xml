@@ -91,12 +91,12 @@
         <text id="window_title" need_translate="true" value=""/>
     </agent_research>
     <agent_result_popup>
-        <text id="days" need_translate="true" value=""/>
-        <text id="effects" need_translate="true" value=""/>
-        <text id="fail_result" need_translate="true" value=""/>
-        <text id="mission_cost" need_translate="true" value=""/>
-        <text id="success_result" need_translate="true" value=""/>
-        <text id="suspect_result" need_translate="true" value=""/>
+        <text id="days" need_translate="false" value="Tid"/>
+        <text id="effects" need_translate="false" value="Brukt"/>
+        <text id="fail_result" need_translate="false" value="Oppdrag &quot;%1&quot; feilet"/>
+        <text id="mission_cost" need_translate="false" value="Pris"/>
+        <text id="success_result" need_translate="false" value="Oppdrag &quot;%1&quot; ble fullført"/>
+        <text id="suspect_result" need_translate="false" value="Oppdrag &quot;%1&quot; vekket mistanke"/>
     </agent_result_popup>
     <agent_skill>
         <text id="apply" need_translate="true" value=""/>
