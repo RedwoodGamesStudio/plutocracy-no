@@ -110,13 +110,13 @@
         <text id="assistants" need_translate="true" value=""/>
     </agents_board>
     <agents_handler>
-        <text id="agent_serve_a_term_of_inprisonment" need_translate="true" value=""/>
-        <text id="agent_was_used" need_translate="true" value=""/>
-        <text id="calculate_on_agent_level" need_translate="true" value=""/>
-        <text id="credit_pay_off" need_translate="true" value=""/>
-        <text id="credit_payment_arrerage" need_translate="true" value=""/>
-        <text id="get_agent_text" need_translate="true" value=""/>
-        <text id="skill_temporarily_blocked" need_translate="true" value=""/>
+        <text id="agent_serve_a_term_of_inprisonment" need_translate="false" value="Agenten er fengslet. %1 måneder igjen."/>
+        <text id="agent_was_used" need_translate="false" value="Agenten har blitt brukt. Prøv igjen senere."/>
+        <text id="calculate_on_agent_level" need_translate="false" value="[Agentnivå]"/>
+        <text id="credit_pay_off" need_translate="false" value="Du har betalt tilbake lånet!"/>
+        <text id="credit_payment_arrerage" need_translate="false" value="%1 betalinger igjen ($%2)"/>
+        <text id="get_agent_text" need_translate="false" value="Ved en vellykket forhandling vil %1 %2 sin lojalitet til deg øke en plass mellom %3-%4"/>
+        <text id="skill_temporarily_blocked" need_translate="false" value="Du kan ikke bruke ferdigheten '%1' nå"/>
     </agents_handler>
     <agents_window>
         <text id="agents" need_translate="true" value=""/>
