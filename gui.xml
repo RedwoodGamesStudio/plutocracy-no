@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gui>
     <achievement_window>
-        <text id="achievement" need_translate="true" value=""/>
-        <text id="achievement_is_continious" need_translate="true" value=""/>
-        <text id="achievement_is_not_continious" need_translate="true" value=""/>
-        <text id="bonus" need_translate="true" value=""/>
-        <text id="collector_completed_hint" need_translate="true" value=""/>
-        <text id="collector_hint" need_translate="true" value=""/>
-        <text id="economic_achievements" need_translate="true" value=""/>
-        <text id="in_developing" need_translate="true" value=""/>
-        <text id="lock_achievement" need_translate="true" value=""/>
-        <text id="next" need_translate="true" value=""/>
-        <text id="now" need_translate="true" value=""/>
-        <text id="opened_achievements" need_translate="true" value=""/>
-        <text id="personal_achievements" need_translate="true" value=""/>
-        <text id="politics_achievements" need_translate="true" value=""/>
-        <text id="progress" need_translate="true" value=""/>
-        <text id="show" need_translate="true" value=""/>
-        <text id="themis_master_completed_hint" need_translate="true" value=""/>
-        <text id="themis_master_hint" need_translate="true" value=""/>
-        <text id="unlock_achievement" need_translate="true" value=""/>
+        <text id="achievement" need_translate="false" value="Prestasjoner"/>
+        <text id="achievement_is_continious" need_translate="false" value="Maktpoeng utregnes hvert kvartal"/>
+        <text id="achievement_is_not_continious" need_translate="false" value="Maktpoeng utregnes en gang"/>
+        <text id="bonus" need_translate="false" value="Bonus"/>
+        <text id="collector_completed_hint" need_translate="false" value="Samlingen er komplett"/>
+        <text id="collector_hint" need_translate="false" value="Få hele samlingen"/>
+        <text id="economic_achievements" need_translate="false" value="ØKONOMISKE PRESTASJONER"/>
+        <text id="in_developing" need_translate="false" value="i utvikling... (resten av teksten vil bli lagt til i spillet senere)"/>
+        <text id="lock_achievement" need_translate="false" value="Du har mistet prestasjonen %1!\nSamlingen av %2 har blitt redusert."/>
+        <text id="next" need_translate="false" value="Du får:"/>
+        <text id="now" need_translate="false" value="Du har:"/>
+        <text id="opened_achievements" need_translate="false" value="Oppnådd %1 av %2"/>
+        <text id="personal_achievements" need_translate="false" value="PERSONLIGE PRESTASJONER"/>
+        <text id="politics_achievements" need_translate="false" value="POLITISKE PRESTASJONER"/>
+        <text id="progress" need_translate="false" value="Fremgang"/>
+        <text id="show" need_translate="false" value="Åpne"/>
+        <text id="themis_master_completed_hint" need_translate="false" value="Du stoppet %1 dommer."/>
+        <text id="themis_master_hint" need_translate="false" value="Stopp %1 dommer"/>
+        <text id="unlock_achievement" need_translate="false" value="Du har fått prestasjonen '%1'!\nSamlingen av %2 har blitt fylt."/>
     </achievement_window>
     <agent_apply_popup>
-        <text id="agent_skill_description" need_translate="true" value=""/>
-        <text id="skill_not_learned" need_translate="true" value=""/>
+        <text id="agent_skill_description" need_translate="false" value="$%1, %2 dag(er), %3 risiko"/>
+        <text id="skill_not_learned" need_translate="false" value="Ikke lært"/>
     </agent_apply_popup>
     <agent_card>
-        <text id="agent_unlock_cost_header" need_translate="true" value=""/>
-        <text id="agent_unlock_cost_text" need_translate="true" value=""/>
-        <text id="explore" need_translate="true" value=""/>
-        <text id="hire" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
+        <text id="agent_unlock_cost_header" need_translate="false" value="Utilgjengelig"/>
+        <text id="agent_unlock_cost_text" need_translate="false" value="Pris: %1 innflytelsespoeng"/>
+        <text id="explore" need_translate="false" value="Dossier"/>
+        <text id="hire" need_translate="false" value="Ansett"/>
+        <text id="level" need_translate="false" value="Nivå"/>
     </agent_card>
     <agent_dossier>
-        <text id="agent_dossier" need_translate="true" value=""/>
-        <text id="biography" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
+        <text id="agent_dossier" need_translate="false" value="Agentdossier"/>
+        <text id="biography" need_translate="false" value="Biografi"/>
+        <text id="information" need_translate="false" value="Informasjon"/>
+        <text id="level" need_translate="false" value="Nivå"/>
+        <text id="name" need_translate="false" value="Navn"/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
     </agent_dossier>
     <agent_research>
-        <text id="accident_goal" need_translate="true" value=""/>
-        <text id="agent_effect" need_translate="true" value=""/>
-        <text id="agent_fail" need_translate="true" value=""/>
-        <text id="agent_success" need_translate="true" value=""/>
-        <text id="apply" need_translate="true" value=""/>
-        <text id="apply_agent" need_translate="true" value=""/>
-        <text id="avaliable_influence" need_translate="true" value=""/>
-        <text id="back" need_translate="true" value=""/>
-        <text id="blocked_hire_button_reason1" need_translate="true" value=""/>
-        <text id="cancel_skill" need_translate="true" value=""/>
-        <text id="days_icon_hint" need_translate="true" value=""/>
-        <text id="description" need_translate="true" value=""/>
-        <text id="effect" need_translate="true" value=""/>
-        <text id="fail_chance" need_translate="true" value=""/>
-        <text id="fail_chance_icon_hint" need_translate="true" value=""/>
-        <text id="greetings_header" need_translate="true" value=""/>
+        <text id="accident_goal" need_translate="false" value="Uhell i %1 bedrift"/>
+        <text id="agent_effect" need_translate="false" value="Effekt:"/>
+        <text id="agent_fail" need_translate="false" value="Feilet"/>
+        <text id="agent_success" need_translate="false" value="Suksess"/>
+        <text id="apply" need_translate="false" value="Bruk"/>
+        <text id="apply_agent" need_translate="false" value="Brukt agent"/>
+        <text id="avaliable_influence" need_translate="false" value="Innflytelse: %1"/>
+        <text id="back" need_translate="false" value="Tilbake"/>
+        <text id="blocked_hire_button_reason1" need_translate="false" value="Gå til agentlisten for å bruke en agent!"/>
+        <text id="cancel_skill" need_translate="false" value="Avbryt"/>
+        <text id="days_icon_hint" need_translate="false" value="Gjennomføringsperiode"/>
+        <text id="description" need_translate="false" value="Om agent:"/>
+        <text id="effect" need_translate="false" value="Effekt:"/>
+        <text id="fail_chance" need_translate="false" value="Risiko:"/>
+        <text id="fail_chance_icon_hint" need_translate="false" value="En %1% risiko for at det mislykkes og agenten fengsles"/>
+        <text id="greetings_header" need_translate="false" value="Velkommen"/>
         <text id="greetings_text" need_translate="true" value=""/>
-        <text id="hire" need_translate="true" value=""/>
-        <text id="learn_skill" need_translate="true" value=""/>
-        <text id="low_influence" need_translate="true" value=""/>
-        <text id="low_level" need_translate="true" value=""/>
-        <text id="mission_agent" need_translate="true" value=""/>
-        <text id="mission_cost" need_translate="true" value=""/>
-        <text id="mission_goal" need_translate="true" value=""/>
-        <text id="money_cost" need_translate="true" value=""/>
-        <text id="money_icon_hint" need_translate="true" value=""/>
-        <text id="needed_influence" need_translate="true" value=""/>
-        <text id="next_level" need_translate="true" value=""/>
+        <text id="hire" need_translate="false" value="Hyr"/>
+        <text id="learn_skill" need_translate="false" value="Lær"/>
+        <text id="low_influence" need_translate="false" value="Du har ikke nok innflytelsespoeng!"/>
+        <text id="low_level" need_translate="false" value="Du har ikke høyt nok nivå!"/>
+        <text id="mission_agent" need_translate="false" value="Agent"/>
+        <text id="mission_cost" need_translate="false" value="Brukt"/>
+        <text id="mission_goal" need_translate="false" value="Mål"/>
+        <text id="money_cost" need_translate="false" value="Pris"/>
+        <text id="money_icon_hint" need_translate="false" value="Pris"/>
+        <text id="needed_influence" need_translate="false" value="Påkrevd: %1"/>
+        <text id="next_level" need_translate="false" value="Neste nivå: %1"/>
         <text id="no_unlearned_skills" need_translate="true" value=""/>
-        <text id="prestige_cost" need_translate="true" value=""/>
-        <text id="priest_goal" need_translate="true" value=""/>
-        <text id="required" need_translate="true" value=""/>
-        <text id="skill_cost" need_translate="true" value=""/>
-        <text id="skill_learn_cost" need_translate="true" value=""/>
-        <text id="skill_use_cost" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
-        <text id="spent_money" need_translate="true" value=""/>
-        <text id="spy_goal" need_translate="true" value=""/>
-        <text id="strike_goal" need_translate="true" value=""/>
-        <text id="success_chance" need_translate="true" value=""/>
-        <text id="success_chance_icon_hint" need_translate="true" value=""/>
-        <text id="tab_companies" need_translate="true" value=""/>
-        <text id="tab_power" need_translate="true" value=""/>
-        <text id="tab_skills" need_translate="true" value=""/>
-        <text id="trust" need_translate="true" value=""/>
-        <text id="undefined_agent_number" need_translate="true" value=""/>
-        <text id="use_risks" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="prestige_cost" need_translate="false" value="Prestisje"/>
+        <text id="priest_goal" need_translate="false" value="Preken i %1 bedrift"/>
+        <text id="required" need_translate="false" value="Påkrevd:"/>
+        <text id="skill_cost" need_translate="false" value="Pris"/>
+        <text id="skill_learn_cost" need_translate="false" value="Påkrevd: "/>
+        <text id="skill_use_cost" need_translate="false" value="Pris: "/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
+        <text id="spent_money" need_translate="false" value="Brukt:"/>
+        <text id="spy_goal" need_translate="false" value="Teknologier i %1 bedrift"/>
+        <text id="strike_goal" need_translate="false" value="Streik i %1 bedrift"/>
+        <text id="success_chance" need_translate="false" value="Sjanse for suksess:"/>
+        <text id="success_chance_icon_hint" need_translate="false" value="En %1% sjanse for suksess"/>
+        <text id="tab_companies" need_translate="false" value="Bedrifter"/>
+        <text id="tab_power" need_translate="false" value="Autoritet"/>
+        <text id="tab_skills" need_translate="false" value="Ferdigheter"/>
+        <text id="trust" need_translate="false" value="Lojalitet"/>
+        <text id="undefined_agent_number" need_translate="false" value="Agent #"/>
+        <text id="use_risks" need_translate="false" value="Risiko:"/>
+        <text id="window_title" need_translate="false" value="Agenter"/>
     </agent_research>
     <agent_result_popup>
-        <text id="days" need_translate="true" value=""/>
-        <text id="effects" need_translate="true" value=""/>
-        <text id="fail_result" need_translate="true" value=""/>
-        <text id="mission_cost" need_translate="true" value=""/>
-        <text id="success_result" need_translate="true" value=""/>
-        <text id="suspect_result" need_translate="true" value=""/>
+        <text id="days" need_translate="false" value="Tid"/>
+        <text id="effects" need_translate="false" value="Brukt"/>
+        <text id="fail_result" need_translate="false" value="Oppdrag &quot;%1&quot; feilet"/>
+        <text id="mission_cost" need_translate="false" value="Pris"/>
+        <text id="success_result" need_translate="false" value="Oppdrag &quot;%1&quot; ble fullført"/>
+        <text id="suspect_result" need_translate="false" value="Oppdrag &quot;%1&quot; vekket mistanke"/>
     </agent_result_popup>
     <agent_skill>
-        <text id="apply" need_translate="true" value=""/>
+        <text id="apply" need_translate="false" value="Bruk"/>
     </agent_skill>
     <agent_skills_window>
-        <text id="agents_skills" need_translate="true" value=""/>
-        <text id="pay" need_translate="true" value=""/>
+        <text id="agents_skills" need_translate="false" value="Agenters ferdigheter"/>
+        <text id="pay" need_translate="false" value="Betal"/>
     </agent_skills_window>
     <agents_board>
-        <text id="agents_board" need_translate="true" value=""/>
-        <text id="assistants" need_translate="true" value=""/>
+        <text id="agents_board" need_translate="false" value="Agentliste"/>
+        <text id="assistants" need_translate="false" value="Assistenter"/>
     </agents_board>
     <agents_handler>
-        <text id="agent_serve_a_term_of_inprisonment" need_translate="true" value=""/>
-        <text id="agent_was_used" need_translate="true" value=""/>
-        <text id="calculate_on_agent_level" need_translate="true" value=""/>
-        <text id="credit_pay_off" need_translate="true" value=""/>
-        <text id="credit_payment_arrerage" need_translate="true" value=""/>
-        <text id="get_agent_text" need_translate="true" value=""/>
-        <text id="skill_temporarily_blocked" need_translate="true" value=""/>
+        <text id="agent_serve_a_term_of_inprisonment" need_translate="false" value="Agenten er fengslet. %1 måneder igjen."/>
+        <text id="agent_was_used" need_translate="false" value="Agenten har blitt brukt. Prøv igjen senere."/>
+        <text id="calculate_on_agent_level" need_translate="false" value="[Agentnivå]"/>
+        <text id="credit_pay_off" need_translate="false" value="Du har betalt tilbake lånet!"/>
+        <text id="credit_payment_arrerage" need_translate="false" value="%1 betalinger igjen ($%2)"/>
+        <text id="get_agent_text" need_translate="false" value="Ved en vellykket forhandling vil %1 %2 sin lojalitet til deg øke en plass mellom %3-%4"/>
+        <text id="skill_temporarily_blocked" need_translate="false" value="Du kan ikke bruke ferdigheten '%1' nå"/>
     </agents_handler>
     <agents_window>
-        <text id="agents" need_translate="true" value=""/>
-        <text id="influence_agents" need_translate="true" value=""/>
+        <text id="agents" need_translate="false" value="Agenter"/>
+        <text id="influence_agents" need_translate="false" value="Innflytelsesagenter"/>
     </agents_window>
     <ambition_popup>
         <text id="conditions" need_translate="true" value=""/>
