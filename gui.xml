@@ -99,7 +99,7 @@
         <text id="suspect_result" need_translate="false" value="Oppdrag &quot;%1&quot; vekket mistanke"/>
     </agent_result_popup>
     <agent_skill>
-        <text id="apply" need_translate="true" value=""/>
+        <text id="apply" need_translate="false" value="Bruk"/>
     </agent_skill>
     <agent_skills_window>
         <text id="agents_skills" need_translate="true" value=""/>
