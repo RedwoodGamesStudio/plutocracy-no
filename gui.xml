@@ -119,8 +119,8 @@
         <text id="skill_temporarily_blocked" need_translate="false" value="Du kan ikke bruke ferdigheten '%1' nå"/>
     </agents_handler>
     <agents_window>
-        <text id="agents" need_translate="true" value=""/>
-        <text id="influence_agents" need_translate="true" value=""/>
+        <text id="agents" need_translate="false" value="Agenter"/>
+        <text id="influence_agents" need_translate="false" value="Innflytelsesagenter"/>
     </agents_window>
     <ambition_popup>
         <text id="conditions" need_translate="true" value=""/>
