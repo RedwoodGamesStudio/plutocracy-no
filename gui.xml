@@ -26,11 +26,11 @@
         <text id="skill_not_learned" need_translate="false" value="Ikke lært"/>
     </agent_apply_popup>
     <agent_card>
-        <text id="agent_unlock_cost_header" need_translate="true" value=""/>
-        <text id="agent_unlock_cost_text" need_translate="true" value=""/>
-        <text id="explore" need_translate="true" value=""/>
-        <text id="hire" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
+        <text id="agent_unlock_cost_header" need_translate="false" value="Utilgjengelig"/>
+        <text id="agent_unlock_cost_text" need_translate="false" value="Pris: %1 innflytelsespoeng"/>
+        <text id="explore" need_translate="false" value="Dossier"/>
+        <text id="hire" need_translate="false" value="Ansett"/>
+        <text id="level" need_translate="false" value="Nivå"/>
     </agent_card>
     <agent_dossier>
         <text id="agent_dossier" need_translate="true" value=""/>
