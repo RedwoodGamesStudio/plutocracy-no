@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gui>
     <achievement_window>
-        <text id="achievement" need_translate="true" value=""/>
-        <text id="achievement_is_continious" need_translate="true" value=""/>
-        <text id="achievement_is_not_continious" need_translate="true" value=""/>
-        <text id="bonus" need_translate="true" value=""/>
-        <text id="collector_completed_hint" need_translate="true" value=""/>
-        <text id="collector_hint" need_translate="true" value=""/>
-        <text id="economic_achievements" need_translate="true" value=""/>
-        <text id="in_developing" need_translate="true" value=""/>
-        <text id="lock_achievement" need_translate="true" value=""/>
-        <text id="next" need_translate="true" value=""/>
-        <text id="now" need_translate="true" value=""/>
-        <text id="opened_achievements" need_translate="true" value=""/>
-        <text id="personal_achievements" need_translate="true" value=""/>
-        <text id="politics_achievements" need_translate="true" value=""/>
-        <text id="progress" need_translate="true" value=""/>
-        <text id="show" need_translate="true" value=""/>
-        <text id="themis_master_completed_hint" need_translate="true" value=""/>
-        <text id="themis_master_hint" need_translate="true" value=""/>
-        <text id="unlock_achievement" need_translate="true" value=""/>
+        <text id="achievement" need_translate="false" value="Prestasjoner"/>
+        <text id="achievement_is_continious" need_translate="false" value="Maktpoeng utregnes hvert kvartal"/>
+        <text id="achievement_is_not_continious" need_translate="false" value="Maktpoeng utregnes en gang"/>
+        <text id="bonus" need_translate="false" value="Bonus"/>
+        <text id="collector_completed_hint" need_translate="false" value="Samlingen er komplett"/>
+        <text id="collector_hint" need_translate="false" value="Få hele samlingen"/>
+        <text id="economic_achievements" need_translate="false" value="ØKONOMISKE PRESTASJONER"/>
+        <text id="in_developing" need_translate="false" value="i utvikling... (resten av teksten vil bli lagt til i spillet senere)"/>
+        <text id="lock_achievement" need_translate="false" value="Du har mistet prestasjonen %1!\nSamlingen av %2 har blitt redusert."/>
+        <text id="next" need_translate="false" value="Du får:"/>
+        <text id="now" need_translate="false" value="Du har:"/>
+        <text id="opened_achievements" need_translate="false" value="Oppnådd %1 av %2"/>
+        <text id="personal_achievements" need_translate="false" value="PERSONLIGE PRESTASJONER"/>
+        <text id="politics_achievements" need_translate="false" value="POLITISKE PRESTASJONER"/>
+        <text id="progress" need_translate="false" value="Fremgang"/>
+        <text id="show" need_translate="false" value="Åpne"/>
+        <text id="themis_master_completed_hint" need_translate="false" value="Du stoppet %1 dommer."/>
+        <text id="themis_master_hint" need_translate="false" value="Stopp %1 dommer"/>
+        <text id="unlock_achievement" need_translate="false" value="Du har fått prestasjonen '%1'!\nSamlingen av %2 har blitt fylt."/>
     </achievement_window>
     <agent_apply_popup>
         <text id="agent_skill_description" need_translate="true" value=""/>
