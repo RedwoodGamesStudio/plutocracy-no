@@ -33,12 +33,12 @@
         <text id="level" need_translate="false" value="Nivå"/>
     </agent_card>
     <agent_dossier>
-        <text id="agent_dossier" need_translate="true" value=""/>
-        <text id="biography" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
+        <text id="agent_dossier" need_translate="false" value="Agentdossier"/>
+        <text id="biography" need_translate="false" value="Biografi"/>
+        <text id="information" need_translate="false" value="Informasjon"/>
+        <text id="level" need_translate="false" value="Nivå"/>
+        <text id="name" need_translate="false" value="Navn"/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
     </agent_dossier>
     <agent_research>
         <text id="accident_goal" need_translate="true" value=""/>
