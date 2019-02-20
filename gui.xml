@@ -22,8 +22,8 @@
         <text id="unlock_achievement" need_translate="false" value="Du har fått prestasjonen '%1'!\nSamlingen av %2 har blitt fylt."/>
     </achievement_window>
     <agent_apply_popup>
-        <text id="agent_skill_description" need_translate="true" value=""/>
-        <text id="skill_not_learned" need_translate="true" value=""/>
+        <text id="agent_skill_description" need_translate="false" value="$%1, %2 dag(er), %3 risiko"/>
+        <text id="skill_not_learned" need_translate="false" value="Ikke lært"/>
     </agent_apply_popup>
     <agent_card>
         <text id="agent_unlock_cost_header" need_translate="true" value=""/>
