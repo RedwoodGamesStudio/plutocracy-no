@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gui>
     <achievement_window>
-        <text id="achievement" need_translate="false" value="Prestasjoner"/>
+        <text id="achievement" need_translate="false" value="Prestasjon"/>
         <text id="achievement_is_continious" need_translate="false" value="Maktpoeng utregnes hvert kvartal"/>
         <text id="achievement_is_not_continious" need_translate="false" value="Maktpoeng utregnes en gang"/>
         <text id="bonus" need_translate="false" value="Bonus"/>
