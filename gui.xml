@@ -308,8 +308,8 @@
         <text id="yes" need_translate="true" value=""/>
     </cancel_negotiation_popup>
     <cap_block>
-        <text id="loading" need_translate="true" value=""/>
-        <text id="press_any_key_to_continue" need_translate="true" value=""/>
+        <text id="loading" need_translate="false" value="Laster..."/>
+        <text id="press_any_key_to_continue" need_translate="false" value="Press hvilken som helst tast for å fortsette..."/>
     </cap_block>
     <circle_progress_bar>
         <text id="xp" need_translate="true" value=""/>
