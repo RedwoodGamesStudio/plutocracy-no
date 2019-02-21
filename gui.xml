@@ -228,11 +228,11 @@
         <text id="you_are_sure" need_translate="true" value=""/>
     </auction_popups>
     <auction_result>
-        <text id="money" need_translate="true" value=""/>
-        <text id="ok" need_translate="true" value=""/>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="you_lose_auction" need_translate="true" value=""/>
-        <text id="you_win_auction" need_translate="true" value=""/>
+        <text id="money" need_translate="false" value="Penger"/>
+        <text id="ok" need_translate="false" value="Ok"/>
+        <text id="prestige" need_translate="false" value="Prestisje"/>
+        <text id="you_lose_auction" need_translate="false" value="Du har tapt auksjonen!"/>
+        <text id="you_win_auction" need_translate="false" value="Du har vunnet auksjonen!"/>
     </auction_result>
     <auction_window>
         <text id="demand" need_translate="true" value=""/>
