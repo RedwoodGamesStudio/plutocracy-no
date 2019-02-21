@@ -141,9 +141,9 @@
         <text id="unrelized" need_translate="true" value=""/>
     </any_words>
     <assistant_popup>
-        <text id="assistant_info" need_translate="true" value=""/>
-        <text id="cancel" need_translate="true" value=""/>
-        <text id="select" need_translate="true" value=""/>
+        <text id="assistant_info" need_translate="false" value="Informasjon"/>
+        <text id="cancel" need_translate="false" value="Avbryt"/>
+        <text id="select" need_translate="false" value="Gå til"/>
     </assistant_popup>
     <assistant_window>
         <text id="assistant_already_hired_to_company" need_translate="true" value=""/>
