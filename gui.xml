@@ -146,50 +146,50 @@
         <text id="select" need_translate="false" value="Gå til"/>
     </assistant_popup>
     <assistant_window>
-        <text id="assistant_already_hired_to_company" need_translate="true" value=""/>
-        <text id="assistant_control_company" need_translate="true" value=""/>
-        <text id="assistant_in_prison" need_translate="true" value=""/>
-        <text id="button_hint_header" need_translate="true" value=""/>
-        <text id="button_hint_text" need_translate="true" value=""/>
-        <text id="characteristics" need_translate="true" value=""/>
-        <text id="diplomacy" need_translate="true" value=""/>
-        <text id="diplomacy_hint_header" need_translate="true" value=""/>
-        <text id="diplomacy_hint_text" need_translate="true" value=""/>
-        <text id="economics" need_translate="true" value=""/>
-        <text id="economics_hint_header" need_translate="true" value=""/>
-        <text id="economics_hint_text" need_translate="true" value=""/>
-        <text id="filter_text_0" need_translate="true" value=""/>
-        <text id="filter_text_1" need_translate="true" value=""/>
-        <text id="gold_parachute" need_translate="true" value=""/>
-        <text id="gold_parachute_hint_header" need_translate="true" value=""/>
-        <text id="gold_parachute_hint_text" need_translate="true" value=""/>
-        <text id="hire_assistant_hint_header" need_translate="true" value=""/>
-        <text id="hire_assistant_hint_text" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="influence_hint_header" need_translate="true" value=""/>
-        <text id="influence_hint_text" need_translate="true" value=""/>
-        <text id="influence_skill" need_translate="true" value=""/>
-        <text id="influence_skill_hint_header" need_translate="true" value=""/>
-        <text id="influence_skill_hint_text" need_translate="true" value=""/>
-        <text id="no_avaliable_assistants" need_translate="true" value=""/>
-        <text id="no_hired_assistants" need_translate="true" value=""/>
-        <text id="not_enough_money_to_fire" need_translate="true" value=""/>
-        <text id="person" need_translate="true" value=""/>
-        <text id="player_in_different_position" need_translate="true" value=""/>
-        <text id="politics" need_translate="true" value=""/>
-        <text id="politics_hint_header" need_translate="true" value=""/>
+        <text id="assistant_already_hired_to_company" need_translate="false" value="{nickname} har allerede blitt utnevnt som administrerende direktør av {companyname}."/>
+        <text id="assistant_control_company" need_translate="false" value="Assistenten har blitt utnevnt som den nye administrerende direktøren."/>
+        <text id="assistant_in_prison" need_translate="false" value="{nickname} er i fengsel!"/>
+        <text id="button_hint_header" need_translate="false" value="Assistenter"/>
+        <text id="button_hint_text" need_translate="false" value="Her kan du ansette en assistent som kan være en embetsmann eller en politiker i fremtiden. Det er opp til deg."/>
+        <text id="characteristics" need_translate="false" value="Karaktertrekk"/>
+        <text id="diplomacy" need_translate="false" value="Diplomati"/>
+        <text id="diplomacy_hint_header" need_translate="false" value="Diplomati"/>
+        <text id="diplomacy_hint_text" need_translate="false" value="Karaktertrekket påvirker karakterens bonus/straff til sjansen for å utføre en avtale"/>
+        <text id="economics" need_translate="false" value="Økonomi"/>
+        <text id="economics_hint_header" need_translate="false" value="Økonomi"/>
+        <text id="economics_hint_text" need_translate="false" value="Jo høyere økonominivået er, jo bedre er assistenten til å lede en bedrift."/>
+        <text id="filter_text_0" need_translate="false" value="Gratis"/>
+        <text id="filter_text_1" need_translate="false" value="Ansatt"/>
+        <text id="gold_parachute" need_translate="false" value="Fristillingserstatning"/>
+        <text id="gold_parachute_hint_header" need_translate="false" value="Fristillingserstatning"/>
+        <text id="gold_parachute_hint_text" need_translate="false" value="Sum penger som blir betalt til assistenten hvis ansettelsen blir terminert."/>
+        <text id="hire_assistant_hint_header" need_translate="false" value="Ansett assistent"/>
+        <text id="hire_assistant_hint_text" need_translate="false" value="Du har ikke nok maktpoeng til å ansette"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="influence_hint_header" need_translate="false" value="Innflytelse"/>
+        <text id="influence_hint_text" need_translate="false" value="Makten av karakterens forbindelser. Bruk innflytelse for å gjøre en avtale, øke lojalitet til deg eller bruke agenter."/>
+        <text id="influence_skill" need_translate="false" value="Politikk"/>
+        <text id="influence_skill_hint_header" need_translate="false" value="Politikk"/>
+        <text id="influence_skill_hint_text" need_translate="false" value="Innflytelse per kvartal. En stjerne øker assistentens innflytelse med +1 poeng"/>
+        <text id="no_avaliable_assistants" need_translate="false" value="Ingen tilgjengelige assistenter."/>
+        <text id="no_hired_assistants" need_translate="false" value="Ingen ansatte assistenter."/>
+        <text id="not_enough_money_to_fire" need_translate="false" value="Du har ikke nok penger til å betale assistentens fristillingserstatning!"/>
+        <text id="person" need_translate="false" value="Karakter"/>
+        <text id="player_in_different_position" need_translate="false" value="{nickname} må være i {statename}."/>
+        <text id="politics" need_translate="false" value="Politikk"/>
+        <text id="politics_hint_header" need_translate="false" value="Politikk"/>
         <text id="politics_hint_text" need_translate="true" value=""/>
-        <text id="power_cost" need_translate="true" value=""/>
-        <text id="power_cost_hint_header" need_translate="true" value=""/>
-        <text id="power_cost_hint_text" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="reputation_hint_header" need_translate="true" value=""/>
-        <text id="reputation_hint_text" need_translate="true" value=""/>
-        <text id="sabotage_popup_header" need_translate="true" value=""/>
-        <text id="sabotage_popup_text" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="salary_hint_header" need_translate="true" value=""/>
-        <text id="salary_hint_text" need_translate="true" value=""/>
+        <text id="power_cost" need_translate="false" value="Pris"/>
+        <text id="power_cost_hint_header" need_translate="false" value="Pris"/>
+        <text id="power_cost_hint_text" need_translate="false" value="Antall maktpoeng som kreves for å ansette"/>
+        <text id="reputation" need_translate="false" value="Omdømme"/>
+        <text id="reputation_hint_header" need_translate="false" value="Omdømme"/>
+        <text id="reputation_hint_text" need_translate="false" value="Hvis ditt omdømme er bedre enn konkurrenten din sitt omdømme vil det være mye enklere å utføre avtaler, men du vil få en omdømmestraff på -1 poeng"/>
+        <text id="sabotage_popup_header" need_translate="false" value="Saboter!"/>
+        <text id="sabotage_popup_text" need_translate="false" value="Assistenten nektet å utføre ordren din! Den lave lojaliteten er sannsynligvis årsaken til det..."/>
+        <text id="salary" need_translate="false" value="Lønn"/>
+        <text id="salary_hint_header" need_translate="false" value="Lønn"/>
+        <text id="salary_hint_text" need_translate="false" value="Lønnen til karakteren som trekkes fra spillerens konto når turen er over."/>
     </assistant_window>
     <auction_dialog>
         <text id="auction" need_translate="true" value=""/>
