@@ -265,13 +265,13 @@
         <text id="button" need_translate="true" value=""/>
     </border_button>
     <broker_window>
-        <text id="blocked_button_hint" need_translate="true" value=""/>
-        <text id="broker_coeff" need_translate="true" value=""/>
-        <text id="condition" need_translate="true" value=""/>
-        <text id="sell" need_translate="true" value=""/>
-        <text id="selling_shares_to_broker" need_translate="true" value=""/>
-        <text id="shares_count" need_translate="true" value=""/>
-        <text id="total_sum" need_translate="true" value=""/>
+        <text id="blocked_button_hint" need_translate="false" value="Du kan ikke selle 0 aksjer"/>
+        <text id="broker_coeff" need_translate="false" value="Megleravgift"/>
+        <text id="condition" need_translate="false" value="Vilkår"/>
+        <text id="sell" need_translate="false" value="Selg"/>
+        <text id="selling_shares_to_broker" need_translate="false" value="Megling"/>
+        <text id="shares_count" need_translate="false" value="Aksjer %"/>
+        <text id="total_sum" need_translate="false" value="Total"/>
     </broker_window>
     <cabinet_window>
         <text id="raut_warning" need_translate="true" value=""/>
