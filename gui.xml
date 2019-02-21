@@ -192,20 +192,20 @@
         <text id="salary_hint_text" need_translate="true" value=""/>
     </assistant_window>
     <auction_dialog>
-        <text id="auction" need_translate="true" value=""/>
-        <text id="auction_members" need_translate="true" value=""/>
-        <text id="bid" need_translate="true" value=""/>
-        <text id="confirm_exit" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="exit_no" need_translate="true" value=""/>
-        <text id="exit_yes" need_translate="true" value=""/>
-        <text id="make_a_step" need_translate="true" value=""/>
-        <text id="not_enough_action_points" need_translate="true" value=""/>
-        <text id="not_enough_money" need_translate="true" value=""/>
-        <text id="text_1" need_translate="true" value=""/>
-        <text id="text_2" need_translate="true" value=""/>
-        <text id="text_3" need_translate="true" value=""/>
-        <text id="text_win" need_translate="true" value=""/>
+        <text id="auction" need_translate="false" value="Auksjonshus"/>
+        <text id="auction_members" need_translate="false" value="Budgivere"/>
+        <text id="bid" need_translate="false" value="Nåværende bud:"/>
+        <text id="confirm_exit" need_translate="false" value="Er du sikker?"/>
+        <text id="exit" need_translate="false" value="Avslutt"/>
+        <text id="exit_no" need_translate="false" value="Nei"/>
+        <text id="exit_yes" need_translate="false" value="Ja"/>
+        <text id="make_a_step" need_translate="false" value="Legg inn bud [$%1]"/>
+        <text id="not_enough_action_points" need_translate="false" value="Ikke nok dager"/>
+        <text id="not_enough_money" need_translate="false" value="Ikke nok penger"/>
+        <text id="text_1" need_translate="false" value="Nåværende bud er på $%1!"/>
+        <text id="text_2" need_translate="false" value="Gir du meg $%1?"/>
+        <text id="text_3" need_translate="false" value="vi er på $%1, vi er på $%1..."/>
+        <text id="text_win" need_translate="false" value="solgt for $%1 til %2!"/>
     </auction_dialog>
     <auction_popups>
         <text id="assistent_fail" need_translate="true" value=""/>
