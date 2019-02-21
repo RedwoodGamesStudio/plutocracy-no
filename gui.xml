@@ -133,12 +133,12 @@
     </ambition_popup>
     <any_words>
         <company>
-            <text id="0" need_translate="true" value=""/>
-            <text id="1" need_translate="true" value=""/>
-            <text id="2" need_translate="true" value=""/>
-            <text id="3" need_translate="true" value=""/>
+            <text id="0" need_translate="false" value="Transport"/>
+            <text id="1" need_translate="false" value="Oljeraffinering"/>
+            <text id="2" need_translate="false" value="oljeproduksjon"/>
+            <text id="3" need_translate="false" value="Bank"/>
         </company>
-        <text id="unrelized" need_translate="true" value=""/>
+        <text id="unrelized" need_translate="false" value="i utvikling"/>
     </any_words>
     <assistant_popup>
         <text id="assistant_info" need_translate="true" value=""/>
