@@ -279,21 +279,21 @@
         <text id="window_title" need_translate="true" value=""/>
     </cabinet_window>
     <cancel_event_popup>
-        <text id="cancel_event" need_translate="true" value=""/>
-        <text id="cancel_negotiation" need_translate="true" value=""/>
-        <text id="cancel_question" need_translate="true" value=""/>
-        <text id="cancel_result_negotiation" need_translate="true" value=""/>
-        <text id="cancel_result_relation_rout" need_translate="true" value=""/>
-        <text id="cancel_result_relation_travel" need_translate="true" value=""/>
-        <text id="cancel_result_reputation_rout" need_translate="true" value=""/>
-        <text id="cancel_result_reputation_travel" need_translate="true" value=""/>
-        <text id="cancel_rout" need_translate="true" value=""/>
-        <text id="popup_no_button" need_translate="true" value=""/>
-        <text id="popup_ok_button" need_translate="true" value=""/>
-        <text id="popup_yes_button" need_translate="true" value=""/>
-        <text id="travel_no_button" need_translate="true" value=""/>
-        <text id="travel_question" need_translate="true" value=""/>
-        <text id="travel_yes_button" need_translate="true" value=""/>
+        <text id="cancel_event" need_translate="false" value="Kanseller planlagt arrangement"/>
+        <text id="cancel_negotiation" need_translate="false" value="Kanselleringen av møtet har skadet forholdet med %1"/>
+        <text id="cancel_question" need_translate="false" value="Kanselleringen av møtet vil skade omdømmet ditt. Er du sikker på at du vil kansellere møtet?"/>
+        <text id="cancel_result_negotiation" need_translate="false" value="Forhold med %1"/>
+        <text id="cancel_result_relation_rout" need_translate="false" value="Gjesters forhold"/>
+        <text id="cancel_result_relation_travel" need_translate="false" value="Forhold med gjester"/>
+        <text id="cancel_result_reputation_rout" need_translate="false" value="Omdømme"/>
+        <text id="cancel_result_reputation_travel" need_translate="false" value=""/>
+        <text id="cancel_rout" need_translate="false" value="Kanselleringen har skadet omdømmet og forholdet med de inviterte gjestene."/>
+        <text id="popup_no_button" need_translate="false" value="Tenk deg om"/>
+        <text id="popup_ok_button" need_translate="false" value="Ok"/>
+        <text id="popup_yes_button" need_translate="false" value="Avbryt"/>
+        <text id="travel_no_button" need_translate="false" value="Tenk deg om"/>
+        <text id="travel_question" need_translate="false" value="Du har planlagte møter. Hvis du kansellerer de, vil du skade omdømmet ditt. Hva er valget ditt?"/>
+        <text id="travel_yes_button" need_translate="false" value="Kjøp billett"/>
     </cancel_event_popup>
     <cancel_negotiation_popup>
         <text id="alco_header" need_translate="true" value=""/>
