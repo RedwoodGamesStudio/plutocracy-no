@@ -253,13 +253,13 @@
         <text id="skip" need_translate="true" value=""/>
     </bankrupt_window>
     <bonuse_roulette>
-        <text id="bonus" need_translate="true" value=""/>
-        <text id="close" need_translate="true" value=""/>
-        <text id="no_effect" need_translate="true" value=""/>
-        <text id="serial_failed_talks_penalty" need_translate="true" value=""/>
-        <text id="serial_successed_talks_bonus" need_translate="true" value=""/>
-        <text id="start" need_translate="true" value=""/>
-        <text id="stop" need_translate="true" value=""/>
+        <text id="bonus" need_translate="false" value="Bonus"/>
+        <text id="close" need_translate="false" value="Lukk"/>
+        <text id="no_effect" need_translate="false" value="Ingen effekt"/>
+        <text id="serial_failed_talks_penalty" need_translate="false" value="Den mislykkede forhandlingsserien. Du er bøtelagt!"/>
+        <text id="serial_successed_talks_bonus" need_translate="false" value="Den vellykkede forhandlingsserien. Du får en bonus!"/>
+        <text id="start" need_translate="false" value="Start"/>
+        <text id="stop" need_translate="false" value="Stopp"/>
     </bonuse_roulette>
     <border_button>
         <text id="button" need_translate="true" value=""/>
