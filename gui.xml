@@ -312,7 +312,7 @@
         <text id="press_any_key_to_continue" need_translate="true" value=""/>
     </cap_block>
     <circle_progress_bar>
-        <text id="xp" need_translate="true" value=""/>
+        <text id="xp" need_translate="false" value=" XP"/>
     </circle_progress_bar>
     <collections_window>
         <text id="auc_price_2" need_translate="true" value=""/>
