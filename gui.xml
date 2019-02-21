@@ -262,7 +262,7 @@
         <text id="stop" need_translate="true" value=""/>
     </bonuse_roulette>
     <border_button>
-        <text id="button" need_translate="true" value=""/>
+        <text id="button" need_translate="false" value="Knapp"/>
     </border_button>
     <broker_window>
         <text id="blocked_button_hint" need_translate="true" value=""/>
