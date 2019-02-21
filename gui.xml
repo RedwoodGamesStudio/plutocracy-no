@@ -123,13 +123,13 @@
         <text id="influence_agents" need_translate="false" value="Innflytelsesagenter"/>
     </agents_window>
     <ambition_popup>
-        <text id="conditions" need_translate="true" value=""/>
-        <text id="days_left" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="loyality" need_translate="true" value=""/>
-        <text id="loyality_change" need_translate="true" value=""/>
-        <text id="shares_count" need_translate="true" value=""/>
+        <text id="conditions" need_translate="false" value="Vilkår"/>
+        <text id="days_left" need_translate="false" value="Tid igjen"/>
+        <text id="deal_sum" need_translate="false" value="Innsatsbeløp"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="loyality" need_translate="false" value="Lojalitet til deg"/>
+        <text id="loyality_change" need_translate="false" value="Oppnådd ambisjon"/>
+        <text id="shares_count" need_translate="false" value="Antall aksjer"/>
     </ambition_popup>
     <any_words>
         <company>
