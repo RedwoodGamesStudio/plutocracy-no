@@ -208,24 +208,24 @@
         <text id="text_win" need_translate="true" value=""/>
     </auction_dialog>
     <auction_popups>
-        <text id="assistent_fail" need_translate="true" value=""/>
-        <text id="assistent_question" need_translate="true" value=""/>
-        <text id="assistent_win" need_translate="true" value=""/>
-        <text id="auc_fail" need_translate="true" value=""/>
-        <text id="auc_win" need_translate="true" value=""/>
-        <text id="base_price" need_translate="true" value=""/>
-        <text id="by_price" need_translate="true" value=""/>
-        <text id="days_left_to_event" need_translate="true" value=""/>
-        <text id="demand" need_translate="true" value=""/>
-        <text id="market_price" need_translate="true" value=""/>
-        <text id="max_sell_price" need_translate="true" value=""/>
-        <text id="min_sell_price" need_translate="true" value=""/>
-        <text id="player_question" need_translate="true" value=""/>
-        <text id="profit_by_step" need_translate="true" value=""/>
-        <text id="sell_cancel" need_translate="true" value=""/>
-        <text id="sell_ok" need_translate="true" value=""/>
-        <text id="start_price" need_translate="true" value=""/>
-        <text id="you_are_sure" need_translate="true" value=""/>
+        <text id="assistent_fail" need_translate="false" value="Jeg tapte auksjonen, sjef!"/>
+        <text id="assistent_question" need_translate="false" value="Jeg vil være med i auksjonen, sir."/>
+        <text id="assistent_win" need_translate="false" value="Jeg vant auksjonen, sjef!"/>
+        <text id="auc_fail" need_translate="false" value="Auksjonen feilet"/>
+        <text id="auc_win" need_translate="false" value="Du har kjøpt %1"/>
+        <text id="base_price" need_translate="false" value="Grunnpris:"/>
+        <text id="by_price" need_translate="false" value="Kjøpspris:"/>
+        <text id="days_left_to_event" need_translate="false" value="Auksjonen holdes til %1. %2 dag(er) igjen"/>
+        <text id="demand" need_translate="false" value="Spør:"/>
+        <text id="market_price" need_translate="false" value="Markedspris:"/>
+        <text id="max_sell_price" need_translate="false" value="Maksimal prisprognose:"/>
+        <text id="min_sell_price" need_translate="false" value="Minimum prisprognose:"/>
+        <text id="player_question" need_translate="false" value="Vil du være med i auksjonen?"/>
+        <text id="profit_by_step" need_translate="false" value="Fortjeneste per kvartal:"/>
+        <text id="sell_cancel" need_translate="false" value="Nei"/>
+        <text id="sell_ok" need_translate="false" value="Ok"/>
+        <text id="start_price" need_translate="false" value="Startpris:"/>
+        <text id="you_are_sure" need_translate="false" value="Er du sikker på at du vil selge denne tingen?"/>
     </auction_popups>
     <auction_result>
         <text id="money" need_translate="true" value=""/>
