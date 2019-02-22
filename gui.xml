@@ -315,21 +315,21 @@
         <text id="xp" need_translate="false" value=" XP"/>
     </circle_progress_bar>
     <collections_window>
-        <text id="auc_price_2" need_translate="true" value=""/>
-        <text id="buy" need_translate="true" value=""/>
-        <text id="buy_price" need_translate="true" value=""/>
-        <text id="buy_price_2" need_translate="true" value=""/>
-        <text id="demand" need_translate="true" value=""/>
-        <text id="description" need_translate="true" value=""/>
-        <text id="inform" need_translate="true" value=""/>
-        <text id="market_price" need_translate="true" value=""/>
-        <text id="market_price_2" need_translate="true" value=""/>
-        <text id="no_money_to_buy_hint_header" need_translate="true" value=""/>
-        <text id="no_money_to_buy_hint_text" need_translate="true" value=""/>
-        <text id="profit_by_all" need_translate="true" value=""/>
-        <text id="profit_by_step" need_translate="true" value=""/>
-        <text id="sale" need_translate="true" value=""/>
-        <text id="sale_price" need_translate="true" value=""/>
+        <text id="auc_price_2" need_translate="false" value="Auksjonspris"/>
+        <text id="buy" need_translate="false" value="Kjøp"/>
+        <text id="buy_price" need_translate="false" value="Kjøpspris"/>
+        <text id="buy_price_2" need_translate="false" value="Kjøpspris"/>
+        <text id="demand" need_translate="false" value="Spør"/>
+        <text id="description" need_translate="false" value="Beskrivelse"/>
+        <text id="inform" need_translate="false" value="Informasjon"/>
+        <text id="market_price" need_translate="false" value="Markedspris"/>
+        <text id="market_price_2" need_translate="false" value="Markedspris"/>
+        <text id="no_money_to_buy_hint_header" need_translate="false" value="Eiendomskjøp"/>
+        <text id="no_money_to_buy_hint_text" need_translate="false" value="Du har ikke nok penger til å kjøpe denne gjenstanden"/>
+        <text id="profit_by_all" need_translate="false" value="Total fortjeneste"/>
+        <text id="profit_by_step" need_translate="false" value="Fortjeneste per kvartal"/>
+        <text id="sale" need_translate="false" value="Selg"/>
+        <text id="sale_price" need_translate="false" value="Salgspris"/>
     </collections_window>
     <companies_map>
         <text id="alert" need_translate="true" value=""/>
