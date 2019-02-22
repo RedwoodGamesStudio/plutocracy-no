@@ -298,7 +298,7 @@
     <cancel_negotiation_popup>
         <text id="alco_header" need_translate="false" value="Avtalen er kansellert!"/>
         <text id="alco_text" need_translate="false" value="Avtalen ble kansellert av %1 fordi han ikke følte seg bra. Pusten hans luktet alkohol."/>
-        <text id="button_negative_hover" need_translate="false" value="%1's omdømme: -%2\Lojaliteten til %3: %4"/>
+        <text id="button_negative_hover" need_translate="false" value="%1's omdømme: -%2\nLojaliteten til %3: %4"/>
         <text id="button_negative_text" need_translate="false" value="Det er ingenting å snakke om, %1"/>
         <text id="button_positive_hover" need_translate="false" value="Gå til avtalen"/>
         <text id="button_positive_text" need_translate="false" value="La meg se"/>
