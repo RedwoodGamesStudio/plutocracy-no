@@ -246,11 +246,11 @@
     </auction_window>
     <text id="autosave" need_translate="true" value=""/>
     <bankrupt_window>
-        <text id="allert_bankrupt" need_translate="true" value=""/>
-        <text id="close" need_translate="true" value=""/>
-        <text id="fix_sotuation" need_translate="true" value=""/>
-        <text id="message_bankrupt" need_translate="true" value=""/>
-        <text id="skip" need_translate="true" value=""/>
+        <text id="allert_bankrupt" need_translate="false" value="Den finansielle situasjonen til %1 holder på å gjøre dem konkurs. Hvis du ikke gjør noe vil bedriften gå konkurs neste runde."/>
+        <text id="close" need_translate="false" value="Lukk"/>
+        <text id="fix_sotuation" need_translate="false" value="Fiks situasjon"/>
+        <text id="message_bankrupt" need_translate="false" value="%1 gikk konkurs.\nBedriftstype: %2\nLokasjon:%3"/>
+        <text id="skip" need_translate="false" value="Ignorer"/>
     </bankrupt_window>
     <bonuse_roulette>
         <text id="bonus" need_translate="true" value=""/>
