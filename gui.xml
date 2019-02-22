@@ -274,9 +274,9 @@
         <text id="total_sum" need_translate="false" value="Total"/>
     </broker_window>
     <cabinet_window>
-        <text id="raut_warning" need_translate="true" value=""/>
-        <text id="raut_warning_detail" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="raut_warning" need_translate="false" value="Informasjon!"/>
+        <text id="raut_warning_detail" need_translate="false" value="Du kan organisere snokingen en gang per runde."/>
+        <text id="window_title" need_translate="false" value="Kontor"/>
     </cabinet_window>
     <cancel_event_popup>
         <text id="cancel_event" need_translate="true" value=""/>
