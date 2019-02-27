@@ -661,56 +661,56 @@
         <text id="some_directors_skill_is_worked" need_translate="true" value=""/>
     </directors_handler>
     <directors_window>
-        <text id="active_buildings" need_translate="true" value=""/>
-        <text id="attention_focuse" need_translate="true" value=""/>
-        <text id="automanagement" need_translate="true" value=""/>
-        <text id="board_of_directors" need_translate="true" value=""/>
-        <text id="chairman" need_translate="true" value=""/>
+        <text id="active_buildings" need_translate="false" value="Aktive bygninger"/>
+        <text id="attention_focuse" need_translate="false" value="Fokus"/>
+        <text id="automanagement" need_translate="false" value="Autoledelse"/>
+        <text id="board_of_directors" need_translate="false" value="Styret"/>
+        <text id="chairman" need_translate="false" value="Styrets leder"/>
         <text id="contract_duration" need_translate="true" value=""/>
         <text id="controlers" need_translate="true" value=""/>
-        <text id="director" need_translate="true" value=""/>
+        <text id="director" need_translate="false" value="Direktør"/>
         <text id="educability" need_translate="true" value=""/>
-        <text id="finances" need_translate="true" value=""/>
-        <text id="fire_director" need_translate="true" value=""/>
-        <text id="gold_parachute" need_translate="true" value=""/>
+        <text id="finances" need_translate="false" value="Økonomi"/>
+        <text id="fire_director" need_translate="false" value="Spark"/>
+        <text id="gold_parachute" need_translate="false" value="Sluttpakke"/>
         <text id="goodwill" need_translate="true" value=""/>
-        <text id="hire" need_translate="true" value=""/>
-        <text id="hire_director" need_translate="true" value=""/>
-        <text id="in_developing" need_translate="true" value=""/>
-        <text id="independence_directors" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="layoff" need_translate="true" value=""/>
-        <text id="loyalty" need_translate="true" value=""/>
-        <text id="manager" need_translate="true" value=""/>
+        <text id="hire" need_translate="false" value="Ansett"/>
+        <text id="hire_director" need_translate="false" value="Ansett"/>
+        <text id="in_developing" need_translate="false" value="I utvikling"/>
+        <text id="independence_directors" need_translate="false" value=""/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="information" need_translate="false" value="Informasjon"/>
+        <text id="layoff" need_translate="false" value="Permittering"/>
+        <text id="loyalty" need_translate="false" value="Lojalitet"/>
+        <text id="manager" need_translate="false" value="Sjef"/>
         <text id="motivation" need_translate="true" value=""/>
         <text id="my_directors" need_translate="true" value=""/>
         <text id="name_and_age" need_translate="true" value=""/>
-        <text id="negotiation" need_translate="true" value=""/>
-        <text id="no_shares" need_translate="true" value=""/>
-        <text id="orders" need_translate="true" value=""/>
+        <text id="negotiation" need_translate="false" value="Forhandling"/>
+        <text id="no_shares" need_translate="false" value="Du er ikke en aksjoner i {companyname}!"/>
+        <text id="orders" need_translate="false" value="Ordre"/>
         <orders>
-            <text id="bayback" need_translate="true" value=""/>
-            <text id="bill_buying" need_translate="true" value=""/>
-            <text id="bill_issue" need_translate="true" value=""/>
-            <text id="bond_buying" need_translate="true" value=""/>
-            <text id="bond_issue" need_translate="true" value=""/>
-            <text id="shares_issue" need_translate="true" value=""/>
+            <text id="bayback" need_translate="false" value="Kjøp tilbake"/>
+            <text id="bill_buying" need_translate="false" value="Veksling tilbakebetaling"/>
+            <text id="bill_issue" need_translate="false" value="Problem med veksling av tilbakebetaling"/>
+            <text id="bond_buying" need_translate="false" value="Kjøp tilbake obligasjoner"/>
+            <text id="bond_issue" need_translate="false" value="Obligasjonsutstedelse"/>
+            <text id="shares_issue" need_translate="false" value="Aksjeutstedelse"/>
         </orders>
-        <text id="production" need_translate="true" value=""/>
+        <text id="production" need_translate="false" value="Produksjon"/>
         <text id="production_expenses" need_translate="true" value=""/>
-        <text id="profit_bonuse" need_translate="true" value=""/>
+        <text id="profit_bonuse" need_translate="false" value="Bonus"/>
         <text id="qualification" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="short_window_name" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
-        <text id="stock_package" need_translate="true" value=""/>
+        <text id="salary" need_translate="false" value="Lønn"/>
+        <text id="short_window_name" need_translate="false" value="Direktører"/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
+        <text id="stock_package" need_translate="false" value="Aksjeandel"/>
         <text id="technologies" need_translate="true" value=""/>
-        <text id="tecnologies" need_translate="true" value=""/>
-        <text id="use_agent" need_translate="true" value=""/>
-        <text id="voting_not_possible" need_translate="true" value=""/>
-        <text id="window_name" need_translate="true" value=""/>
-        <text id="workplace" need_translate="true" value=""/>
+        <text id="tecnologies" need_translate="false" value="Teknologier"/>
+        <text id="use_agent" need_translate="false" value="Bruk en agent"/>
+        <text id="voting_not_possible" need_translate="false" value="Den neste avstemningen vil være tilgjengelig innen {date}"/>
+        <text id="window_name" need_translate="false" value="Direktørliste"/>
+        <text id="workplace" need_translate="false" value="Nåværende jobb"/>
     </directors_window>
     <discussion>
         <text id="btn_exit" need_translate="true" value=""/>
