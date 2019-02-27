@@ -595,7 +595,7 @@
         <text id="term_value" need_translate="true" value=""/>
     </credit_window>
     <crimes>
-        <text id="effects" need_translate="true" value=""/>
+        <text id="effects" need_translate="false" value="Konsekvenser:"/>
     </crimes>
     <date_handler>
         <text id="autumn" need_translate="true" value=""/>
