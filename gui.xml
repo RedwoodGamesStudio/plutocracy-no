@@ -1282,11 +1282,11 @@
         <text id="you_are_moved" need_translate="true" value=""/>
     </map_handler>
     <map_popup>
-        <text id="bon_voyage" need_translate="true" value=""/>
-        <text id="buy_ticket" need_translate="true" value=""/>
-        <text id="cost" need_translate="true" value=""/>
-        <text id="ticket_to_train" need_translate="true" value=""/>
-        <text id="time_in_journey" need_translate="true" value=""/>
+        <text id="bon_voyage" need_translate="false" value="Ha en god tur!"/>
+        <text id="buy_ticket" need_translate="false" value="Kjøp billett"/>
+        <text id="cost" need_translate="false" value="Pris:"/>
+        <text id="ticket_to_train" need_translate="false" value="Togbillett"/>
+        <text id="time_in_journey" need_translate="false" value="Reisetid:"/>
     </map_popup>
     <map_units>
         <cities>
