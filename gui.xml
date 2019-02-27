@@ -1085,11 +1085,11 @@
         <text id="you_will_lose" need_translate="true" value=""/>
     </game_events_handler>
     <guest_card>
-        <text id="communicate" need_translate="true" value=""/>
-        <text id="impression" need_translate="true" value=""/>
-        <text id="invitation" need_translate="true" value=""/>
-        <text id="on_name" need_translate="true" value=""/>
-        <text id="personage_terms" need_translate="true" value=""/>
+        <text id="communicate" need_translate="false" value="Snakk"/>
+        <text id="impression" need_translate="false" value="Inntrykk:"/>
+        <text id="invitation" need_translate="false" value="Invitasjon"/>
+        <text id="on_name" need_translate="false" value="Navn"/>
+        <text id="personage_terms" need_translate="false" value="Karakterrelasjon"/>
     </guest_card>
     <guest_info>
         <text id="explore_more" need_translate="true" value=""/>
