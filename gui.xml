@@ -905,10 +905,10 @@
         <text id="talks_success" need_translate="true" value=""/>
     </discussion_result_message_box>
     <discussion_settings>
-        <text id="deal" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
-        <text id="safety_stock_cost" need_translate="true" value=""/>
-        <text id="safety_stock_quantity" need_translate="true" value=""/>
+        <text id="deal" need_translate="false" value="Avtale"/>
+        <text id="deal_sum" need_translate="false" value="Avtalesum"/>
+        <text id="safety_stock_cost" need_translate="false" value="Aksjepris"/>
+        <text id="safety_stock_quantity" need_translate="false" value="Antall aksjer"/>
     </discussion_settings>
     <discussion_window>
         <text id="agree" need_translate="true" value=""/>
