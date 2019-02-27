@@ -544,18 +544,18 @@
             <text id="workplaces" need_translate="true" value=""/>
         </building_detail>
         <building_types>
-            <text id="oil" need_translate="true" value=""/>
-            <text id="store" need_translate="true" value=""/>
+            <text id="oil" need_translate="false" value="Olje"/>
+            <text id="store" need_translate="false" value="Lager"/>
         </building_types>
         <buildings>
-            <text id="administration" need_translate="true" value=""/>
-            <text id="barrack" need_translate="true" value=""/>
-            <text id="logistic" need_translate="true" value=""/>
-            <text id="oil_pump" need_translate="true" value=""/>
-            <text id="oil_storage" need_translate="true" value=""/>
-            <text id="oil_sump" need_translate="true" value=""/>
-            <text id="security" need_translate="true" value=""/>
-            <text id="tanks" need_translate="true" value=""/>
+            <text id="administration" need_translate="false" value="Administrasjon"/>
+            <text id="barrack" need_translate="false" value="Brakker"/>
+            <text id="logistic" need_translate="false" value="Logistikk"/>
+            <text id="oil_pump" need_translate="false" value="Oljepumpe"/>
+            <text id="oil_storage" need_translate="false" value="Oljelager"/>
+            <text id="oil_sump" need_translate="false" value="Oljerigg"/>
+            <text id="security" need_translate="false" value="Sikkerhet"/>
+            <text id="tanks" need_translate="false" value="Lagringstanker"/>
         </buildings>
         <window>
             <text id="accident_risk" need_translate="true" value=""/>
