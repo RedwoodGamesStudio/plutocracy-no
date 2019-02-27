@@ -1320,9 +1320,9 @@
         <text id="tx_nickname" need_translate="true" value=""/>
     </map_units>
     <math_functions>
-        <text id="b" need_translate="true" value=""/>
-        <text id="k" need_translate="true" value=""/>
-        <text id="m" need_translate="true" value=""/>
+        <text id="b" need_translate="false" value="B"/>
+        <text id="k" need_translate="false" value="K"/>
+        <text id="m" need_translate="false" value="M"/>
     </math_functions>
     <menu>
         <text id="pause_menu" need_translate="true" value=""/>
