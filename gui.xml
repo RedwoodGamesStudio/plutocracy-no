@@ -1254,28 +1254,28 @@
         <text id="workers_count" need_translate="false" value="Antall arbeidere"/>
     </map_filters>
     <map_filters_handler>
-        <text id="actual_income" need_translate="true" value=""/>
-        <text id="all_actual_income" need_translate="true" value=""/>
-        <text id="all_potential_income" need_translate="true" value=""/>
-        <text id="authority_all_with_loyalty" need_translate="true" value=""/>
-        <text id="authority_all_without_loyalty" need_translate="true" value=""/>
-        <text id="authority_comparison" need_translate="true" value=""/>
-        <text id="authority_player_with_loyalty_enemies" need_translate="true" value=""/>
-        <text id="authority_player_with_loyalty_friends" need_translate="true" value=""/>
-        <text id="authority_player_with_loyalty_neutrals" need_translate="true" value=""/>
-        <text id="authority_player_without_loyalty" need_translate="true" value=""/>
-        <text id="company_count" need_translate="true" value=""/>
-        <text id="corporate_taxes_text" need_translate="true" value=""/>
-        <text id="income_per_person_text" need_translate="true" value=""/>
-        <text id="income_taxes_for_person_text" need_translate="true" value=""/>
-        <text id="no_active_filters" need_translate="true" value=""/>
-        <text id="owner_company_count" need_translate="true" value=""/>
-        <text id="popupation_text" need_translate="true" value=""/>
-        <text id="potential_income" need_translate="true" value=""/>
-        <text id="result_of_filtration" need_translate="true" value=""/>
-        <text id="result_without_loyalty_warning" need_translate="true" value=""/>
-        <text id="unemployment_text" need_translate="true" value=""/>
-        <text id="workers_count_text" need_translate="true" value=""/>
+        <text id="actual_income" need_translate="false" value="%1 sin inntekt i %2 er $ %3."/>
+        <text id="all_actual_income" need_translate="false" value="Totalt aksjonærutbytte i %1 er $ %2"/>
+        <text id="all_potential_income" need_translate="false" value="Totalt potensielt aksjonærutbytte i %1 er $ %2"/>
+        <text id="authority_all_with_loyalty" need_translate="false" value="Antall karakterer i %1 er %2"/>
+        <text id="authority_all_without_loyalty" need_translate="false" value="Antall karakterer i %1 er %2.\nResultatet er vist uten deres lojalitet!\nVelg en eier for å ta deres lojalitet i betraktning."/>
+        <text id="authority_comparison" need_translate="false" value="Antall karakterer i %1 er %2.\nDu må velge 'Lojalitet' for å sammenligne resultatet av eierne."/>
+        <text id="authority_player_with_loyalty_enemies" need_translate="false" value="Antall karakterer som er dine motstandere i %1 er %2"/>
+        <text id="authority_player_with_loyalty_friends" need_translate="false" value="Antall karakterer som er dine venner i %1 er %2"/>
+        <text id="authority_player_with_loyalty_neutrals" need_translate="false" value="Antallet karakterer som er nøytrale til deg i %1 er %2"/>
+        <text id="authority_player_without_loyalty" need_translate="false" value="Antallet karakterer i %1 er %2"/>
+        <text id="company_count" need_translate="false" value="Antallet bedrifter i %1 er %2"/>
+        <text id="corporate_taxes_text" need_translate="false" value="Skattesatsen for bedrifter i %1 er %2 %"/>
+        <text id="income_per_person_text" need_translate="false" value="Gjennomsnittlig inntekt per person i %1 er $ %2"/>
+        <text id="income_taxes_for_person_text" need_translate="false" value="Den personlige skattesatsen i %1 er %2 %"/>
+        <text id="no_active_filters" need_translate="false" value="Ingen filtreringsvalg er aktive"/>
+        <text id="owner_company_count" need_translate="false" value="Antall bedrifter i %2 er %3 (eier er %1)"/>
+        <text id="popupation_text" need_translate="false" value="%1 sitt omdømme er %2"/>
+        <text id="potential_income" need_translate="false" value="%1 sin potensielle inntekt i %2 er $ %3"/>
+        <text id="result_of_filtration" need_translate="false" value="Filtreringsresultat"/>
+        <text id="result_without_loyalty_warning" need_translate="false" value="Resultat uten lojalitet"/>
+        <text id="unemployment_text" need_translate="false" value="Arbeidsledigheten i %1 er %2 %"/>
+        <text id="workers_count_text" need_translate="false" value="Antall arbeidere i %1 er %2 %."/>
     </map_filters_handler>
     <map_handler>
         <text id="ticket_to_some_state" need_translate="true" value=""/>
