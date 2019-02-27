@@ -1334,9 +1334,9 @@
         <text id="settings_menu" need_translate="true" value=""/>
     </menu>
     <message_box>
-        <text id="attention" need_translate="true" value=""/>
-        <text id="cancel" need_translate="true" value=""/>
-        <text id="ok" need_translate="true" value=""/>
+        <text id="attention" need_translate="false" value="Oppmerksomhet!"/>
+        <text id="cancel" need_translate="false" value="Avbryt"/>
+        <text id="ok" need_translate="false" value="Ok"/>
     </message_box>
     <month_switcher>
         <text id="autumn" need_translate="true" value=""/>
