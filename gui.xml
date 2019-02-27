@@ -1345,18 +1345,18 @@
         <text id="winter" need_translate="true" value=""/>
     </month_switcher>
     <news_makets>
-        <text id="accident_caption" need_translate="true" value=""/>
-        <text id="accident_text" need_translate="true" value=""/>
+        <text id="accident_caption" need_translate="false" value="Ulykke på %1 %2"/>
+        <text id="accident_text" need_translate="false" value="Ulykken vil redusere bedriftens produksjon og faktisk inntekt. Aksjeprisen vil muligens gå noe ned. Hvis ulykken blir eliminert, kan aksjeprisen øke igjen."/>
         <text id="add_influence_from_politician_caption" need_translate="true" value=""/>
         <text id="add_influence_from_politician_text" need_translate="true" value=""/>
-        <text id="agent_applying_fail_caption" need_translate="true" value=""/>
-        <text id="agent_applying_success_caption" need_translate="true" value=""/>
-        <text id="alliance_caption" need_translate="true" value=""/>
-        <text id="ambition_negative_header" need_translate="true" value=""/>
-        <text id="ambition_negative_text" need_translate="true" value=""/>
-        <text id="ambition_positive_header" need_translate="true" value=""/>
-        <text id="ambition_positive_text" need_translate="true" value=""/>
-        <text id="charity_event_caption" need_translate="true" value=""/>
+        <text id="agent_applying_fail_caption" need_translate="false" value="Agent %1 feilet oppdraget om %2"/>
+        <text id="agent_applying_success_caption" need_translate="false" value="Agent %1 har fullført oppdraget om %2"/>
+        <text id="alliance_caption" need_translate="false" value="%1 sin lojalitet til deg går ned med %2%"/>
+        <text id="ambition_negative_header" need_translate="false" value="Du var ansvarlig for %1, men du klarte ikke å håndtere det. Du har skuffet meg! Lojaliteten min til deg: %2%"/>
+        <text id="ambition_negative_text" need_translate="false" value="%1 sin lojalitet til deg går opp med %2"/>
+        <text id="ambition_positive_header" need_translate="false" value="Takk for å fullføre mitt ønske for %1. Jeg vet ikke hva jeg skulle gjort uten din hjelp. Min lojalitet til deg: %2%"/>
+        <text id="ambition_positive_text" need_translate="false" value="Invitasjon til en veldedighet på kvelden fra %1"/>
+        <text id="charity_event_caption" need_translate="false" value="%1Du har fått en invitasjon fra %2 %4 i %3 for å bli med i vededighetsarrangementet %5. Det vil være %6 %8 av %7, %10 %11 og %12 %14 av %13. Invitasjonen er gyldig til %15."/>
         <text id="charity_event_text" need_translate="true" value=""/>
         <text id="elections_passed_caption" need_translate="true" value=""/>
         <text id="elections_passed_text_1" need_translate="true" value=""/>
@@ -1365,67 +1365,67 @@
         <text id="elections_passed_text_4" need_translate="true" value=""/>
         <text id="feudfrom_proprietor_text" need_translate="true" value=""/>
         <text id="feudfrom_сompetitor_text" need_translate="true" value=""/>
-        <text id="give_loan_text" need_translate="true" value=""/>
-        <text id="hiring_director_caption" need_translate="true" value=""/>
-        <text id="hiring_director_text" need_translate="true" value=""/>
-        <text id="horse_racing_caption" need_translate="true" value=""/>
-        <text id="horse_racing_text" need_translate="true" value=""/>
-        <text id="invite_to_dinner_caption" need_translate="true" value=""/>
-        <text id="invite_to_dinner_text" need_translate="true" value=""/>
+        <text id="give_loan_text" need_translate="false" value="Takk for at du låner meg $ % 1. Nå har forholdet mitt med deg blitt bedre."/>
+        <text id="hiring_director_caption" need_translate="false" value="%1 ble utnevnt som adm.dir. av %2 i %3."/>
+        <text id="hiring_director_text" need_translate="false" value="Som det ble kjent signerte {nickname}  en kontrakt med {companyname}. Lønnen til den administrerende direktøren er {salary}. 'Først skal jeg øke bedriftens lønnsomhet', sa {nickname}. Vil den nye administrerende direktøren klare å håndtere ansvaret hos {companyname}? Vi vil følge med på fremtidige utviklinger."/>
+        <text id="horse_racing_caption" need_translate="false" value="Invitasjon til hesteveddeløp fra %1"/>
+        <text id="horse_racing_text" need_translate="false" value="%1 inviterte deg med til et hesteveddeløp for å snakke i en uformell atmosfære"/>
+        <text id="invite_to_dinner_caption" need_translate="false" value="Middagsinvitasjon fra %1"/>
+        <text id="invite_to_dinner_text" need_translate="false" value="%1 invierte deg hjem til han for å snakke i en vennlig atmosfære."/>
         <text id="invite_to_horse_racing" need_translate="true" value=""/>
         <text id="invite_to_rout" need_translate="true" value=""/>
-        <text id="loyality_change_caption" need_translate="true" value=""/>
-        <text id="loyality_change_text" need_translate="true" value=""/>
-        <text id="mail_body_head" need_translate="true" value=""/>
-        <text id="mail_body_tail" need_translate="true" value=""/>
-        <text id="make_donation_text" need_translate="true" value=""/>
-        <text id="player_by_action_caption" need_translate="true" value=""/>
-        <text id="player_by_action_text" need_translate="true" value=""/>
-        <text id="player_by_from_auc_caption" need_translate="true" value=""/>
-        <text id="player_by_from_auc_text" need_translate="true" value=""/>
-        <text id="player_by_from_npc_caption" need_translate="true" value=""/>
-        <text id="player_by_from_npc_text" need_translate="true" value=""/>
+        <text id="loyality_change_caption" need_translate="false" value="%1 sin lojalitet: %2%"/>
+        <text id="loyality_change_text" need_translate="false" value="%1 sin lojalitet: %2%"/>
+        <text id="mail_body_head" need_translate="false" value="Hei, %1"/>
+        <text id="mail_body_tail" need_translate="false" value="Beste hilsen, %1"/>
+        <text id="make_donation_text" need_translate="false" value="Jeg forstår... det var synd. Uansett er jeg veldig takknemlig for donasjonen din. Jeg setter pris på det."/>
+        <text id="player_by_action_caption" need_translate="false" value="%1% av aksjene av bedriften %3 %2 ble kjøpt for $ %5 i %4."/>
+        <text id="player_by_action_text" need_translate="false" value="%1% av aksjenen av bedriften %3 %2 ble kjøpt for $ %4. Avtalen ble laget med %5 i %6."/>
+        <text id="player_by_from_auc_caption" need_translate="false" value="%1 ble kjøpt på auksjon for $ %2!"/>
+        <text id="player_by_from_auc_text" need_translate="false" value="%1 ble kjøpt på auksjon i %3 for $ %2"/>
+        <text id="player_by_from_npc_caption" need_translate="false" value="%1 ble kjøpt fra %2 for $%3. Du fikk %4 prestisjepoeng."/>
+        <text id="player_by_from_npc_text" need_translate="false" value="Du klarte å kjøpe en %1 fra %3 for $%2. Auksjonsprisen er $%4."/>
         <text id="player_donation_to_fund_caption" need_translate="true" value=""/>
         <text id="player_donation_to_fund_text" need_translate="true" value=""/>
-        <text id="player_fail_by_action_caption" need_translate="true" value=""/>
-        <text id="player_fail_by_action_text" need_translate="true" value=""/>
-        <text id="player_lost_trades_caption" need_translate="true" value=""/>
-        <text id="player_lost_trades_text" need_translate="true" value=""/>
-        <text id="player_missed_auction_caption" need_translate="true" value=""/>
-        <text id="player_missed_auction_text_1" need_translate="true" value=""/>
-        <text id="player_missed_auction_text_2" need_translate="true" value=""/>
-        <text id="player_missed_auction_text_3" need_translate="true" value=""/>
-        <text id="player_missed_auction_text_4" need_translate="true" value=""/>
-        <text id="player_sale_action_caption" need_translate="true" value=""/>
-        <text id="player_sale_action_text" need_translate="true" value=""/>
-        <text id="player_sale_goods_to_nps_caption" need_translate="true" value=""/>
-        <text id="player_sale_goods_to_nps_caption_bonus" need_translate="true" value=""/>
-        <text id="player_sale_goods_to_nps_text" need_translate="true" value=""/>
-        <text id="player_sale_goods_to_nps_text_bonus" need_translate="true" value=""/>
-        <text id="player_salegoods_from_auc_caption" need_translate="true" value=""/>
-        <text id="player_salegoods_from_auc_text" need_translate="true" value=""/>
-        <text id="refuse_to_lend_text" need_translate="true" value=""/>
-        <text id="reject_rout_text" need_translate="true" value=""/>
-        <text id="robbery_road_caption" need_translate="true" value=""/>
-        <text id="robbery_road_text_1" need_translate="true" value=""/>
-        <text id="robbery_road_text_2" need_translate="true" value=""/>
-        <text id="robbery_road_text_3" need_translate="true" value=""/>
-        <text id="robbery_road_text_4" need_translate="true" value=""/>
-        <text id="robbery_road_text_5" need_translate="true" value=""/>
-        <text id="strike_caption" need_translate="true" value=""/>
-        <text id="strike_occurred_caption" need_translate="true" value=""/>
+        <text id="player_fail_by_action_caption" need_translate="false" value="%1% av aksjene til bedriften %3 %2 for $ %5 in %4 ble ikke kjøpt."/>
+        <text id="player_fail_by_action_text" need_translate="false" value="%1% av bedriften %3 %2 sitt aksjekjøp i %4 feilet. %6 var ikke interessert i å selge for $%5"/>
+        <text id="player_lost_trades_caption" need_translate="false" value="Auksjonen feilet. Du klarte ikke å kjøpe %1 i %2."/>
+        <text id="player_lost_trades_text" need_translate="false" value="Startprisen for %1 var $%2. Gjenstanden ble kjøpt av %3 for $%4"/>
+        <text id="player_missed_auction_caption" need_translate="false" value="%2 ble kjøpt av %1 for $%3"/>
+        <text id="player_missed_auction_text_1" need_translate="false" value="Gjenstanden %2 ble lagt ut for auksjon for $%3 i %1. Den ble kjøpt av %4 i %5 for %6"/>
+        <text id="player_missed_auction_text_2" need_translate="false" value="Gjenstanden ble solgt til den høyeste budgiveren. Prisen endte opp høyere enn startprisen. Det er ingenting dårlig med det fordi en dyr gjenstand kan øke kjøperens status i samfunnet og gi han en fortjeneste ved å selge den til en høyere pris i fremtiden"/>
+        <text id="player_missed_auction_text_3" need_translate="false" value="Husk at gjenstanden %1 er en begrenset utgave, noe som gjør dette en god investering. De sier at %2 vil gå opp med %3% per kvartal."/>
+        <text id="player_missed_auction_text_4" need_translate="false" value="Ifølge denne veksten vil tilbakebetalingsperioden til %1 være %2 kvartal(er) dersom luksusmarkedet er stabilt"/>
+        <text id="player_sale_action_caption" need_translate="false" value="%1% av aksjene til bedriften %3 %2 ble solgt for $ %5 i %4"/>
+        <text id="player_sale_action_text" need_translate="false" value="%1% av aksjene til bedriften %3 %2 ble solgt til en megler for $ %4"/>
+        <text id="player_sale_goods_to_nps_caption" need_translate="false" value="Du klarte å selge en %1 til %2 for $%3"/>
+        <text id="player_sale_goods_to_nps_caption_bonus" need_translate="false" value="Ditt forhold har økt med %1%"/>
+        <text id="player_sale_goods_to_nps_text" need_translate="false" value="Du klarte å selge en %1 for $%2. Auksjonsprisen er $%3. %4 er veldig takknemlig for det."/>
+        <text id="player_sale_goods_to_nps_text_bonus" need_translate="false" value="Lojaliteten til deg: %1"/>
+        <text id="player_salegoods_from_auc_caption" need_translate="false" value="%2 ble kjøpt av %1 for $%3"/>
+        <text id="player_salegoods_from_auc_text" need_translate="false" value="Du har klart å selge en %1 for $%2 i %3. Den ble kjøpt av %4 fra %5"/>
+        <text id="refuse_to_lend_text" need_translate="false" value="Grådighet vil ikke få oss til å bli venner! Tenk over det..."/>
+        <text id="reject_rout_text" need_translate="false" value="Jeg er opprørt over at du kansellerte invitasjonen til veldedighetsarrangementet!"/>
+        <text id="robbery_road_caption" need_translate="false" value="Toget fra %1 ble angrepet av banditter. Ditt tap: %2"/>
+        <text id="robbery_road_text_1" need_translate="false" value="Under bandittangrepet ble {nickname} skadet. Han trenger {days} dag(er) for å komme seg"/>
+        <text id="robbery_road_text_2" need_translate="false" value="Situasjonen på jernbanen har plutselig eskalert de siste dagene: banditter raner tog ved å skyte og drepe passasjerene nå og da. Den lokale politisjefen har ikke klart å fange dem. Vær forsiktig!"/>
+        <text id="robbery_road_text_3" need_translate="false" value="Den raske utviklingen av industrialiseringen fører til bygging av nye jernbaner. Som et resultat ble nye handelsruter bygget som er et enkelt bytte for banditter. Vær forsiktig med å velge en retning"/>
+        <text id="robbery_road_text_4" need_translate="false" value="Toget {train_name} ble angrepet av gangstere. {nickname} betalte $ {sum} for å unngå negative konsekvenser. Gangsterne klarte å rømme."/>
+        <text id="robbery_road_text_5" need_translate="false" value="Toget {train_name} ble angrepet av gangstere. {nickname} klarte å kjempe tilbake mot gangsterne."/>
+        <text id="strike_caption" need_translate="false" value="Streik ved %1 %2"/>
+        <text id="strike_occurred_caption" need_translate="false" value="Den største streiken oppstått mellom arbeidere i %1, %2, %3 bedrifter"/>
         <text id="strike_occurred_for_player_caption" need_translate="true" value=""/>
         <text id="strike_occurred_for_player_text" need_translate="true" value=""/>
         <text id="strike_occurred_text_1" need_translate="true" value=""/>
         <text id="strike_occurred_text_2" need_translate="true" value=""/>
         <text id="strike_occurred_text_3" need_translate="true" value=""/>
         <text id="strike_occurred_text_4" need_translate="true" value=""/>
-        <text id="strike_text" need_translate="true" value=""/>
-        <text id="train_delay_caption" need_translate="true" value=""/>
-        <text id="train_delay_text_1" need_translate="true" value=""/>
-        <text id="train_delay_text_2" need_translate="true" value=""/>
-        <text id="train_delay_text_3" need_translate="true" value=""/>
-        <text id="train_pay_caption" need_translate="true" value=""/>
+        <text id="strike_text" need_translate="false" value="Streiken vil redusere bedriftens produksjon og faktiske inntekt. Aksjeprisen kan synke noe. Hvis streiken blir eliminert kan aksjeprisen gå opp igjen."/>
+        <text id="train_delay_caption" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Ditt tap: %2 dag(er)"/>
+        <text id="train_delay_text_1" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er). Passasjerene og eieren av transportselskapet har for øyeblikket noen utfordringer. Eierne av hest og kjerre har utnyttet situasjonen - billettprisen har gått opp til $%3."/>
+        <text id="train_delay_text_2" need_translate="false" value="Transportbedrifter prøver å komme til topps. De produserer hele tiden nye vogner slik at jernbanens bæreevne vil gjøre det mulig å øke mengden transportert last og passasjerer, slik at eierne tjener mer penger."/>
+        <text id="train_delay_text_3" need_translate="false" value="Ved å forfølge rikdom har ikke eierne av bedriftene følgt med på kvaliteten til jernbanene deres... som et resultat, går skinnene ofte i stykker slik at passasjerene lider og får problemer"/>
+        <text id="train_pay_caption" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er)."/>
         <text id="warning_from_proprietor_text" need_translate="true" value=""/>
     </news_makets>
     <news_window>
