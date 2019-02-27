@@ -1488,36 +1488,36 @@
         <text id="stand_up_meal" need_translate="true" value=""/>
     </person_handler>
     <person_object>
-        <text id="agent" need_translate="true" value=""/>
-        <text id="agent_in_genetive" need_translate="true" value=""/>
-        <text id="assistant" need_translate="true" value=""/>
-        <text id="assistant_director" need_translate="true" value=""/>
-        <text id="assistant_director_in_genetive" need_translate="true" value=""/>
-        <text id="assistant_in_genetive" need_translate="true" value=""/>
-        <text id="ceo" need_translate="true" value=""/>
-        <text id="democrat" need_translate="true" value=""/>
-        <text id="director" need_translate="true" value=""/>
-        <text id="enemy_relation" need_translate="true" value=""/>
-        <text id="friend_relation" need_translate="true" value=""/>
-        <text id="investor" need_translate="true" value=""/>
-        <text id="investor_in_genetive" need_translate="true" value=""/>
-        <text id="loyality_bonus" need_translate="true" value=""/>
-        <text id="married" need_translate="true" value=""/>
-        <text id="neutral_relation" need_translate="true" value=""/>
-        <text id="official" need_translate="true" value=""/>
-        <text id="official_in_genetive" need_translate="true" value=""/>
-        <text id="player" need_translate="true" value=""/>
-        <text id="player_in_genetive" need_translate="true" value=""/>
-        <text id="politician" need_translate="true" value=""/>
-        <text id="politician_in_genetive" need_translate="true" value=""/>
-        <text id="relation_type" need_translate="true" value=""/>
-        <text id="religion_atheist" need_translate="true" value=""/>
-        <text id="religion_buddhist" need_translate="true" value=""/>
-        <text id="religion_christian" need_translate="true" value=""/>
-        <text id="religion_muslim" need_translate="true" value=""/>
-        <text id="republican" need_translate="true" value=""/>
-        <text id="shareholder" need_translate="true" value=""/>
-        <text id="single" need_translate="true" value=""/>
+        <text id="agent" need_translate="false" value="Agent"/>
+        <text id="agent_in_genetive" need_translate="false" value="Agent"/>
+        <text id="assistant" need_translate="false" value="Assistent"/>
+        <text id="assistant_director" need_translate="false" value="Direktør for &quot;{companyname}&quot;"/>
+        <text id="assistant_director_in_genetive" need_translate="false" value="Direktører for &quot;{companyname}&quot;"/>
+        <text id="assistant_in_genetive" need_translate="false" value="Assistent"/>
+        <text id="ceo" need_translate="false" value="Adm.dir."/>
+        <text id="democrat" need_translate="false" value="Demokrat"/>
+        <text id="director" need_translate="false" value="Direktør"/>
+        <text id="enemy_relation" need_translate="false" value="Motstander"/>
+        <text id="friend_relation" need_translate="false" value="Venn"/>
+        <text id="investor" need_translate="false" value="Investor"/>
+        <text id="investor_in_genetive" need_translate="false" value=""/>
+        <text id="loyality_bonus" need_translate="false" value="Hvis dine oppfatninger matcher en motstanders oppfatninger, vil du få en lojalitetsbonus på +10 (ellers -10)."/>
+        <text id="married" need_translate="false" value="Gift"/>
+        <text id="neutral_relation" need_translate="false" value="Nøytral"/>
+        <text id="official" need_translate="false" value="Embetsmann"/>
+        <text id="official_in_genetive" need_translate="false" value=""/>
+        <text id="player" need_translate="false" value="Spiller"/>
+        <text id="player_in_genetive" need_translate="false" value="spiller"/>
+        <text id="politician" need_translate="false" value="Politiker"/>
+        <text id="politician_in_genetive" need_translate="false" value="politiker"/>
+        <text id="relation_type" need_translate="false" value="Lojalitet: %1 (%2/100)"/>
+        <text id="religion_atheist" need_translate="false" value="Ateist"/>
+        <text id="religion_buddhist" need_translate="false" value="Buddhist"/>
+        <text id="religion_christian" need_translate="false" value="Kristen"/>
+        <text id="religion_muslim" need_translate="false" value="Muslim"/>
+        <text id="republican" need_translate="false" value="Republikaner"/>
+        <text id="shareholder" need_translate="false" value="Aksjonær"/>
+        <text id="single" need_translate="false" value="Singel"/>
     </person_object>
     <person_relations>
         <text id="influence" need_translate="true" value=""/>
