@@ -1278,8 +1278,8 @@
         <text id="workers_count_text" need_translate="true" value=""/>
     </map_filters_handler>
     <map_handler>
-        <text id="ticket_to_some_state" need_translate="true" value=""/>
-        <text id="you_are_moved" need_translate="true" value=""/>
+        <text id="ticket_to_some_state" need_translate="false" value="Du har fått en billett til '%1'"/>
+        <text id="you_are_moved" need_translate="false" value="Du har flyttet deg"/>
     </map_handler>
     <map_popup>
         <text id="bon_voyage" need_translate="true" value=""/>
