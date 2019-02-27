@@ -607,19 +607,19 @@
         <text id="winter" need_translate="true" value=""/>
     </date_handler>
     <date_month>
-        <text id="1" need_translate="true" value=""/>
-        <text id="10" need_translate="true" value=""/>
-        <text id="11" need_translate="true" value=""/>
-        <text id="12" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
-        <text id="6" need_translate="true" value=""/>
-        <text id="7" need_translate="true" value=""/>
-        <text id="8" need_translate="true" value=""/>
-        <text id="9" need_translate="true" value=""/>
-        <text id="year" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="januar"/>
+        <text id="10" need_translate="false" value="februar"/>
+        <text id="11" need_translate="false" value="mars"/>
+        <text id="12" need_translate="false" value="april"/>
+        <text id="2" need_translate="false" value="mai"/>
+        <text id="3" need_translate="false" value="juni"/>
+        <text id="4" need_translate="false" value="juli"/>
+        <text id="5" need_translate="false" value="august"/>
+        <text id="6" need_translate="false" value="september"/>
+        <text id="7" need_translate="false" value="oktober"/>
+        <text id="8" need_translate="false" value="november"/>
+        <text id="9" need_translate="false" value="desember"/>
+        <text id="year" need_translate="false" value="år"/>
     </date_month>
     <dialog_panel>
         <text id="attention" need_translate="true" value=""/>
