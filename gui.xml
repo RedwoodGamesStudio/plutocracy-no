@@ -1101,18 +1101,18 @@
         <text id="popup_text" need_translate="true" value=""/>
     </hire_director_popup>
     <hover_item>
-        <text id="cost_of_part" need_translate="true" value=""/>
-        <text id="invite_to_rout" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="relations" need_translate="true" value=""/>
-        <text id="sell" need_translate="true" value=""/>
-        <text id="some_safety_stock" need_translate="true" value=""/>
-        <text id="talks" need_translate="true" value=""/>
-        <text id="to_talks" need_translate="true" value=""/>
-        <text id="ups" need_translate="true" value=""/>
-        <text id="use_agent" need_translate="true" value=""/>
-        <text id="use_skill" need_translate="true" value=""/>
-        <text id="you_be_late_shareholder_already_on_talks" need_translate="true" value=""/>
+        <text id="cost_of_part" need_translate="false" value="Proporsjonspris"/>
+        <text id="invite_to_rout" need_translate="false" value="Inviter til hendelse"/>
+        <text id="profit" need_translate="false" value="Penger"/>
+        <text id="relations" need_translate="false" value="Lær relasjoner"/>
+        <text id="sell" need_translate="false" value="Selg"/>
+        <text id="some_safety_stock" need_translate="false" value="Aksjer"/>
+        <text id="talks" need_translate="false" value="Gå til forhandling"/>
+        <text id="to_talks" need_translate="false" value="Forhandling"/>
+        <text id="ups" need_translate="false" value="Oops!"/>
+        <text id="use_agent" need_translate="false" value="Bruk en agent"/>
+        <text id="use_skill" need_translate="false" value="Bruk en ferdighet"/>
+        <text id="you_be_late_shareholder_already_on_talks" need_translate="false" value=""/>
     </hover_item>
     <interesting_content>
         <text id="autumn" need_translate="true" value=""/>
