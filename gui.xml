@@ -1523,24 +1523,24 @@
         <text id="influence" need_translate="true" value=""/>
     </person_relations>
     <person_selection_window>
-        <text id="assign" need_translate="true" value=""/>
-        <text id="assistant" need_translate="true" value=""/>
-        <text id="chance" need_translate="true" value=""/>
-        <text id="characteristics" need_translate="true" value=""/>
-        <text id="diplomacy" need_translate="true" value=""/>
-        <text id="hire_assistant" need_translate="true" value=""/>
-        <text id="influence_hint_header" need_translate="true" value=""/>
-        <text id="influence_hint_text" need_translate="true" value=""/>
-        <text id="influence_table_header" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="patience" need_translate="true" value=""/>
-        <text id="patience_hint_header" need_translate="true" value=""/>
-        <text id="patience_hint_text" need_translate="true" value=""/>
-        <text id="photo" need_translate="true" value=""/>
-        <text id="select" need_translate="true" value=""/>
-        <text id="select_assistant" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="assign" need_translate="false" value="Gå til forhandling"/>
+        <text id="assistant" need_translate="false" value="Assistent"/>
+        <text id="chance" need_translate="false" value="Sjanse"/>
+        <text id="characteristics" need_translate="false" value="Egenskaper"/>
+        <text id="diplomacy" need_translate="false" value="Diplomati"/>
+        <text id="hire_assistant" need_translate="false" value="Ansett en assistent"/>
+        <text id="influence_hint_header" need_translate="false" value="Innflytelse"/>
+        <text id="influence_hint_text" need_translate="false" value=""/>
+        <text id="influence_table_header" need_translate="false" value="Innflytelse"/>
+        <text id="name" need_translate="false" value="Navn"/>
+        <text id="patience" need_translate="false" value="Utholdenhet"/>
+        <text id="patience_hint_header" need_translate="false" value="Utholdenhet"/>
+        <text id="patience_hint_text" need_translate="false" value=""/>
+        <text id="photo" need_translate="false" value="Foto"/>
+        <text id="select" need_translate="false" value="Velg"/>
+        <text id="select_assistant" need_translate="false" value="Ansett en assistent"/>
+        <text id="state" need_translate="false" value="%1, USA"/>
+        <text id="window_title" need_translate="false" value="Velg assistent"/>
     </person_selection_window>
     <person_skills>
         <text id="diplomacy" need_translate="true" value=""/>
