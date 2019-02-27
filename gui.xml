@@ -888,8 +888,8 @@
         <text id="talks_round" need_translate="true" value=""/>
     </discussion_panel>
     <discussion_process_background>
-        <text id="repeated_discussion_start_because_of_second_chance" need_translate="true" value=""/>
-        <text id="talks_process" need_translate="true" value=""/>
+        <text id="repeated_discussion_start_because_of_second_chance" need_translate="false" value="Gjentatt forhandling! Andre sjanse ble anvendt."/>
+        <text id="talks_process" need_translate="false" value="Forhandlingsprosess"/>
     </discussion_process_background>
     <discussion_result>
         <text id="consumed_days" need_translate="true" value=""/>
