@@ -1429,21 +1429,21 @@
         <text id="warning_from_proprietor_text" need_translate="true" value=""/>
     </news_makets>
     <news_window>
-        <text id="action" need_translate="true" value=""/>
-        <text id="attention" need_translate="true" value=""/>
-        <text id="auction" need_translate="true" value=""/>
-        <text id="cancel_button" need_translate="true" value=""/>
-        <text id="confirm_delete_text" need_translate="true" value=""/>
-        <text id="confirm_delete_title" need_translate="true" value=""/>
-        <text id="deal" need_translate="true" value=""/>
-        <text id="economic" need_translate="true" value=""/>
-        <text id="gwen_spacey" need_translate="true" value=""/>
-        <text id="news" need_translate="true" value=""/>
-        <text id="no_news" need_translate="true" value=""/>
-        <text id="ok_button" need_translate="true" value=""/>
-        <text id="politic" need_translate="true" value=""/>
-        <text id="self" need_translate="true" value=""/>
-        <text id="world" need_translate="true" value=""/>
+        <text id="action" need_translate="false" value="Aksjer"/>
+        <text id="attention" need_translate="false" value="Ulykker"/>
+        <text id="auction" need_translate="false" value="Auksjon"/>
+        <text id="cancel_button" need_translate="false" value="Avslå"/>
+        <text id="confirm_delete_text" need_translate="false" value="Er du sikker?"/>
+        <text id="confirm_delete_title" need_translate="false" value="Slett"/>
+        <text id="deal" need_translate="false" value="Lojalitet"/>
+        <text id="economic" need_translate="false" value="Økonomi"/>
+        <text id="gwen_spacey" need_translate="false" value="Gwen Spacey"/>
+        <text id="news" need_translate="false" value="Nyheter"/>
+        <text id="no_news" need_translate="false" value="Alle nyheter"/>
+        <text id="ok_button" need_translate="false" value="Ok"/>
+        <text id="politic" need_translate="false" value="Politikk"/>
+        <text id="self" need_translate="false" value="Personlig"/>
+        <text id="world" need_translate="false" value="Globalt"/>
     </news_window>
     <official_window>
         <text id="beliefs" need_translate="true" value=""/>
