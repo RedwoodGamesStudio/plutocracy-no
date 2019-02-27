@@ -343,21 +343,21 @@
         <text id="state" need_translate="true" value=""/>
     </companies_map>
     <companies_table>
-        <text id="capitalization" need_translate="true" value=""/>
-        <text id="companies_list" need_translate="true" value=""/>
-        <text id="factory_list" need_translate="true" value=""/>
-        <text id="magoritory" need_translate="true" value=""/>
-        <text id="margin" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="no_companies_in_this_state" need_translate="true" value=""/>
-        <text id="oops" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="size" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="stock" need_translate="true" value=""/>
-        <text id="stock_not_avaliable" need_translate="true" value=""/>
-        <text id="type" need_translate="true" value=""/>
+        <text id="capitalization" need_translate="false" value="Markedsverdi"/>
+        <text id="companies_list" need_translate="false" value="Liste over bedrifter"/>
+        <text id="factory_list" need_translate="false" value="Liste over bedrifter"/>
+        <text id="magoritory" need_translate="false" value="Min andel"/>
+        <text id="margin" need_translate="false" value="Margin"/>
+        <text id="name" need_translate="false" value="Navn"/>
+        <text id="no_companies_in_this_state" need_translate="false" value="Det er ingen bedrifter i denne staten!"/>
+        <text id="oops" need_translate="false" value="Oops!"/>
+        <text id="profit" need_translate="false" value="Profitt"/>
+        <text id="profitability" need_translate="false" value="Lønnsomhet"/>
+        <text id="size" need_translate="false" value="Størrelse"/>
+        <text id="state" need_translate="false" value="Stat"/>
+        <text id="stock" need_translate="false" value="Børs"/>
+        <text id="stock_not_avaliable" need_translate="false" value="I utvikling"/>
+        <text id="type" need_translate="false" value="Type"/>
     </companies_table>
     <company_event>
         <text id="accident_header" need_translate="true" value=""/>
