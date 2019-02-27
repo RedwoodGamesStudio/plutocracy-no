@@ -1040,40 +1040,40 @@
         <text id="bots_stopped" need_translate="true" value=""/>
     </game_bots>
     <game_events>
-        <text id="bet" need_translate="true" value=""/>
-        <text id="cancel_some_meetings" need_translate="true" value=""/>
-        <text id="charitable_contribution" need_translate="true" value=""/>
-        <text id="charitable_contribution_accept" need_translate="true" value=""/>
-        <text id="charitable_contribution_deny" need_translate="true" value=""/>
-        <text id="delay_at_way" need_translate="true" value=""/>
-        <text id="fortune_money_bonus" need_translate="true" value=""/>
-        <text id="fortune_money_bonus_to_your_purse" need_translate="true" value=""/>
-        <text id="hold_up_at_way" need_translate="true" value=""/>
-        <text id="hold_up_at_way_and_money_cost" need_translate="true" value=""/>
-        <text id="hold_up_at_way_and_win" need_translate="true" value=""/>
-        <text id="hold_up_at_way_and_wound" need_translate="true" value=""/>
-        <text id="money_cost" need_translate="true" value=""/>
-        <text id="no_reveal" need_translate="true" value=""/>
-        <text id="politiciant_money_support" need_translate="true" value=""/>
-        <text id="politiciant_money_support_accept" need_translate="true" value=""/>
+        <text id="bet" need_translate="false" value="Innsatsstørrelse"/>
+        <text id="cancel_some_meetings" need_translate="false" value="Du må nok kansellere noen møter"/>
+        <text id="charitable_contribution" need_translate="false" value="Du har blitt invitert til å ta del i en veldedighetsinnsamling. Det koster $ %1."/>
+        <text id="charitable_contribution_accept" need_translate="false" value="Du har akseptert tilbudet. Omdømmet ditt har gått opp med %1"/>
+        <text id="charitable_contribution_deny" need_translate="false" value="Du har avslått tilbudet. Omdømmet ditt har gått ned med %1"/>
+        <text id="delay_at_way" need_translate="false" value="Forsinkelse!"/>
+        <text id="fortune_money_bonus" need_translate="false" value="Du er heldig! Rikdommen din har økt med %1."/>
+        <text id="fortune_money_bonus_to_your_purse" need_translate="false" value="Du spilte verdig. Hent pengene dine!"/>
+        <text id="hold_up_at_way" need_translate="false" value="Stopp!"/>
+        <text id="hold_up_at_way_and_money_cost" need_translate="false" value="Livet ditt er dyrere! Du har blitt tvunget til å gi vekk $ %1."/>
+        <text id="hold_up_at_way_and_win" need_translate="false" value="Du ble forsøkt stoppet. Heldigvis klarte du å komme deg helskinnet fra det. Der var du heldig!"/>
+        <text id="hold_up_at_way_and_wound" need_translate="false" value="Du gav deg ikke i pistolkampen og ble skadet. Som et resultat, brukte du %1 dag(er) på å komme deg på beina igjen."/>
+        <text id="money_cost" need_translate="false" value="Du har leid et kjøretøy for %1."/>
+        <text id="no_reveal" need_translate="false" value="%1 nektet å krysse %2. Vennskap er større enn alt."/>
+        <text id="politiciant_money_support" need_translate="false" value="Du har fått et tilbud til å bli en donor av Mike sin valgkaamp. Donasjonssummen er %2"/>
+        <text id="politiciant_money_support_accept" need_translate="false" value="Politikerens sjanse for å bli gjenvalgt har gått opp med %1"/>
         <text id="politiciant_money_support_deny" need_translate="true" value=""/>
         <text id="relation_event" need_translate="true" value=""/>
-        <text id="relation_result_negative_value1" need_translate="true" value=""/>
-        <text id="relation_result_negative_value2" need_translate="true" value=""/>
-        <text id="relation_result_negative_value3" need_translate="true" value=""/>
-        <text id="relation_result_positive_text" need_translate="true" value=""/>
-        <text id="relation_result_positive_value1" need_translate="true" value=""/>
-        <text id="relation_result_positive_value2" need_translate="true" value=""/>
-        <text id="relation_result_positive_value3" need_translate="true" value=""/>
+        <text id="relation_result_negative_value1" need_translate="false" value="%1 sin lojalitet til deg: %2%"/>
+        <text id="relation_result_negative_value2" need_translate="false" value="%1 sin lojalitet til deg: %2%"/>
+        <text id="relation_result_negative_value3" need_translate="false" value="%1 sin lojalitet (alliert) til deg: +%2%"/>
+        <text id="relation_result_positive_text" need_translate="false" value="Dersom dette mislykkes:"/>
+        <text id="relation_result_positive_value1" need_translate="false" value="%1 sin lojalitet til deg: %2%"/>
+        <text id="relation_result_positive_value2" need_translate="false" value="%1 sin lojalitet til deg: -%2%"/>
+        <text id="relation_result_positive_value3" need_translate="false" value="%1 sin lojalitet (alliert) til deg: %2%"/>
         <text id="reveal_fail" need_translate="true" value=""/>
         <text id="reveal_success" need_translate="true" value=""/>
-        <text id="robbery_negative" need_translate="true" value=""/>
-        <text id="robbery_positive" need_translate="true" value=""/>
-        <text id="step" need_translate="true" value=""/>
-        <text id="time_cost" need_translate="true" value=""/>
-        <text id="wound_risk" need_translate="true" value=""/>
-        <text id="you_are_ready_to_actions" need_translate="true" value=""/>
-        <text id="you_loss_some_days" need_translate="true" value=""/>
+        <text id="robbery_negative" need_translate="false" value="Risiko for skade: %1%\nTid tapt: %2 dag(er)"/>
+        <text id="robbery_positive" need_translate="false" value="Tapt: $%1"/>
+        <text id="step" need_translate="true" value=" / runde"/>
+        <text id="time_cost" need_translate="false" value="Du brukte %1 dag(er) på reparasjonene"/>
+        <text id="wound_risk" need_translate="false" value="Risiko for skade: "/>
+        <text id="you_are_ready_to_actions" need_translate="false" value="Du er klar til å handle"/>
+        <text id="you_loss_some_days" need_translate="false" value="Du brukte %1 dag(er) på grunn av den ubehagelige hendelsen."/>
     </game_events>
     <game_events_handler>
         <text id="days" need_translate="true" value=""/>
