@@ -412,7 +412,6 @@
         <text id="working_hours" need_translate="true" value="Arbeidstid"/>
         <text id="workplaces_count" need_translate="true" value="Antall arbeidsplasser"/>
     </company_handler>
-    </company_handler>
     <company_info_panel>
         <text id="branch" need_translate="true" value=""/>
         <text id="capitalization" need_translate="true" value=""/>
