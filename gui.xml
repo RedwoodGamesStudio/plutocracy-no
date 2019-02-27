@@ -1076,13 +1076,13 @@
         <text id="you_loss_some_days" need_translate="true" value=""/>
     </game_events>
     <game_events_handler>
-        <text id="days" need_translate="true" value=""/>
-        <text id="half_a_year" need_translate="true" value=""/>
-        <text id="one_quarter" need_translate="true" value=""/>
-        <text id="one_year" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="you_will_get" need_translate="true" value=""/>
-        <text id="you_will_lose" need_translate="true" value=""/>
+        <text id="days" need_translate="false" value="dag(er)"/>
+        <text id="half_a_year" need_translate="false" value="halvt år"/>
+        <text id="one_quarter" need_translate="false" value="et kvartal"/>
+        <text id="one_year" need_translate="false" value="et år"/>
+        <text id="reputation" need_translate="false" value="Omdømme"/>
+        <text id="you_will_get" need_translate="false" value="Du får"/>
+        <text id="you_will_lose" need_translate="false" value="Du mister"/>
     </game_events_handler>
     <guest_card>
         <text id="communicate" need_translate="true" value=""/>
