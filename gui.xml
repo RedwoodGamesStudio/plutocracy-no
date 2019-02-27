@@ -1468,17 +1468,17 @@
         <text id="support_cost" need_translate="true" value=""/>
     </ownership_info>
     <ownership_popup>
-        <text id="auction_date" need_translate="true" value=""/>
-        <text id="base_price" need_translate="true" value=""/>
-        <text id="bidders_count" need_translate="true" value=""/>
-        <text id="buy_price" need_translate="true" value=""/>
-        <text id="cancel_auction" need_translate="true" value=""/>
-        <text id="market_price" need_translate="true" value=""/>
-        <text id="next" need_translate="true" value=""/>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="start_auction" need_translate="true" value=""/>
-        <text id="you_buy" need_translate="true" value=""/>
-        <text id="you_dont_buy" need_translate="true" value=""/>
+        <text id="auction_date" need_translate="false" value="Auksjonsdato"/>
+        <text id="base_price" need_translate="false" value="Startpris"/>
+        <text id="bidders_count" need_translate="false" value=""/>
+        <text id="buy_price" need_translate="false" value="Kjøpspris"/>
+        <text id="cancel_auction" need_translate="false" value="Avbryt"/>
+        <text id="market_price" need_translate="false" value="Markedspris"/>
+        <text id="next" need_translate="false" value="Fortsett"/>
+        <text id="prestige" need_translate="false" value="Prestisje"/>
+        <text id="start_auction" need_translate="false" value="Delta"/>
+        <text id="you_buy" need_translate="false" value="Gratulerer! Du har klart å vinne auksjonen! Du har kjøpt &quot;%1&quot;"/>
+        <text id="you_dont_buy" need_translate="false" value="Auksjonen feilet"/>
     </ownership_popup>
     <person_handler>
         <text id="cabaret_whirligirl" need_translate="true" value=""/>
