@@ -1459,7 +1459,7 @@
         <text id="title" need_translate="true" value=""/>
     </official_window>
     <opened_button>
-        <text id="action" need_translate="true" value=""/>
+        <text id="action" need_translate="false" value="Handling"/>
     </opened_button>
     <ownership_info>
         <text id="prestige" need_translate="true" value=""/>
