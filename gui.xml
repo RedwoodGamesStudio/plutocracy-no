@@ -413,30 +413,30 @@
         <text id="workplaces_count" need_translate="true" value=""/>
     </company_handler>
     <company_info_panel>
-        <text id="branch" need_translate="true" value=""/>
-        <text id="capitalization" need_translate="true" value=""/>
-        <text id="company_type" need_translate="true" value=""/>
-        <text id="control" need_translate="true" value=""/>
-        <text id="current_state" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
-        <text id="director" need_translate="true" value=""/>
-        <text id="dividends_per_share" need_translate="true" value=""/>
+        <text id="branch" need_translate="false" value="Industri:"/>
+        <text id="capitalization" need_translate="false" value="Markedsverdi:"/>
+        <text id="company_type" need_translate="false" value="Bedriftstype:"/>
+        <text id="control" need_translate="false" value="Kontroll:"/>
+        <text id="current_state" need_translate="false" value="Nåværende stat:"/>
+        <text id="deal_sum" need_translate="false" value=""/>
+        <text id="director" need_translate="false" value="Adm.dir: "/>
+        <text id="dividends_per_share" need_translate="false" value="Utbytte per aksje"/>
         <hints>
-            <text id="h_1" need_translate="true" value=""/>
-            <text id="h_2" need_translate="true" value=""/>
-            <text id="h_3" need_translate="true" value=""/>
-            <text id="t_1" need_translate="true" value=""/>
-            <text id="t_2" need_translate="true" value=""/>
-            <text id="t_3" need_translate="true" value=""/>
+            <text id="h_1" need_translate="false" value="Utbytte per aksje"/>
+            <text id="h_2" need_translate="false" value="ROI per kvartal"/>
+            <text id="h_3" need_translate="false" value="Resultatmargin"/>
+            <text id="t_1" need_translate="false" value="Summen av utbytte utstedt av bedriften for hver ordinære utestående aksje"/>
+            <text id="t_2" need_translate="false" value="Utbytte relativt til mengden investeringer i aksjer til markedspris per kvartal"/>
+            <text id="t_3" need_translate="false" value="Det representerer hvor mange prosent av salget som har blitt omgjort til fortjeneste. Jo høyere dette er, jo mer konkurransedyktig er bedriften"/>
         </hints>
-        <text id="profit_margin" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="roi" need_translate="true" value=""/>
-        <text id="scale_of_factory" need_translate="true" value=""/>
-        <text id="share_fair_price" need_translate="true" value=""/>
-        <text id="shareholder" need_translate="true" value=""/>
-        <text id="shares_portion" need_translate="true" value=""/>
-        <text id="year_roi" need_translate="true" value=""/>
+        <text id="profit_margin" need_translate="false" value="Resultatmargin"/>
+        <text id="profitability" need_translate="false" value="ROI:"/>
+        <text id="roi" need_translate="false" value="ROI:"/>
+        <text id="scale_of_factory" need_translate="false" value="Bedriftsstørrelse:"/>
+        <text id="share_fair_price" need_translate="false" value="Markedspris:"/>
+        <text id="shareholder" need_translate="false" value="Aksjonær:"/>
+        <text id="shares_portion" need_translate="false" value="Aksjeandel:"/>
+        <text id="year_roi" need_translate="false" value="Årlig fortjeneste"/>
     </company_info_panel>
     <company_window>
         <text id="action" need_translate="true" value=""/>
