@@ -1543,13 +1543,13 @@
         <text id="window_title" need_translate="true" value=""/>
     </person_selection_window>
     <person_skills>
-        <text id="diplomacy" need_translate="true" value=""/>
-        <text id="diplomacy_description" need_translate="true" value=""/>
-        <text id="economics" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="false" value="Diplomati"/>
+        <text id="diplomacy_description" need_translate="false" value="Ferdigheten påvirker spillerens bonus/straff til sjansen på å utføre en avtale"/>
+        <text id="economics" need_translate="false" value="Økonomi"/>
         <text id="economics_description" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
+        <text id="influence" need_translate="false" value="Politikk"/>
         <text id="influence_description" need_translate="true" value=""/>
-        <text id="politics" need_translate="true" value=""/>
+        <text id="politics" need_translate="false" value="Politikk"/>
         <text id="politics_description" need_translate="true" value=""/>
     </person_skills>
     <person_tooltip>
