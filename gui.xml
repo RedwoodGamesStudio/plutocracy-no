@@ -1290,34 +1290,34 @@
     </map_popup>
     <map_units>
         <cities>
-            <text id="albany" need_translate="true" value=""/>
-            <text id="buffalo" need_translate="true" value=""/>
-            <text id="chicago" need_translate="true" value=""/>
-            <text id="dalas" need_translate="true" value=""/>
-            <text id="elpaso" need_translate="true" value=""/>
-            <text id="fortworth" need_translate="true" value=""/>
-            <text id="houston" need_translate="true" value=""/>
-            <text id="naperville" need_translate="true" value=""/>
-            <text id="newyork" need_translate="true" value=""/>
-            <text id="ostin" need_translate="true" value=""/>
-            <text id="peoria" need_translate="true" value=""/>
-            <text id="rochester" need_translate="true" value=""/>
-            <text id="rockford" need_translate="true" value=""/>
-            <text id="sanantonio" need_translate="true" value=""/>
-            <text id="sentluis" need_translate="true" value=""/>
-            <text id="springfield" need_translate="true" value=""/>
-            <text id="syracuse" need_translate="true" value=""/>
-            <text id="watertown" need_translate="true" value=""/>
+            <text id="albany" need_translate="false" value="Albany"/>
+            <text id="buffalo" need_translate="false" value="Buffalo"/>
+            <text id="chicago" need_translate="false" value="Chicago"/>
+            <text id="dalas" need_translate="false" value="Dalas"/>
+            <text id="elpaso" need_translate="false" value="El Paso"/>
+            <text id="fortworth" need_translate="false" value="Fort Worth"/>
+            <text id="houston" need_translate="false" value="Houston"/>
+            <text id="naperville" need_translate="false" value="Naperville"/>
+            <text id="newyork" need_translate="false" value="New York"/>
+            <text id="ostin" need_translate="false" value="Ostin"/>
+            <text id="peoria" need_translate="false" value="Peoria"/>
+            <text id="rochester" need_translate="false" value="Rochester"/>
+            <text id="rockford" need_translate="false" value="Rockford"/>
+            <text id="sanantonio" need_translate="false" value="San Antonio"/>
+            <text id="sentluis" need_translate="false" value="St. louis"/>
+            <text id="springfield" need_translate="false" value="Springfield"/>
+            <text id="syracuse" need_translate="false" value="Syracuse"/>
+            <text id="watertown" need_translate="false" value="Watertown"/>
         </cities>
-        <text id="il_desc" need_translate="true" value=""/>
-        <text id="il_motto" need_translate="true" value=""/>
-        <text id="il_nickname" need_translate="true" value=""/>
-        <text id="ny_desc" need_translate="true" value=""/>
-        <text id="ny_motto" need_translate="true" value=""/>
-        <text id="ny_nickname" need_translate="true" value=""/>
-        <text id="tx_desc" need_translate="true" value=""/>
-        <text id="tx_motto" need_translate="true" value=""/>
-        <text id="tx_nickname" need_translate="true" value=""/>
+        <text id="il_desc" need_translate="false" value="Hovedstaden i Illionis er Springfield i den sentrale delen av\nstaten. Selv om statens største befolkningssenter er i og\nrundt Chicago i den nordøstre delen av staten, vokste statens europeiske\nbefolkning først i vesten, med franskmenn som bosatte seg langs\nMississippi elven, og gav området navnet Illionis County."/>
+        <text id="il_motto" need_translate="false" value="'Union, rettferdighet, og tillit'"/>
+        <text id="il_nickname" need_translate="false" value="Pelikanstaten"/>
+        <text id="ny_desc" need_translate="false" value="New York har blitt befolket av stammene til Algonquian og\nnIroquoian-snakkende indianere over flere hundre år\ninnen de første europeerne kom til New York. Franske kolonister og jesuit\nmisjonærer kom sørover fra Montreal for handel og misjonering. I 1609\n ble regionen besøkt av Henry Hudson som seilte for det nederlandske East India Company."/>
+        <text id="ny_motto" need_translate="false" value="'Excelsior'"/>
+        <text id="ny_nickname" need_translate="false" value="Keiserstaten"/>
+        <text id="tx_desc" need_translate="false" value="Begrepet 'seks flagg over Texas' refererer til flere nasjoner\nsom har hersket over territoriet. Spania var det første europeiske landet\nsom la krav på Texas. Frankrike hadde en midlertidig koloni. Mexico kontrollerte\nterritoriet frem til 1836 da Texas vant dens uavhengighet, og ble en uavhengig\nrepublikk. I 1845 ble Texas med i unionen som den 28. staten. Statens annektering startet\nen kjedereaksjon som ledet opp til krigen mellom Mexico og Amerika i 1846."/>
+        <text id="tx_motto" need_translate="false" value="Motto - 'Vennskap'"/>
+        <text id="tx_nickname" need_translate="false" value="Den enslige stjernestaten"/>
     </map_units>
     <math_functions>
         <text id="b" need_translate="true" value=""/>
