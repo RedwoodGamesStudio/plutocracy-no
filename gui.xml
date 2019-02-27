@@ -246,90 +246,90 @@
     </auction_window>
     <text id="autosave" need_translate="true" value=""/>
     <bankrupt_window>
-        <text id="allert_bankrupt" need_translate="true" value=""/>
-        <text id="close" need_translate="true" value=""/>
-        <text id="fix_sotuation" need_translate="true" value=""/>
-        <text id="message_bankrupt" need_translate="true" value=""/>
-        <text id="skip" need_translate="true" value=""/>
+        <text id="allert_bankrupt" need_translate="false" value="Den finansielle situasjonen til %1 holder på å gjøre dem konkurs. Hvis du ikke gjør noe vil bedriften gå konkurs neste runde."/>
+        <text id="close" need_translate="false" value="Lukk"/>
+        <text id="fix_sotuation" need_translate="false" value="Fiks situasjon"/>
+        <text id="message_bankrupt" need_translate="false" value="%1 gikk konkurs.\nBedriftstype: %2\nLokasjon:%3"/>
+        <text id="skip" need_translate="false" value="Ignorer"/>
     </bankrupt_window>
     <bonuse_roulette>
-        <text id="bonus" need_translate="true" value=""/>
-        <text id="close" need_translate="true" value=""/>
-        <text id="no_effect" need_translate="true" value=""/>
-        <text id="serial_failed_talks_penalty" need_translate="true" value=""/>
-        <text id="serial_successed_talks_bonus" need_translate="true" value=""/>
-        <text id="start" need_translate="true" value=""/>
-        <text id="stop" need_translate="true" value=""/>
+        <text id="bonus" need_translate="false" value="Bonus"/>
+        <text id="close" need_translate="false" value="Lukk"/>
+        <text id="no_effect" need_translate="false" value="Ingen effekt"/>
+        <text id="serial_failed_talks_penalty" need_translate="false" value="Den mislykkede forhandlingsserien. Du er bøtelagt!"/>
+        <text id="serial_successed_talks_bonus" need_translate="false" value="Den vellykkede forhandlingsserien. Du får en bonus!"/>
+        <text id="start" need_translate="false" value="Start"/>
+        <text id="stop" need_translate="false" value="Stopp"/>
     </bonuse_roulette>
     <border_button>
-        <text id="button" need_translate="true" value=""/>
+        <text id="button" need_translate="false" value="Knapp"/>
     </border_button>
     <broker_window>
-        <text id="blocked_button_hint" need_translate="true" value=""/>
-        <text id="broker_coeff" need_translate="true" value=""/>
-        <text id="condition" need_translate="true" value=""/>
-        <text id="sell" need_translate="true" value=""/>
-        <text id="selling_shares_to_broker" need_translate="true" value=""/>
-        <text id="shares_count" need_translate="true" value=""/>
-        <text id="total_sum" need_translate="true" value=""/>
+        <text id="blocked_button_hint" need_translate="false" value="Du kan ikke selle 0 aksjer"/>
+        <text id="broker_coeff" need_translate="false" value="Megleravgift"/>
+        <text id="condition" need_translate="false" value="Vilkår"/>
+        <text id="sell" need_translate="false" value="Selg"/>
+        <text id="selling_shares_to_broker" need_translate="false" value="Megling"/>
+        <text id="shares_count" need_translate="false" value="Aksjer %"/>
+        <text id="total_sum" need_translate="false" value="Total"/>
     </broker_window>
     <cabinet_window>
-        <text id="raut_warning" need_translate="true" value=""/>
-        <text id="raut_warning_detail" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="raut_warning" need_translate="false" value="Informasjon!"/>
+        <text id="raut_warning_detail" need_translate="false" value="Du kan organisere snokingen en gang per runde."/>
+        <text id="window_title" need_translate="false" value="Kontor"/>
     </cabinet_window>
     <cancel_event_popup>
-        <text id="cancel_event" need_translate="true" value=""/>
-        <text id="cancel_negotiation" need_translate="true" value=""/>
-        <text id="cancel_question" need_translate="true" value=""/>
-        <text id="cancel_result_negotiation" need_translate="true" value=""/>
-        <text id="cancel_result_relation_rout" need_translate="true" value=""/>
-        <text id="cancel_result_relation_travel" need_translate="true" value=""/>
-        <text id="cancel_result_reputation_rout" need_translate="true" value=""/>
-        <text id="cancel_result_reputation_travel" need_translate="true" value=""/>
-        <text id="cancel_rout" need_translate="true" value=""/>
-        <text id="popup_no_button" need_translate="true" value=""/>
-        <text id="popup_ok_button" need_translate="true" value=""/>
-        <text id="popup_yes_button" need_translate="true" value=""/>
-        <text id="travel_no_button" need_translate="true" value=""/>
-        <text id="travel_question" need_translate="true" value=""/>
-        <text id="travel_yes_button" need_translate="true" value=""/>
+        <text id="cancel_event" need_translate="false" value="Kanseller planlagt arrangement"/>
+        <text id="cancel_negotiation" need_translate="false" value="Kanselleringen av møtet har skadet forholdet med %1"/>
+        <text id="cancel_question" need_translate="false" value="Kanselleringen av møtet vil skade omdømmet ditt. Er du sikker på at du vil kansellere møtet?"/>
+        <text id="cancel_result_negotiation" need_translate="false" value="Forhold med %1"/>
+        <text id="cancel_result_relation_rout" need_translate="false" value="Gjesters forhold"/>
+        <text id="cancel_result_relation_travel" need_translate="false" value="Forhold med gjester"/>
+        <text id="cancel_result_reputation_rout" need_translate="false" value="Omdømme"/>
+        <text id="cancel_result_reputation_travel" need_translate="false" value=""/>
+        <text id="cancel_rout" need_translate="false" value="Kanselleringen har skadet omdømmet og forholdet med de inviterte gjestene."/>
+        <text id="popup_no_button" need_translate="false" value="Tenk deg om"/>
+        <text id="popup_ok_button" need_translate="false" value="Ok"/>
+        <text id="popup_yes_button" need_translate="false" value="Avbryt"/>
+        <text id="travel_no_button" need_translate="false" value="Tenk deg om"/>
+        <text id="travel_question" need_translate="false" value="Du har planlagte møter. Hvis du kansellerer de, vil du skade omdømmet ditt. Hva er valget ditt?"/>
+        <text id="travel_yes_button" need_translate="false" value="Kjøp billett"/>
     </cancel_event_popup>
     <cancel_negotiation_popup>
-        <text id="alco_header" need_translate="true" value=""/>
-        <text id="alco_text" need_translate="true" value=""/>
-        <text id="button_negative_hover" need_translate="true" value=""/>
-        <text id="button_negative_text" need_translate="true" value=""/>
-        <text id="button_positive_hover" need_translate="true" value=""/>
-        <text id="button_positive_text" need_translate="true" value=""/>
-        <text id="header" need_translate="true" value=""/>
-        <text id="no" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
-        <text id="yes" need_translate="true" value=""/>
+        <text id="alco_header" need_translate="false" value="Avtalen er kansellert!"/>
+        <text id="alco_text" need_translate="false" value="Avtalen ble kansellert av %1 fordi han ikke følte seg bra. Pusten hans luktet alkohol."/>
+        <text id="button_negative_hover" need_translate="false" value="%1's omdømme: -%2\nLojaliteten til %3: %4"/>
+        <text id="button_negative_text" need_translate="false" value="Det er ingenting å snakke om, %1"/>
+        <text id="button_positive_hover" need_translate="false" value="Gå til avtalen"/>
+        <text id="button_positive_text" need_translate="false" value="La meg se"/>
+        <text id="header" need_translate="false" value="Avbryt avtale"/>
+        <text id="no" need_translate="false" value="Tenk deg om"/>
+        <text id="text" need_translate="false" value="%1Er du sikker på at du vil avbryte avtalen med %2?"/>
+        <text id="yes" need_translate="false" value="Avbryt"/>
     </cancel_negotiation_popup>
     <cap_block>
-        <text id="loading" need_translate="true" value=""/>
-        <text id="press_any_key_to_continue" need_translate="true" value=""/>
+        <text id="loading" need_translate="false" value="Laster..."/>
+        <text id="press_any_key_to_continue" need_translate="false" value="Press hvilken som helst tast for å fortsette..."/>
     </cap_block>
     <circle_progress_bar>
-        <text id="xp" need_translate="true" value=""/>
+        <text id="xp" need_translate="false" value=" XP"/>
     </circle_progress_bar>
     <collections_window>
-        <text id="auc_price_2" need_translate="true" value=""/>
-        <text id="buy" need_translate="true" value=""/>
-        <text id="buy_price" need_translate="true" value=""/>
-        <text id="buy_price_2" need_translate="true" value=""/>
-        <text id="demand" need_translate="true" value=""/>
-        <text id="description" need_translate="true" value=""/>
-        <text id="inform" need_translate="true" value=""/>
-        <text id="market_price" need_translate="true" value=""/>
-        <text id="market_price_2" need_translate="true" value=""/>
-        <text id="no_money_to_buy_hint_header" need_translate="true" value=""/>
-        <text id="no_money_to_buy_hint_text" need_translate="true" value=""/>
-        <text id="profit_by_all" need_translate="true" value=""/>
-        <text id="profit_by_step" need_translate="true" value=""/>
-        <text id="sale" need_translate="true" value=""/>
-        <text id="sale_price" need_translate="true" value=""/>
+        <text id="auc_price_2" need_translate="false" value="Auksjonspris"/>
+        <text id="buy" need_translate="false" value="Kjøp"/>
+        <text id="buy_price" need_translate="false" value="Kjøpspris"/>
+        <text id="buy_price_2" need_translate="false" value="Kjøpspris"/>
+        <text id="demand" need_translate="false" value="Spør"/>
+        <text id="description" need_translate="false" value="Beskrivelse"/>
+        <text id="inform" need_translate="false" value="Informasjon"/>
+        <text id="market_price" need_translate="false" value="Markedspris"/>
+        <text id="market_price_2" need_translate="false" value="Markedspris"/>
+        <text id="no_money_to_buy_hint_header" need_translate="false" value="Eiendomskjøp"/>
+        <text id="no_money_to_buy_hint_text" need_translate="false" value="Du har ikke nok penger til å kjøpe denne gjenstanden"/>
+        <text id="profit_by_all" need_translate="false" value="Total fortjeneste"/>
+        <text id="profit_by_step" need_translate="false" value="Fortjeneste per kvartal"/>
+        <text id="sale" need_translate="false" value="Selg"/>
+        <text id="sale_price" need_translate="false" value="Salgspris"/>
     </collections_window>
     <companies_map>
         <text id="alert" need_translate="true" value=""/>
