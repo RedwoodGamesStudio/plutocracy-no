@@ -875,13 +875,13 @@
         <text id="popup_title_negotiation" need_translate="true" value=""/>
     </discussion_info_popup>
     <discussion_offer>
-        <text id="agree" need_translate="true" value=""/>
-        <text id="counter_offer" need_translate="true" value=""/>
-        <text id="deal_conditions" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
-        <text id="deny" need_translate="true" value=""/>
-        <text id="safety_stock_cost" need_translate="true" value=""/>
-        <text id="safety_stock_quantity" need_translate="true" value=""/>
+        <text id="agree" need_translate="false" value="Aksepter"/>
+        <text id="counter_offer" need_translate="false" value="Mottilbud"/>
+        <text id="deal_conditions" need_translate="false" value="Avtalebetingelser"/>
+        <text id="deal_sum" need_translate="false" value="Avtalesum"/>
+        <text id="deny" need_translate="false" value="Avslå"/>
+        <text id="safety_stock_cost" need_translate="false" value="Aksjepris"/>
+        <text id="safety_stock_quantity" need_translate="false" value="Antall aksjer"/>
     </discussion_offer>
     <discussion_panel>
         <text id="talks_progress" need_translate="true" value=""/>
