@@ -1007,10 +1007,10 @@
         <text id="rivals" need_translate="true" value=""/>
     </economic>
     <event_result>
-        <text id="button_next" need_translate="true" value=""/>
-        <text id="fail_text" need_translate="true" value=""/>
-        <text id="money" need_translate="true" value=""/>
-        <text id="rout_result_header" need_translate="true" value=""/>
+        <text id="button_next" need_translate="false" value="Fortsett"/>
+        <text id="fail_text" need_translate="false" value="Beklageligvis ville ingen VIPer komme. Kjøp eiendommen på auksjon for å øke prestisjen din!"/>
+        <text id="money" need_translate="false" value="Penger"/>
+        <text id="rout_result_header" need_translate="false" value="Resultat"/>
     </event_result>
     <game_bot>
         <text id="bot_buy_some_safety_stock_ang_go_to_politiciants" need_translate="true" value=""/>
