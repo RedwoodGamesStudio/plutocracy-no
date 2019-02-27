@@ -1446,17 +1446,17 @@
         <text id="world" need_translate="true" value=""/>
     </news_window>
     <official_window>
-        <text id="beliefs" need_translate="true" value=""/>
-        <text id="characteristics" need_translate="true" value=""/>
-        <text id="diplomacy" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="loyality" need_translate="true" value=""/>
-        <text id="marriage" need_translate="true" value=""/>
-        <text id="party" need_translate="true" value=""/>
-        <text id="person" need_translate="true" value=""/>
-        <text id="religion" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="title" need_translate="true" value=""/>
+        <text id="beliefs" need_translate="false" value="Oppfatninger"/>
+        <text id="characteristics" need_translate="false" value="Ferdigheter"/>
+        <text id="diplomacy" need_translate="false" value="Diplomati"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="loyality" need_translate="false" value="Lojalitet"/>
+        <text id="marriage" need_translate="false" value="Sivilstatus"/>
+        <text id="party" need_translate="false" value="Parti"/>
+        <text id="person" need_translate="false" value="Karakter"/>
+        <text id="religion" need_translate="false" value="Religion"/>
+        <text id="reputation" need_translate="false" value="Omdømme"/>
+        <text id="title" need_translate="false" value="Embete"/>
     </official_window>
     <opened_button>
         <text id="action" need_translate="true" value=""/>
