@@ -1140,10 +1140,10 @@
         <text id="shareholder" need_translate="true" value=""/>
     </item_with_check_model>
     <left_panel>
-        <text id="h_1" need_translate="true" value=""/>
-        <text id="h_2" need_translate="true" value=""/>
-        <text id="h_3" need_translate="true" value=""/>
-        <text id="h_4" need_translate="true" value=""/>
+        <text id="h_1" need_translate="false" value="Assistenter"/>
+        <text id="h_2" need_translate="false" value="I utvikling"/>
+        <text id="h_3" need_translate="false" value="I utvikling"/>
+        <text id="h_4" need_translate="false" value="Merknader"/>
     </left_panel>
     <level_figures>
         <text id="bishop" need_translate="true" value=""/>
