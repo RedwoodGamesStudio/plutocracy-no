@@ -1325,13 +1325,13 @@
         <text id="m" need_translate="true" value=""/>
     </math_functions>
     <menu>
-        <text id="pause_menu" need_translate="true" value=""/>
-        <text id="pause_menu_continue" need_translate="true" value=""/>
-        <text id="pause_menu_load" need_translate="true" value=""/>
-        <text id="pause_menu_main_screen" need_translate="true" value=""/>
-        <text id="pause_menu_quick_save" need_translate="true" value=""/>
-        <text id="pause_menu_settings" need_translate="true" value=""/>
-        <text id="settings_menu" need_translate="true" value=""/>
+        <text id="pause_menu" need_translate="false" value="Pausemeny"/>
+        <text id="pause_menu_continue" need_translate="false" value="Forsett"/>
+        <text id="pause_menu_load" need_translate="false" value="Last spill"/>
+        <text id="pause_menu_main_screen" need_translate="false" value="Hovedmeny"/>
+        <text id="pause_menu_quick_save" need_translate="false" value="Lagre spill"/>
+        <text id="pause_menu_settings" need_translate="false" value="Innstillinger"/>
+        <text id="settings_menu" need_translate="false" value="Spillinnstillinger"/>
     </menu>
     <message_box>
         <text id="attention" need_translate="true" value=""/>
