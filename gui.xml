@@ -360,20 +360,20 @@
         <text id="type" need_translate="true" value=""/>
     </companies_table>
     <company_event>
-        <text id="accident_header" need_translate="true" value=""/>
-        <text id="accident_text" need_translate="true" value=""/>
-        <text id="agree" need_translate="true" value=""/>
-        <text id="decide" need_translate="true" value=""/>
-        <text id="decline" need_translate="true" value=""/>
-        <text id="effects" need_translate="true" value=""/>
-        <text id="negative_result_accident" need_translate="true" value=""/>
-        <text id="negative_result_strike" need_translate="true" value=""/>
-        <text id="positive_result_accident" need_translate="true" value=""/>
-        <text id="positive_result_salary" need_translate="true" value=""/>
-        <text id="positive_result_working_hours" need_translate="true" value=""/>
-        <text id="strike_header" need_translate="true" value=""/>
-        <text id="strike_text_salary" need_translate="true" value=""/>
-        <text id="strike_text_working_hours" need_translate="true" value=""/>
+        <text id="accident_header" need_translate="false" value="Ulykke"/>
+        <text id="accident_text" need_translate="false" value="Det oppstod en ulykke i bedriften %1! Dette resulterte i at %2 person(er) ble skadet. Arbeidere påvirker produksjonsvolumet. Kompensasjonen er %3. Hva er dine handlinger?"/>
+        <text id="agree" need_translate="false" value="Ok"/>
+        <text id="decide" need_translate="false" value="Ta avgjørelsen"/>
+        <text id="decline" need_translate="false" value="Gi løfter"/>
+        <text id="effects" need_translate="false" value="Konsekvenser"/>
+        <text id="negative_result_accident" need_translate="false" value="Bedriftens velvilje vil gå ned med $1%"/>
+        <text id="negative_result_strike" need_translate="false" value="Det er en %3% sjanse for at bedriftens kvartalsinntekt vil gå ned med $%1 (%2% av total inntekt)"/>
+        <text id="positive_result_accident" need_translate="false" value="Bedriftens inntekt vil gå ned med $%1 (%2% av total inntekt)"/>
+        <text id="positive_result_salary" need_translate="false" value="Bedriftens utgifter vil øke med $%1 (%2% av total inntekt)"/>
+        <text id="positive_result_working_hours" need_translate="false" value="Bedriftens inntekt vil gå ned med $%1 (%2% av total inntekt)"/>
+        <text id="strike_header" need_translate="false" value="Streik"/>
+        <text id="strike_text_salary" need_translate="false" value="%1 arbeidere streiker på grunn av lave lønninger! De krever an lønnsøkning på $%2. Aksepterer du kravene deres?"/>
+        <text id="strike_text_working_hours" need_translate="false" value="%1 arbeidere streiker! De er misfornøyde med de lange arbeidsdagene. De krever at arbeidsdagen minskes med %2 time(r). Aksepterer du kravene deres?"/>
     </company_event>
     <company_handler>
         <text id="accident_risk" need_translate="true" value=""/>
