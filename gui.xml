@@ -1481,11 +1481,11 @@
         <text id="you_dont_buy" need_translate="true" value=""/>
     </ownership_popup>
     <person_handler>
-        <text id="cabaret_whirligirl" need_translate="true" value=""/>
-        <text id="celebrities" need_translate="true" value=""/>
-        <text id="firework" need_translate="true" value=""/>
-        <text id="musician" need_translate="true" value=""/>
-        <text id="stand_up_meal" need_translate="true" value=""/>
+        <text id="cabaret_whirligirl" need_translate="false" value="Cabaretdansere"/>
+        <text id="celebrities" need_translate="false" value="Kjendis"/>
+        <text id="firework" need_translate="false" value="Fyrverkeri"/>
+        <text id="musician" need_translate="false" value="Musikere"/>
+        <text id="stand_up_meal" need_translate="false" value="Bankett"/>
     </person_handler>
     <person_object>
         <text id="agent" need_translate="true" value=""/>
