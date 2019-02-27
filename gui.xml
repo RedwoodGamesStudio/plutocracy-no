@@ -857,15 +857,15 @@
         <text id="you_want_to_buy_some_safety_stock" need_translate="true" value=""/>
     </discussion_handler>
     <discussion_history_log>
-        <text id="dialog_fail" need_translate="true" value=""/>
-        <text id="dialog_success" need_translate="true" value=""/>
-        <text id="dialog_success_loan" need_translate="true" value=""/>
-        <text id="first_offer" need_translate="true" value=""/>
-        <text id="next_offer" need_translate="true" value=""/>
-        <text id="player_offer" need_translate="true" value=""/>
-        <text id="player_offer_pay_loan" need_translate="true" value=""/>
-        <text id="player_offer_take_loan" need_translate="true" value=""/>
-        <text id="round" need_translate="true" value=""/>
+        <text id="dialog_fail" need_translate="false" value="Avtalen med %1 feilet"/>
+        <text id="dialog_success" need_translate="false" value="Avtalen med %1 er utført: %2 aksjer for $%3 - Totalt $%4"/>
+        <text id="dialog_success_loan" need_translate="false" value="Avtalen med %1 er utført: %3% av totalt $%2 per kvartal"/>
+        <text id="first_offer" need_translate="false" value="%1 tilbyr %2 aksjer for $%3 per aksje - Totalt $%4"/>
+        <text id="next_offer" need_translate="false" value="Mottilbud fra %1: %2 aksjer for $%3 per aksje - Totalt $%4"/>
+        <text id="player_offer" need_translate="false" value="Mitt tilbud: %1 aksjer for $%2 per aksje - Totalt $%3. Sjansen for suksess er %4%"/>
+        <text id="player_offer_pay_loan" need_translate="false" value="Mitt tilbud til %1: %3% av totalt $%2 per kvartal. Sjansen for suksess er %4%"/>
+        <text id="player_offer_take_loan" need_translate="false" value="Jeg betalte tilbake min gjeld på $%2 til %1"/>
+        <text id="round" need_translate="false" value="Runde"/>
     </discussion_history_log>
     <discussion_info_popup>
         <text id="cancel_negotiation" need_translate="true" value=""/>
