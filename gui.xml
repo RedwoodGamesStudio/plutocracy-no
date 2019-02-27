@@ -892,13 +892,13 @@
         <text id="talks_process" need_translate="true" value=""/>
     </discussion_process_background>
     <discussion_result>
-        <text id="consumed_days" need_translate="true" value=""/>
-        <text id="deal_result" need_translate="true" value=""/>
-        <text id="experience" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="money" need_translate="true" value=""/>
-        <text id="ok" need_translate="true" value=""/>
-        <text id="some_days" need_translate="true" value=""/>
+        <text id="consumed_days" need_translate="false" value="Dag(er) brukt"/>
+        <text id="deal_result" need_translate="false" value="Avtaleresultat"/>
+        <text id="experience" need_translate="false" value="XP"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="money" need_translate="false" value="Penger"/>
+        <text id="ok" need_translate="false" value="Ok"/>
+        <text id="some_days" need_translate="false" value="%1-%2 dag(er)"/>
     </discussion_result>
     <discussion_result_message_box>
         <text id="talks_failure" need_translate="true" value=""/>
