@@ -2055,31 +2055,31 @@
         <text id="state_politicans" need_translate="true" value=""/>
     </politicans_window>
     <politician_window>
-        <text id="characteristics" need_translate="true" value=""/>
-        <text id="end_term" need_translate="true" value=""/>
-        <text id="end_term_hint" need_translate="true" value=""/>
-        <text id="end_term_hint_text" need_translate="true" value=""/>
-        <text id="fund" need_translate="true" value=""/>
-        <text id="fund_hint" need_translate="true" value=""/>
-        <text id="fund_hint_text" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="influence_change" need_translate="true" value=""/>
-        <text id="influence_change_hint" need_translate="true" value=""/>
-        <text id="influence_change_hint_text" need_translate="true" value=""/>
-        <text id="influence_hint" need_translate="true" value=""/>
-        <text id="influence_hint_text" need_translate="true" value=""/>
-        <text id="party" need_translate="true" value=""/>
-        <text id="party_hint_text" need_translate="true" value=""/>
-        <text id="person" need_translate="true" value=""/>
-        <text id="rating" need_translate="true" value=""/>
-        <text id="rating_hint" need_translate="true" value=""/>
-        <text id="rating_hint_text" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="reputation_hint" need_translate="true" value=""/>
-        <text id="reputation_hint_text" need_translate="true" value=""/>
-        <text id="sponsors" need_translate="true" value=""/>
-        <text id="sponsors_hint" need_translate="true" value=""/>
-        <text id="sponsors_hint_text" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="false" value="Egenskaper"/>
+        <text id="end_term" need_translate="false" value="Mandatperiode"/>
+        <text id="end_term_hint" need_translate="false" value="Mandatperiode"/>
+        <text id="end_term_hint_text" need_translate="false" value="Antall kvartaler som denne karakteren vil beholde embetet hans"/>
+        <text id="fund" need_translate="false" value="Finansier"/>
+        <text id="fund_hint" need_translate="false" value="Finansier valgkamp"/>
+        <text id="fund_hint_text" need_translate="false" value="Jo høyere finansieringen er på, jo større sjanse har karakteren på å vinne valget"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="influence_change" need_translate="false" value="Ekstra innflytelse"/>
+        <text id="influence_change_hint" need_translate="false" value="Ekstra innflytelse"/>
+        <text id="influence_change_hint_text" need_translate="false" value="Ekstra innflytelsespoeng hver runde"/>
+        <text id="influence_hint" need_translate="false" value="Personlig innflytelse"/>
+        <text id="influence_hint_text" need_translate="false" value="Den personlige innflytelsen til karakteren"/>
+        <text id="party" need_translate="false" value="Parti"/>
+        <text id="party_hint_text" need_translate="false" value="Karakterens politiske ståsted"/>
+        <text id="person" need_translate="false" value="Karakter"/>
+        <text id="rating" need_translate="false" value="Rangering"/>
+        <text id="rating_hint" need_translate="false" value="Rangering"/>
+        <text id="rating_hint_text" need_translate="false" value="Dette er rangeringen blant befolkningen. Jo nærmere 100% den er, jo større er sjansen for at karakteren vil bli valgt for neste mandatperiode"/>
+        <text id="reputation" need_translate="false" value="Omdømme"/>
+        <text id="reputation_hint" need_translate="false" value="Karakterens omdømme"/>
+        <text id="reputation_hint_text" need_translate="false" value="Hvis omdømmet ditt er bedre enn motstanderens omdømme, vil det være mye enklere å lage avtaler, men du vil få en omdømmestraff på -1 poeng"/>
+        <text id="sponsors" need_translate="false" value="Donorer"/>
+        <text id="sponsors_hint" need_translate="false" value="Valgkampdonorer"/>
+        <text id="sponsors_hint_text" need_translate="false" value="Flere donorer bidrar til å vinne valgkampen"/>
     </politician_window>
     <previous_panel>
         <text id="business_offer " need_translate="true" value=""/>
