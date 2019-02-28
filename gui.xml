@@ -2051,8 +2051,8 @@
         <text id="popularity" need_translate="true" value=""/>
     </politican_panel>
     <politicans_window>
-        <text id="limited_for_alpha_version" need_translate="true" value=""/>
-        <text id="state_politicans" need_translate="true" value=""/>
+        <text id="limited_for_alpha_version" need_translate="false" value="Under utvikling... Dette er begrenset! Kom tilbake senere. :)"/>
+        <text id="state_politicans" need_translate="false" value="Statspolitikere"/>
     </politicans_window>
     <politician_window>
         <text id="characteristics" need_translate="true" value=""/>
