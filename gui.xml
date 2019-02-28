@@ -2012,13 +2012,13 @@
         <text id="yes" need_translate="true" value=""/>
     </player_window>
     <players_view>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="influence_by_step" need_translate="true" value=""/>
-        <text id="money" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profit_by_step" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="influence_by_step" need_translate="false" value="Innflytelse hver runde"/>
+        <text id="money" need_translate="false" value="Penger"/>
+        <text id="profit" need_translate="false" value="Kontanter"/>
+        <text id="profit_by_step" need_translate="false" value="Kontanter hver runde"/>
+        <text id="reputation" need_translate="false" value="Omdømme"/>
+        <text id="state" need_translate="false" value="Rikdom"/>
     </players_view>
     <politican_finance_panel>
         <text id="financing_by_step" need_translate="true" value=""/>
