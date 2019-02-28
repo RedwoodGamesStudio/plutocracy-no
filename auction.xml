@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <auction>
     <common>
-        <text id="text_2" need_translate="true" value=""/>
-        <text id="text_3" need_translate="true" value=""/>
-        <text id="text_start" need_translate="true" value=""/>
-        <text id="text_win" need_translate="true" value=""/>
+        <text id="text_2" need_translate="false" value="Gir du meg %BID?!"/>
+        <text id="text_3" need_translate="false" value="nå %BID, nå %BID..."/>
+        <text id="text_start" need_translate="false" value="Jeg er på %BID!"/>
+        <text id="text_win" need_translate="false" value="solgt for %BID!"/>
     </common>
 </auction>
