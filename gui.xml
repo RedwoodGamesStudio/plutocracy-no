@@ -2283,58 +2283,58 @@
         <text id="world" need_translate="true" value=""/>
     </state_window>
     <statistics_popup_handler>
-        <text id="actives" need_translate="true" value=""/>
-        <text id="arrearage" need_translate="true" value=""/>
-        <text id="assets" need_translate="true" value=""/>
-        <text id="assets_summary_total" need_translate="true" value=""/>
-        <text id="assistants" need_translate="true" value=""/>
-        <text id="avaliable_influence" need_translate="true" value=""/>
-        <text id="base_influence" need_translate="true" value=""/>
-        <text id="cash" need_translate="true" value=""/>
-        <text id="companies_influence_change" need_translate="true" value=""/>
-        <text id="company_influence" need_translate="true" value=""/>
-        <text id="confidence_summary_total" need_translate="true" value=""/>
-        <text id="cost" need_translate="true" value=""/>
-        <text id="credits" need_translate="true" value=""/>
-        <text id="directors_salary" need_translate="true" value=""/>
-        <text id="estate_summary_total" need_translate="true" value=""/>
-        <text id="financial_support" need_translate="true" value=""/>
-        <text id="free_cash" need_translate="true" value=""/>
-        <text id="free_influence" need_translate="true" value=""/>
-        <text id="free_influence_description" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="influence_per_day" need_translate="true" value=""/>
-        <text id="influence_summary_total" need_translate="true" value=""/>
-        <text id="inherent" need_translate="true" value=""/>
-        <text id="interest_summary_total" need_translate="true" value=""/>
-        <text id="intrinsic_prestige" need_translate="true" value=""/>
-        <text id="lending_and_obligations" need_translate="true" value=""/>
-        <text id="max_influence" need_translate="true" value=""/>
-        <text id="max_influence_description" need_translate="true" value=""/>
-        <text id="obligations_and_deposits" need_translate="true" value=""/>
-        <text id="ownerships_profit" need_translate="true" value=""/>
-        <text id="passives" need_translate="true" value=""/>
-        <text id="personal_influence_change" need_translate="true" value=""/>
-        <text id="politician_influence" need_translate="true" value=""/>
-        <text id="power" need_translate="true" value=""/>
-        <text id="power_per_step" need_translate="true" value=""/>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="prestige_from_companies" need_translate="true" value=""/>
-        <text id="prestige_from_ownerships" need_translate="true" value=""/>
-        <text id="prestige_level" need_translate="true" value=""/>
-        <text id="prestige_next_threshold" need_translate="true" value=""/>
-        <text id="prestige_total" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profit_summary_total" need_translate="true" value=""/>
-        <text id="relation" need_translate="true" value=""/>
-        <text id="reputation" need_translate="true" value=""/>
-        <text id="restore_influence" need_translate="true" value=""/>
-        <text id="safety_stock" need_translate="true" value=""/>
-        <text id="safety_stock_dividents" need_translate="true" value=""/>
-        <text id="summary_cash" need_translate="true" value=""/>
-        <text id="taxes" need_translate="true" value=""/>
-        <text id="total" need_translate="true" value=""/>
-        <text id="total_influence" need_translate="true" value=""/>
+        <text id="actives" need_translate="false" value="Aktiva"/>
+        <text id="arrearage" need_translate="false" value="Gjeld:"/>
+        <text id="assets" need_translate="false" value="Eiendom:"/>
+        <text id="assets_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="assistants" need_translate="false" value="Assistenter:"/>
+        <text id="avaliable_influence" need_translate="false" value="Totalt:"/>
+        <text id="base_influence" need_translate="false" value="Karakternivå:"/>
+        <text id="cash" need_translate="false" value="Kontanter"/>
+        <text id="companies_influence_change" need_translate="false" value="Assistenter/bedrifters innflytelse per kvartal:"/>
+        <text id="company_influence" need_translate="false" value="Bedrifters innflytelse:"/>
+        <text id="confidence_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="cost" need_translate="false" value="Utgifter"/>
+        <text id="credits" need_translate="false" value="Lån:"/>
+        <text id="directors_salary" need_translate="false" value="Lønn:"/>
+        <text id="estate_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="financial_support" need_translate="false" value="Vedlikehold:"/>
+        <text id="free_cash" need_translate="false" value="Rikdom"/>
+        <text id="free_influence" need_translate="false" value="Tilgjengelig innflytelse"/>
+        <text id="free_influence_description" need_translate="false" value="Bruk innflytelsespoeng for å lage avtaler, lobbyisere\nembetsmenn/politikere eller ansette assistenter."/>
+        <text id="influence" need_translate="false" value="Innflytelse:"/>
+        <text id="influence_per_day" need_translate="false" value="Innflytelse hver dag:"/>
+        <text id="influence_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="inherent" need_translate="false" value="Medfødt:"/>
+        <text id="interest_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="intrinsic_prestige" need_translate="false" value="Medfødt prestisje:"/>
+        <text id="lending_and_obligations" need_translate="false" value="Lån og obligasjoner:"/>
+        <text id="max_influence" need_translate="false" value="Maksimum innflytelse:"/>
+        <text id="max_influence_description" need_translate="false" value="Begrensningen til tilgjengelig innflytelse"/>
+        <text id="obligations_and_deposits" need_translate="false" value="Obligasjoner og innskudd:"/>
+        <text id="ownerships_profit" need_translate="false" value="Eiendom:"/>
+        <text id="passives" need_translate="false" value="gjeld"/>
+        <text id="personal_influence_change" need_translate="false" value="Spillerinnflytelse per kvartal"/>
+        <text id="politician_influence" need_translate="false" value="Politisk innflytelse:"/>
+        <text id="power" need_translate="false" value="Makt:"/>
+        <text id="power_per_step" need_translate="false" value="Makt per kvartal:"/>
+        <text id="prestige" need_translate="false" value="Prestisje:"/>
+        <text id="prestige_from_companies" need_translate="false" value="Bedrifter"/>
+        <text id="prestige_from_ownerships" need_translate="false" value="Eiendom"/>
+        <text id="prestige_level" need_translate="false" value="Nivå:"/>
+        <text id="prestige_next_threshold" need_translate="false" value="Opp til"/>
+        <text id="prestige_total" need_translate="false" value="Totalt:"/>
+        <text id="profit" need_translate="false" value="Inntekt"/>
+        <text id="profit_summary_total" need_translate="false" value="Totalsum:"/>
+        <text id="relation" need_translate="false" value="Forbindelser:"/>
+        <text id="reputation" need_translate="false" value="Omdømme:"/>
+        <text id="restore_influence" need_translate="false" value="Innflytelse per kvartal:"/>
+        <text id="safety_stock" need_translate="false" value="Aksjer:"/>
+        <text id="safety_stock_dividents" need_translate="false" value="Utbytte:"/>
+        <text id="summary_cash" need_translate="false" value="Rikdom:"/>
+        <text id="taxes" need_translate="false" value="Skatter"/>
+        <text id="total" need_translate="false" value="Totalt:"/>
+        <text id="total_influence" need_translate="false" value="Totalt:"/>
     </statistics_popup_handler>
     <statistics_window>
         <text id="administrative_expenses" need_translate="true" value=""/>
