@@ -1878,138 +1878,138 @@
         <text id="social_skills" need_translate="true" value=""/>
     </player_skills_window>
     <player_window>
-        <text id="achievement_window" need_translate="true" value=""/>
-        <text id="agent" need_translate="true" value=""/>
-        <text id="agent_has_no_learned_skills" need_translate="true" value=""/>
-        <text id="agent_hint_header" need_translate="true" value=""/>
-        <text id="agent_hint_text" need_translate="true" value=""/>
-        <text id="agent_is_working" need_translate="true" value=""/>
-        <text id="arrive_to_state" need_translate="true" value=""/>
-        <text id="assets" need_translate="true" value=""/>
-        <text id="assets_hint_header" need_translate="true" value=""/>
-        <text id="assets_hint_text" need_translate="true" value=""/>
-        <text id="assistants_window" need_translate="true" value=""/>
-        <text id="buy_shares" need_translate="true" value=""/>
-        <text id="buy_shares_with_company_name" need_translate="true" value=""/>
-        <text id="calendar_add_date" need_translate="true" value=""/>
-        <text id="calendar_moving" need_translate="true" value=""/>
-        <text id="calendar_no_planned_event" need_translate="true" value=""/>
-        <text id="calendar_rout" need_translate="true" value=""/>
-        <text id="cancel_choose" need_translate="true" value=""/>
-        <text id="characteristics" need_translate="true" value=""/>
-        <text id="choose_event_date" need_translate="true" value=""/>
-        <text id="compromat_already_exists" need_translate="true" value=""/>
-        <text id="conviction" need_translate="true" value=""/>
-        <text id="convictions" need_translate="true" value=""/>
-        <text id="courtesan_already_exists" need_translate="true" value=""/>
-        <text id="courtesan_only_for_male" need_translate="true" value=""/>
-        <text id="diplomacy_left_area_hint_header" need_translate="true" value=""/>
-        <text id="diplomacy_left_area_hint_text" need_translate="true" value=""/>
-        <text id="economics_left_area_hint_header" need_translate="true" value=""/>
-        <text id="economics_left_area_hint_text" need_translate="true" value=""/>
-        <text id="guests_count_invited_to_route" need_translate="true" value=""/>
+        <text id="achievement_window" need_translate="false" value="Prestasjoner"/>
+        <text id="agent" need_translate="false" value="Agent"/>
+        <text id="agent_has_no_learned_skills" need_translate="false" value="Agenten er ikke tilgjengelig! Gå til agentskjermen"/>
+        <text id="agent_hint_header" need_translate="false" value="Agent"/>
+        <text id="agent_hint_text" need_translate="false" value="Karakteren kontrollerer agenen som kan bli brukt mot deg"/>
+        <text id="agent_is_working" need_translate="false" value="Agenten jobber..."/>
+        <text id="arrive_to_state" need_translate="false" value="Du har ankommet %1"/>
+        <text id="assets" need_translate="false" value="Aktiva"/>
+        <text id="assets_hint_header" need_translate="false" value="Rikdom"/>
+        <text id="assets_hint_text" need_translate="false" value="Den totale verdien av karakterens aktiva"/>
+        <text id="assistants_window" need_translate="false" value="Assistenter"/>
+        <text id="buy_shares" need_translate="false" value="Avtale"/>
+        <text id="buy_shares_with_company_name" need_translate="false" value="Kjøp av '%1' aksjer"/>
+        <text id="calendar_add_date" need_translate="false" value="Press for å sette en dato"/>
+        <text id="calendar_moving" need_translate="false" value="Tur"/>
+        <text id="calendar_no_planned_event" need_translate="false" value="Ingen arrangementer planlagt"/>
+        <text id="calendar_rout" need_translate="false" value="Arrangement"/>
+        <text id="cancel_choose" need_translate="false" value="Avbryt"/>
+        <text id="characteristics" need_translate="false" value="Ferdigheter"/>
+        <text id="choose_event_date" need_translate="false" value="Velg en arrangementsdato"/>
+        <text id="compromat_already_exists" need_translate="false" value="Du kjenner til hemmelighet på denne karakteren!"/>
+        <text id="conviction" need_translate="false" value="Oppfatninger"/>
+        <text id="convictions" need_translate="false" value="Oppfatninger"/>
+        <text id="courtesan_already_exists" need_translate="false" value="Agenten har allerede blitt brukt"/>
+        <text id="courtesan_only_for_male" need_translate="false" value="Bare menn!"/>
+        <text id="diplomacy_left_area_hint_header" need_translate="false" value="Diplomati"/>
+        <text id="diplomacy_left_area_hint_text" need_translate="false" value="Ferdigheten påvirker spillerens bonus/straff på sjansen for å utføre en avtale"/>
+        <text id="economics_left_area_hint_header" need_translate="false" value="Økonomi"/>
+        <text id="economics_left_area_hint_text" need_translate="false" value="Jo høyere økonominivå, jo bedre er sjansen for at karakteren klarer å styre en bedrift"/>
+        <text id="guests_count_invited_to_route" need_translate="false" value="Inviterte %1/%2 gjester"/>
         <text id="her" need_translate="true" value=""/>
         <text id="him" need_translate="true" value=""/>
-        <text id="hired_assistants" need_translate="true" value=""/>
-        <text id="influence_hint_header" need_translate="true" value=""/>
+        <text id="hired_assistants" need_translate="false" value="Assistenter"/>
+        <text id="influence_hint_header" need_translate="false" value="Innflytelse"/>
         <text id="influence_hint_text" need_translate="true" value=""/>
-        <text id="influence_left_area_hint_header" need_translate="true" value=""/>
-        <text id="influence_left_area_hint_text" need_translate="true" value=""/>
-        <text id="influence_skill_left_area_hint_header" need_translate="true" value=""/>
-        <text id="influence_skill_left_area_hint_text" need_translate="true" value=""/>
-        <text id="make_connection" need_translate="true" value=""/>
-        <text id="make_present" need_translate="true" value=""/>
-        <text id="menu_agent_applied_on_current_step" need_translate="true" value=""/>
-        <text id="menu_assistant" need_translate="true" value=""/>
-        <text id="menu_assistant_fire" need_translate="true" value=""/>
-        <text id="menu_assistant_hire" need_translate="true" value=""/>
-        <text id="menu_corrupt" need_translate="true" value=""/>
-        <text id="menu_is_in_prison" need_translate="true" value=""/>
-        <text id="menu_is_moving" need_translate="true" value=""/>
-        <text id="menu_loan" need_translate="true" value=""/>
-        <text id="menu_loan_already_planned" need_translate="true" value=""/>
-        <text id="menu_loan_different_position" need_translate="true" value=""/>
+        <text id="influence_left_area_hint_header" need_translate="false" value="Innflytelse"/>
+        <text id="influence_left_area_hint_text" need_translate="false" value="Antall innflytelsepoeng som kreves for å forhandle"/>
+        <text id="influence_skill_left_area_hint_header" need_translate="false" value="Politikk"/>
+        <text id="influence_skill_left_area_hint_text" need_translate="false" value="Innflytelse per kvartal. En stjerne øker innflytelsen med +1 poeng"/>
+        <text id="make_connection" need_translate="false" value="Lås opp"/>
+        <text id="make_present" need_translate="false" value="Gi en gave"/>
+        <text id="menu_agent_applied_on_current_step" need_translate="false" value="Agenten har allerede blitt brukt!"/>
+        <text id="menu_assistant" need_translate="false" value="Ansett"/>
+        <text id="menu_assistant_fire" need_translate="false" value="Spark"/>
+        <text id="menu_assistant_hire" need_translate="false" value="Ansett"/>
+        <text id="menu_corrupt" need_translate="false" value="Korrupt"/>
+        <text id="menu_is_in_prison" need_translate="false" value="Du er i fengsel!"/>
+        <text id="menu_is_moving" need_translate="false" value="Du holder på å reise, og du kan derfor ikke utføre forretninger!"/>
+        <text id="menu_loan" need_translate="false" value="Lån penger"/>
+        <text id="menu_loan_already_planned" need_translate="false" value="Forhandlingene er allerede planlagt!"/>
+        <text id="menu_loan_different_position" need_translate="false" value="Spilleren er i en annen stat!"/>
         <text id="menu_loan_no_money" need_translate="true" value=""/>
-        <text id="menu_loan_no_positive_profit" need_translate="true" value=""/>
-        <text id="menu_loan_not_friendly" need_translate="true" value=""/>
-        <text id="menu_lobby" need_translate="true" value=""/>
-        <text id="menu_loyality" need_translate="true" value=""/>
-        <text id="menu_loyality_disabled" need_translate="true" value=""/>
-        <text id="menu_loyality_need_to_be_an_control_shareholder" need_translate="true" value=""/>
-        <text id="menu_make_connection" need_translate="true" value=""/>
-        <text id="menu_negotation" need_translate="true" value=""/>
-        <text id="menu_no_agents" need_translate="true" value=""/>
-        <text id="menu_no_company" need_translate="true" value=""/>
-        <text id="menu_not_enough_influence" need_translate="true" value=""/>
-        <text id="menu_ownerships" need_translate="true" value=""/>
-        <text id="menu_person_is_locked" need_translate="true" value=""/>
-        <text id="menu_rout" need_translate="true" value=""/>
-        <text id="menu_use_agent" need_translate="true" value=""/>
+        <text id="menu_loan_no_positive_profit" need_translate="false" value="Karakteren har en negativ balanse"/>
+        <text id="menu_loan_not_friendly" need_translate="false" value="Lav lojalitet! Du kan bare låne penger fra en vennlig karakter"/>
+        <text id="menu_lobby" need_translate="false" value="Lobby"/>
+        <text id="menu_loyality" need_translate="false" value="Lojalitet"/>
+        <text id="menu_loyality_disabled" need_translate="false" value="Det er ingen måter å øke lojaliteten på"/>
+        <text id="menu_loyality_need_to_be_an_control_shareholder" need_translate="false" value="Få 51% av bedriften %1 sine aksjer"/>
+        <text id="menu_make_connection" need_translate="false" value="Lås opp"/>
+        <text id="menu_negotation" need_translate="false" value="Lag avtale"/>
+        <text id="menu_no_agents" need_translate="false" value="Ingen agenter er tilgjengelig"/>
+        <text id="menu_no_company" need_translate="false" value="Karakteren er ikke en aksjonær i noen bedrifter!"/>
+        <text id="menu_not_enough_influence" need_translate="false" value="Ikke nok innflytelse!"/>
+        <text id="menu_ownerships" need_translate="false" value="Luksus"/>
+        <text id="menu_person_is_locked" need_translate="false" value="Du må låse opp karakteren!"/>
+        <text id="menu_rout" need_translate="false" value="Inviter til arrangement"/>
+        <text id="menu_use_agent" need_translate="false" value="Bruk agent"/>
         <text id="missis" need_translate="true" value=""/>
         <text id="mister" need_translate="true" value=""/>
-        <text id="negotiation_different_position" need_translate="true" value=""/>
+        <text id="negotiation_different_position" need_translate="false" value="Karakteren er i en annen stat! "/>
         <text id="negotiation_error" need_translate="true" value=""/>
-        <text id="negotiation_has_talked" need_translate="true" value=""/>
-        <text id="negotiation_low_influence" need_translate="true" value=""/>
-        <text id="negotiation_need_player" need_translate="true" value=""/>
-        <text id="negotiation_not_enough_money_for_negotiation" need_translate="true" value=""/>
-        <text id="negotiation_out_of_days" need_translate="true" value=""/>
-        <text id="negotiation_player_is_in_prison" need_translate="true" value=""/>
-        <text id="no" need_translate="true" value=""/>
-        <text id="no_avaliable_agents" need_translate="true" value=""/>
-        <text id="one_negotiation_in_quarter" need_translate="true" value=""/>
-        <text id="open_rout_window" need_translate="true" value=""/>
-        <text id="ownership_hint_header" need_translate="true" value=""/>
-        <text id="ownership_hint_text" need_translate="true" value=""/>
-        <text id="ownerships" need_translate="true" value=""/>
-        <text id="patience_hint_header" need_translate="true" value=""/>
-        <text id="patience_hint_text" need_translate="true" value=""/>
-        <text id="person_already_invited" need_translate="true" value=""/>
-        <text id="person_info" need_translate="true" value=""/>
-        <text id="person_info_ambitions" need_translate="true" value=""/>
-        <text id="person_info_cash" need_translate="true" value=""/>
-        <text id="person_info_characteristic" need_translate="true" value=""/>
-        <text id="person_info_influence" need_translate="true" value=""/>
-        <text id="person_info_marriage" need_translate="true" value=""/>
-        <text id="person_info_panel_status" need_translate="true" value=""/>
-        <text id="person_info_party" need_translate="true" value=""/>
-        <text id="person_info_prestige" need_translate="true" value=""/>
-        <text id="person_info_profit" need_translate="true" value=""/>
-        <text id="person_info_reputation" need_translate="true" value=""/>
-        <text id="person_info_skill" need_translate="true" value=""/>
-        <text id="person_info_status" need_translate="true" value=""/>
-        <text id="player_locked" need_translate="true" value=""/>
-        <text id="player_patience_hint_header" need_translate="true" value=""/>
-        <text id="politics_left_area_hint_header" need_translate="true" value=""/>
-        <text id="politics_left_area_hint_text" need_translate="true" value=""/>
-        <text id="power_hint_header" need_translate="true" value=""/>
-        <text id="power_hint_text" need_translate="true" value=""/>
-        <text id="power_left_area_hint_header" need_translate="true" value=""/>
-        <text id="power_left_area_hint_text" need_translate="true" value=""/>
-        <text id="relation_hint_header" need_translate="true" value=""/>
-        <text id="relation_hint_text" need_translate="true" value=""/>
-        <text id="relations_header_agent" need_translate="true" value=""/>
-        <text id="relations_header_assets" need_translate="true" value=""/>
-        <text id="relations_header_influence" need_translate="true" value=""/>
-        <text id="relations_header_name" need_translate="true" value=""/>
-        <text id="relations_header_power" need_translate="true" value=""/>
-        <text id="relations_header_relation" need_translate="true" value=""/>
-        <text id="relations_header_weakness" need_translate="true" value=""/>
-        <text id="relations_modelname_0" need_translate="true" value=""/>
-        <text id="relations_modelname_1" need_translate="true" value=""/>
-        <text id="relations_modelname_2" need_translate="true" value=""/>
-        <text id="relations_title" need_translate="true" value=""/>
-        <text id="reputation_left_area_hint_header" need_translate="true" value=""/>
-        <text id="reputation_left_area_hint_text" need_translate="true" value=""/>
-        <text id="required" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="summary" need_translate="true" value=""/>
-        <text id="trasher_already_exists" need_translate="true" value=""/>
-        <text id="travel_to" need_translate="true" value=""/>
-        <text id="unlock_person_text" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
-        <text id="yes" need_translate="true" value=""/>
+        <text id="negotiation_has_talked" need_translate="false" value="Forhandlingene har allerede blitt holdt!"/>
+        <text id="negotiation_low_influence" need_translate="false" value="Du har ikke nok innflytelsespoeng"/>
+        <text id="negotiation_need_player" need_translate="false" value="Bare spiller!"/>
+        <text id="negotiation_not_enough_money_for_negotiation" need_translate="false" value="Du har ikke nok penger"/>
+        <text id="negotiation_out_of_days" need_translate="false" value="Karakteren eller spilleren er ikke klar for å forhandle! Prøv igjen om noen få dager."/>
+        <text id="negotiation_player_is_in_prison" need_translate="false" value="Forhandlingen er utilgjengelig! %1 er arrestert!"/>
+        <text id="no" need_translate="false" value="Nei"/>
+        <text id="no_avaliable_agents" need_translate="false" value="Ingen agenter tilgjengelig!"/>
+        <text id="one_negotiation_in_quarter" need_translate="false" value="Du kan bare forhandle en gang per kvartal!"/>
+        <text id="open_rout_window" need_translate="false" value="Arrangement"/>
+        <text id="ownership_hint_header" need_translate="false" value="Lidenskap"/>
+        <text id="ownership_hint_text" need_translate="false" value="Du kan påvirke karakteren ved å bruke lidenskap"/>
+        <text id="ownerships" need_translate="false" value="Luksus"/>
+        <text id="patience_hint_header" need_translate="false" value="Karakteren vil være tilgjengelig den %1"/>
+        <text id="patience_hint_text" need_translate="false" value="Under utvikling... (den fulle teksten vil bli lagt til i spillet senere)"/>
+        <text id="person_already_invited" need_translate="false" value="Du holder allerede møtet!"/>
+        <text id="person_info" need_translate="false" value="Informasjon"/>
+        <text id="person_info_ambitions" need_translate="false" value="Ambisjoner:"/>
+        <text id="person_info_cash" need_translate="false" value="Rikdom:"/>
+        <text id="person_info_characteristic" need_translate="false" value="Ferdighet:"/>
+        <text id="person_info_influence" need_translate="false" value="Innflytelse:"/>
+        <text id="person_info_marriage" need_translate="false" value="Sivilstatus:"/>
+        <text id="person_info_panel_status" need_translate="false" value="Status:"/>
+        <text id="person_info_party" need_translate="false" value="Parti:"/>
+        <text id="person_info_prestige" need_translate="false" value="Prestisje:"/>
+        <text id="person_info_profit" need_translate="false" value="Inntekt:"/>
+        <text id="person_info_reputation" need_translate="false" value="Omdømme:"/>
+        <text id="person_info_skill" need_translate="false" value="Ferdighet:"/>
+        <text id="person_info_status" need_translate="false" value="%1, %2"/>
+        <text id="player_locked" need_translate="false" value="Låst"/>
+        <text id="player_patience_hint_header" need_translate="false" value="Du vil være klar den %1"/>
+        <text id="politics_left_area_hint_header" need_translate="false" value="Politikk"/>
+        <text id="politics_left_area_hint_text" need_translate="false" value="Under utvikling... (den fulle teksten vil bli lagt til i spillet senere)"/>
+        <text id="power_hint_header" need_translate="false" value="Marionetter"/>
+        <text id="power_hint_text" need_translate="false" value="Karakterens totale antall av marionetter"/>
+        <text id="power_left_area_hint_header" need_translate="false" value="Makt"/>
+        <text id="power_left_area_hint_text" need_translate="false" value="Vinn poeng. Jo flere prestasjoner som er åpnet, jo flere maktpoeng"/>
+        <text id="relation_hint_header" need_translate="false" value="Lojalitet"/>
+        <text id="relation_hint_text" need_translate="false" value="%1 sin lojalitet til %2: %3"/>
+        <text id="relations_header_agent" need_translate="false" value="Agent"/>
+        <text id="relations_header_assets" need_translate="false" value="Rikdom"/>
+        <text id="relations_header_influence" need_translate="false" value="Innflytelse"/>
+        <text id="relations_header_name" need_translate="false" value="Karakterer:"/>
+        <text id="relations_header_power" need_translate="false" value="Marionetter"/>
+        <text id="relations_header_relation" need_translate="false" value="Lojalitet"/>
+        <text id="relations_header_weakness" need_translate="false" value="Lidenskap"/>
+        <text id="relations_modelname_0" need_translate="false" value="Alle"/>
+        <text id="relations_modelname_1" need_translate="false" value="Allierte"/>
+        <text id="relations_modelname_2" need_translate="false" value="lojal til"/>
+        <text id="relations_title" need_translate="false" value="Forbindelser"/>
+        <text id="reputation_left_area_hint_header" need_translate="false" value="Omdømme"/>
+        <text id="reputation_left_area_hint_text" need_translate="false" value="Hvis omdømmet ditt er bedre enn motstanderens omdømme, vil det være mye enklere å lage avtaler, men du vil få omdømmestraffen på -1 poeng"/>
+        <text id="required" need_translate="false" value="Påkrevd"/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
+        <text id="state" need_translate="false" value="%1"/>
+        <text id="summary" need_translate="false" value="Lojalitet"/>
+        <text id="trasher_already_exists" need_translate="false" value="Bøllen har allerede blitt brukt!"/>
+        <text id="travel_to" need_translate="false" value="Tur til %1"/>
+        <text id="unlock_person_text" need_translate="false" value="Såvidt deg bekjent i forretningsverden, er 'tid' en av de viktigste aktivaene dine! Hvis du derfor har en god grunn til å møte %1 %2, burde du være seriøs med intensjonene dine og arrangere et møte. Du må bruke innflytelsespoeng. Ønsker du å arrangere et møte?"/>
+        <text id="window_title" need_translate="false" value="%1"/>
+        <text id="yes" need_translate="false" value="Ja"/>
     </player_window>
     <players_view>
         <text id="influence" need_translate="true" value=""/>
