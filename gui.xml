@@ -2090,9 +2090,9 @@
         <text id="you_invite_opponent_to_meeting_with_you" need_translate="true" value=""/>
     </previous_panel>
     <random_game_events>
-        <text id="following_will_happen" need_translate="true" value=""/>
-        <text id="you_will_get" need_translate="true" value=""/>
-        <text id="you_will_lose" need_translate="true" value=""/>
+        <text id="following_will_happen" need_translate="false" value="Resultat"/>
+        <text id="you_will_get" need_translate="false" value="Få:"/>
+        <text id="you_will_lose" need_translate="false" value="Bruk:"/>
     </random_game_events>
     <relations_handler>
         <text id="agent_using" need_translate="true" value=""/>
