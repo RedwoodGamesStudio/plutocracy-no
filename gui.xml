@@ -2142,7 +2142,7 @@
         <text id="total_cost" need_translate="true" value=""/>
     </release_bond_window>
     <save_dialog>
-        <text id="load" need_translate="true" value=""/>
+        <text id="load" need_translate="false" value="Last"/>
     </save_dialog>
     <sb_settings>
         <text id="avatar_attributes" need_translate="true" value=""/>
