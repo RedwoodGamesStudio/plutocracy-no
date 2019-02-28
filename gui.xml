@@ -1743,11 +1743,11 @@
         </item_names>
     </personal_collections>
     <persons_window>
-        <text id="assets" need_translate="true" value=""/>
-        <text id="luxuries" need_translate="true" value=""/>
-        <text id="person_window" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
-        <text id="summary" need_translate="true" value=""/>
+        <text id="assets" need_translate="false" value="Aktiva"/>
+        <text id="luxuries" need_translate="false" value="Luksus"/>
+        <text id="person_window" need_translate="false" value="Karakter"/>
+        <text id="skills" need_translate="false" value="Ferdigheter"/>
+        <text id="summary" need_translate="false" value="Sammendrag"/>
     </persons_window>
     <player_events>
         <text id="back_to_player_window" need_translate="true" value=""/>
