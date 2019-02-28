@@ -2205,35 +2205,35 @@
         <text id="young" need_translate="true" value=""/>
     </sb_settings>
     <settings_window>
-        <text id="2k" need_translate="true" value=""/>
-        <text id="4k" need_translate="true" value=""/>
-        <text id="ability_to_move_in_any_state_while_have_action_point" need_translate="true" value=""/>
-        <text id="apply_changes" need_translate="true" value=""/>
-        <text id="cancel_changes" need_translate="true" value=""/>
-        <text id="ch" need_translate="true" value=""/>
-        <text id="de" need_translate="true" value=""/>
-        <text id="default_save_slot_name" need_translate="true" value=""/>
-        <text id="difficult" need_translate="true" value=""/>
-        <text id="effects_volume" need_translate="true" value=""/>
-        <text id="en" need_translate="true" value=""/>
-        <text id="enter_save_slot_name" need_translate="true" value=""/>
-        <text id="es" need_translate="true" value=""/>
-        <text id="free_game_mode" need_translate="true" value=""/>
-        <text id="game_sounds" need_translate="true" value=""/>
-        <text id="game_will_be_resrart_for_reconfigure" need_translate="true" value=""/>
-        <text id="image_quality" need_translate="true" value=""/>
-        <text id="load_game" need_translate="true" value=""/>
-        <text id="loudly" need_translate="true" value=""/>
-        <text id="map_config" need_translate="true" value=""/>
-        <text id="music" need_translate="true" value=""/>
-        <text id="music_volume" need_translate="true" value=""/>
-        <text id="players_moved_in_random_states_and_can_not_moved" need_translate="true" value=""/>
-        <text id="random_move_mode" need_translate="true" value=""/>
-        <text id="ru" need_translate="true" value=""/>
-        <text id="save_game" need_translate="true" value=""/>
-        <text id="select_language" need_translate="true" value=""/>
-        <text id="softly" need_translate="true" value=""/>
-        <text id="sound_config" need_translate="true" value=""/>
+        <text id="2k" need_translate="false" value="2K"/>
+        <text id="4k" need_translate="false" value="4K"/>
+        <text id="ability_to_move_in_any_state_while_have_action_point" need_translate="false" value="En spiller kan flytte seg fritt mellom hvilken som helst stat"/>
+        <text id="apply_changes" need_translate="false" value="Aksepter"/>
+        <text id="cancel_changes" need_translate="false" value="Avbryt"/>
+        <text id="ch" need_translate="false" value="Kinesisk"/>
+        <text id="de" need_translate="false" value="Tysk"/>
+        <text id="default_save_slot_name" need_translate="false" value="Spill %1"/>
+        <text id="difficult" need_translate="false" value="Vanskelighetsgrad: medium"/>
+        <text id="effects_volume" need_translate="false" value="Effektvolum"/>
+        <text id="en" need_translate="false" value="Engelsk"/>
+        <text id="enter_save_slot_name" need_translate="false" value="Navn på spillet"/>
+        <text id="es" need_translate="false" value="Spansk"/>
+        <text id="free_game_mode" need_translate="false" value="Fri forflyttelse"/>
+        <text id="game_sounds" need_translate="false" value="Spill lyder"/>
+        <text id="game_will_be_resrart_for_reconfigure" need_translate="false" value="Du må restarte spillet for at endringene skal tre i kraft!"/>
+        <text id="image_quality" need_translate="false" value="Teksturstørrelse"/>
+        <text id="load_game" need_translate="false" value="Last spill"/>
+        <text id="loudly" need_translate="false" value="Høyt"/>
+        <text id="map_config" need_translate="false" value="Kartinnstillinger"/>
+        <text id="music" need_translate="false" value="Musikk"/>
+        <text id="music_volume" need_translate="false" value="Musikkvolum"/>
+        <text id="players_moved_in_random_states_and_can_not_moved" need_translate="false" value="Hver runde blir spilleren tvunget til å forflytte seg til en tilfeldig stat"/>
+        <text id="random_move_mode" need_translate="false" value="Tilfeldig forflytning"/>
+        <text id="ru" need_translate="false" value="Russisk"/>
+        <text id="save_game" need_translate="false" value="Lagre spill"/>
+        <text id="select_language" need_translate="false" value="Velg språk"/>
+        <text id="softly" need_translate="false" value="Stille"/>
+        <text id="sound_config" need_translate="false" value="Lydinnstillinger"/>
     </settings_window>
     <shares_transfer>
         <text id="player_bought_some_percent_some_company_safety_stock" need_translate="true" value=""/>
