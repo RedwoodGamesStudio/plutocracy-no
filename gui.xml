@@ -2239,8 +2239,8 @@
         <text id="player_bought_some_percent_some_company_safety_stock" need_translate="true" value=""/>
     </shares_transfer>
     <specific_lang_settings>
-        <text id="date_format" need_translate="true" value=""/>
-        <text id="date_time_format_in_save_load" need_translate="true" value=""/>
+        <text id="date_format" need_translate="false" value="d. MMM yyyy"/>
+        <text id="date_time_format_in_save_load" need_translate="false" value="d. MMM yyyy hh:mm"/>
     </specific_lang_settings>
     <start_negotation_window>
         <text id="all_shares_price" need_translate="true" value=""/>
