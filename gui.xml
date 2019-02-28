@@ -1828,15 +1828,15 @@
         <text id="window_title" need_translate="true" value=""/>
     </player_finances_window>
     <player_object>
-        <text id="icon_hint_text" need_translate="true" value=""/>
-        <text id="icon_hint_title" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
+        <text id="icon_hint_text" need_translate="false" value="Klikk her for detaljer"/>
+        <text id="icon_hint_title" need_translate="false" value="Spillerinformasjon"/>
+        <text id="influence" need_translate="false" value="Spiller"/>
         <text id="influence_of_charisma" need_translate="true" value=""/>
         <text id="influence_of_companies" need_translate="true" value=""/>
-        <text id="influence_of_friends" need_translate="true" value=""/>
+        <text id="influence_of_friends" need_translate="false" value="Venner"/>
         <text id="player_bought_some_company_safety_stock_using_other_company" need_translate="true" value=""/>
         <text id="player_selled_some_company_safety_stock" need_translate="true" value=""/>
-        <text id="politicians" need_translate="true" value=""/>
+        <text id="politicians" need_translate="false" value="Politikere"/>
         <text id="status_decreased" need_translate="true" value=""/>
         <text id="status_increased" need_translate="true" value=""/>
     </player_object>
