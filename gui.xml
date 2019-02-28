@@ -2400,15 +2400,15 @@
         <text id="state" need_translate="true" value=""/>
     </user_statistic>
     <voting_popup>
-        <text id="abstained" need_translate="true" value=""/>
-        <text id="agreed" need_translate="true" value=""/>
-        <text id="apply" need_translate="true" value=""/>
-        <text id="apply_button" need_translate="true" value=""/>
-        <text id="director_offer_hired" need_translate="true" value=""/>
-        <text id="director_offer_not_hired" need_translate="true" value=""/>
-        <text id="disagreed" need_translate="true" value=""/>
-        <text id="skip" need_translate="true" value=""/>
-        <text id="voting" need_translate="true" value=""/>
-        <text id="voting_result" need_translate="true" value=""/>
+        <text id="abstained" need_translate="false" value="Avstått"/>
+        <text id="agreed" need_translate="false" value="Enig"/>
+        <text id="apply" need_translate="false" value="Bruk"/>
+        <text id="apply_button" need_translate="false" value="Ok"/>
+        <text id="director_offer_hired" need_translate="false" value="Forslaget ble godkjent!"/>
+        <text id="director_offer_not_hired" need_translate="false" value="Forslaget ble avvist!"/>
+        <text id="disagreed" need_translate="false" value="Mot"/>
+        <text id="skip" need_translate="false" value="Hopp over"/>
+        <text id="voting" need_translate="false" value="Avstemning"/>
+        <text id="voting_result" need_translate="false" value="Avstemningsresultat"/>
     </voting_popup>
 </gui>
