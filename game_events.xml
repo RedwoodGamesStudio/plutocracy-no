@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game_events>
     <event>
-        <text id="20_description" need_translate="true" value=""/>
-        <text id="20_header" need_translate="true" value=""/>
-        <text id="21_description" need_translate="true" value=""/>
-        <text id="21_header" need_translate="true" value=""/>
-        <text id="22_description" need_translate="true" value=""/>
-        <text id="22_header" need_translate="true" value=""/>
-        <text id="40_description" need_translate="true" value=""/>
-        <text id="40_header" need_translate="true" value=""/>
-        <text id="50_description" need_translate="true" value=""/>
-        <text id="50_header" need_translate="true" value=""/>
-        <text id="51_description" need_translate="true" value=""/>
-        <text id="51_header" need_translate="true" value=""/>
-        <text id="52_description" need_translate="true" value=""/>
-        <text id="52_header" need_translate="true" value=""/>
-        <text id="53_description" need_translate="true" value=""/>
-        <text id="53_header" need_translate="true" value=""/>
-        <text id="54_description" need_translate="true" value=""/>
-        <text id="54_header" need_translate="true" value=""/>
+        <text id="20_description" need_translate="false" value="Hvor stor donasjon ønsker du å gi?"/>
+        <text id="20_header" need_translate="false" value="Gi en donasjon"/>
+        <text id="21_description" need_translate="false" value="%1%2 inviterte deg over til hans plass for å snakke i en vennligere atmosfære."/>
+        <text id="21_header" need_translate="false" value="Invitasjon til å komme på besøk"/>
+        <text id="22_description" need_translate="false" value="%1Du har fått en invitasjon til hesteridning fra %2"/>
+        <text id="22_header" need_translate="false" value="Invitasjon til hesteridning"/>
+        <text id="40_description" need_translate="false" value="%1%2 spør om lønnsøkning med $%3\ntil$%4 per kvartal. Nåværende lojalitet til deg: %5%"/>
+        <text id="40_header" need_translate="false" value="Lønnsøkning"/>
+        <text id="50_description" need_translate="false" value="En god donor er en generøs donor! Jeg trenger penger akkurat nå. Du skjønner at man av og til må kjøpe velgernes lojalitet? Kan du hjelpe meg med det?"/>
+        <text id="50_header" need_translate="false" value="Kampanjefinansiering"/>
+        <text id="51_description" need_translate="false" value="Jeg ønsker å spør deg om å hjelpe %1 med å bli med i styret til %2. Jeg vil være takknemlig for det!"/>
+        <text id="51_header" need_translate="false" value="Styret"/>
+        <text id="52_description" need_translate="false" value="Hei! Kand u hjelpe %1 med å bli en aksjonær i %2 fra %3?"/>
+        <text id="52_header" need_translate="false" value="Aksjonær"/>
+        <text id="53_description" need_translate="false" value="%1Inflytelsesrik politiker er alltid den beste måten å løse et 'problem' på. Kan du arrangere et møte med %2 %4 fra %3?"/>
+        <text id="53_header" need_translate="false" value="Politiske forbindelser"/>
+        <text id="54_description" need_translate="false" value="%1Kan du hjelpe meg å løse et problem, jeg trenger en forbindelse med en embetsmann. Kan du arrangere et møte med %2 %4 fra %3?"/>
+        <text id="54_header" need_translate="false" value="Forbindelse med en embetsmann"/>
     </event>
     <event_button>
-        <text id="button_20_1_header" need_translate="true" value=""/>
-        <text id="button_20_1_hover_text" need_translate="true" value=""/>
-        <text id="button_20_1_text" need_translate="true" value=""/>
-        <text id="button_20_2_header" need_translate="true" value=""/>
-        <text id="button_20_2_hover_text" need_translate="true" value=""/>
-        <text id="button_20_2_text" need_translate="true" value=""/>
-        <text id="button_20_3_header" need_translate="true" value=""/>
-        <text id="button_20_3_hover_text" need_translate="true" value=""/>
-        <text id="button_20_3_text" need_translate="true" value=""/>
-        <text id="button_21_1_header" need_translate="true" value=""/>
-        <text id="button_21_1_hover_text" need_translate="true" value=""/>
-        <text id="button_21_1_text" need_translate="true" value=""/>
-        <text id="button_21_2_header" need_translate="true" value=""/>
-        <text id="button_21_2_hover_text" need_translate="true" value=""/>
-        <text id="button_21_2_text" need_translate="true" value=""/>
-        <text id="button_21_3_header" need_translate="true" value=""/>
-        <text id="button_21_3_hover_text" need_translate="true" value=""/>
-        <text id="button_21_3_text" need_translate="true" value=""/>
-        <text id="button_22_1_header" need_translate="true" value=""/>
-        <text id="button_22_1_hover_text" need_translate="true" value=""/>
-        <text id="button_22_1_text" need_translate="true" value=""/>
-        <text id="button_22_2_header" need_translate="true" value=""/>
-        <text id="button_22_2_hover_text" need_translate="true" value=""/>
-        <text id="button_22_2_text" need_translate="true" value=""/>
-        <text id="button_22_3_header" need_translate="true" value=""/>
-        <text id="button_22_3_hover_text" need_translate="true" value=""/>
-        <text id="button_22_3_text" need_translate="true" value=""/>
-        <text id="button_40_1_header" need_translate="true" value=""/>
-        <text id="button_40_1_hover_text" need_translate="true" value=""/>
-        <text id="button_40_1_text" need_translate="true" value=""/>
-        <text id="button_40_2_header" need_translate="true" value=""/>
-        <text id="button_40_2_hover_text" need_translate="true" value=""/>
-        <text id="button_40_2_text" need_translate="true" value=""/>
-        <text id="button_40_3_header" need_translate="true" value=""/>
-        <text id="button_40_3_hover_text" need_translate="true" value=""/>
-        <text id="button_40_3_text" need_translate="true" value=""/>
-        <text id="button_50_1_header" need_translate="true" value=""/>
-        <text id="button_50_1_hover_text" need_translate="true" value=""/>
-        <text id="button_50_1_text" need_translate="true" value=""/>
-        <text id="button_50_2_header" need_translate="true" value=""/>
-        <text id="button_50_2_hover_text" need_translate="true" value=""/>
-        <text id="button_50_2_text" need_translate="true" value=""/>
-        <text id="button_51_1_header" need_translate="true" value=""/>
+        <text id="button_20_1_header" need_translate="false" value="Gi en enorm donasjon"/>
+        <text id="button_20_1_hover_text" need_translate="false" value="%1 sin lojalitet til deg: +%2%\nOmdømme +%3"/>
+        <text id="button_20_1_text" need_translate="false" value="Ved å gi en donasjon på $%1, har du laget muligheter til å skaffe deg nye venner, og kan donasjoner av penger gi deg et nytt liv!"/>
+        <text id="button_20_2_header" need_translate="false" value="Gi en stor donasjon"/>
+        <text id="button_20_2_hover_text" need_translate="false" value="%1 sin lojalitet til deg: +%2%\nOmdømme +%3"/>
+        <text id="button_20_2_text" need_translate="false" value="Å gi en donasjon er den mest korrekte måten å tjene respekt fra andre på. Du gav en donasjon på $%1"/>
+        <text id="button_20_3_header" need_translate="false" value="Nekt"/>
+        <text id="button_20_3_hover_text" need_translate="false" value="Gjestens lojalitet til deg: +%1%\nOmdømme: %2"/>
+        <text id="button_20_3_text" need_translate="false" value="Jeg tror ikke det gir mening"/>
+        <text id="button_21_1_header" need_translate="false" value="Kom med en dyr gave"/>
+        <text id="button_21_1_hover_text" need_translate="false" value="Penger: -$%1\nLojalitet til deg: +%2%"/>
+        <text id="button_21_1_text" need_translate="false" value="En dyr gave er en gest av respekt, selv om det nå og da gir deg muligheten til å manipulere en person ved å tvinge dem til å gjøre det du vil!"/>
+        <text id="button_21_2_header" need_translate="false" value="Kom med en symbolsk gave"/>
+        <text id="button_21_2_hover_text" need_translate="false" value="Penger: -$%1\nLojalitet til deg: +%2%"/>
+        <text id="button_21_2_text" need_translate="false" value="Jeg er ganske sikker på at det er tanken som teller"/>
+        <text id="button_21_3_header" need_translate="false" value="Kom uten en gave"/>
+        <text id="button_21_3_hover_text" need_translate="false" value="Lojalitet til deg: +%1%"/>
+        <text id="button_21_3_text" need_translate="false" value="Denne personen er ikke en nær venn av meg og fortjener ingen gave!"/>
+        <text id="button_22_1_header" need_translate="false" value="Vedd på en utenforstående"/>
+        <text id="button_22_1_hover_text" need_translate="false" value="Det er en dårlig ide å vedde på utenforstående, men hvis du bruker den rette strategien, vil du klare å tjene masse penger!"/>
+        <text id="button_22_1_text" need_translate="false" value="Odds: %1 til 1\nVinn: lojaliteten til deg: +%2%"/>
+        <text id="button_22_2_header" need_translate="false" value="Vedd på en favoritt"/>
+        <text id="button_22_2_hover_text" need_translate="false" value="Jeg er sikker på at det du vinner vil overstige det du taper, men vinningene vil alltid være små."/>
+        <text id="button_22_2_text" need_translate="false" value="Odds: %1 til 1\nVinn: lojaliteten til deg: +%2%"/>
+        <text id="button_22_3_header" need_translate="false" value="Vedd på hesten min"/>
+        <text id="button_22_3_hover_text" need_translate="false" value="Jeg tror det er den beste måten å tjene masse penger på fordi jeg vet at hesten min har det som skal til for å vinne!"/>
+        <text id="button_22_3_text" need_translate="false" value="Odds: %1 til 1\nVinn: lojaliteten til deg: +%2%"/>
+        <text id="button_40_1_header" need_translate="false" value="Lønnsøkning"/>
+        <text id="button_40_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="button_40_1_text" need_translate="false" value="Øk lønnen med $%1. Lojalitet til deg: +%2%"/>
+        <text id="button_40_2_header" need_translate="false" value="Lønnsøkning med +50%"/>
+        <text id="button_40_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="button_40_2_text" need_translate="false" value="Øk lønnen med $%1. Lojalitet til deg: +%2%"/>
+        <text id="button_40_3_header" need_translate="false" value="Nekt"/>
+        <text id="button_40_3_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="button_40_3_text" need_translate="false" value="Lojalitet til deg: -%1%"/>
+        <text id="button_50_1_header" need_translate="false" value="Aksepter"/>
+        <text id="button_50_1_hover_text" need_translate="false" value="Lojalitet til deg: +%1%"/>
+        <text id="button_50_1_text" need_translate="false" value="Bidraget er på $%1"/>
+        <text id="button_50_2_header" need_translate="false" value="Tenk"/>
+        <text id="button_50_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="button_50_2_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
+        <text id="button_51_1_header" need_translate="false" value="Aksepter"/>
         <text id="button_51_1_hover_text" need_translate="true" value=""/>
-        <text id="button_51_1_text" need_translate="true" value=""/>
-        <text id="button_51_2_header" need_translate="true" value=""/>
-        <text id="button_51_2_hover_text" need_translate="true" value=""/>
-        <text id="button_51_2_text" need_translate="true" value=""/>
-        <text id="button_52_1_header" need_translate="true" value=""/>
-        <text id="button_52_1_hover_text" need_translate="true" value=""/>
+        <text id="button_51_1_text" need_translate="false" value="Bedriften %1 sine utgifter vil øke med $%2"/>
+        <text id="button_51_2_header" need_translate="false" value="Tenk"/>
+        <text id="button_51_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="button_51_2_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
+        <text id="button_52_1_header" need_translate="false" value="Aksepter"/>
+        <text id="button_52_1_hover_text" need_translate="false" value="Dine aksjer: -%1 ($%2)\nLojalitet til deg: +%3%"/>
         <text id="button_52_1_text" need_translate="true" value=""/>
-        <text id="button_52_2_header" need_translate="true" value=""/>
-        <text id="button_52_2_hover_text" need_translate="true" value=""/>
+        <text id="button_52_2_header" need_translate="false" value="Tenk"/>
+        <text id="button_52_2_hover_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
         <text id="button_52_2_text" need_translate="true" value=""/>
-        <text id="button_53_1_header" need_translate="true" value=""/>
-        <text id="button_53_1_hover_text" need_translate="true" value=""/>
+        <text id="button_53_1_header" need_translate="false" value="Aksepter"/>
+        <text id="button_53_1_hover_text" need_translate="false" value="Innflytelse: -%1\Lojalitet: +%2"/>
         <text id="button_53_1_text" need_translate="true" value=""/>
-        <text id="button_53_2_header" need_translate="true" value=""/>
-        <text id="button_53_2_hover_text" need_translate="true" value=""/>
+        <text id="button_53_2_header" need_translate="false" value="Nekt"/>
+        <text id="button_53_2_hover_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
         <text id="button_53_2_text" need_translate="true" value=""/>
-        <text id="button_54_1_header" need_translate="true" value=""/>
-        <text id="button_54_1_hover_text" need_translate="true" value=""/>
+        <text id="button_54_1_header" need_translate="false" value="Aksepter"/>
+        <text id="button_54_1_hover_text" need_translate="false" value="Innflytelse: -%1\nLojalitet: +%2%"/>
         <text id="button_54_1_text" need_translate="true" value=""/>
-        <text id="button_54_2_header" need_translate="true" value=""/>
-        <text id="button_54_2_hover_text" need_translate="true" value=""/>
+        <text id="button_54_2_header" need_translate="false" value="Nekt"/>
+        <text id="button_54_2_hover_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
         <text id="button_54_2_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_50_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_50_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_51_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_51_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_52_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_52_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_53_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_53_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_54_1_hover_text" need_translate="true" value=""/>
+        <text id="disabled_button_20_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_20_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_20_3_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_21_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_21_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_21_3_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_22_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_22_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_22_3_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_40_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_40_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_40_3_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_50_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_50_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_51_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_51_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_52_1_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_52_2_hover_text" need_translate="false" value="Jeg har aldri fattet forhastede beslutninger"/>
+        <text id="disabled_button_53_1_hover_text" need_translate="false" value="Ikke nok innflytelse!&lt;br/&gt;Påkrevd: %1 %2"/>
+        <text id="disabled_button_53_2_hover_text" need_translate="false" value="Ingen effekt"/>
+        <text id="disabled_button_54_1_hover_text" need_translate="false" value="Ikke nok innflytelse!&lt;br/&gt;Påkrevd: %1 %2"/>
         <text id="disabled_button_54_2_hover_text" need_translate="true" value=""/>
     </event_button>
     <event_type>
-        <text id="1" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
-        <text id="6" need_translate="true" value=""/>
-        <text id="7" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="Tilfeldige hendelser"/>
+        <text id="2" need_translate="false" value="Arrangementhendelser"/>
+        <text id="3" need_translate="false" value="Bedriftshendelser"/>
+        <text id="4" need_translate="false" value="Assistenthendelser"/>
+        <text id="5" need_translate="false" value="Lojalitetshendelser"/>
+        <text id="6" need_translate="false" value="Andre hendelser"/>
+        <text id="7" need_translate="false" value="Agenthendelser"/>
     </event_type>
 </game_events>
