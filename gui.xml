@@ -2256,31 +2256,31 @@
         <text id="window_title" need_translate="true" value=""/>
     </start_negotation_window>
     <state_window>
-        <text id="avg_salary" need_translate="true" value=""/>
-        <text id="companies" need_translate="true" value=""/>
-        <text id="congress" need_translate="true" value=""/>
-        <text id="count" need_translate="true" value=""/>
-        <text id="country" need_translate="true" value=""/>
-        <text id="elite" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
-        <text id="gdp" need_translate="true" value=""/>
-        <text id="gdp_dynamic" need_translate="true" value=""/>
-        <text id="header" need_translate="true" value=""/>
-        <text id="investors" need_translate="true" value=""/>
-        <text id="labour_exchange" need_translate="true" value=""/>
-        <text id="macroeconomic_detail" need_translate="true" value=""/>
-        <text id="officials" need_translate="true" value=""/>
-        <text id="person_tax" need_translate="true" value=""/>
-        <text id="politicians" need_translate="true" value=""/>
-        <text id="population" need_translate="true" value=""/>
-        <text id="population_dynamic" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="state_info" need_translate="true" value=""/>
-        <text id="state_view" need_translate="true" value=""/>
-        <text id="trade_balance" need_translate="true" value=""/>
-        <text id="unemployment" need_translate="true" value=""/>
-        <text id="white_house" need_translate="true" value=""/>
-        <text id="world" need_translate="true" value=""/>
+        <text id="avg_salary" need_translate="false" value="Gjennomsnittlig lønn"/>
+        <text id="companies" need_translate="false" value="Bedrifter"/>
+        <text id="congress" need_translate="false" value="Kongress"/>
+        <text id="count" need_translate="false" value=" %"/>
+        <text id="country" need_translate="false" value="Land"/>
+        <text id="elite" need_translate="false" value="Eliten"/>
+        <text id="federal_tax" need_translate="false" value="Føderal skatt"/>
+        <text id="gdp" need_translate="false" value="BNP"/>
+        <text id="gdp_dynamic" need_translate="false" value="BNP dynamikk"/>
+        <text id="header" need_translate="false" value="Stat"/>
+        <text id="investors" need_translate="false" value="Kapitalister"/>
+        <text id="labour_exchange" need_translate="false" value="Arbeidsutveksling"/>
+        <text id="macroeconomic_detail" need_translate="false" value="Makroøkonomi"/>
+        <text id="officials" need_translate="false" value="Embetsmenn"/>
+        <text id="person_tax" need_translate="false" value="Personlig inntektsskatt"/>
+        <text id="politicians" need_translate="false" value="Politikere"/>
+        <text id="population" need_translate="false" value="Befolkning"/>
+        <text id="population_dynamic" need_translate="false" value="Befolkningsdynamikk"/>
+        <text id="state" need_translate="false" value="Stat"/>
+        <text id="state_info" need_translate="false" value="Stat"/>
+        <text id="state_view" need_translate="false" value="Informasjon om staten"/>
+        <text id="trade_balance" need_translate="false" value="Handelsbalanse"/>
+        <text id="unemployment" need_translate="false" value="Arbeidsledighet"/>
+        <text id="white_house" need_translate="false" value="Det hvite hus"/>
+        <text id="world" need_translate="false" value="Globalt"/>
     </state_window>
     <statistics_popup_handler>
         <text id="actives" need_translate="true" value=""/>
