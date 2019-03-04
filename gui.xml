@@ -2391,13 +2391,13 @@
         <text id="you_can_help_me" need_translate="true" value=""/>
     </under_construction>
     <user_statistic>
-        <text id="influence_per_step" need_translate="true" value=""/>
-        <text id="influence_per_step_desc" need_translate="true" value=""/>
-        <text id="interest" need_translate="true" value=""/>
-        <text id="power" need_translate="true" value=""/>
-        <text id="power_desc" need_translate="true" value=""/>
-        <text id="profit_per_step" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
+        <text id="influence_per_step" need_translate="false" value="Innflytelse"/>
+        <text id="influence_per_step_desc" need_translate="false" value="Du trenger innflytelse for å lage avtale. Bruk innflytelsesagenter."/>
+        <text id="interest" need_translate="false" value="Interessert"/>
+        <text id="power" need_translate="false" value="Makt"/>
+        <text id="power_desc" need_translate="false" value="Vinn poeng. Jo flere prestasjoner du får, jo mer makt får du"/>
+        <text id="profit_per_step" need_translate="false" value="Inntektsprognose"/>
+        <text id="state" need_translate="false" value="Rikdom"/>
     </user_statistic>
     <voting_popup>
         <text id="abstained" need_translate="false" value="Avstått"/>
