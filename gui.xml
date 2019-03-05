@@ -1462,10 +1462,10 @@
         <text id="action" need_translate="false" value="Handling"/>
     </opened_button>
     <ownership_info>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="price" need_translate="true" value=""/>
-        <text id="sell" need_translate="true" value=""/>
-        <text id="support_cost" need_translate="true" value=""/>
+        <text id="prestige" need_translate="false" value="Prestisje"/>
+        <text id="price" need_translate="false" value="Pris: "/>
+        <text id="sell" need_translate="false" value="Selg"/>
+        <text id="support_cost" need_translate="false" value="Vedlikehold"/>
     </ownership_info>
     <ownership_popup>
         <text id="auction_date" need_translate="true" value=""/>
