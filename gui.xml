@@ -901,8 +901,8 @@
         <text id="some_days" need_translate="false" value="%1-%2 dag(er)"/>
     </discussion_result>
     <discussion_result_message_box>
-        <text id="talks_failure" need_translate="true" value=""/>
-        <text id="talks_success" need_translate="true" value=""/>
+        <text id="talks_failure" need_translate="false" value="Forhandlingen feilet!"/>
+        <text id="talks_success" need_translate="false" value="Forhandlingen var vellykket!"/>
     </discussion_result_message_box>
     <discussion_settings>
         <text id="deal" need_translate="false" value="Avtale"/>
