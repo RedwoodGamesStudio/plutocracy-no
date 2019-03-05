@@ -2337,33 +2337,33 @@
         <text id="total_influence" need_translate="false" value="Totalt:"/>
     </statistics_popup_handler>
     <statistics_window>
-        <text id="administrative_expenses" need_translate="true" value=""/>
-        <text id="bonuse" need_translate="true" value=""/>
-        <text id="company_and_state" need_translate="true" value=""/>
-        <text id="company_name" need_translate="true" value=""/>
-        <text id="dividends" need_translate="true" value=""/>
-        <text id="expenses" need_translate="true" value=""/>
-        <text id="export" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
+        <text id="administrative_expenses" need_translate="false" value="Administrative utgifter"/>
+        <text id="bonuse" need_translate="false" value="Adm.dir. bonus"/>
+        <text id="company_and_state" need_translate="false" value="%1, %2"/>
+        <text id="company_name" need_translate="false" value="%1"/>
+        <text id="dividends" need_translate="false" value="Utbytte"/>
+        <text id="expenses" need_translate="false" value="Utgifter"/>
+        <text id="export" need_translate="false" value="Eksporter"/>
+        <text id="federal_tax" need_translate="false" value="Føderal skatt"/>
         <header>
-            <text id="dynamic" need_translate="true" value=""/>
-            <text id="expenses" need_translate="true" value=""/>
-            <text id="forecast" need_translate="true" value=""/>
-            <text id="industry_dunamic" need_translate="true" value=""/>
-            <text id="leader" need_translate="true" value=""/>
-            <text id="middle" need_translate="true" value=""/>
-            <text id="value" need_translate="true" value=""/>
+            <text id="dynamic" need_translate="false" value="Dynamisk"/>
+            <text id="expenses" need_translate="false" value="Navn"/>
+            <text id="forecast" need_translate="false" value="Prognose"/>
+            <text id="industry_dunamic" need_translate="false" value="Dynamisk til industrien"/>
+            <text id="leader" need_translate="false" value="Sammenlign med lederen"/>
+            <text id="middle" need_translate="false" value="Gjennomsnittlig"/>
+            <text id="value" need_translate="false" value="Verdi"/>
         </header>
-        <text id="local_market" need_translate="true" value=""/>
-        <text id="market_part" need_translate="true" value=""/>
-        <text id="proceeds" need_translate="true" value=""/>
-        <text id="productive_expenses" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="state_tax" need_translate="true" value=""/>
-        <text id="taxis" need_translate="true" value=""/>
-        <text id="total_expenses" need_translate="true" value=""/>
+        <text id="local_market" need_translate="false" value="Lokalt marked"/>
+        <text id="market_part" need_translate="false" value="Markedsandel"/>
+        <text id="proceeds" need_translate="false" value="Inntekter"/>
+        <text id="productive_expenses" need_translate="false" value="Produksjonskostnader"/>
+        <text id="profit" need_translate="false" value="Inntekt"/>
+        <text id="profitability" need_translate="false" value="ROI"/>
+        <text id="salary" need_translate="false" value="Lønn"/>
+        <text id="state_tax" need_translate="false" value="Statlig skatt"/>
+        <text id="taxis" need_translate="false" value="Bedriftsskatt"/>
+        <text id="total_expenses" need_translate="false" value="Totale utgifter"/>
     </statistics_window>
     <step_switcher>
         <text id="autumn" need_translate="true" value=""/>
