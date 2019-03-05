@@ -646,16 +646,16 @@
         <text id="some_days&#9;" need_translate="true" value=""/>
     </director_result>
     <directors_dialog>
-        <text id="current_work" need_translate="true" value=""/>
-        <text id="directors" need_translate="true" value=""/>
-        <text id="gold_parashute" need_translate="true" value=""/>
-        <text id="jobless" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="rate" need_translate="true" value=""/>
-        <text id="select_of_director" need_translate="true" value=""/>
-        <text id="specific" need_translate="true" value=""/>
-        <text id="turnover_bonus" need_translate="true" value=""/>
-        <text id="type" need_translate="true" value=""/>
+        <text id="current_work" need_translate="false" value="Nåværende jobb"/>
+        <text id="directors" need_translate="false" value="Direktører"/>
+        <text id="gold_parashute" need_translate="false" value="Sluttpakke"/>
+        <text id="jobless" need_translate="false" value="Arbeidsledig"/>
+        <text id="name" need_translate="false" value="Navn"/>
+        <text id="rate" need_translate="false" value="Sats"/>
+        <text id="select_of_director" need_translate="false" value="Velg direktør"/>
+        <text id="specific" need_translate="false" value="Spesifisitet"/>
+        <text id="turnover_bonus" need_translate="false" value="Omsetningsbonus"/>
+        <text id="type" need_translate="false" value="Type"/>
     </directors_dialog>
     <directors_handler>
         <text id="some_directors_skill_is_worked" need_translate="true" value=""/>
