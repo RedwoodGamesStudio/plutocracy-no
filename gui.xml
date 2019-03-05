@@ -2134,12 +2134,12 @@
         <text id="uncle_in_genetive" need_translate="false" value="Onkel"/>
     </relatives>
     <release_bond_window>
-        <text id="bond_price" need_translate="true" value=""/>
-        <text id="cancel" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="put_sign" need_translate="true" value=""/>
-        <text id="title" need_translate="true" value=""/>
-        <text id="total_cost" need_translate="true" value=""/>
+        <text id="bond_price" need_translate="false" value="Obligasjonsutstedelse"/>
+        <text id="cancel" need_translate="false" value="Avbryt"/>
+        <text id="exit" need_translate="false" value="Ok"/>
+        <text id="put_sign" need_translate="false" value="Signer"/>
+        <text id="title" need_translate="false" value="Obligasjonsutstedelse"/>
+        <text id="total_cost" need_translate="false" value="Pris for bligasjonsutstedelse"/>
     </release_bond_window>
     <save_dialog>
         <text id="load" need_translate="false" value="Last"/>
