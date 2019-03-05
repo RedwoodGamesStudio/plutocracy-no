@@ -622,9 +622,9 @@
         <text id="year" need_translate="true" value=""/>
     </date_month>
     <dialog_panel>
-        <text id="attention" need_translate="true" value=""/>
-        <text id="talks" need_translate="true" value=""/>
-        <text id="yes_cancel_to_hell" need_translate="true" value=""/>
+        <text id="attention" need_translate="false" value="Oppmerksomhet!"/>
+        <text id="talks" need_translate="false" value="Forhandling"/>
+        <text id="yes_cancel_to_hell" need_translate="false" value="Avbryt"/>
     </dialog_panel>
     <director_orders>
         <text id="balance" need_translate="false" value="Bedriftens balanse: "/>
