@@ -911,41 +911,41 @@
         <text id="safety_stock_quantity" need_translate="true" value=""/>
     </discussion_settings>
     <discussion_window>
-        <text id="agree" need_translate="true" value=""/>
-        <text id="analysis" need_translate="true" value=""/>
-        <text id="contract" need_translate="true" value=""/>
-        <text id="contract_condition" need_translate="true" value=""/>
-        <text id="deal_chance" need_translate="true" value=""/>
-        <text id="deal_history" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="history" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="info" need_translate="true" value=""/>
+        <text id="agree" need_translate="false" value="Ok"/>
+        <text id="analysis" need_translate="false" value="Analyse"/>
+        <text id="contract" need_translate="false" value="Avtale"/>
+        <text id="contract_condition" need_translate="false" value="Avtalebetingelser"/>
+        <text id="deal_chance" need_translate="false" value="Avtalesjanse:"/>
+        <text id="deal_history" need_translate="false" value="Avtaleprosess:"/>
+        <text id="deal_sum" need_translate="false" value="Avtalesum"/>
+        <text id="exit" need_translate="false" value="Avslutt"/>
+        <text id="history" need_translate="false" value="Prosess"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="info" need_translate="false" value="Info"/>
         <loan>
-            <text id="all_loans" need_translate="true" value=""/>
-            <text id="loan_sum" need_translate="true" value=""/>
-            <text id="pay_loan" need_translate="true" value=""/>
-            <text id="quarter_payment" need_translate="true" value=""/>
-            <text id="quarter_rate" need_translate="true" value=""/>
-            <text id="take_loan" need_translate="true" value=""/>
-            <text id="total_sum_by_loans" need_translate="true" value=""/>
+            <text id="all_loans" need_translate="false" value="Alle lån"/>
+            <text id="loan_sum" need_translate="false" value="Lånesum"/>
+            <text id="pay_loan" need_translate="false" value="Tilbakebetal"/>
+            <text id="quarter_payment" need_translate="false" value=""/>
+            <text id="quarter_rate" need_translate="false" value="Kvartalsrente"/>
+            <text id="take_loan" need_translate="false" value="Ta lån"/>
+            <text id="total_sum_by_loans" need_translate="false" value="Total tilbakebetalingssum"/>
         </loan>
-        <text id="negative_result" need_translate="true" value=""/>
-        <text id="negotiation_in_progress" need_translate="true" value=""/>
-        <text id="neutral_result1" need_translate="true" value=""/>
-        <text id="neutral_result2" need_translate="true" value=""/>
-        <text id="offer" need_translate="true" value=""/>
-        <text id="opponent_sign" need_translate="true" value=""/>
-        <text id="player_sign" need_translate="true" value=""/>
-        <text id="positive_result" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="refuse" need_translate="true" value=""/>
-        <text id="roi" need_translate="true" value=""/>
-        <text id="share_price" need_translate="true" value=""/>
-        <text id="shares_count" need_translate="true" value=""/>
-        <text id="shares_part_after_deal" need_translate="true" value=""/>
-        <text id="sign" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="false" value="Feilet"/>
+        <text id="negotiation_in_progress" need_translate="false" value="Forhandler..."/>
+        <text id="neutral_result1" need_translate="false" value="Mottilbud"/>
+        <text id="neutral_result2" need_translate="false" value="Mottilbud"/>
+        <text id="offer" need_translate="false" value="Tilbud"/>
+        <text id="opponent_sign" need_translate="false" value="Selgers signatur"/>
+        <text id="player_sign" need_translate="false" value="Kjøpers signatur"/>
+        <text id="positive_result" need_translate="false" value="Suksess"/>
+        <text id="profit" need_translate="false" value="Profitt"/>
+        <text id="refuse" need_translate="false" value="Avslå"/>
+        <text id="roi" need_translate="false" value="Lønnsomhet"/>
+        <text id="share_price" need_translate="false" value="Aksjepris"/>
+        <text id="shares_count" need_translate="false" value="Antall aksjer"/>
+        <text id="shares_part_after_deal" need_translate="false" value="Din fremtidige andel"/>
+        <text id="sign" need_translate="false" value="Signer"/>
     </discussion_window>
     <economic>
         <buttons>
