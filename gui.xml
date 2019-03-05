@@ -2145,64 +2145,64 @@
         <text id="load" need_translate="true" value=""/>
     </save_dialog>
     <sb_settings>
-        <text id="avatar_attributes" need_translate="true" value=""/>
-        <text id="avatar_clothes" need_translate="true" value=""/>
-        <text id="avatar_hair" need_translate="true" value=""/>
-        <text id="avatar_type" need_translate="true" value=""/>
-        <text id="big_world" need_translate="true" value=""/>
-        <text id="company_owner" need_translate="true" value=""/>
-        <text id="create" need_translate="true" value=""/>
+        <text id="avatar_attributes" need_translate="false" value="Egenskap"/>
+        <text id="avatar_clothes" need_translate="false" value="Klær"/>
+        <text id="avatar_hair" need_translate="false" value="Hårfrisyre"/>
+        <text id="avatar_type" need_translate="false" value="Type"/>
+        <text id="big_world" need_translate="false" value="Stor verden"/>
+        <text id="company_owner" need_translate="false" value="Bedriftseier"/>
+        <text id="create" need_translate="false" value="Opprett"/>
         <text id="detail_variant" need_translate="true" value=""/>
-        <text id="dossier" need_translate="true" value=""/>
-        <text id="economy_win" need_translate="true" value=""/>
-        <text id="euroopoid" need_translate="true" value=""/>
-        <text id="exp_investor" need_translate="true" value=""/>
-        <text id="female" need_translate="true" value=""/>
-        <text id="financial_genius" need_translate="true" value=""/>
-        <text id="from_lowest" need_translate="true" value=""/>
-        <text id="game_difficult" need_translate="true" value=""/>
-        <text id="game_target" need_translate="true" value=""/>
-        <text id="game_world" need_translate="true" value=""/>
-        <text id="generate" need_translate="true" value=""/>
-        <text id="gilded_epoch_usa" need_translate="true" value=""/>
-        <text id="glasses_variant" need_translate="true" value=""/>
-        <text id="hair_variant" need_translate="true" value=""/>
-        <text id="influence_count" need_translate="true" value=""/>
-        <text id="large_world" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="male" need_translate="true" value=""/>
-        <text id="medium_world" need_translate="true" value=""/>
-        <text id="model_variant" need_translate="true" value=""/>
-        <text id="mongoloid" need_translate="true" value=""/>
-        <text id="monopoly" need_translate="true" value=""/>
-        <text id="name_and_surname" need_translate="true" value=""/>
-        <text id="negroid" need_translate="true" value=""/>
-        <text id="newbie" need_translate="true" value=""/>
-        <text id="no_attributes" need_translate="true" value=""/>
-        <text id="old" need_translate="true" value=""/>
-        <text id="person_age" need_translate="true" value=""/>
-        <text id="person_race" need_translate="true" value=""/>
-        <text id="person_sex" need_translate="true" value=""/>
-        <text id="plutocrat" need_translate="true" value=""/>
-        <text id="politial_influence" need_translate="true" value=""/>
-        <text id="ripe" need_translate="true" value=""/>
-        <text id="save" need_translate="true" value=""/>
-        <text id="select_person" need_translate="true" value=""/>
-        <text id="shark_of_capitalism" need_translate="true" value=""/>
-        <text id="small_world" need_translate="true" value=""/>
-        <text id="start_conditions" need_translate="true" value=""/>
-        <text id="start_time" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="summary" need_translate="true" value=""/>
-        <text id="superiority" need_translate="true" value=""/>
-        <text id="tie_variant" need_translate="true" value=""/>
-        <text id="top" need_translate="true" value=""/>
-        <text id="usa" need_translate="true" value=""/>
-        <text id="vestment_variant" need_translate="true" value=""/>
-        <text id="win_conidition" need_translate="true" value=""/>
-        <text id="world" need_translate="true" value=""/>
-        <text id="world_size" need_translate="true" value=""/>
-        <text id="young" need_translate="true" value=""/>
+        <text id="dossier" need_translate="false" value="Dossier"/>
+        <text id="economy_win" need_translate="false" value="Økonomisk seier"/>
+        <text id="euroopoid" need_translate="false" value="Europoid"/>
+        <text id="exp_investor" need_translate="false" value="Erfaren investor"/>
+        <text id="female" need_translate="false" value="Kvinne"/>
+        <text id="financial_genius" need_translate="false" value="Økonomisk geni"/>
+        <text id="from_lowest" need_translate="false" value="Start fra bunnen"/>
+        <text id="game_difficult" need_translate="false" value="Velg vannskelighetsgrad"/>
+        <text id="game_target" need_translate="false" value="Spillmål"/>
+        <text id="game_world" need_translate="false" value="Spillverden"/>
+        <text id="generate" need_translate="false" value="Generer"/>
+        <text id="gilded_epoch_usa" need_translate="false" value="Den forgyldte alderen i USA, 1870"/>
+        <text id="glasses_variant" need_translate="false" value="Briller %1"/>
+        <text id="hair_variant" need_translate="false" value="Hårfrisyre %1"/>
+        <text id="influence_count" need_translate="false" value="Innflytelsespoeng"/>
+        <text id="large_world" need_translate="false" value="Enorm verden"/>
+        <text id="level" need_translate="false" value="Skaler"/>
+        <text id="male" need_translate="false" value="Mann"/>
+        <text id="medium_world" need_translate="false" value="Medium verden"/>
+        <text id="model_variant" need_translate="false" value="Versjon %1"/>
+        <text id="mongoloid" need_translate="false" value="Asiatisk"/>
+        <text id="monopoly" need_translate="false" value="Monopol"/>
+        <text id="name_and_surname" need_translate="false" value="Navn og etternavn"/>
+        <text id="negroid" need_translate="false" value="Afroamerikaner"/>
+        <text id="newbie" need_translate="false" value="Nybegynner"/>
+        <text id="no_attributes" need_translate="false" value="Ingen"/>
+        <text id="old" need_translate="false" value="Eldre"/>
+        <text id="person_age" need_translate="false" value="Alder"/>
+        <text id="person_race" need_translate="false" value="Rase"/>
+        <text id="person_sex" need_translate="false" value="Kjønn"/>
+        <text id="plutocrat" need_translate="false" value="Plutokrat"/>
+        <text id="politial_influence" need_translate="false" value="Politisk innflytelse"/>
+        <text id="ripe" need_translate="false" value="Moden"/>
+        <text id="save" need_translate="false" value="Lagre"/>
+        <text id="select_person" need_translate="false" value="Velg karakter"/>
+        <text id="shark_of_capitalism" need_translate="false" value="Kapitalistisk hai"/>
+        <text id="small_world" need_translate="false" value="Liten verden"/>
+        <text id="start_conditions" need_translate="false" value="Spillmodus"/>
+        <text id="start_time" need_translate="false" value="Spillets startperiode"/>
+        <text id="state" need_translate="false" value="Stat"/>
+        <text id="summary" need_translate="false" value="Rikdom"/>
+        <text id="superiority" need_translate="false" value="Dominans"/>
+        <text id="tie_variant" need_translate="false" value="Uavgjort %1"/>
+        <text id="top" need_translate="false" value="Topp"/>
+        <text id="usa" need_translate="false" value="USA"/>
+        <text id="vestment_variant" need_translate="false" value="Klær %1"/>
+        <text id="win_conidition" need_translate="false" value="Krav for seier"/>
+        <text id="world" need_translate="false" value="Verden"/>
+        <text id="world_size" need_translate="false" value="Størrelse på verden"/>
+        <text id="young" need_translate="false" value="Ung"/>
     </sb_settings>
     <settings_window>
         <text id="2k" need_translate="false" value="2K"/>
