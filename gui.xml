@@ -1553,8 +1553,8 @@
         <text id="politics_description" need_translate="true" value=""/>
     </person_skills>
     <person_tooltip>
-        <text id="assets" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
+        <text id="assets" need_translate="false" value="Rikdom"/>
+        <text id="profit" need_translate="false" value="Inntekt"/>
     </person_tooltip>
     <personal_collections>
         <item_info>
