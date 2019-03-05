@@ -1786,8 +1786,8 @@
         <text id="where_would_you_like_to_be_a_party" need_translate="false" value="Hvordan vil du imponere de?"/>
     </player_events>
     <player_events_result>
-        <text id="accept" need_translate="true" value=""/>
-        <text id="event_result" need_translate="true" value=""/>
+        <text id="accept" need_translate="false" value="Aksepter"/>
+        <text id="event_result" need_translate="false" value="Resultat for arrangement"/>
     </player_events_result>
     <player_finances_model>
         <text id="assets" need_translate="false" value="Eiendom"/>
