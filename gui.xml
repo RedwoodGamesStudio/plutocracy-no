@@ -1158,13 +1158,13 @@
         <text id="progress" need_translate="false" value="Fremgang"/>
     </main>
     <main_events_sequence>
-        <text id="alpha_version_win_condition" need_translate="true" value=""/>
+        <text id="alpha_version_win_condition" need_translate="false" value="Alfa-versjonen er begrenset til $ %1. %2 %3 vinn!"/>
         <text id="bots_stopped_to_next_step" need_translate="true" value=""/>
         <text id="campaign" need_translate="true" value=""/>
-        <text id="end_game" need_translate="true" value=""/>
+        <text id="end_game" need_translate="false" value="Ferdig"/>
         <text id="free_governor_lobby_player" need_translate="true" value=""/>
         <text id="free_marshal_lobby_bot" need_translate="true" value=""/>
-        <text id="game_over" need_translate="true" value=""/>
+        <text id="game_over" need_translate="false" value="Spillet er slutt"/>
         <text id="months_of_prisoning" need_translate="true" value=""/>
         <text id="multiplayer_game" need_translate="true" value=""/>
         <text id="no_actions_because_you_are_prisoned" need_translate="true" value=""/>
