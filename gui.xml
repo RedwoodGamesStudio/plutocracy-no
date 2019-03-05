@@ -376,41 +376,41 @@
         <text id="strike_text_working_hours" need_translate="true" value=""/>
     </company_event>
     <company_handler>
-        <text id="accident_risk" need_translate="true" value=""/>
-        <text id="administrative_expenses" need_translate="true" value=""/>
-        <text id="adress_generation_is_impossible" need_translate="true" value=""/>
-        <text id="available_primary" need_translate="true" value=""/>
-        <text id="available_products" need_translate="true" value=""/>
-        <text id="base_productivity" need_translate="true" value=""/>
-        <text id="capitalization" need_translate="true" value=""/>
-        <text id="company_name_is_inaccessible" need_translate="true" value=""/>
-        <text id="expenses" need_translate="true" value=""/>
-        <text id="fact_productivity" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
-        <text id="goodwill" need_translate="true" value=""/>
-        <text id="infrastructure" need_translate="true" value=""/>
-        <text id="logistics" need_translate="true" value=""/>
-        <text id="margin" need_translate="true" value=""/>
-        <text id="market_part" need_translate="true" value=""/>
-        <text id="motivation" need_translate="true" value=""/>
-        <text id="not_enough_place_for_new_company" need_translate="true" value=""/>
+        <text id="accident_risk" need_translate="false" value="Ulykkesrisiko"/>
+        <text id="administrative_expenses" need_translate="false" value="Administrasjonskostnader"/>
+        <text id="adress_generation_is_impossible" need_translate="false" value="Adressegenerering er umulig!"/>
+        <text id="available_primary" need_translate="false" value="Råvarer"/>
+        <text id="available_products" need_translate="false" value="Tilgjengelige varer"/>
+        <text id="base_productivity" need_translate="false" value="Basekapasitet"/>
+        <text id="capitalization" need_translate="false" value="Markedsverdi"/>
+        <text id="company_name_is_inaccessible" need_translate="false" value="Ingen tilgjengelige navn for bedriften!"/>
+        <text id="expenses" need_translate="false" value="Generelle utgifter"/>
+        <text id="fact_productivity" need_translate="false" value="Aktuell kapasitet"/>
+        <text id="federal_tax" need_translate="false" value="Føderal skatt"/>
+        <text id="goodwill" need_translate="false" value="Velvilje"/>
+        <text id="infrastructure" need_translate="false" value="Infrastruktur"/>
+        <text id="logistics" need_translate="false" value="Logistikk"/>
+        <text id="margin" need_translate="false" value="Margin"/>
+        <text id="market_part" need_translate="false" value="Markedsandel"/>
+        <text id="motivation" need_translate="false" value="Motivasjon"/>
+        <text id="not_enough_place_for_new_company" need_translate="false" value="Ingen plasser for nye bedrifter!"/>
         <text id="other_countries_export" need_translate="true" value=""/>
         <text id="other_countries_import" need_translate="true" value=""/>
-        <text id="primary_to_secondary" need_translate="true" value=""/>
-        <text id="proceeds" need_translate="true" value=""/>
-        <text id="product_price" need_translate="true" value=""/>
-        <text id="production_expenses" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="share_fair_price" need_translate="true" value=""/>
-        <text id="state_tax" need_translate="true" value=""/>
-        <text id="strike_risk" need_translate="true" value=""/>
-        <text id="technologies" need_translate="true" value=""/>
-        <text id="workers_count" need_translate="true" value=""/>
-        <text id="working_condition" need_translate="true" value=""/>
-        <text id="working_hours" need_translate="true" value=""/>
-        <text id="workplaces_count" need_translate="true" value=""/>
+        <text id="primary_to_secondary" need_translate="false" value="Råvarer per vareenhet"/>
+        <text id="proceeds" need_translate="true" value="Inntekter"/>
+        <text id="product_price" need_translate="true" value="Varepris"/>
+        <text id="production_expenses" need_translate="true" value="Produksjonskostnader"/>
+        <text id="profit" need_translate="true" value="Nettoinntekt"/>
+        <text id="profitability" need_translate="true" value="Lønnsomhet"/>
+        <text id="salary" need_translate="true" value="Lønn"/>
+        <text id="share_fair_price" need_translate="true" value="Aksjepris"/>
+        <text id="state_tax" need_translate="true" value="Statlig skatt"/>
+        <text id="strike_risk" need_translate="true" value="Risiko for streik"/>
+        <text id="technologies" need_translate="true" value="Teknologier"/>
+        <text id="workers_count" need_translate="true" value="Antall arbeidere"/>
+        <text id="working_condition" need_translate="true" value="Arbeidsforhold"/>
+        <text id="working_hours" need_translate="true" value="Arbeidstid"/>
+        <text id="workplaces_count" need_translate="true" value="Antall arbeidsplasser"/>
     </company_handler>
     <company_info_panel>
         <text id="branch" need_translate="false" value="Industri:"/>
