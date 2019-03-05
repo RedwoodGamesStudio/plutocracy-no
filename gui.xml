@@ -2033,17 +2033,17 @@
         <text id="you_escape_marshal_pursuit_because_justice_is_your_man" need_translate="true" value=""/>
     </politican_handler>
     <politican_object>
-        <text id="congress_candidate" need_translate="true" value=""/>
-        <text id="congressman" need_translate="true" value=""/>
-        <text id="congressman_in_genetive" need_translate="true" value=""/>
-        <text id="legislature_candidate" need_translate="true" value=""/>
-        <text id="legislature_congressman" need_translate="true" value=""/>
-        <text id="legislature_congressman_in_genetive" need_translate="true" value=""/>
-        <text id="legislature_senator" need_translate="true" value=""/>
+        <text id="congress_candidate" need_translate="false" value="Kongresskandidat"/>
+        <text id="congressman" need_translate="false" value="Kongressmann"/>
+        <text id="congressman_in_genetive" need_translate="false" value="kongressmann"/>
+        <text id="legislature_candidate" need_translate="false" value="Lovgivende kandidat"/>
+        <text id="legislature_congressman" need_translate="false" value="Lovgivende kongressmann"/>
+        <text id="legislature_congressman_in_genetive" need_translate="false" value="lovgivende kongressmann"/>
+        <text id="legislature_senator" need_translate="false" value="Lovgivende senator"/>
         <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
-        <text id="politician" need_translate="true" value=""/>
-        <text id="senator" need_translate="true" value=""/>
-        <text id="senator_in_genetive" need_translate="true" value=""/>
+        <text id="politician" need_translate="false" value="Politiker"/>
+        <text id="senator" need_translate="false" value="Senator"/>
+        <text id="senator_in_genetive" need_translate="false" value="senator"/>
     </politican_object>
     <politican_panel>
         <text id="bribe_size" need_translate="true" value=""/>
