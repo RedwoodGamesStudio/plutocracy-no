@@ -2095,29 +2095,29 @@
         <text id="you_will_lose" need_translate="false" value="Bruk:"/>
     </random_game_events>
     <relations_handler>
-        <text id="agent_using" need_translate="true" value=""/>
-        <text id="ambitions" need_translate="true" value=""/>
-        <text id="base_relation" need_translate="true" value=""/>
-        <text id="beliefs" need_translate="true" value=""/>
+        <text id="agent_using" need_translate="false" value="Brukt agent"/>
+        <text id="ambitions" need_translate="false" value="Oppnådd ambisjon"/>
+        <text id="base_relation" need_translate="false" value="Grunnleggende lojalitet"/>
+        <text id="beliefs" need_translate="false" value="Oppfatning"/>
         <text id="benevolent_or_envious_modifier" need_translate="true" value=""/>
-        <text id="communicability" need_translate="true" value=""/>
-        <text id="control_shareholder_modifier" need_translate="true" value=""/>
-        <text id="convictions_modifier" need_translate="true" value=""/>
-        <text id="corruption" need_translate="true" value=""/>
-        <text id="courtesan" need_translate="true" value=""/>
-        <text id="despicable_act" need_translate="true" value=""/>
-        <text id="failed_negotiation" need_translate="true" value=""/>
-        <text id="hired_assistant" need_translate="true" value=""/>
-        <text id="hired_director" need_translate="true" value=""/>
-        <text id="individual_ambition" need_translate="true" value=""/>
-        <text id="journalist" need_translate="true" value=""/>
-        <text id="network" need_translate="true" value=""/>
-        <text id="ownerships" need_translate="true" value=""/>
-        <text id="personal_request" need_translate="true" value=""/>
-        <text id="previous_negotiations" need_translate="true" value=""/>
-        <text id="total_relation" need_translate="true" value=""/>
-        <text id="unreliability" need_translate="true" value=""/>
-        <text id="voting_for_director" need_translate="true" value=""/>
+        <text id="communicability" need_translate="false" value="Omgjengelighet"/>
+        <text id="control_shareholder_modifier" need_translate="false" value="Bedriftseier"/>
+        <text id="convictions_modifier" need_translate="false" value="Oppfatningsbonus"/>
+        <text id="corruption" need_translate="false" value="Korrupsjonsforsøk"/>
+        <text id="courtesan" need_translate="false" value="Kurtisane"/>
+        <text id="despicable_act" need_translate="false" value="Sleip handling"/>
+        <text id="failed_negotiation" need_translate="false" value="Mislykket forhandling"/>
+        <text id="hired_assistant" need_translate="false" value="Hyrt assistent"/>
+        <text id="hired_director" need_translate="false" value="Hyrt direktør"/>
+        <text id="individual_ambition" need_translate="false" value="Ambisjon 'Eksklusiv eier'"/>
+        <text id="journalist" need_translate="false" value="Brukte journalister"/>
+        <text id="network" need_translate="false" value="Felles forbindelser"/>
+        <text id="ownerships" need_translate="false" value="Felles interesser"/>
+        <text id="personal_request" need_translate="false" value="Personlig forespørsel"/>
+        <text id="previous_negotiations" need_translate="false" value="Forrige forhandling"/>
+        <text id="total_relation" need_translate="false" value="Lojalitet til deg"/>
+        <text id="unreliability" need_translate="false" value="Upålitelig"/>
+        <text id="voting_for_director" need_translate="false" value="Stemmen på aksjonærmøtet"/>
     </relations_handler>
     <relatives>
         <text id="cousin" need_translate="true" value=""/>
