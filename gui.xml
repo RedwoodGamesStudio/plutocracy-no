@@ -1790,17 +1790,17 @@
         <text id="event_result" need_translate="true" value=""/>
     </player_events_result>
     <player_finances_model>
-        <text id="assets" need_translate="true" value=""/>
-        <text id="assistants" need_translate="true" value=""/>
-        <text id="cash" need_translate="true" value=""/>
-        <text id="cash_assets" need_translate="true" value=""/>
-        <text id="debt_certificate" need_translate="true" value=""/>
-        <text id="financial_support" need_translate="true" value=""/>
-        <text id="lending" need_translate="true" value=""/>
-        <text id="loan_from" need_translate="true" value=""/>
-        <text id="other_things" need_translate="true" value=""/>
-        <text id="safety_stock" need_translate="true" value=""/>
-        <text id="taxes" need_translate="true" value=""/>
+        <text id="assets" need_translate="false" value="Eiendom"/>
+        <text id="assistants" need_translate="false" value="Assistenter"/>
+        <text id="cash" need_translate="false" value="Penger"/>
+        <text id="cash_assets" need_translate="false" value="Aktiva"/>
+        <text id="debt_certificate" need_translate="false" value="Obligasjoner"/>
+        <text id="financial_support" need_translate="false" value="Vedlikehold"/>
+        <text id="lending" need_translate="false" value="Lån"/>
+        <text id="loan_from" need_translate="false" value="Lån fra"/>
+        <text id="other_things" need_translate="false" value="Annet"/>
+        <text id="safety_stock" need_translate="false" value="Aksjer"/>
+        <text id="taxes" need_translate="false" value="Skatter"/>
     </player_finances_model>
     <player_finances_window>
         <text id="credits" need_translate="false" value="Lån"/>
