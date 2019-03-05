@@ -884,8 +884,8 @@
         <text id="safety_stock_quantity" need_translate="true" value=""/>
     </discussion_offer>
     <discussion_panel>
-        <text id="talks_progress" need_translate="true" value=""/>
-        <text id="talks_round" need_translate="true" value=""/>
+        <text id="talks_progress" need_translate="false" value="Forhandlingsprosess"/>
+        <text id="talks_round" need_translate="false" value="Forhandlingsrunde"/>
     </discussion_panel>
     <discussion_process_background>
         <text id="repeated_discussion_start_because_of_second_chance" need_translate="false" value="Gjentatt forhandling! Andre sjanse ble anvendt."/>
