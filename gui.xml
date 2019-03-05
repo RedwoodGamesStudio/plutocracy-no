@@ -1146,11 +1146,11 @@
         <text id="h_4" need_translate="true" value=""/>
     </left_panel>
     <level_figures>
-        <text id="bishop" need_translate="true" value=""/>
-        <text id="castle" need_translate="true" value=""/>
-        <text id="king" need_translate="true" value=""/>
-        <text id="knight" need_translate="true" value=""/>
-        <text id="pawn" need_translate="true" value=""/>
+        <text id="bishop" need_translate="false" value="Biskop"/>
+        <text id="castle" need_translate="false" value="Slott"/>
+        <text id="king" need_translate="false" value="Konge"/>
+        <text id="knight" need_translate="false" value="Ridder"/>
+        <text id="pawn" need_translate="false" value="Bonde"/>
     </level_figures>
     <main>
         <text id="first_start_of_game" need_translate="false" value="Første gang du starter spillet vil det ta omtrent 5 minutter. Drikk en kopp med kaffe, og ikke glem sukker. Hjernen din trenger energi."/>
