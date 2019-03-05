@@ -1121,15 +1121,15 @@
         <text id="winter" need_translate="true" value=""/>
     </interesting_content>
     <issue_shares>
-        <text id="buy_max" need_translate="true" value=""/>
-        <text id="cancel" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="issue_shares" need_translate="true" value=""/>
-        <text id="put_sign" need_translate="true" value=""/>
-        <text id="share_price" need_translate="true" value=""/>
-        <text id="shares_cost" need_translate="true" value=""/>
-        <text id="shares_percent" need_translate="true" value=""/>
-        <text id="shares_sold" need_translate="true" value=""/>
+        <text id="buy_max" need_translate="false" value="Kjøp alle aksjer"/>
+        <text id="cancel" need_translate="false" value="Avbryt"/>
+        <text id="exit" need_translate="false" value="Ok"/>
+        <text id="issue_shares" need_translate="false" value="Aksjeutstedelse"/>
+        <text id="put_sign" need_translate="false" value="Signer"/>
+        <text id="share_price" need_translate="false" value="Plasseringspris"/>
+        <text id="shares_cost" need_translate="false" value="Aksjeutstedelsespris"/>
+        <text id="shares_percent" need_translate="false" value="Antall aksjer"/>
+        <text id="shares_sold" need_translate="false" value="Aksjer solgt"/>
     </issue_shares>
     <item_with_check_model>
         <text id="company" need_translate="false" value="Bedrift:"/>
