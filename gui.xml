@@ -1132,12 +1132,12 @@
         <text id="shares_sold" need_translate="true" value=""/>
     </issue_shares>
     <item_with_check_model>
-        <text id="company" need_translate="true" value=""/>
-        <text id="contact" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="safety_stock" need_translate="true" value=""/>
-        <text id="share_fraction" need_translate="true" value=""/>
-        <text id="shareholder" need_translate="true" value=""/>
+        <text id="company" need_translate="false" value="Bedrift:"/>
+        <text id="contact" need_translate="false" value="Kontakt:"/>
+        <text id="name" need_translate="false" value="Navn:"/>
+        <text id="safety_stock" need_translate="false" value="Aksjer:"/>
+        <text id="share_fraction" need_translate="false" value="Aksjeproposjon:"/>
+        <text id="shareholder" need_translate="false" value="Aksjonær:"/>
     </item_with_check_model>
     <left_panel>
         <text id="h_1" need_translate="false" value="Assistenter"/>
