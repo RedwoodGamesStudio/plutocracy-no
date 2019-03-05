@@ -2380,15 +2380,15 @@
         <text id="winter" need_translate="false" value="Vinter"/>
     </step_switcher>
     <under_construction>
-        <text id="build_number" need_translate="true" value=""/>
-        <text id="hello_i_am_test_version_of_game" need_translate="true" value=""/>
-        <text id="less_one_years_old" need_translate="true" value=""/>
-        <text id="lets_start" need_translate="true" value=""/>
-        <text id="my_creators_says" need_translate="true" value=""/>
-        <text id="plutocracy" need_translate="true" value=""/>
-        <text id="press_any_key_to_continue" need_translate="true" value=""/>
-        <text id="truly_yours_alpha_version" need_translate="true" value=""/>
-        <text id="you_can_help_me" need_translate="true" value=""/>
+        <text id="build_number" need_translate="false" value=", build %1"/>
+        <text id="hello_i_am_test_version_of_game" need_translate="false" value="Hei!\n\nDette er en prøveversjon av spillet "/>
+        <text id="less_one_years_old" need_translate="false" value="Jeg kan være uartig og uforutsigbar nå og da... jeg beklager det! :(\n"/>
+        <text id="lets_start" need_translate="false" value="\nLa oss komme i gang"/>
+        <text id="my_creators_says" need_translate="false" value="Mine utviklere sier at de vil slippe meg ut når jeg blir mer moden."/>
+        <text id="plutocracy" need_translate="false" value="Plutokrat"/>
+        <text id="press_any_key_to_continue" need_translate="false" value="Trykk på hvilken som helst knapp for å fortsette . . ."/>
+        <text id="truly_yours_alpha_version" need_translate="false" value="Bese hilsen, alfaversjonen "/>
+        <text id="you_can_help_me" need_translate="false" value="Du er en av de som hjelper meg å bli spillbar! Hvis du finner noen bugs, ikke nøl med å gi utviklerne beskjed. Jeg vil ihvertfall være veldig takknemlig for det :)"/>
     </under_construction>
     <user_statistic>
         <text id="influence_per_step" need_translate="false" value="Innflytelse"/>
