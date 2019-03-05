@@ -580,17 +580,17 @@
         <text id="installatio_of_error_handler_is_impossible" need_translate="true" value=""/>
     </crash_rpt>
     <credit_window>
-        <text id="abort" need_translate="true" value=""/>
-        <text id="abort_message" need_translate="true" value=""/>
+        <text id="abort" need_translate="false" value="Avvist"/>
+        <text id="abort_message" need_translate="false" value="Lånet du ønsket ble avvist! \nDu har hatt et dårlig forhold med en majoritetsaksjonær i %1"/>
         <text id="accept" need_translate="true" value=""/>
         <text id="dialog_title_return" need_translate="true" value=""/>
         <text id="dialog_title_take" need_translate="true" value=""/>
-        <text id="interest_rate_step" need_translate="true" value=""/>
-        <text id="over_payment" need_translate="true" value=""/>
-        <text id="quart_payment" need_translate="true" value=""/>
-        <text id="repay" need_translate="true" value=""/>
+        <text id="interest_rate_step" need_translate="false" value="Renter per runde: %1 %"/>
+        <text id="over_payment" need_translate="false" value="Betalt for mye: %1 $"/>
+        <text id="quart_payment" need_translate="false" value="Sum til betaling per kvartal: %1 $"/>
+        <text id="repay" need_translate="false" value="Tilbakebetal"/>
         <text id="sum" need_translate="true" value=""/>
-        <text id="take" need_translate="true" value=""/>
+        <text id="take" need_translate="false" value="Ta"/>
         <text id="term" need_translate="true" value=""/>
         <text id="term_value" need_translate="true" value=""/>
     </credit_window>
