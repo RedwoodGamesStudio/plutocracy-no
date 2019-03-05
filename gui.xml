@@ -1092,8 +1092,8 @@
         <text id="personage_terms" need_translate="true" value=""/>
     </guest_card>
     <guest_info>
-        <text id="explore_more" need_translate="true" value=""/>
-        <text id="invite_someone" need_translate="true" value=""/>
+        <text id="explore_more" need_translate="false" value="Du burde forske på\nferdigheten &quot;Sekulær løve&quot; for å invitere flere VIPer."/>
+        <text id="invite_someone" need_translate="false" value="Inviter VIPer til hendelsen\nfra listen av aksjonærer og/eller politikere."/>
     </guest_info>
     <hire_director_popup>
         <text id="ok_button" need_translate="false" value="Ok"/>
