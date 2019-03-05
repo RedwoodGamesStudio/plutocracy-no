@@ -1751,39 +1751,39 @@
     </persons_window>
     <player_events>
         <text id="back_to_player_window" need_translate="true" value=""/>
-        <text id="cash" need_translate="true" value=""/>
-        <text id="continue" need_translate="true" value=""/>
-        <text id="event_budget" need_translate="true" value=""/>
-        <text id="event_planning" need_translate="true" value=""/>
-        <text id="event_type" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="for_party_you_nees_some_assets" need_translate="true" value=""/>
-        <text id="guests_list" need_translate="true" value=""/>
-        <text id="happen_one_or_two" need_translate="true" value=""/>
-        <text id="hello_mister" need_translate="true" value=""/>
-        <text id="influence" need_translate="true" value=""/>
-        <text id="invited_guests_list" need_translate="true" value=""/>
-        <text id="manage" need_translate="true" value=""/>
-        <text id="player_get_profit" need_translate="true" value=""/>
-        <text id="player_lose_profit" need_translate="true" value=""/>
+        <text id="cash" need_translate="false" value="Rikdom"/>
+        <text id="continue" need_translate="false" value="Fortsett"/>
+        <text id="event_budget" need_translate="false" value="Arrangementbudgett"/>
+        <text id="event_planning" need_translate="false" value="Arrangementplanlegging"/>
+        <text id="event_type" need_translate="false" value="Arrangementtype"/>
+        <text id="exit" need_translate="false" value="Ok"/>
+        <text id="for_party_you_nees_some_assets" need_translate="false" value="Du må ha en eiendom for å organisere et arrangement!"/>
+        <text id="guests_list" need_translate="false" value="VIP liste"/>
+        <text id="happen_one_or_two" need_translate="false" value="En av to ting skjer:"/>
+        <text id="hello_mister" need_translate="false" value="Hei"/>
+        <text id="influence" need_translate="false" value="Innflytelse"/>
+        <text id="invited_guests_list" need_translate="false" value="VIP registrering"/>
+        <text id="manage" need_translate="false" value="Organiser"/>
+        <text id="player_get_profit" need_translate="false" value=" vil få "/>
+        <text id="player_lose_profit" need_translate="false" value=" vil tape "/>
         <text id="player_pay_for_rout" need_translate="true" value=""/>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="relation" need_translate="true" value=""/>
-        <text id="relations_decrease" need_translate="true" value=""/>
-        <text id="relations_increase" need_translate="true" value=""/>
+        <text id="prestige" need_translate="false" value="Prestisje"/>
+        <text id="relation" need_translate="false" value="Forhold"/>
+        <text id="relations_decrease" need_translate="false" value="lojalitet vil bli forverret med "/>
+        <text id="relations_increase" need_translate="false" value="lojalitet vil bli forbedret med "/>
         <text id="reputation" need_translate="true" value=""/>
-        <text id="rout" need_translate="true" value=""/>
-        <text id="rout_budget" need_translate="true" value=""/>
-        <text id="rout_events" need_translate="true" value=""/>
-        <text id="rout_resume" need_translate="true" value=""/>
-        <text id="start" need_translate="true" value=""/>
-        <text id="sum_for_one_guest" need_translate="true" value=""/>
-        <text id="surprise_guests" need_translate="true" value=""/>
-        <text id="total" need_translate="true" value=""/>
-        <text id="total_costs" need_translate="true" value=""/>
-        <text id="update_relation_with" need_translate="true" value=""/>
-        <text id="vip_guests" need_translate="true" value=""/>
-        <text id="where_would_you_like_to_be_a_party" need_translate="true" value=""/>
+        <text id="rout" need_translate="false" value="Arrangement"/>
+        <text id="rout_budget" need_translate="false" value="Budsjett"/>
+        <text id="rout_events" need_translate="false" value="Arrangementer"/>
+        <text id="rout_resume" need_translate="false" value="Resultat for arrangement"/>
+        <text id="start" need_translate="false" value="Organiser"/>
+        <text id="sum_for_one_guest" need_translate="false" value="Sum for en VIP"/>
+        <text id="surprise_guests" need_translate="false" value="Hvordan vil du imponere de?"/>
+        <text id="total" need_translate="false" value="Totalt"/>
+        <text id="total_costs" need_translate="false" value="Totale kostnader"/>
+        <text id="update_relation_with" need_translate="false" value="%1 med %2 %3"/>
+        <text id="vip_guests" need_translate="false" value="VIP gjester"/>
+        <text id="where_would_you_like_to_be_a_party" need_translate="false" value="Hvordan vil du imponere de?"/>
     </player_events>
     <player_events_result>
         <text id="accept" need_translate="true" value=""/>
