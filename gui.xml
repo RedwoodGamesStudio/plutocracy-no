@@ -1841,34 +1841,34 @@
         <text id="status_increased" need_translate="true" value=""/>
     </player_object>
     <player_profile>
-        <text id="assets_was_bought" need_translate="true" value=""/>
-        <text id="companies_was_visited" need_translate="true" value=""/>
-        <text id="control_packeges_quantity" need_translate="true" value=""/>
-        <text id="experience" need_translate="true" value=""/>
-        <text id="failed_talks" need_translate="true" value=""/>
-        <text id="for_next_level" need_translate="true" value=""/>
-        <text id="free" need_translate="true" value=""/>
-        <text id="holdings_created" need_translate="true" value=""/>
-        <text id="influence_was_gotten" need_translate="true" value=""/>
-        <text id="influence_was_spent" need_translate="true" value=""/>
-        <text id="learn" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="lose_safety_stock_through_drinking" need_translate="true" value=""/>
-        <text id="max_profit" need_translate="true" value=""/>
-        <text id="min_profit" need_translate="true" value=""/>
-        <text id="monopoly_created" need_translate="true" value=""/>
-        <text id="player_profile" need_translate="true" value=""/>
-        <text id="prestige" need_translate="true" value=""/>
-        <text id="profile" need_translate="true" value=""/>
-        <text id="quantity_of_glass_at_bar" need_translate="true" value=""/>
-        <text id="routs_organized" need_translate="true" value=""/>
-        <text id="safety_stock_was_bought" need_translate="true" value=""/>
-        <text id="safety_stock_was_selled" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="states_was_visited" need_translate="true" value=""/>
-        <text id="statistics" need_translate="true" value=""/>
-        <text id="successed_talks" need_translate="true" value=""/>
-        <text id="talks_quantity" need_translate="true" value=""/>
+        <text id="assets_was_bought" need_translate="false" value="Eiendom kjøpt"/>
+        <text id="companies_was_visited" need_translate="false" value="Bedrifter ble besøkt"/>
+        <text id="control_packeges_quantity" need_translate="false" value="Antall majoritetskontroll over bedrifter"/>
+        <text id="experience" need_translate="false" value="XP"/>
+        <text id="failed_talks" need_translate="false" value="Mislykkede forhandlinger"/>
+        <text id="for_next_level" need_translate="false" value="Neste nivå:"/>
+        <text id="free" need_translate="false" value="Tilgjengelig"/>
+        <text id="holdings_created" need_translate="false" value="Holdingselskaper"/>
+        <text id="influence_was_gotten" need_translate="false" value="Innflytelse fått"/>
+        <text id="influence_was_spent" need_translate="false" value="Innflyttelse brukt"/>
+        <text id="learn" need_translate="false" value="Lær"/>
+        <text id="level" need_translate="false" value="Nivå"/>
+        <text id="lose_safety_stock_through_drinking" need_translate="false" value="Gavemengde"/>
+        <text id="max_profit" need_translate="false" value="Maksimum inntekt"/>
+        <text id="min_profit" need_translate="false" value="Minimum inntekt"/>
+        <text id="monopoly_created" need_translate="false" value="Monopoler"/>
+        <text id="player_profile" need_translate="false" value="Min profil"/>
+        <text id="prestige" need_translate="false" value="Prestisje"/>
+        <text id="profile" need_translate="false" value="Min profil"/>
+        <text id="quantity_of_glass_at_bar" need_translate="false" value="Høyeste auksjonsbud"/>
+        <text id="routs_organized" need_translate="false" value="Arrangement organisert"/>
+        <text id="safety_stock_was_bought" need_translate="false" value="Aksjer kjøpt"/>
+        <text id="safety_stock_was_selled" need_translate="false" value="Aksjer solgt"/>
+        <text id="state" need_translate="false" value="Rikdom"/>
+        <text id="states_was_visited" need_translate="false" value="Stater besøkt"/>
+        <text id="statistics" need_translate="false" value="Statistikker"/>
+        <text id="successed_talks" need_translate="false" value="Vellykkede forhandlinger"/>
+        <text id="talks_quantity" need_translate="false" value="Antall forhandlinger"/>
     </player_profile>
     <player_skills_window>
         <text id="common_skills" need_translate="true" value=""/>
