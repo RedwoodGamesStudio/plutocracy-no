@@ -1153,9 +1153,9 @@
         <text id="pawn" need_translate="true" value=""/>
     </level_figures>
     <main>
-        <text id="first_start_of_game" need_translate="true" value=""/>
-        <text id="plutocracy" need_translate="true" value=""/>
-        <text id="progress" need_translate="true" value=""/>
+        <text id="first_start_of_game" need_translate="false" value="Første gang du starter spillet vil det ta omtrent 5 minutter. Drikk en kopp med kaffe, og ikke glem sukker. Hjernen din trenger energi."/>
+        <text id="plutocracy" need_translate="false" value="Plutokrat %1"/>
+        <text id="progress" need_translate="false" value="Fremgang"/>
     </main>
     <main_events_sequence>
         <text id="alpha_version_win_condition" need_translate="true" value=""/>
