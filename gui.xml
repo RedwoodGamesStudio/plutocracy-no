@@ -1339,10 +1339,10 @@
         <text id="ok" need_translate="true" value=""/>
     </message_box>
     <month_switcher>
-        <text id="autumn" need_translate="true" value=""/>
-        <text id="spring" need_translate="true" value=""/>
-        <text id="summer" need_translate="true" value=""/>
-        <text id="winter" need_translate="true" value=""/>
+        <text id="autumn" need_translate="false" value="Høst"/>
+        <text id="spring" need_translate="false" value="Vår"/>
+        <text id="summer" need_translate="false" value="Sommer"/>
+        <text id="winter" need_translate="false" value="Vinter"/>
     </month_switcher>
     <news_makets>
         <text id="accident_caption" need_translate="true" value=""/>
