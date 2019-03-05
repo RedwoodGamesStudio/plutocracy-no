@@ -332,15 +332,15 @@
         <text id="sale_price" need_translate="false" value="Salgspris"/>
     </collections_window>
     <companies_map>
-        <text id="alert" need_translate="true" value=""/>
-        <text id="alert_message" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="map" need_translate="true" value=""/>
-        <text id="no_companies_in_this_state" need_translate="true" value=""/>
-        <text id="not_enough_action_points" need_translate="true" value=""/>
-        <text id="not_enough_money" need_translate="true" value=""/>
-        <text id="oops" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
+        <text id="alert" need_translate="false" value="Melding"/>
+        <text id="alert_message" need_translate="false" value="%1 har ikke blitt med i USA!"/>
+        <text id="information" need_translate="false" value="Informasjon"/>
+        <text id="map" need_translate="false" value="Kart"/>
+        <text id="no_companies_in_this_state" need_translate="false" value="Det er ingen bedrifter i staten!"/>
+        <text id="not_enough_action_points" need_translate="false" value="Ikke nok dager!"/>
+        <text id="not_enough_money" need_translate="false" value="Ikke nok penger!"/>
+        <text id="oops" need_translate="false" value="Oops!"/>
+        <text id="state" need_translate="false" value="Stat"/>
     </companies_map>
     <companies_table>
         <text id="capitalization" need_translate="false" value="Markedsverdi"/>
