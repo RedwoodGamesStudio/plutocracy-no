@@ -2120,18 +2120,18 @@
         <text id="voting_for_director" need_translate="false" value="Stemmen på aksjonærmøtet"/>
     </relations_handler>
     <relatives>
-        <text id="cousin" need_translate="true" value=""/>
-        <text id="cousin_in_genetive" need_translate="true" value=""/>
-        <text id="daughter" need_translate="true" value=""/>
-        <text id="daughter_in_genetive" need_translate="true" value=""/>
-        <text id="father" need_translate="true" value=""/>
-        <text id="father_in_genetive" need_translate="true" value=""/>
-        <text id="mother" need_translate="true" value=""/>
-        <text id="mother_in_genetive" need_translate="true" value=""/>
-        <text id="son" need_translate="true" value=""/>
-        <text id="son_in_genetive" need_translate="true" value=""/>
-        <text id="uncle" need_translate="true" value=""/>
-        <text id="uncle_in_genetive" need_translate="true" value=""/>
+        <text id="cousin" need_translate="false" value="Søskenbarn"/>
+        <text id="cousin_in_genetive" need_translate="false" value="Søskenbarn"/>
+        <text id="daughter" need_translate="false" value="Datter"/>
+        <text id="daughter_in_genetive" need_translate="false" value="Datter"/>
+        <text id="father" need_translate="false" value="Far"/>
+        <text id="father_in_genetive" need_translate="false" value="Far"/>
+        <text id="mother" need_translate="false" value="Mor"/>
+        <text id="mother_in_genetive" need_translate="false" value="Mor"/>
+        <text id="son" need_translate="false" value="Sønn"/>
+        <text id="son_in_genetive" need_translate="false" value="Sønn"/>
+        <text id="uncle" need_translate="false" value="Onkel"/>
+        <text id="uncle_in_genetive" need_translate="false" value="Onkel"/>
     </relatives>
     <release_bond_window>
         <text id="bond_price" need_translate="true" value=""/>
