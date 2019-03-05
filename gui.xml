@@ -1558,188 +1558,188 @@
     </person_tooltip>
     <personal_collections>
         <item_info>
-            <text id="0_0" need_translate="true" value=""/>
-            <text id="0_1" need_translate="true" value=""/>
-            <text id="0_2" need_translate="true" value=""/>
-            <text id="0_3" need_translate="true" value=""/>
-            <text id="0_4" need_translate="true" value=""/>
-            <text id="0_5" need_translate="true" value=""/>
-            <text id="0_6" need_translate="true" value=""/>
-            <text id="0_7" need_translate="true" value=""/>
-            <text id="0_8" need_translate="true" value=""/>
-            <text id="1_0" need_translate="true" value=""/>
-            <text id="1_1" need_translate="true" value=""/>
-            <text id="1_2" need_translate="true" value=""/>
-            <text id="1_3" need_translate="true" value=""/>
-            <text id="1_4" need_translate="true" value=""/>
-            <text id="1_5" need_translate="true" value=""/>
-            <text id="1_6" need_translate="true" value=""/>
-            <text id="1_7" need_translate="true" value=""/>
-            <text id="1_8" need_translate="true" value=""/>
-            <text id="2_0" need_translate="true" value=""/>
-            <text id="2_1" need_translate="true" value=""/>
-            <text id="2_2" need_translate="true" value=""/>
-            <text id="2_3" need_translate="true" value=""/>
-            <text id="2_4" need_translate="true" value=""/>
-            <text id="2_5" need_translate="true" value=""/>
-            <text id="2_6" need_translate="true" value=""/>
-            <text id="2_7" need_translate="true" value=""/>
-            <text id="2_8" need_translate="true" value=""/>
-            <text id="3_0" need_translate="true" value=""/>
-            <text id="3_1" need_translate="true" value=""/>
-            <text id="3_2" need_translate="true" value=""/>
-            <text id="3_3" need_translate="true" value=""/>
-            <text id="3_4" need_translate="true" value=""/>
-            <text id="3_5" need_translate="true" value=""/>
-            <text id="3_6" need_translate="true" value=""/>
-            <text id="3_7" need_translate="true" value=""/>
-            <text id="3_8" need_translate="true" value=""/>
-            <text id="4_0" need_translate="true" value=""/>
-            <text id="4_1" need_translate="true" value=""/>
-            <text id="4_2" need_translate="true" value=""/>
-            <text id="4_3" need_translate="true" value=""/>
-            <text id="4_4" need_translate="true" value=""/>
-            <text id="4_5" need_translate="true" value=""/>
-            <text id="4_6" need_translate="true" value=""/>
-            <text id="4_7" need_translate="true" value=""/>
-            <text id="4_8" need_translate="true" value=""/>
-            <text id="5_0" need_translate="true" value=""/>
-            <text id="5_1" need_translate="true" value=""/>
-            <text id="5_2" need_translate="true" value=""/>
-            <text id="5_3" need_translate="true" value=""/>
-            <text id="5_4" need_translate="true" value=""/>
-            <text id="5_5" need_translate="true" value=""/>
-            <text id="5_6" need_translate="true" value=""/>
-            <text id="5_7" need_translate="true" value=""/>
-            <text id="5_8" need_translate="true" value=""/>
-            <text id="6_0" need_translate="true" value=""/>
-            <text id="6_1" need_translate="true" value=""/>
-            <text id="6_2" need_translate="true" value=""/>
-            <text id="6_3" need_translate="true" value=""/>
-            <text id="6_4" need_translate="true" value=""/>
-            <text id="6_5" need_translate="true" value=""/>
-            <text id="6_6" need_translate="true" value=""/>
-            <text id="6_7" need_translate="true" value=""/>
-            <text id="6_8" need_translate="true" value=""/>
-            <text id="7_0" need_translate="true" value=""/>
-            <text id="7_1" need_translate="true" value=""/>
-            <text id="7_2" need_translate="true" value=""/>
-            <text id="7_3" need_translate="true" value=""/>
-            <text id="7_4" need_translate="true" value=""/>
-            <text id="7_5" need_translate="true" value=""/>
-            <text id="7_6" need_translate="true" value=""/>
-            <text id="7_7" need_translate="true" value=""/>
-            <text id="7_8" need_translate="true" value=""/>
-            <text id="8_0" need_translate="true" value=""/>
-            <text id="8_1" need_translate="true" value=""/>
-            <text id="8_2" need_translate="true" value=""/>
-            <text id="8_3" need_translate="true" value=""/>
-            <text id="8_4" need_translate="true" value=""/>
-            <text id="8_5" need_translate="true" value=""/>
-            <text id="8_6" need_translate="true" value=""/>
-            <text id="8_7" need_translate="true" value=""/>
-            <text id="8_8" need_translate="true" value=""/>
-            <text id="9_0" need_translate="true" value=""/>
-            <text id="9_1" need_translate="true" value=""/>
-            <text id="9_2" need_translate="true" value=""/>
-            <text id="9_3" need_translate="true" value=""/>
-            <text id="9_4" need_translate="true" value=""/>
-            <text id="9_5" need_translate="true" value=""/>
-            <text id="9_6" need_translate="true" value=""/>
-            <text id="9_7" need_translate="true" value=""/>
-            <text id="9_8" need_translate="true" value=""/>
+            <text id="0_0" need_translate="false" value="Den amerikanske quarterhesten er den mest populære rasen i USA i dag. Denne hesten er godt kjent både som en løpshest og for dens ytelse i rodeoer, hesteshow og som en arbeidshest på gården."/>
+            <text id="0_1" need_translate="false" value="Den engelske fullblodshesten kommer fra tre berømte grunnlagssider som ble importert fra Storbritannia tidlig på 1700-tallet. Den engelske fullblodshesten ble avlet frem for mankeridning, flatt og hoppløp, har sin opprinnelse fra Storbritannia på midten av 1700-tallet. Det blir sagt at ingen andre hesteraser kan slå den engelske fullblodshesten i hastighet og avstand på den samme tiden."/>
+            <text id="0_2" need_translate="false" value="Andalusier, også kjenmt som den renrasede spanjolen, er en hesterase som kommer fra Den iberiske halvøya. Rasen var et verktøy for diplomati av den spanske regjeringen, og konger over Europa red og eide spanske hester. Fra begynnelsen av dens historie har Andalusier vært vant med både riding og kjøring. De var, og er fremdeles, kjent for deres bruk i tyrefekting på hest."/>
+            <text id="0_3" need_translate="false" value="Araberhesten er en hesterase som opp har sin opprinnelse på Den arabiske halvøya. Gjennom historien, har araberhesten spredt seg rundt omkring i verden av både krig og handel, brukt for å forbedre andre raser ved å øke hastighet, raffinement, utholdenhet og sterke bein. I dag er araberhestens blodslinje funnet i nesten hver moderne hesterase."/>
+            <text id="0_4" need_translate="false" value="Akhal-Teke er en hesterasefra Turkmenistan, hvor de er nasjonalsymbolet. Rasen har et omdømme for hastighet og utholdenhet, intelligens, og en metallisk glans. I 1935 red en gruppe turkmenske riddere 4000 kilometer fra Ashgabet til Moskva på 84 dager, inkludert en tre-dagers krysning på 380 kilometer gjennom en ørken uten vann. Hesten er også kjent for dens form og nåde når den utfører hopp på show."/>
+            <text id="0_5" need_translate="false" value="Det er en av de eldste, mest tallrike, og mest suksessfulle varmblodshestene. Originalt en vognhest, gjorde infusjoner av den engelske fullblodshestens blod den lettere og mer smidig og brukbar for konkurranser. Hannoveraner er kjent for et godt temperament, atletiske evner, skjønnhet og nåde."/>
+            <text id="0_6" need_translate="false" value="Marwarihesten er en sjelden hesterase som stammer fra Marwarregionen i India. Marwarihesten brukes hovedsaklig til utstillinger, hestesafari, sport, seremonielle og religiøse formål, og ble før i tiden brukt i krig. Marwarihesten brukes også til å spille polo, noen ganger mot den engelske fullblodshesten."/>
+            <text id="0_7" need_translate="false" value="Orlovtraveren er en hesterase med et arvelig raskt trav, bemerket for dens fremragende raske hastighet og utholdenhet. Det er den mest berømte russiske hesten. På 1800-tallet ble orlovtraveren hovedsaklig brukt for for ridder- og seleracing av den russiske adelen. De ble verdsatt for deres skjønnhet og eleganse kombinert med deres evne til å jobbe hardt."/>
+            <text id="0_8" need_translate="false" value="Varmblodstraverens raseregister startet i USA i 1879 av nasjonalforeningen for traveavlere. Navnet oppstod på grunn av nye standarder påkrevd for å avle, trave eller gå skritt 1600 meter innen en bestemt tidsramme. Varmblodstravere pleier å ha mer muskler og lengre kropper enn den engelske fullblodshesten. Disse hestene er kjent for deres ferdigheter i seleracing, da de er den raskeste traveren i verden."/>
+            <text id="1_0" need_translate="false" value="12-meters klassen er en klasse med racingseilbåter som er designet etter internasjonale regler. Designasjonen 12-meter referer ikke til hvor stor båten er, og er ikke en referanse til båtens lengde. Istedenfor måler det summen av komponenter i regi av formelen som styrer design og konstruksjonsparametre. 12-metersbåten er på 70 fot i lengde, er sloop-rigget, med master omtrent 80 fot høye."/>
+            <text id="1_1" need_translate="false" value="Kobberbelagt eik på et eikeskrog for sikker operasjon i tropene. Køyer for 8 gjester samt 2 mannskap i 4 kabiner. Største lengde 45.00 meter (147'), skrog 24 meter, dekksbredde 8.85 meter, dypgang 5.10 meter, forskyvning 127 tonn"/>
+            <text id="1_2" need_translate="false" value="Stålskrog, teakdekk. Huser 12 passasjerer i fire kabiner, alle med bad. Tre separate mannskapskabiner med spiskammers. Største lengde 55.00 meter (180'), skrog 35 meter, dekksbredde 12.85 meter, dypgang 7.10 meter, forskyvning 180 tonn"/>
+            <text id="1_3" need_translate="false" value="Yachten har et stålskrog og en aliminium overbygning i perfekt stand. Designet for 20 passasjerer i seks kabiner. Det er også et separat rom for mannskapet med fire kabiner. Største lengde 75.00 meter (246'), skrog 45 meter, dekksbredde 20.34 meter, dypgang 10.8 meter, forskyvning 250 tonn"/>
+            <text id="1_4" need_translate="false" value="Skroget er laget fra 11mm tykt ubåtstål. Designet for 45 passasjerer i 8 kabiner. Det er også et separat rom for mannskapet med 6 kabiner. Største lengde 105.00 meter (344'), skrog 65 meter, dekksbredde 27.75 meter, dypgang 12.10 meter, forskyvning 300 tonn"/>
+            <text id="1_5" need_translate="false" value="Skroget er laget fra dyrt treverk. Tømmerplanker og store takvinduer på dekk gir interiøret et vakkert følelse. Designet for 75 passasjerer i 14 kabiner. Det er også et separat rom for mannskapet med 9 kabiner. Største lengde 115.00 meter (377'), skrog 68 meter, dekksbredde 30.45 meter, dypgang 14.10 meter, forskyvning 330 tonn"/>
+            <text id="1_6" need_translate="false" value="Designet for 100 passasjerer i 16 kabiner. Det er også et separat rom for mannskapet med 12 kabiner. Største lengde 125.00 meter (410'), skrog 72 meter, dekksbredde  34.15 meter,  dypgang 19.10 meter, forskyvning 390 tonn"/>
+            <text id="1_7" need_translate="false" value="Skroget er laget fra magoni &amp; lærke på eikerammer med teakdekk. All losji i mahogni. Blykjøl med bronsebolter, og nye seil. Designet for 120 passasjerer i 18 kabiner. Det er også et separat rom for mannskapet med 13 kabiner. Største lengde 135.00 meter (442'), skrog 78 meter, dekksbredde 36.35 meter, dypgang 21.10 meter, forskyvning 430 tonn"/>
+            <text id="1_8" need_translate="false" value="Dette er en veldig vakker yacht, eik på eik, losji og dekk i teak. Designet for 150 passasjerer i 21 kabiner. Det er også et separat rom for mannskapet med 16 kabiner, inkludert mmanskap for spesielle arrangementer, bryllupsfester, havncruice osv. Største lengde 135.00 meter (442'), skrog 78 meter, dekksbredde 36.35 meter, dypgang 21.10 meter, forskyvning 430 tonn"/>
+            <text id="2_0" need_translate="false" value="Dette er et toetasjers enkelt hus med et totalt areal på 85 kvm. Første etasje av huset inneholder en stue, et kjøkken, en korridor, utstyrt bad, veranda og trapper; andre etasje av huset inneholder to soverom og to terasser. Det er også en liten hage."/>
+            <text id="2_1" need_translate="false" value="Dette er et av de første rekkehusene som ble bygget i England tidlig på 1800-tallet. Under konstruksjonen, ble eksklusive elemener brukt til dekor, noe som gir dette et utrolig flott interiør!"/>
+            <text id="2_2" need_translate="false" value="Det er en veldig romslig hytte med et areal på 380 kvm. Det er tre separate rom, tre soverom, to stuer og et stort svømmebasseng. Dette er en grei hytte for en suksessfull person!"/>
+            <text id="2_3" need_translate="false" value="Dette er en sjarmerende klassisk villa ved sjøen med romersk stil. Villaen er omringet av en luksuriøs hage med appelsintrær og palmer. Det har en av de beste lokasjonene blant de vestlige villaene!"/>
+            <text id="2_4" need_translate="false" value="Denne historiske bygningen kan ta deg tilbake i tid. Alle som bor i en kan føle at en reiser tilbake til en annen æra. Det ble bygget tidlig på 1700-tallet. Eiendommen med fire soverom inneholder tapet fra perioden, tunge dører og en halv hektar hage som er perfekt for å arrangere store samlinger. Dette huset er en stor indikasjon på eierens status!"/>
+            <text id="2_5" need_translate="false" value="Det italienske huset med et areal på 700 kvm ble bygget på midten av 1700-tallet på en tomt med over 2 hektar land. Residensen har 12 soverom, et svømmebasseng, en vinkjeller i hulen og noen flotte hager!"/>
+            <text id="2_6" need_translate="false" value="Villaen med et areal på 2000 kvm er plassert på en tomt med mer enn 8 hektar. Du kan jakte, gå på fisketur, og du har din egen stall. Denne plassen er berømt for å være vert for gjester som Edward VII og George V!"/>
+            <text id="2_7" need_translate="false" value="Dette gigantiske middelalderslottet, lokalisert i Cong nær Irlands grense, er det eldste i Irland. Dets opprinnelse kan bli trekt tilbake til 1500-tallet. Over årene har det vokst til å bli et monumentalt mesterverk. Med en tomt på over 600 hektar kan du se en gigantisk mengde oliventrær og en hjortepark!"/>
+            <text id="2_8" need_translate="false" value="Dette palasset ble bygget på 1600-tallet omringet av vakre hager med en statue av den tidligere franske monarken Louis XIV! Det har en tomt på over 800 hektar. Det har en kraftsasjon og en matsal som er over 200 meter lang, 60 bad, 4 bassenger og en golfbane."/>
+            <text id="3_0" need_translate="false" value="Mynten kalt &quot;Flaks&quot;. Legenden av &quot;Flaks&quot; startet på det mest uheldigste stedet, ventende på guillotinen. Under den franske revolusjonen ble myntens designer, Augustin Dupre, spart fra å miste hodet det siste minuttet. &quot;Flaks&quot; legenden fortsetter, da sjøkapteiner og piloter i begge verdenskrigene brukte mynten da de trodde den brakte de flaks."/>
+            <text id="3_1" need_translate="false" value="Mynten fra 1930 er uten tvil den sjeldneste mynten australiere vet om. Mynten ble først introdusert i 1911, og produksjonen stoppet i 1964, med introduksjonen av desimaler i valutaen. Forsiden av mynten viste den regjerende australske monarken. Mynten er en av bare seks i serien Melbourne Mint, og en av tre som befinner seg i privat eie."/>
+            <text id="3_2" need_translate="false" value="Flytende hår dollaren var den første dollarmynten produsert av USAs føderale regjering. Dens størrelse og vekt ble basert på den spanske dollaren, som var populær i handel rundt omkring i Amerika. Gjennom historien, har dollaren fra 1794 bli vidt kjent som en av de sjeldneste og mest verdifulle av alle amerikanske mynter."/>
+            <text id="3_3" need_translate="false" value="Dinar hashimi er den første mynten på listen som koster minst en million dollar. Denne mynten, som ble brukt på 600-tallet på den arabiske halvøy, er en av de eldste gullmyntene som eksisterer."/>
+            <text id="3_4" need_translate="false" value="Brasherdoubloonen var den første amerikanske gullmynten. Den ble laget av Ephraim Brasher. Brasher og Washington kjente hverandre godt, og til denne dag kan sølvtøy merket &quot;EB&quot; bli funnet i samlingen i det hvite hus, inkludert de originale kvitteringene."/>
+            <text id="3_5" need_translate="false" value="Sølvdollaren fra 1804, også kjent som bøyet frihetsdollar, var en dollarmynt som kun eksisterer i femten eksemplarer den dag i dag. Alle myntene ble laget i Philadelphia. Forsiden av mynten har et bilde av frihetsgudinnen."/>
+            <text id="3_6" need_translate="false" value="Denne mynten ble laget til ære for kroningen av keiser Pedro I fra Brazil. Totalt ble de laget 64 mynter; hvor mange som fremdeles eksistere er ukjent."/>
+            <text id="3_7" need_translate="false" value="Frihets hode nikkel fra 1913 er en amerikansk fem-cents mynt som ble produsert i et ekstremt begrenset opplag, noe som plasserer den blant de mest kjente og ettertraktede sjeldenhetene i amerikansk numismatikk. Mer enn 570 millioner kopier ble laget gjennom tidene."/>
+            <text id="3_8" need_translate="false" value="Florin Edward III, kjent som en dobbel leopard og med et ansikt av seks shillinger, sirkulerte fra desember 1343 til juli 1344. Det er en av bare tre kjente mynter som fremdeles eksisterte, hvor de to andre ble funnet i elven Tyne i 1857."/>
+            <text id="4_0" need_translate="false" value="En Rolls Royce med 10 hk var den første bilen som ble produsert som et resultat av en avtale mellom Charles Royce og Henry Royce den 23. desember 1904. Denne bilen ble produsert av Royce gjennom selskapet Royce Ltd., på deres fabrikker i Cooke Street, Hulme, Manchester. Motoren er en vannkjøpt tosylindret motor på 1800 cc. Det ble planlagt å produsere 20 biler, men bare 16 ble laget da de mente en tosylindret motor ikke var nok for markedet. Den siste med 10 hk ble produsert i 1906."/>
+            <text id="4_1" need_translate="false" value="Denne modellen ble introdusert i februar 1928. Rekkeåtteren model J ble produsert på de vellykkede racingmotorene fra 1920-tallet. Selv om de ble designet av Duesenberg, ble de produsert av Lycoming, et annet selskap eid av Cord. Som sugemotor produserte den 265 hestekrefter fra en dobbel overliggende kamaksel og fire ventiler per sylinder. Den hadde en topphastighet på 191 km/h. Andre biler hadde en større motor, men ingen kom i nærheten når det kom til rå kraft."/>
+            <text id="4_2" need_translate="false" value="Bugatti Type 41 Royale ble laget av Ettore Bugatti. Motoren til denne bilen hadde et massivt slagvolum: 12.7 liter, eller over 700 kubikktommer, omtrent dobbelt så stor som de fleste andre største V8-motorene i produksjon i Detroit fire tiår senere. Dette er fremdeles den største motoren som er å finne i en bil som har blitt solgt privat. Bare 6 biler ble produsert, og 2 ble aldri solgt, da de forble på Bugattis eiendom."/>
+            <text id="4_3" need_translate="false" value="Den ble basert på Aerolithe sin konseptbil fra 1935 designet av Jean Bugatti. Den brukte også, som Type 59 Grand Prix, elektron eller duraluminium for panelene til bilen. Produksjonsmodellen brukte ren aliminium istedenfor, og det ble bare produsert 4 av denne. Tre av de originalt fire bilene er kjent å fremdeles eksistere."/>
+            <text id="4_4" need_translate="false" value="I 1905 produserte Buick bare Model C, som var en virtuell karbonkopi av Model B. Ved årsskiftet ville et totalantall på 750 Buick Model C bli bygget. Dette eksemplaret er en av bare 14 kjent å eksistere i dag. Den er drevet av en tosylindret dobbeltstempelmotor med en sylinderdiameter og takt på 4.5 x 5, forskyver 159 kubikktommer og produserer 22 hestekrefter."/>
+            <text id="4_5" need_translate="false" value="Ford Model A var den andre vellykkede bilmodellen til Ford Motor Company, etter dens forgjenger, Model T. Først produsert den 20. oktober, 1927, men ikke introdusert før 2. desember, erstattet den den erværdige Model T, som hadde blitt produsert i 18 år. Motoren er en vannkjøpt L-hode rekkefirer med et slagvolum på 201 kubikktommer. Denne motoren produserte 40 hewtekrefter. Toppfarten var rundt 105 km/h."/>
+            <text id="4_6" need_translate="false" value="Hot rods er typisk gamle, klassiske amerikanske biler med store motorer modifisert for lineær hastighet. De første hot rodene var gamle biler - oftest Ford, typisk Model T, 1928-1931 Model A, eller 1932-34 Model B -, med redusert vekt. Noen bilhistorikere sier at begrepet kommer fra stjelte biler som ble ombygget med andre motorer og ny maling."/>
+            <text id="4_7" need_translate="false" value="Ford Model T er en bil produsert av Ford Motor Company fra 1. oktober 1908 til 26. mai 1927. Det har blitt anerkjent som den første rimelige bilen, og gav middleklassen i USA mulighet til å reise. Den første Model T som ble produsert ble produsert 12. august 1908 og forlot fabrikken 27. september 1908, på Ford Piquette Avenue Plant i Detroit, Michigan."/>
+            <text id="4_8" need_translate="false" value="Mercedes Benz 540k Special Roadster er en bil bygget av det tyske selskapet Mercedes-Benz fra 1935 til 1940. Gustav Rohr konsfalserte den, Hermann Ahrens designet den og Karosserie Sindelfingen bygget den. Drevet av en rekkeåtter på 5.4 liter med en supercharger sammen med en fire-trinns semi-automatisk girkasse, og uavhengig hjuloppheng med spiralfjærer kunne den nå en toppfart på 185 km/h på den tyske autobahn."/>
+            <text id="5_0" need_translate="false" value="Stjernenatt er et oljemaleri av den senimpresjonistiske nederlandske maleren Vincent van Gogh. Malt i juni 1889, viser det utsikten mot øst gjennom vinduet hans i asylrommet hans på Saint-Rémy-de-Provence, rett før soloppgangen, med en idyllisk landsby."/>
+            <text id="5_1" need_translate="false" value="Den unge syke Bacchus, også kjent som den syke Bacchus eller selvportrettet av Bacchus, er et tidlig selvportett av barokkartisten Michelangelo Merisi da Caravaggio, datert mellom 1593 og 1594. Nå henger det i Galleria Borghese i Roma. Ifølge Caravaggino sin første biograf, Giovanni Baglione, var det et kabinettstykke malt med et speil. Den syke Bacchus er blant mange arbeider en del av samlingen til Giuseppe Cesari."/>
+            <text id="5_2" need_translate="false" value="Den siste dagen til Pompeii er et stort historisk maleri av Karl Bryullov produsert mellom 1830-1833 som handler om utburret til Mount Vesuvius 79 evt. Det er bemerkelsesverdig for dens posisjonering mellom klassisk arkitektur, den dominerende stilen brukt i Russland på den tiden, og romantikken som ble praktisert mer og mer i Frankrike."/>
+            <text id="5_3" need_translate="false" value="Maleriet representerer en morgen i forstedene til Paris hvor artisten levde en periode da han ønsket å bli kvitt følelsen av urbaniseringen og nyte arbeidet hans. Argenteuil er plassert på Seine, ni klilometer nordvest for Paris, og Monet leide et hus der i 1871 kort tid etter hans retur til Frankrike etter den fransk-prussiske krigen. Claude Monet malte Argenteuil-broen syv ganger, og jernbanebroen som går frea Seine oppstrøms fra landsbyen, fire ganger."/>
+            <text id="5_4" need_translate="false" value="Maleriet viser Jesus i en renessanse-kjole mens han gir en velsignelse med hans høyre hånd hevet og to fingre forlenget, mens han holder en gjennomsiktig spådomskule laget av stein i hans venstre hånd, som signaliserer hans rolle som frelser av verden og mester av kosmos. Det representerer også den 'krystalliske sfæren' av himmelen, som det ble oppfattet under renessansen. Det er en av mindre enn 20 kjente verk av Leonardo."/>
+            <text id="5_5" need_translate="false" value="Sistine Madonna, også kjent som Madonna di San Sisto, er et oljemaleri av den italienske artisten Raphael Sanzio. Maleriet ble bestilt i 1512 av pave Julius II for kirken av San Sisto, Piacenza. Lerretet var et av de siste Madonna maleriene malt av Raphael. Giorgio Vasari kalte dette et virkelig sjeldent og ekstraordinært arbeide. Maleriet ble flyttet til Dresden fra 1754 og er godt kjent for dens innflytelse i det tyske og russiske kunstmiljøet."/>
+            <text id="5_6" need_translate="false" value="Dette er en fremstilling av karakteren Danae fra gresk mytologi, moren av Perseus, i naturlig størrelse. Hun er antagelig fremstilt som om hun velkommer Zeus, som impregnerte henne i form av en gulldusj. Dette er en av Rembrand sine mest kjente malerier."/>
+            <text id="5_7" need_translate="false" value="Maleriet av den italienske artisten Sandro Botticelli ble mest sannsynlig laget på midten av 1480-tallet. Det viser gudinnen Venus som ankommer stranden kort tid etter hennes fødsel, når hun har kommet ut av sjøen fullvokst."/>
+            <text id="5_8" need_translate="false" value="Jente med perleørering er et oljemaleri av den nederlandske gullaldermaleren Johannes Vermeer, datert c. 1665. Maleriet er en tronie, den nederlandske 1600-talls beskrivelsen av et 'hode' som ikke skulle bli et portrett. Det fremstiller en europeisk jente som har på seg en eksotisk kjole, orientalsk turban, og en usannsynlig stor perleørering."/>
+            <text id="6_0" need_translate="false" value="En amfora er en type beholder av en karakteristikk størrelse og form, og stammer fra ihvertfall så tidlig som den neolittiske tiden. Amfora ble brukt i stort antall for transport og lagring av diverse produkter, både væske og tørt, men mest for vin."/>
+            <text id="6_1" need_translate="false" value="Afrodite fra Milos, bedre, men feilaktig kjent som Venus fra Milo, er en eldgammel gresk statue og en av de mest kjente greske skulpturene. Laget en gang mellom 130 og 100 fvt., er det trodd at statuen avbilder Afrodite, den greske gudinnen av kjærlighet og skjønnhet. Noen forskere tror derimot at det skal forestille sjøgudinnen Amfitrite, æret på Milos. Statuen er navngitt etter den greske øya Milos, hvor den ble oppdaget."/>
+            <text id="6_2" need_translate="false" value="Vasen dukket først opp i templene fra Tang-dynastiet (608-917 evt.) som en helldig vannvase, også kjent som Yuhuchun. Formlen har blitt populær blant Song dynastiet, og ble hovedsaklig brukt til å frakte vin. Senere ble den raffinerte formen en klassisk vasestil, og blir fortsatt kopiert som en modell. Den er karakterisert av en litt flakkede felg, en rett nakke som blir bredere på slutten, en bunntung kropp og en kort fotring."/>
+            <text id="6_3" need_translate="false" value="Dragen er et  symbol på makt, styrke og god lykke for folk som er verdig for det i østasiatisk kultur. Under dagene til det imperialske Kina, pleide keiseren av Kina vanligvis å bruke dragen som et symbol på hans imperialske makt og styrke."/>
+            <text id="6_4" need_translate="false" value="Klokker av denne stilen er vanligvis 6,5 fot høye. Deb har ofte skåret ornamenter på seg, som går rundt og rammer inn viseren eller klokkeansiktet. Den engelske klokkemakeren William Clement er kreditert med utviklingen av denne formen i 1670."/>
+            <text id="6_5" need_translate="false" value="Den originale kopien av den amerikanske grunnloven, skrevet i 1787 under Philadelphia-konvensjonen. Den gamle kongressen satt regler for den nye regjeringen som ble skrevet ned og ratifisert i grunnloven. Etter ratifisering i elleve stater samlet deres valgte embetsmenn seg i New York City i 1789, som erstattet regjeringsdepartementet."/>
+            <text id="6_6" need_translate="false" value="Dette er en av kandelaberne fra den spanske kongen Charles IV fra Luxembourg. Det er symbol på spirituelt lys og frelse. Antallet stearinlys har alltid hatt en kosmisk og mystisk mening."/>
+            <text id="6_7" need_translate="false" value="Den aksepterte historien av tetjenesten begynner i Kina under Han dynastiet (206-220 fvt.). På denne tiden ble tevarer laget av porselen og kom i to stiler: en nordlig hvit porselen og en sørlig lyseblå porselen. Tetjenesten hører til Song dynastiet som brukte å produsere utsøkt tepotter og teskåler av keramikk."/>
+            <text id="6_8" need_translate="false" value="Dette er den første klokken som folk hadde på seg. Den ble laget på 1500-tallet i Europa, og lå mellom klokker og lommeur i størrelse. Disse klokkene ble festet til klær eller festet rundt en kjede rundt nakken. Bevegelsen ble laget av jern eller stål og holdt sammen med avsmalnede pins og kiler."/>
+            <text id="7_0" need_translate="false" value="Cognac oppskriften stammer fra 1776. Den ble produsert av de direkte etterkommerne av kong Henry IV og inneholdt 3 druevarianter. Den herlige smaken er bare kjent til noen utvalgte folk!"/>
+            <text id="7_1" need_translate="false" value="Spansk kultivering av tobakk begynte for fullt i 1531 på øya Santo Domingo. I 1542 startet tobakk å bli produsert kommersielt i nord-amerika, når spanjolene etablerte den første sigarfabrikken på øya Cuba. Dette er en begrenset utgave som skaper en røre blant fanatikere av den ekte smaken av tobakk!"/>
+            <text id="7_2" need_translate="false" value="Siden 1810 har seks generasjoner av Kraug familien kultivert en eksepsjonell unik champagne gjennom “omhyggelig omsorg og uovertruffen håndverk. Hver flaske er et kunstverk fra havet, og vinen smaker - skarpe smaker av modne frukthager.”"/>
+            <text id="7_3" need_translate="false" value="Dette merket er laget med 18 år gammel tobakk og den inneholder rike undertoner av sjokolade. Infusjonen av Louis XIII sin cognac komplementerer smaken av de aldrede tobakksbladene. Du vil helt sikkert huske den fantastiske aromaen og smaken av denne utsøkte sigaren lenge"/>
+            <text id="7_4" need_translate="false" value="Denne spesifikke cognacen inneholder en blanding av fem tydelige og sjeldne eau de vie fra fem forskjellige regioner. De som har laget denne historiske flasken cognac har vært i produksjon siden tidlig på 1700-tallet."/>
+            <text id="7_5" need_translate="false" value="Hva gjør sigar så eksepsjonell at den unike blandingen av mexicansk, dominicansk og nicaraguansk tobakk, som blir rullet inn i habanoblad. Sigarens smak er herlig og inneholder hint av krydder og kokos."/>
+            <text id="7_6" need_translate="false" value="Det er en fantastisk rom med melkesjokolade, appelsinskall, masse vanilje, brunt sukker og marsipan, samt kanel, allehånde og tørket eik som avrunder smaken."/>
+            <text id="7_7" need_translate="false" value="Disse sigarene ble minst 100 år gamle og funnet i 1798 i Guatemala. Arkeologene oppdaget en potte laget av leire som var markert sicars. Det er trodd at det er her ordet sigar kommer fra. De er veldig godt bevart og kan fremdeles bli røykt, selv om sjansen for at noen ønsker å røyke bort denne flotte delen av historien er minimal."/>
+            <text id="7_8" need_translate="false" value="Denne standard vinflasken er trodd å komme fra Thomas Jefferson' kjeller. Den tredje presidenten og en av grunnleggerne var en ambassadør til Frankrike og det er sagt at han brukte mye tid på å besøke Bordeaux og Burgundy sine vingårder for hans vinsamling."/>
+            <text id="8_0" need_translate="false" value="Et trofe er en håndgripelig, holdbar påminnelse om en spesifikk prestasjon, og fungerer som et bevis på en hendelse. Før i tiden hedret trofeene militære seire til en stat, hær eller en individuell soldat. I moderne tider reflekteres trofeene i jakttrofeer."/>
+            <text id="8_1" need_translate="false" value="Pelsen til en isbjørn er veldig luksuriøs. Den har alltid blitt vurdert som det beste trofeet for erfarne jegere! Dyret blir sett på som en sjelden rase, noe som gjør at pelsen til isbjørnen er erkjent som en luksusgjenstand over hele verden, og øker derfor eierens status."/>
+            <text id="8_2" need_translate="false" value="Spør enhver taksidermist og de vil fortelle deg at fisk er det vanskeligste dyret å arbeide med. Årsaken er at fiskens skinn mister farge når den blir tørr. Det er derfor en spesiell verdi til denne auksjonsgjenstanden!"/>
+            <text id="8_3" need_translate="false" value="Bjørnen er et symbol på styrke, mot og fasthet. Den blir fortsatt sett på som en stor kriger og mannen blir assosiert med kong Arthur!"/>
+            <text id="8_4" need_translate="false" value="Det symboliserer styrke, raseri og utholdenhet. Det er også kjent som det kinesiske symbolet for god lykke. Eieren av et trofe som dette vil definitivt bli assosiert med disse kvalitetene."/>
+            <text id="8_5" need_translate="false" value="Elghodet er et symbol for å være hodesterk, levetid, visdom, tillit, selvtillit, primal feminin energi og standhaftighet. Alle som beundrer unik dekor med slik energi burde ha denne ekslkusive gjenstanden!"/>
+            <text id="8_6" need_translate="false" value="Villsvinhodet symboliserer helse og beskytter mot fare. Det er også et hellig dyr i mange land. En gang valgte Richard III et hvitt villsvin som et symbol på mot og grusomhet!"/>
+            <text id="8_7" need_translate="false" value="Det er et symbol på ro og likhet i enhver situasjon fordi livet er som en sebra: enten en hvit stripe eller en svart en!"/>
+            <text id="8_8" need_translate="false" value="Dette er skinnet til bengal-tigeren, drept av britene på midten av 1800-tallet. Den symboliserer energi, styrke og talent!"/>
+            <text id="9_0" need_translate="false" value="Colt Revolving Belt Pistol eller Naval Caliber, senere kjent som Colt 1851 Navy eller Navy Revolver, er en perkusjonslåsrevolver designet av Samuel Colt mellom 1847 og 1850. Dette er en av favorittpistolene til Wild Bill!"/>
+            <text id="9_1" need_translate="false" value="Dette er en original katana som ble laget på begynnelsen av 1700-tallet. Det har en kompleks struktur med 7 lag med stål som ble brukt av smeden Masamune."/>
+            <text id="9_2" need_translate="false" value="Historisk sett var dette et personlig våpen for offiserer i marinen som kom ut for hånd-til-hånd kamp under seilskutetiden. Det du kanskje ikke visste om den er at dirken tilhørte Peter I!"/>
+            <text id="9_3" need_translate="false" value="Skytevåpen som bruker en flintslående tennemekanisme. Den franske rettsmesteren Marin le Bourgeoys laget et skytevåpen som innlemmet en flintlås for kong Louis XIII kort tid etter hans tiltredelse til tronen i 1610. Dette er den riflen!"/>
+            <text id="9_4" need_translate="false" value="Det nesesluttede lange våpenet som dukket opp som et glatt våpen tidlig på 1500-tallet i Europa; først som en tyngre variant av arkebusen, i stand til å trenge gjennom rustning."/>
+            <text id="9_5" need_translate="false" value="Den russiske flintpistolen fra prøven fra 1809 som ble laget under overgangen til 7-linjers kaliber for den russiske hæren. Et interessant faktum her er at dette var A. S. Pushkin's duelleringspistol!"/>
+            <text id="9_6" need_translate="false" value="Den typen sverd med et buet blad assosiert med lett kavaleri fra de tidlig moderne og Napoleonsperiodene. Dette er det bladet Napoleon Bonaparte brukte under kampen om Marengo som ble sloss 14. juni 1800 mellom franske tropper under Napoleon Bonaparte og østerriske tropper nær byen av Alessandria, i Piedmont, Italia."/>
+            <text id="9_7" need_translate="false" value="Denne skarpskytterriflen ble basert på Colt Model 1855 Sidehammer Pocket Revolver utviklet av Elisha K. Root. Designet av riflen var veldig likt som andre revolverpistoler, med en roterende sylinder som holdt fem eller seks kuler i varierende kaliber fra .36 til .64 tommer."/>
+            <text id="9_8" need_translate="false" value="Det var det første kommersielle repeterende skytevåpenet som brukte en roterende sylinder med flere kamre justert med et enkelt, stasjonært løp. Designet ble patentert av Samuel Colt den 25. februar 1836 i USA, Frankrike, og England, og navnet kom fra å ha bli produsert i Paterson, New Jersey"/>
         </item_info>
         <item_names>
-            <text id="0_0" need_translate="true" value=""/>
-            <text id="0_1" need_translate="true" value=""/>
-            <text id="0_2" need_translate="true" value=""/>
-            <text id="0_3" need_translate="true" value=""/>
-            <text id="0_4" need_translate="true" value=""/>
-            <text id="0_5" need_translate="true" value=""/>
-            <text id="0_6" need_translate="true" value=""/>
-            <text id="0_7" need_translate="true" value=""/>
-            <text id="0_8" need_translate="true" value=""/>
-            <text id="1_0" need_translate="true" value=""/>
-            <text id="1_1" need_translate="true" value=""/>
-            <text id="1_2" need_translate="true" value=""/>
-            <text id="1_3" need_translate="true" value=""/>
-            <text id="1_4" need_translate="true" value=""/>
-            <text id="1_5" need_translate="true" value=""/>
-            <text id="1_6" need_translate="true" value=""/>
-            <text id="1_7" need_translate="true" value=""/>
-            <text id="1_8" need_translate="true" value=""/>
-            <text id="2_0" need_translate="true" value=""/>
-            <text id="2_1" need_translate="true" value=""/>
-            <text id="2_2" need_translate="true" value=""/>
-            <text id="2_3" need_translate="true" value=""/>
-            <text id="2_4" need_translate="true" value=""/>
-            <text id="2_5" need_translate="true" value=""/>
-            <text id="2_6" need_translate="true" value=""/>
-            <text id="2_7" need_translate="true" value=""/>
-            <text id="2_8" need_translate="true" value=""/>
-            <text id="3_0" need_translate="true" value=""/>
-            <text id="3_1" need_translate="true" value=""/>
-            <text id="3_2" need_translate="true" value=""/>
-            <text id="3_3" need_translate="true" value=""/>
-            <text id="3_4" need_translate="true" value=""/>
-            <text id="3_5" need_translate="true" value=""/>
-            <text id="3_6" need_translate="true" value=""/>
-            <text id="3_7" need_translate="true" value=""/>
-            <text id="3_8" need_translate="true" value=""/>
-            <text id="4_0" need_translate="true" value=""/>
-            <text id="4_1" need_translate="true" value=""/>
-            <text id="4_2" need_translate="true" value=""/>
-            <text id="4_3" need_translate="true" value=""/>
-            <text id="4_4" need_translate="true" value=""/>
-            <text id="4_5" need_translate="true" value=""/>
-            <text id="4_6" need_translate="true" value=""/>
-            <text id="4_7" need_translate="true" value=""/>
-            <text id="4_8" need_translate="true" value=""/>
-            <text id="5_0" need_translate="true" value=""/>
-            <text id="5_1" need_translate="true" value=""/>
-            <text id="5_2" need_translate="true" value=""/>
-            <text id="5_3" need_translate="true" value=""/>
-            <text id="5_4" need_translate="true" value=""/>
-            <text id="5_5" need_translate="true" value=""/>
-            <text id="5_6" need_translate="true" value=""/>
-            <text id="5_7" need_translate="true" value=""/>
-            <text id="5_8" need_translate="true" value=""/>
-            <text id="6_0" need_translate="true" value=""/>
-            <text id="6_1" need_translate="true" value=""/>
-            <text id="6_2" need_translate="true" value=""/>
-            <text id="6_3" need_translate="true" value=""/>
-            <text id="6_4" need_translate="true" value=""/>
-            <text id="6_5" need_translate="true" value=""/>
-            <text id="6_6" need_translate="true" value=""/>
-            <text id="6_7" need_translate="true" value=""/>
-            <text id="6_8" need_translate="true" value=""/>
-            <text id="7_0" need_translate="true" value=""/>
-            <text id="7_1" need_translate="true" value=""/>
-            <text id="7_2" need_translate="true" value=""/>
-            <text id="7_3" need_translate="true" value=""/>
-            <text id="7_4" need_translate="true" value=""/>
-            <text id="7_5" need_translate="true" value=""/>
-            <text id="7_6" need_translate="true" value=""/>
-            <text id="7_7" need_translate="true" value=""/>
-            <text id="7_8" need_translate="true" value=""/>
-            <text id="8_0" need_translate="true" value=""/>
-            <text id="8_1" need_translate="true" value=""/>
-            <text id="8_2" need_translate="true" value=""/>
-            <text id="8_3" need_translate="true" value=""/>
-            <text id="8_4" need_translate="true" value=""/>
-            <text id="8_5" need_translate="true" value=""/>
-            <text id="8_6" need_translate="true" value=""/>
-            <text id="8_7" need_translate="true" value=""/>
-            <text id="8_8" need_translate="true" value=""/>
-            <text id="9_0" need_translate="true" value=""/>
-            <text id="9_1" need_translate="true" value=""/>
-            <text id="9_2" need_translate="true" value=""/>
-            <text id="9_3" need_translate="true" value=""/>
-            <text id="9_4" need_translate="true" value=""/>
-            <text id="9_5" need_translate="true" value=""/>
-            <text id="9_6" need_translate="true" value=""/>
-            <text id="9_7" need_translate="true" value=""/>
-            <text id="9_8" need_translate="true" value=""/>
+            <text id="0_0" need_translate="false" value="Amerikansk quarterhest"/>
+            <text id="0_1" need_translate="false" value="Engelsk fullblodshest"/>
+            <text id="0_2" need_translate="false" value="Andalusier"/>
+            <text id="0_3" need_translate="false" value="Araberhest"/>
+            <text id="0_4" need_translate="false" value="Akhal-Teke"/>
+            <text id="0_5" need_translate="false" value="Hannoveraner"/>
+            <text id="0_6" need_translate="false" value="Marwarihest"/>
+            <text id="0_7" need_translate="false" value="Orlovtraver"/>
+            <text id="0_8" need_translate="false" value="Varmblodstraver"/>
+            <text id="1_0" need_translate="false" value="12-metersklasse"/>
+            <text id="1_1" need_translate="false" value="Seileyacht - 'Opal'"/>
+            <text id="1_2" need_translate="false" value="Seileyacht - 'Flott'"/>
+            <text id="1_3" need_translate="false" value="Seileyacht - 'Habet'"/>
+            <text id="1_4" need_translate="false" value="Seileyacht - 'Lett'"/>
+            <text id="1_5" need_translate="false" value="Seileyacht - 'Vildvind'"/>
+            <text id="1_6" need_translate="false" value="Seileyacht - 'Freyia'"/>
+            <text id="1_7" need_translate="false" value="Seileyacht - 'Gafion'"/>
+            <text id="1_8" need_translate="false" value="Seileyacht - 'Avantura'"/>
+            <text id="2_0" need_translate="false" value="Toetasjes enkelt hus"/>
+            <text id="2_1" need_translate="false" value="Rekkehus"/>
+            <text id="2_2" need_translate="false" value="Hytte"/>
+            <text id="2_3" need_translate="false" value="Villa"/>
+            <text id="2_4" need_translate="false" value="Herskapshus"/>
+            <text id="2_5" need_translate="false" value="Herregård"/>
+            <text id="2_6" need_translate="false" value="Hjemstad"/>
+            <text id="2_7" need_translate="false" value="Slott"/>
+            <text id="2_8" need_translate="false" value="Presidentpalass"/>
+            <text id="3_0" need_translate="false" value="20 franc gullmynt"/>
+            <text id="3_1" need_translate="false" value="Australsk øre"/>
+            <text id="3_2" need_translate="false" value="Flytene hår dollar 1794"/>
+            <text id="3_3" need_translate="false" value="Dinar hashimi"/>
+            <text id="3_4" need_translate="false" value="Brasherdoubloon"/>
+            <text id="3_5" need_translate="false" value="Sølvdollar 1804"/>
+            <text id="3_6" need_translate="false" value="Mynt Pedro 1 1822"/>
+            <text id="3_7" need_translate="false" value="Frihets hode nikkel 1913"/>
+            <text id="3_8" need_translate="false" value="Florin Edward III"/>
+            <text id="4_0" need_translate="false" value="Rolls Royce 1904"/>
+            <text id="4_1" need_translate="false" value="Duesenberg Model J 1929"/>
+            <text id="4_2" need_translate="false" value="Bugatti Type 41 Royalle Kellner Coupe"/>
+            <text id="4_3" need_translate="false" value="Bygatti Type 57SC Atlantisk"/>
+            <text id="4_4" need_translate="false" value="Buick Model C"/>
+            <text id="4_5" need_translate="false" value="Ford A De Luxe 1931"/>
+            <text id="4_6" need_translate="false" value="Ford Hot Road 1930"/>
+            <text id="4_7" need_translate="false" value="Ford Model T"/>
+            <text id="4_8" need_translate="false" value="Mercedes Benz 540k Special Roadster"/>
+            <text id="5_0" need_translate="false" value="Stjernenatt Vincent Van Gogh"/>
+            <text id="5_1" need_translate="false" value="Syk Bacchus Caravaggio"/>
+            <text id="5_2" need_translate="false" value="Den siste dagen til Pompeii"/>
+            <text id="5_3" need_translate="false" value="Claude Monet jernbanebro ved Argenteuil"/>
+            <text id="5_4" need_translate="false" value="Leonardo's frelser av verden"/>
+            <text id="5_5" need_translate="false" value="Sistine Madonna"/>
+            <text id="5_6" need_translate="false" value="Rembrandt Danaë"/>
+            <text id="5_7" need_translate="false" value="Fødselen av venus"/>
+            <text id="5_8" need_translate="false" value="Jan Vermeer Jente med perleørering"/>
+            <text id="6_0" need_translate="false" value="Amfora"/>
+            <text id="6_1" need_translate="false" value="Venus fra Milo"/>
+            <text id="6_2" need_translate="false" value="Kinesisk vase"/>
+            <text id="6_3" need_translate="false" value="Kinesisk dragestatuett"/>
+            <text id="6_4" need_translate="false" value="Bestefars klokke"/>
+            <text id="6_5" need_translate="false" value="Original kopi av grunnloven"/>
+            <text id="6_6" need_translate="false" value="Kandelaber"/>
+            <text id="6_7" need_translate="false" value="Tesett"/>
+            <text id="6_8" need_translate="false" value="Klokke"/>
+            <text id="7_0" need_translate="false" value="Cognac 'Smaken av plutokrati'"/>
+            <text id="7_1" need_translate="false" value="Sigar 'Plutokratenes sigar'"/>
+            <text id="7_2" need_translate="false" value="Musserende vin 'Papirhoder'"/>
+            <text id="7_3" need_translate="false" value="Sigar 'Sjeleflygning'"/>
+            <text id="7_4" need_translate="false" value="Cognac 'Dan Jeckson'"/>
+            <text id="7_5" need_translate="false" value="Sigar 'Smaken av frihet'"/>
+            <text id="7_6" need_translate="false" value="Rom 'Maestro Del Mundo'"/>
+            <text id="7_7" need_translate="false" value="Sigar 'Frigjøring'"/>
+            <text id="7_8" need_translate="false" value="Vin 'Chateau Grandeur'"/>
+            <text id="8_0" need_translate="false" value="Fugleskremsel"/>
+            <text id="8_1" need_translate="false" value="Isbjørnskinn"/>
+            <text id="8_2" need_translate="false" value="Utstoppet fisk"/>
+            <text id="8_3" need_translate="false" value="Utstoppet bjørn"/>
+            <text id="8_4" need_translate="false" value="Neshornhode"/>
+            <text id="8_5" need_translate="false" value="Elghode"/>
+            <text id="8_6" need_translate="false" value="Villsvinhode"/>
+            <text id="8_7" need_translate="false" value="Sebrahode"/>
+            <text id="8_8" need_translate="false" value="Tigerskinn"/>
+            <text id="9_0" need_translate="false" value="Colt navy"/>
+            <text id="9_1" need_translate="false" value="Katana"/>
+            <text id="9_2" need_translate="false" value="Dirk"/>
+            <text id="9_3" need_translate="false" value="Flintgevær"/>
+            <text id="9_4" need_translate="false" value="Flintpistol"/>
+            <text id="9_5" need_translate="false" value="Musket"/>
+            <text id="9_6" need_translate="false" value="Sabel"/>
+            <text id="9_7" need_translate="false" value="Turret skartskytterrifle"/>
+            <text id="9_8" need_translate="false" value="Gullbelagt colt"/>
         </item_names>
     </personal_collections>
     <persons_window>
