@@ -636,14 +636,14 @@
         <text id="release_shares" need_translate="true" value=""/>
     </director_orders>
     <director_result>
-        <text id="consumed_days" need_translate="true" value=""/>
-        <text id="deal_result" need_translate="true" value=""/>
-        <text id="experience" need_translate="true" value=""/>
-        <text id="ok" need_translate="true" value=""/>
-        <text id="parachute" need_translate="true" value=""/>
-        <text id="percent" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="some_days&#9;" need_translate="true" value=""/>
+        <text id="consumed_days" need_translate="false" value="Dag(er) brukt"/>
+        <text id="deal_result" need_translate="false" value="Avtaleresultat"/>
+        <text id="experience" need_translate="false" value="XP"/>
+        <text id="ok" need_translate="false" value="Ok"/>
+        <text id="parachute" need_translate="false" value="Sluttpakke"/>
+        <text id="percent" need_translate="false" value="Inntektsbonus"/>
+        <text id="salary" need_translate="false" value="Lønn per runde"/>
+        <text id="some_days&#9;" need_translate="false" value="%1-%2 dag(er)"/>
     </director_result>
     <directors_dialog>
         <text id="current_work" need_translate="false" value="Nåværende jobb"/>
