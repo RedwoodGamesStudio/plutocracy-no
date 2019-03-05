@@ -627,13 +627,13 @@
         <text id="yes_cancel_to_hell" need_translate="true" value=""/>
     </dialog_panel>
     <director_orders>
-        <text id="balance" need_translate="true" value=""/>
-        <text id="debts" need_translate="true" value=""/>
-        <text id="dividends" need_translate="true" value=""/>
-        <text id="dividends_percent" need_translate="true" value=""/>
-        <text id="orders" need_translate="true" value=""/>
-        <text id="release_bond" need_translate="true" value=""/>
-        <text id="release_shares" need_translate="true" value=""/>
+        <text id="balance" need_translate="false" value="Bedriftens balanse: "/>
+        <text id="debts" need_translate="false" value="Gjeld: "/>
+        <text id="dividends" need_translate="false" value="Utbytte: "/>
+        <text id="dividends_percent" need_translate="false" value="Utbytteprosent: "/>
+        <text id="orders" need_translate="false" value="Ordre"/>
+        <text id="release_bond" need_translate="false" value="Obligasjonsutstedelse"/>
+        <text id="release_shares" need_translate="false" value="Aksjeutstedelse"/>
     </director_orders>
     <director_result>
         <text id="consumed_days" need_translate="false" value="Dag(er) brukt"/>
