@@ -1803,29 +1803,29 @@
         <text id="taxes" need_translate="true" value=""/>
     </player_finances_model>
     <player_finances_window>
-        <text id="credits" need_translate="true" value=""/>
-        <text id="dinamics" need_translate="true" value=""/>
-        <text id="directors_board_salary" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
-        <text id="finances" need_translate="true" value=""/>
-        <text id="finances_and_statistics" need_translate="true" value=""/>
-        <text id="gains_and_costs" need_translate="true" value=""/>
-        <text id="information_button" need_translate="true" value=""/>
-        <text id="leaders_list" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="resume" need_translate="true" value=""/>
-        <text id="state" need_translate="true" value=""/>
-        <text id="state_tax" need_translate="true" value=""/>
-        <text id="table_header_balance_for_all_time" need_translate="true" value=""/>
-        <text id="table_header_category" need_translate="true" value=""/>
-        <text id="table_header_name" need_translate="true" value=""/>
-        <text id="table_header_profit" need_translate="true" value=""/>
-        <text id="table_header_profitability" need_translate="true" value=""/>
-        <text id="table_header_state" need_translate="true" value=""/>
-        <text id="table_header_summ" need_translate="true" value=""/>
-        <text id="table_leader_name" need_translate="true" value=""/>
-        <text id="total" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="credits" need_translate="false" value="Lån"/>
+        <text id="dinamics" need_translate="false" value="Dynamikk"/>
+        <text id="directors_board_salary" need_translate="false" value="Styrets lønn ({company_name})"/>
+        <text id="federal_tax" need_translate="false" value="Føderal skatt"/>
+        <text id="finances" need_translate="false" value="Økonomi"/>
+        <text id="finances_and_statistics" need_translate="false" value="Finansregnskap"/>
+        <text id="gains_and_costs" need_translate="false" value="Inntekter og utgifter"/>
+        <text id="information_button" need_translate="false" value="Informasjon"/>
+        <text id="leaders_list" need_translate="false" value="Poengoversikt"/>
+        <text id="profit" need_translate="false" value="Penger"/>
+        <text id="resume" need_translate="false" value="Sammendrag"/>
+        <text id="state" need_translate="false" value="Rikdom"/>
+        <text id="state_tax" need_translate="false" value="Statlig skatt"/>
+        <text id="table_header_balance_for_all_time" need_translate="false" value="Balanse"/>
+        <text id="table_header_category" need_translate="false" value="Kategori"/>
+        <text id="table_header_name" need_translate="false" value="Navn"/>
+        <text id="table_header_profit" need_translate="false" value="Inntekt"/>
+        <text id="table_header_profitability" need_translate="false" value="ROI"/>
+        <text id="table_header_state" need_translate="false" value="Rikdom"/>
+        <text id="table_header_summ" need_translate="false" value="Rikdom"/>
+        <text id="table_leader_name" need_translate="false" value="Navn"/>
+        <text id="total" need_translate="false" value="Totalt"/>
+        <text id="window_title" need_translate="false" value="%1's aktiva"/>
     </player_finances_window>
     <player_object>
         <text id="icon_hint_text" need_translate="true" value=""/>
