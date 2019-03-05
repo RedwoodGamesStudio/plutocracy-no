@@ -713,78 +713,78 @@
         <text id="workplace" need_translate="true" value=""/>
     </directors_window>
     <discussion>
-        <text id="btn_exit" need_translate="true" value=""/>
-        <text id="comp_part" need_translate="true" value=""/>
-        <text id="comp_profit" need_translate="true" value=""/>
-        <text id="comp_profitability" need_translate="true" value=""/>
-        <text id="comp_share_price" need_translate="true" value=""/>
-        <text id="comp_shares" need_translate="true" value=""/>
-        <text id="comp_state" need_translate="true" value=""/>
-        <text id="comp_type" need_translate="true" value=""/>
-        <text id="counter_offer" need_translate="true" value=""/>
-        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="btn_exit" need_translate="false" value="Ok"/>
+        <text id="comp_part" need_translate="false" value="Bedriftens andel av "/>
+        <text id="comp_profit" need_translate="false" value="Inntekt per kvartal"/>
+        <text id="comp_profitability" need_translate="false" value="ROI"/>
+        <text id="comp_share_price" need_translate="false" value="Aksjepris"/>
+        <text id="comp_shares" need_translate="false" value="Aksjer utstedt:"/>
+        <text id="comp_state" need_translate="false" value="Stat"/>
+        <text id="comp_type" need_translate="false" value="Bedriftstype"/>
+        <text id="counter_offer" need_translate="false" value="Mottilbud"/>
+        <text id="deal_sum" need_translate="false" value="Avtalesum"/>
         <director>
-            <text id="btn_recruit" need_translate="true" value=""/>
-            <text id="btn_two" need_translate="true" value=""/>
-            <text id="btn_type_recruit" need_translate="true" value=""/>
-            <text id="chance" need_translate="true" value=""/>
-            <text id="parach" need_translate="true" value=""/>
-            <text id="profit" need_translate="true" value=""/>
-            <text id="salary" need_translate="true" value=""/>
+            <text id="btn_recruit" need_translate="false" value="Ansett"/>
+            <text id="btn_two" need_translate="false" value="-"/>
+            <text id="btn_type_recruit" need_translate="false" value="Ansetter"/>
+            <text id="chance" need_translate="false" value="Sjanse for suksess"/>
+            <text id="parach" need_translate="false" value="Sluttpakke"/>
+            <text id="profit" need_translate="false" value="Bonus"/>
+            <text id="salary" need_translate="false" value="Lønn"/>
         </director>
-        <text id="discussion_process" need_translate="true" value=""/>
+        <text id="discussion_process" need_translate="false" value="Forhandler..."/>
         <text id="fake_ambition" need_translate="true" value=""/>
         <text id="give_influence" need_translate="true" value=""/>
-        <text id="go_to_meeting" need_translate="true" value=""/>
+        <text id="go_to_meeting" need_translate="false" value="Gå til forhandling"/>
         <text id="influence_days" need_translate="true" value=""/>
-        <text id="influence_str" need_translate="true" value=""/>
+        <text id="influence_str" need_translate="false" value="Innflytelse"/>
         <text id="influence_value" need_translate="true" value=""/>
-        <text id="info_ambition" need_translate="true" value=""/>
-        <text id="info_assets" need_translate="true" value=""/>
-        <text id="info_character" need_translate="true" value=""/>
-        <text id="info_influence" need_translate="true" value=""/>
-        <text id="info_profit" need_translate="true" value=""/>
-        <text id="info_reputation" need_translate="true" value=""/>
-        <text id="lose_result_message" need_translate="true" value=""/>
+        <text id="info_ambition" need_translate="false" value="Ambisjoner:"/>
+        <text id="info_assets" need_translate="false" value="Rikdom:"/>
+        <text id="info_character" need_translate="false" value="Karaktertrekk:"/>
+        <text id="info_influence" need_translate="false" value="Innflytelse:"/>
+        <text id="info_profit" need_translate="false" value="Inntekt:"/>
+        <text id="info_reputation" need_translate="false" value="Omdømme:"/>
+        <text id="lose_result_message" need_translate="false" value="Vi kan beklageligvis ikke gjøre en avtale!\nJeg er ikke interessert i tilbudet ditt!"/>
         <text id="lose_result_with_2chance_message" need_translate="true" value=""/>
         <text id="make_an_offer" need_translate="true" value=""/>
-        <text id="money_str" need_translate="true" value=""/>
-        <text id="negative_relation_change" need_translate="true" value=""/>
-        <text id="negotiation_fail_risk" need_translate="true" value=""/>
-        <text id="negotiation_start" need_translate="true" value=""/>
-        <text id="own_auction_price" need_translate="true" value=""/>
-        <text id="own_cost" need_translate="true" value=""/>
-        <text id="own_demand" need_translate="true" value=""/>
-        <text id="own_effect" need_translate="true" value=""/>
-        <text id="own_expenses" need_translate="true" value=""/>
-        <text id="own_prestige" need_translate="true" value=""/>
-        <text id="own_price_change" need_translate="true" value=""/>
-        <text id="own_win_money" need_translate="true" value=""/>
-        <text id="ownership_purpose" need_translate="true" value=""/>
+        <text id="money_str" need_translate="false" value="Penger"/>
+        <text id="negative_relation_change" need_translate="false" value="Lojaliteten går ned med %1%"/>
+        <text id="negotiation_fail_risk" need_translate="false" value="Lojaliteten går opp med %1%"/>
+        <text id="negotiation_start" need_translate="false" value="Start forhandling"/>
+        <text id="own_auction_price" need_translate="false" value="Startpris på auksjon:"/>
+        <text id="own_cost" need_translate="false" value="Kjøpspris:"/>
+        <text id="own_demand" need_translate="false" value="Spør:"/>
+        <text id="own_effect" need_translate="false" value="Eierskapsbonus:"/>
+        <text id="own_expenses" need_translate="false" value="Kostnader per sesong:"/>
+        <text id="own_prestige" need_translate="false" value="Prestisje per sesong:"/>
+        <text id="own_price_change" need_translate="false" value="Prisendring:"/>
+        <text id="own_win_money" need_translate="false" value="Hesteveddeløpsvinninger:"/>
+        <text id="ownership_purpose" need_translate="false" value="Luksus:"/>
         <text id="persistence" need_translate="true" value=""/>
         <text id="player_offer" need_translate="true" value=""/>
         <text id="positive_relation_change" need_translate="true" value=""/>
-        <text id="result_title" need_translate="true" value=""/>
+        <text id="result_title" need_translate="false" value="Avtaleresultat"/>
         <text id="roi" need_translate="true" value=""/>
-        <text id="share_price" need_translate="true" value=""/>
-        <text id="shares_count" need_translate="true" value=""/>
-        <text id="shares_part" need_translate="true" value=""/>
-        <text id="shares_purpose" need_translate="true" value=""/>
+        <text id="share_price" need_translate="false" value="Aksjepris"/>
+        <text id="shares_count" need_translate="false" value="Antall aksjer"/>
+        <text id="shares_part" need_translate="false" value="Bedriftens andel"/>
+        <text id="shares_purpose" need_translate="false" value="Aksjer"/>
         <text id="shares_units" need_translate="true" value=""/>
         <text id="stress_str" need_translate="true" value=""/>
         <text id="subject_of_meeting" need_translate="true" value=""/>
         <text id="tab_choice_present" need_translate="true" value=""/>
-        <text id="tab_results" need_translate="true" value=""/>
-        <text id="tab_settings" need_translate="true" value=""/>
-        <text id="tab_target" need_translate="true" value=""/>
-        <text id="total_sum" need_translate="true" value=""/>
-        <text id="type_buy" need_translate="true" value=""/>
-        <text id="type_sell" need_translate="true" value=""/>
-        <text id="visit_purpose" need_translate="true" value=""/>
-        <text id="visit_type" need_translate="true" value=""/>
-        <text id="win_result_message" need_translate="true" value=""/>
+        <text id="tab_results" need_translate="false" value="Resultater"/>
+        <text id="tab_settings" need_translate="false" value="Avtalebetingelser"/>
+        <text id="tab_target" need_translate="false" value="Avtaleformål"/>
+        <text id="total_sum" need_translate="false" value="Avtalesum"/>
+        <text id="type_buy" need_translate="false" value="Kjøp"/>
+        <text id="type_sell" need_translate="false" value="Selg"/>
+        <text id="visit_purpose" need_translate="false" value="Avtaleformål"/>
+        <text id="visit_type" need_translate="false" value="Avtaletype"/>
+        <text id="win_result_message" need_translate="false" value="Jeg aksepterer avtalen og er klar til å signere dokumentet!\n "/>
         <text id="win_result_with_2chance_message" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="window_title" need_translate="false" value="Forhandling"/>
     </discussion>
     <discussion_handler>
         <text id="agent_courtesan_effect" need_translate="true" value=""/>
