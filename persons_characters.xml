@@ -75,30 +75,30 @@
     <description_player>
         <text id="aggressive" need_translate="false" value="Karakterens lojalitet til deg vil redusere 2 ganger mer ved mislykkede forhandlinger"/>
         <text id="alcoholic" need_translate="false" value="Det er en 20% sjanse for at karakteren ikke kommer til forhandlingen"/>
-        <text id="arrogant" need_translate="false" value="Ingen effekt fra karaktertrekket 'Arrogant'"/>
-        <text id="brawler" need_translate="false" value="+20% suksess på agenten 'Journalist'"/>
-        <text id="careful" need_translate="false" value="-20% suksess på agenten 'Leiemorder'"/>
-        <text id="careless" need_translate="false" value="+20% suksess på agenten 'Leiemorder'"/>
+        <text id="arrogant" need_translate="true" value="Ingen effekt fra karaktertrekket 'Arrogant'"/>
+        <text id="brawler" need_translate="true" value="+20% suksess på agenten 'Journalist'"/>
+        <text id="careful" need_translate="true" value="-20% suksess på agenten 'Leiemorder'"/>
+        <text id="careless" need_translate="true" value="+20% suksess på agenten 'Leiemorder'"/>
         <text id="compliant" need_translate="false" value="Karakteren vil senke prisen 2 ganger lavere enn vanlig ved mottilbud"/>
-        <text id="dark_past" need_translate="false" value="+20% suksess på agenten 'Detektiv'"/>
+        <text id="dark_past" need_translate="true" value="+20% suksess på agenten 'Detektiv'"/>
         <text id="dependent" need_translate="false" value="Ved forhandling må du bruke 2 ganger mer innflytelsespoeng for å gjøre en avtale"/>
         <text id="explosive" need_translate="false" value="Du har færre forsøk på å gjøre en avtale"/>
-        <text id="fearless" need_translate="false" value="-20% suksess på agenten 'Bølle'"/>
-        <text id="fool" need_translate="false" value="Ingen effekt fra karaktertrekket 'Despot'"/>
+        <text id="fearless" need_translate="true" value="-20% suksess på agenten 'Bølle'"/>
+        <text id="fool" need_translate="true" value="Ingen effekt fra karaktertrekket 'Despot'"/>
         <text id="friendly" need_translate="false" value="Karakterens lojalitet til deg vil redusere 2 ganger mer ved mislykkede forhandlinger"/>
-        <text id="frigid" need_translate="false" value="-20% suksess på agenten 'Kurtisane'"/>
+        <text id="frigid" need_translate="true" value="-20% suksess på agenten 'Kurtisane'"/>
         <text id="heavy" need_translate="false" value="Det tar 3 ganger lengre tid å komme seg etter en forhandling"/>
-        <text id="holyman" need_translate="false" value="-20% suksess på agenten 'Detektiv'"/>
+        <text id="holyman" need_translate="true" value="-20% suksess på agenten 'Detektiv'"/>
         <text id="illegible" need_translate="false" value="Omdømmestraffen for mislykkede forhandlinger er 2 ganger større"/>
         <text id="independent" need_translate="false" value="Ved forhandling må du bruke 2 ganger mer innflytelsespoeng for å gjøre en avtale"/>
         <text id="light" need_translate="false" value="Det tar 3 ganger kortere tid å komme seg etter en forhandling"/>
-        <text id="lustful" need_translate="false" value="+20% suksess på agenten 'Kurtisane'"/>
+        <text id="lustful" need_translate="true" value="+20% suksess på agenten 'Kurtisane'"/>
         <text id="mercantile" need_translate="false" value="Forhandlingen vil være 2 ganger billigere"/>
-        <text id="restrained" need_translate="false" value="-20% suksess på agenten 'Journalist'"/>
+        <text id="restrained" need_translate="true" value="-20% suksess på agenten 'Journalist'"/>
         <text id="selective" need_translate="false" value="Ved avbrutte forhandlinger er omdømmestraffen 2 ganger mindre; ved vellykkede forhandlinger er omdømmebonusen 2 ganger større"/>
-        <text id="shy" need_translate="false" value="+20% suksess til agenten 'Bølle'"/>
-        <text id="spender" need_translate="false" value="+20% suksess til agenten 'Gangster'"/>
-        <text id="thrifty" need_translate="false" value="-20% suksess til agenten 'Gangster'"/>
+        <text id="shy" need_translate="true" value="+20% suksess til agenten 'Bølle'"/>
+        <text id="spender" need_translate="true" value="+20% suksess til agenten 'Gangster'"/>
+        <text id="thrifty" need_translate="true" value="-20% suksess til agenten 'Gangster'"/>
         <text id="trader" need_translate="false" value="Karakteren vil senke prisen 2 ganger lavere enn vanlig ved mottilbud"/>
         <text id="wasteful" need_translate="false" value="Forhandlingen vil være 2 ganger dyrere"/>
     </description_player>
@@ -108,34 +108,34 @@
         <text id="alcoholic" need_translate="false" value="Det er en 20% sjanse for at karakteren ikke kommer til forhandlingen"/>
         <text id="antiques" need_translate="false" value="Antikviteter"/>
         <text id="arrogant" need_translate="false" value="Bare spilleren kan gjøre en avtale"/>
-        <text id="brawler" need_translate="false" value="+20% suksess på agenten 'Journalist'"/>
-        <text id="careful" need_translate="false" value="-20% suksess på agenten 'Leiemorder'"/>
-        <text id="careless" need_translate="false" value="+20% suksess på agenten 'Leiemorder'"/>
+        <text id="brawler" need_translate="true" value="+20% suksess på agenten 'Journalist'"/>
+        <text id="careful" need_translate="true" value="-20% suksess på agenten 'Leiemorder'"/>
+        <text id="careless" need_translate="true" value="+20% suksess på agenten 'Leiemorder'"/>
         <text id="cars" need_translate="false" value="Biler"/>
         <text id="coins" need_translate="false" value="Mynter"/>
         <text id="compliant" need_translate="false" value="Karakteren vil senke prisen 2 ganger lavere enn vanlig ved mottilbud"/>
-        <text id="dark_past" need_translate="false" value="+20% suksess på agenten 'Detektiv'"/>
+        <text id="dark_past" need_translate="true" value="+20% suksess på agenten 'Detektiv'"/>
         <text id="dependent" need_translate="false" value="Ved forhandling må du bruke 2 ganger mindre innflytelsespoeng for å gjøre en avtale"/>
         <text id="explosive" need_translate="false" value="Du har færre forsøk på å gjøre en avtale"/>
-        <text id="fearless" need_translate="false" value="-20% suksess på agenten 'Bølle'"/>
+        <text id="fearless" need_translate="true" value="-20% suksess på agenten 'Bølle'"/>
         <text id="fool" need_translate="false" value="Du må bruke 3 ganger mer innfytelsespoeng for å starte forhandlingen"/>
         <text id="friendly" need_translate="false" value="Karakterens lojalitet til deg vil redusere 2 ganger mer ved mislykkede forhandlinger"/>
-        <text id="frigid" need_translate="false" value="-20% suksess på agenten 'Kurtisane'"/>
+        <text id="frigid" need_translate="true" value="-20% suksess på agenten 'Kurtisane'"/>
         <text id="heavy" need_translate="false" value="Det tar 3 ganger lengre tid å komme seg etter en forhandling"/>
-        <text id="holyman" need_translate="false" value="-20% suksess på agenten 'Detektiv'"/>
+        <text id="holyman" need_translate="true" value="-20% suksess på agenten 'Detektiv'"/>
         <text id="horses" need_translate="false" value="Hester"/>
         <text id="houses" need_translate="false" value="Hus"/>
         <text id="illegible" need_translate="false" value="Ved avbrutte forhandlinger er omdømmestraffen 2 ganger mindre; ved vellykkede forhandlinger er omdømmebonusen 2 ganger større"/>
         <text id="independent" need_translate="false" value="Ved forhandling må du bruke 2 ganger mer innflytelsespoeng for å gjøre en avtale"/>
         <text id="light" need_translate="false" value="Det tar 3 ganger kortere tid å komme seg etter en forhandling"/>
-        <text id="lustful" need_translate="false" value="+20% suksess på agenten 'Kurtisane'"/>
+        <text id="lustful" need_translate="true" value="+20% suksess på agenten 'Kurtisane'"/>
         <text id="mercantile" need_translate="false" value="Forhandlingen vil være 2 ganger dyrere"/>
         <text id="pictures" need_translate="false" value="Bilder"/>
-        <text id="restrained" need_translate="false" value="-20% suksess på agenten 'Journalist'"/>
+        <text id="restrained" need_translate="true" value="-20% suksess på agenten 'Journalist'"/>
         <text id="selective" need_translate="false" value="Ved feilet/avbrutt forhandling er omdømmestraffen 2 ganger høyere"/>
-        <text id="shy" need_translate="false" value="+20% suksess på agenten 'Bølle'"/>
-        <text id="spender" need_translate="false" value="+20% suksess på agenten 'Gangster'"/>
-        <text id="thrifty" need_translate="false" value="-20% suksess på agenten 'Gangster'"/>
+        <text id="shy" need_translate="true" value="+20% suksess på agenten 'Bølle'"/>
+        <text id="spender" need_translate="true" value="+20% suksess på agenten 'Gangster'"/>
+        <text id="thrifty" need_translate="true" value="-20% suksess på agenten 'Gangster'"/>
         <text id="trader" need_translate="false" value="Karakteren vil senke prisen 2 ganger lavere enn vanlig ved mottilbud"/>
         <text id="trophies" need_translate="false" value="Trofeer"/>
         <text id="wasteful" need_translate="false" value="Forhandlingen vil være 2 ganger billigere"/>

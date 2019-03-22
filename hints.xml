@@ -81,13 +81,13 @@
         <text id="45_title" need_translate="false" value="Lønnsomhet"/>
         <text id="46_text" need_translate="false" value="Presenter bedriftens verdi relativ til markedsprisen for aksjene"/>
         <text id="46_title" need_translate="false" value="Markedsverdi"/>
-        <text id="47_text" need_translate="false" value="Kjøpsprisen av aksjer gjennom megling"/>
+        <text id="47_text" need_translate="true" value="Kjøpsprisen av aksjer gjennom megling"/>
         <text id="47_title" need_translate="false" value="Markedspris"/>
         <text id="4_title" need_translate="false" value="Prestasjoner og elite"/>
         <text id="4_value" need_translate="false" value="Dine prestasjoner og poengoversikt"/>
         <text id="50_title" need_translate="false" value="Tid igjen"/>
         <text id="50_value" need_translate="false" value="Klokkeslettet på klokken er antall forsøk på å få gjennom en avtale"/>
-        <text id="5_title" need_translate="false" value="Autoritet "/>
+        <text id="5_title" need_translate="true" value="Autoritet "/>
         <text id="5_value" need_translate="false" value="lobbyisere lover, sponse politikere eller tjenestemenn"/>
         <text id="6_title" need_translate="false" value="Nyheter"/>
         <text id="6_value" need_translate="false" value="Kronologien til spillhendelsene"/>

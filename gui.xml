@@ -10,8 +10,8 @@
         <text id="economic_achievements" need_translate="false" value="ØKONOMISKE PRESTASJONER"/>
         <text id="in_developing" need_translate="false" value="i utvikling... (resten av teksten vil bli lagt til i spillet senere)"/>
         <text id="lock_achievement" need_translate="false" value="Du har mistet prestasjonen %1!\nSamlingen av %2 har blitt redusert."/>
-        <text id="next" need_translate="false" value="Du får:"/>
-        <text id="now" need_translate="false" value="Du har:"/>
+        <text id="next" need_translate="true" value="Du får:"/>
+        <text id="now" need_translate="true" value="Du har:"/>
         <text id="opened_achievements" need_translate="false" value="Oppnådd %1 av %2"/>
         <text id="personal_achievements" need_translate="false" value="PERSONLIGE PRESTASJONER"/>
         <text id="politics_achievements" need_translate="false" value="POLITISKE PRESTASJONER"/>
@@ -116,19 +116,27 @@
         <text id="credit_pay_off" need_translate="false" value="Du har betalt tilbake lånet!"/>
         <text id="credit_payment_arrerage" need_translate="false" value="%1 betalinger igjen ($%2)"/>
         <text id="get_agent_text" need_translate="false" value="Ved en vellykket forhandling vil %1 %2 sin lojalitet til deg øke en plass mellom %3-%4"/>
-        <text id="skill_temporarily_blocked" need_translate="false" value="Du kan ikke bruke ferdigheten '%1' nå"/>
+        <text id="skill_temporarily_blocked" need_translate="true" value="Du kan ikke bruke ferdigheten '%1' nå"/>
     </agents_handler>
     <agents_window>
         <text id="agents" need_translate="false" value="Agenter"/>
         <text id="influence_agents" need_translate="false" value="Innflytelsesagenter"/>
     </agents_window>
     <ambition_popup>
+        <text id="abandon_quest" need_translate="true" value=""/>
+        <text id="agree" need_translate="true" value=""/>
+        <text id="bribe_sum" need_translate="true" value=""/>
+        <text id="campaign_sum" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
         <text id="conditions" need_translate="false" value="Vilkår"/>
         <text id="days_left" need_translate="false" value="Tid igjen"/>
         <text id="deal_sum" need_translate="false" value="Innsatsbeløp"/>
+        <text id="finish_quest" need_translate="true" value=""/>
         <text id="influence" need_translate="false" value="Innflytelse"/>
         <text id="loyality" need_translate="false" value="Lojalitet til deg"/>
-        <text id="loyality_change" need_translate="false" value="Oppnådd ambisjon"/>
+        <text id="loyality_change_negative" need_translate="true" value=""/>
+        <text id="loyality_change_positive" need_translate="true" value=""/>
+        <text id="process_quest" need_translate="true" value=""/>
         <text id="shares_count" need_translate="false" value="Antall aksjer"/>
     </ambition_popup>
     <any_words>
@@ -150,16 +158,18 @@
         <text id="assistant_control_company" need_translate="false" value="Assistenten har blitt utnevnt som den nye administrerende direktøren."/>
         <text id="assistant_in_prison" need_translate="false" value="{nickname} er i fengsel!"/>
         <text id="button_hint_header" need_translate="false" value="Assistenter"/>
-        <text id="button_hint_text" need_translate="false" value="Her kan du ansette en assistent som kan være en embetsmann eller en politiker i fremtiden. Det er opp til deg."/>
+        <text id="button_hint_text" need_translate="true" value="Her kan du ansette en assistent som kan være en embetsmann eller en politiker i fremtiden. Det er opp til deg."/>
         <text id="characteristics" need_translate="false" value="Karaktertrekk"/>
         <text id="diplomacy" need_translate="false" value="Diplomati"/>
         <text id="diplomacy_hint_header" need_translate="false" value="Diplomati"/>
-        <text id="diplomacy_hint_text" need_translate="false" value="Karaktertrekket påvirker karakterens bonus/straff til sjansen for å utføre en avtale"/>
+        <text id="diplomacy_hint_text" need_translate="true" value="Karaktertrekket påvirker karakterens bonus/straff til sjansen for å utføre en avtale"/>
         <text id="economics" need_translate="false" value="Økonomi"/>
         <text id="economics_hint_header" need_translate="false" value="Økonomi"/>
         <text id="economics_hint_text" need_translate="false" value="Jo høyere økonominivået er, jo bedre er assistenten til å lede en bedrift."/>
         <text id="filter_text_0" need_translate="false" value="Gratis"/>
         <text id="filter_text_1" need_translate="false" value="Ansatt"/>
+        <text id="filter_text_3" need_translate="true" value=""/>
+        <text id="filter_text_4" need_translate="true" value=""/>
         <text id="gold_parachute" need_translate="false" value="Fristillingserstatning"/>
         <text id="gold_parachute_hint_header" need_translate="false" value="Fristillingserstatning"/>
         <text id="gold_parachute_hint_text" need_translate="false" value="Sum penger som blir betalt til assistenten hvis ansettelsen blir terminert."/>
@@ -167,10 +177,10 @@
         <text id="hire_assistant_hint_text" need_translate="false" value="Du har ikke nok maktpoeng til å ansette"/>
         <text id="influence" need_translate="false" value="Innflytelse"/>
         <text id="influence_hint_header" need_translate="false" value="Innflytelse"/>
-        <text id="influence_hint_text" need_translate="false" value="Makten av karakterens forbindelser. Bruk innflytelse for å gjøre en avtale, øke lojalitet til deg eller bruke agenter."/>
+        <text id="influence_hint_text" need_translate="true" value="Makten av karakterens forbindelser. Bruk innflytelse for å gjøre en avtale, øke lojalitet til deg eller bruke agenter."/>
         <text id="influence_skill" need_translate="false" value="Politikk"/>
         <text id="influence_skill_hint_header" need_translate="false" value="Politikk"/>
-        <text id="influence_skill_hint_text" need_translate="false" value="Innflytelse per kvartal. En stjerne øker assistentens innflytelse med +1 poeng"/>
+        <text id="influence_skill_hint_text" need_translate="true" value="Innflytelse per kvartal. En stjerne øker assistentens innflytelse med +1 poeng"/>
         <text id="no_avaliable_assistants" need_translate="false" value="Ingen tilgjengelige assistenter."/>
         <text id="no_hired_assistants" need_translate="false" value="Ingen ansatte assistenter."/>
         <text id="not_enough_money_to_fire" need_translate="false" value="Du har ikke nok penger til å betale assistentens fristillingserstatning!"/>
@@ -181,12 +191,12 @@
         <text id="politics_hint_text" need_translate="true" value=""/>
         <text id="power_cost" need_translate="false" value="Pris"/>
         <text id="power_cost_hint_header" need_translate="false" value="Pris"/>
-        <text id="power_cost_hint_text" need_translate="false" value="Antall maktpoeng som kreves for å ansette"/>
+        <text id="power_cost_hint_text" need_translate="true" value="Antall maktpoeng som kreves for å ansette"/>
         <text id="reputation" need_translate="false" value="Omdømme"/>
         <text id="reputation_hint_header" need_translate="false" value="Omdømme"/>
         <text id="reputation_hint_text" need_translate="false" value="Hvis ditt omdømme er bedre enn konkurrenten din sitt omdømme vil det være mye enklere å utføre avtaler, men du vil få en omdømmestraff på -1 poeng"/>
         <text id="sabotage_popup_header" need_translate="false" value="Saboter!"/>
-        <text id="sabotage_popup_text" need_translate="false" value="Assistenten nektet å utføre ordren din! Den lave lojaliteten er sannsynligvis årsaken til det..."/>
+        <text id="sabotage_popup_text" need_translate="true" value="Assistenten nektet å utføre ordren din! Den lave lojaliteten er sannsynligvis årsaken til det..."/>
         <text id="salary" need_translate="false" value="Lønn"/>
         <text id="salary_hint_header" need_translate="false" value="Lønn"/>
         <text id="salary_hint_text" need_translate="false" value="Lønnen til karakteren som trekkes fra spillerens konto når turen er over."/>
@@ -231,8 +241,8 @@
         <text id="money" need_translate="false" value="Penger"/>
         <text id="ok" need_translate="false" value="Ok"/>
         <text id="prestige" need_translate="false" value="Prestisje"/>
-        <text id="you_lose_auction" need_translate="false" value="Du har tapt auksjonen!"/>
-        <text id="you_win_auction" need_translate="false" value="Du har vunnet auksjonen!"/>
+        <text id="you_lose_auction" need_translate="true" value="Du har tapt auksjonen!"/>
+        <text id="you_win_auction" need_translate="true" value="Du har vunnet auksjonen!"/>
     </auction_result>
     <auction_window>
         <text id="demand" need_translate="false" value="Spør"/>
@@ -311,6 +321,7 @@
         <text id="loading" need_translate="false" value="Laster..."/>
         <text id="press_any_key_to_continue" need_translate="false" value="Press hvilken som helst tast for å fortsette..."/>
     </cap_block>
+    <text id="capitol" need_translate="true" value=""/>
     <circle_progress_bar>
         <text id="xp" need_translate="false" value=" XP"/>
     </circle_progress_bar>
@@ -319,13 +330,15 @@
         <text id="buy" need_translate="false" value="Kjøp"/>
         <text id="buy_price" need_translate="false" value="Kjøpspris"/>
         <text id="buy_price_2" need_translate="false" value="Kjøpspris"/>
+        <text id="collection_influence_bonuse" need_translate="true" value=""/>
         <text id="demand" need_translate="false" value="Spør"/>
         <text id="description" need_translate="false" value="Beskrivelse"/>
+        <text id="influence_bonuse" need_translate="true" value=""/>
         <text id="inform" need_translate="false" value="Informasjon"/>
         <text id="market_price" need_translate="false" value="Markedspris"/>
         <text id="market_price_2" need_translate="false" value="Markedspris"/>
         <text id="no_money_to_buy_hint_header" need_translate="false" value="Eiendomskjøp"/>
-        <text id="no_money_to_buy_hint_text" need_translate="false" value="Du har ikke nok penger til å kjøpe denne gjenstanden"/>
+        <text id="no_money_to_buy_hint_text" need_translate="true" value="Du har ikke nok penger til å kjøpe denne gjenstanden"/>
         <text id="profit_by_all" need_translate="false" value="Total fortjeneste"/>
         <text id="profit_by_step" need_translate="false" value="Fortjeneste per kvartal"/>
         <text id="sale" need_translate="false" value="Selg"/>
@@ -379,8 +392,6 @@
         <text id="accident_risk" need_translate="false" value="Ulykkesrisiko"/>
         <text id="administrative_expenses" need_translate="false" value="Administrasjonskostnader"/>
         <text id="adress_generation_is_impossible" need_translate="false" value="Adressegenerering er umulig!"/>
-        <text id="available_primary" need_translate="false" value="Råvarer"/>
-        <text id="available_products" need_translate="false" value="Tilgjengelige varer"/>
         <text id="base_productivity" need_translate="false" value="Basekapasitet"/>
         <text id="capitalization" need_translate="false" value="Markedsverdi"/>
         <text id="company_name_is_inaccessible" need_translate="false" value="Ingen tilgjengelige navn for bedriften!"/>
@@ -396,14 +407,11 @@
         <text id="not_enough_place_for_new_company" need_translate="false" value="Ingen plasser for nye bedrifter!"/>
         <text id="other_countries_export" need_translate="true" value=""/>
         <text id="other_countries_import" need_translate="true" value=""/>
-        <text id="primary_to_secondary" need_translate="false" value="Råvarer per vareenhet"/>
         <text id="proceeds" need_translate="true" value="Inntekter"/>
-        <text id="product_price" need_translate="true" value="Varepris"/>
         <text id="production_expenses" need_translate="true" value="Produksjonskostnader"/>
         <text id="profit" need_translate="true" value="Nettoinntekt"/>
         <text id="profitability" need_translate="true" value="Lønnsomhet"/>
         <text id="salary" need_translate="true" value="Lønn"/>
-        <text id="share_fair_price" need_translate="true" value="Aksjepris"/>
         <text id="state_tax" need_translate="true" value="Statlig skatt"/>
         <text id="strike_risk" need_translate="true" value="Risiko for streik"/>
         <text id="technologies" need_translate="true" value="Teknologier"/>
@@ -450,11 +458,11 @@
         <text id="deal_chance" need_translate="false" value="Avtalesjanse"/>
         <text id="deal_sum" need_translate="false" value="Avtalesum"/>
         <text id="details" need_translate="false" value="Detaljer"/>
-        <text id="detective_applied" need_translate="false" value="Du har allerede en hemmelighet på bedriften"/>
+        <text id="detective_applied" need_translate="true" value="Du har allerede en hemmelighet på bedriften"/>
         <text id="detective_not_applied" need_translate="false" value="Du har ingenting du kan utpresse bedriften med"/>
         <text id="diplomacy_skill" need_translate="false" value="Diplomati"/>
         <text id="diplomacy_skill_hint_header" need_translate="false" value="Diplomati"/>
-        <text id="diplomacy_skill_hint_text" need_translate="false" value="Ferdigheten påvirker spillerens bonus/straff til sjansen for å utføre en avtale"/>
+        <text id="diplomacy_skill_hint_text" need_translate="true" value="Ferdigheten påvirker spillerens bonus/straff til sjansen for å utføre en avtale"/>
         <text id="employ_director" need_translate="false" value="Ansett direktør"/>
         <text id="employ_director_disabled" need_translate="false" value="Du kan ikke ansette en direktør"/>
         <text id="employ_director_no_control" need_translate="false" value="Du må få majoritetskontroll over bedriften for å ansette en direktør"/>
@@ -476,7 +484,7 @@
         </hints>
         <text id="influence" need_translate="false" value="Innflytelse"/>
         <text id="influence_cost_description" need_translate="false" value="Antall innflytelsespoeng som kreves for å forhandle"/>
-        <text id="influence_cost_description_new" need_translate="false" value="Ved å ta {nickname} sin lojalitet til deg og dine assistenter til betraktning, er forhandlingsprisen {range_influence} {image}"/>
+        <text id="influence_cost_description_new" need_translate="true" value="Ved å ta {nickname} sin lojalitet til deg og dine assistenter til betraktning, er forhandlingsprisen {range_influence} {image}"/>
         <text id="influence_cost_header" need_translate="false" value="Innflytelse"/>
         <text id="interest" need_translate="false" value="Interesser+"/>
         <text id="interest_bar" need_translate="false" value="Interessert"/>
@@ -576,6 +584,7 @@
             <text id="working_hours" need_translate="true" value=""/>
         </window>
     </control>
+    <text id="court" need_translate="true" value=""/>
     <crash_rpt>
         <text id="installatio_of_error_handler_is_impossible" need_translate="true" value=""/>
     </crash_rpt>
@@ -687,7 +696,7 @@
         <text id="my_directors" need_translate="true" value=""/>
         <text id="name_and_age" need_translate="true" value=""/>
         <text id="negotiation" need_translate="false" value="Forhandling"/>
-        <text id="no_shares" need_translate="false" value="Du er ikke en aksjoner i {companyname}!"/>
+        <text id="no_shares" need_translate="true" value="Du er ikke en aksjoner i {companyname}!"/>
         <text id="orders" need_translate="false" value="Ordre"/>
         <orders>
             <text id="bayback" need_translate="false" value="Kjøp tilbake"/>
@@ -708,7 +717,7 @@
         <text id="technologies" need_translate="true" value=""/>
         <text id="tecnologies" need_translate="false" value="Teknologier"/>
         <text id="use_agent" need_translate="false" value="Bruk en agent"/>
-        <text id="voting_not_possible" need_translate="false" value="Den neste avstemningen vil være tilgjengelig innen {date}"/>
+        <text id="voting_not_possible" need_translate="true" value="Den neste avstemningen vil være tilgjengelig innen {date}"/>
         <text id="window_name" need_translate="false" value="Direktørliste"/>
         <text id="workplace" need_translate="false" value="Nåværende jobb"/>
     </directors_window>
@@ -857,6 +866,7 @@
         <text id="you_want_to_buy_some_safety_stock" need_translate="true" value=""/>
     </discussion_handler>
     <discussion_history_log>
+        <text id="corrupt_dialog" need_translate="true" value=""/>
         <text id="dialog_fail" need_translate="false" value="Avtalen med %1 feilet"/>
         <text id="dialog_success" need_translate="false" value="Avtalen med %1 er utført: %2 aksjer for $%3 - Totalt $%4"/>
         <text id="dialog_success_loan" need_translate="false" value="Avtalen med %1 er utført: %3% av totalt $%2 per kvartal"/>
@@ -901,8 +911,8 @@
         <text id="some_days" need_translate="false" value="%1-%2 dag(er)"/>
     </discussion_result>
     <discussion_result_message_box>
-        <text id="talks_failure" need_translate="false" value="Forhandlingen feilet!"/>
-        <text id="talks_success" need_translate="false" value="Forhandlingen var vellykket!"/>
+        <text id="talks_failure" need_translate="true" value="Forhandlingen feilet!"/>
+        <text id="talks_success" need_translate="true" value="Forhandlingen var vellykket!"/>
     </discussion_result_message_box>
     <discussion_settings>
         <text id="deal" need_translate="false" value="Avtale"/>
@@ -913,7 +923,6 @@
     <discussion_window>
         <text id="agree" need_translate="false" value="Ok"/>
         <text id="analysis" need_translate="false" value="Analyse"/>
-        <text id="contract" need_translate="false" value="Avtale"/>
         <text id="contract_condition" need_translate="false" value="Avtalebetingelser"/>
         <text id="deal_chance" need_translate="false" value="Avtalesjanse:"/>
         <text id="deal_history" need_translate="false" value="Avtaleprosess:"/>
@@ -926,16 +935,23 @@
             <text id="all_loans" need_translate="false" value="Alle lån"/>
             <text id="loan_sum" need_translate="false" value="Lånesum"/>
             <text id="pay_loan" need_translate="false" value="Tilbakebetal"/>
-            <text id="quarter_payment" need_translate="false" value=""/>
+            <text id="quarter_payment" need_translate="true" value=""/>
             <text id="quarter_rate" need_translate="false" value="Kvartalsrente"/>
-            <text id="take_loan" need_translate="false" value="Ta lån"/>
+            <text id="take_loan" need_translate="true" value="Ta lån"/>
             <text id="total_sum_by_loans" need_translate="false" value="Total tilbakebetalingssum"/>
         </loan>
+        <text id="loan_contract" need_translate="true" value=""/>
         <text id="negative_result" need_translate="false" value="Feilet"/>
         <text id="negotiation_in_progress" need_translate="false" value="Forhandler..."/>
         <text id="neutral_result1" need_translate="false" value="Mottilbud"/>
         <text id="neutral_result2" need_translate="false" value="Mottilbud"/>
         <text id="offer" need_translate="false" value="Tilbud"/>
+        <official>
+            <text id="arrest_chance" need_translate="true" value=""/>
+            <text id="bribe_sum" need_translate="true" value=""/>
+            <text id="influence" need_translate="true" value=""/>
+        </official>
+        <text id="official_contract" need_translate="true" value=""/>
         <text id="opponent_sign" need_translate="false" value="Selgers signatur"/>
         <text id="player_sign" need_translate="false" value="Kjøpers signatur"/>
         <text id="positive_result" need_translate="false" value="Suksess"/>
@@ -943,6 +959,7 @@
         <text id="refuse" need_translate="false" value="Avslå"/>
         <text id="roi" need_translate="false" value="Lønnsomhet"/>
         <text id="share_price" need_translate="false" value="Aksjepris"/>
+        <text id="shares_contract" need_translate="true" value=""/>
         <text id="shares_count" need_translate="false" value="Antall aksjer"/>
         <text id="shares_part_after_deal" need_translate="false" value="Din fremtidige andel"/>
         <text id="sign" need_translate="false" value="Signer"/>
@@ -1006,6 +1023,41 @@
         <text id="now" need_translate="true" value=""/>
         <text id="rivals" need_translate="true" value=""/>
     </economic>
+    <election_campaign_window>
+        <text id="campaign_financing" need_translate="true" value=""/>
+        <text id="campaign_process" need_translate="true" value=""/>
+        <text id="candidates_behavior" need_translate="true" value=""/>
+        <text id="coverage" need_translate="true" value=""/>
+        <text id="coverage_change" need_translate="true" value=""/>
+        <text id="day" need_translate="true" value=""/>
+        <text id="financing" need_translate="true" value=""/>
+        <text id="followers" need_translate="true" value=""/>
+        <text id="followers_change_in_day" need_translate="true" value=""/>
+        <text id="followers_dynamics" need_translate="true" value=""/>
+        <text id="fund_balance" need_translate="true" value=""/>
+        <text id="fund_cash" need_translate="true" value=""/>
+        <text id="impact" need_translate="true" value=""/>
+        <text id="impact_strategy_to_coverage" need_translate="true" value=""/>
+        <text id="month" need_translate="true" value=""/>
+        <text id="no_money" need_translate="true" value=""/>
+        <text id="prognosed_coverage" need_translate="true" value=""/>
+        <text id="prognosed_votes" need_translate="true" value=""/>
+        <text id="rating" need_translate="true" value=""/>
+        <text id="save_strategy" need_translate="true" value=""/>
+        <text id="save_strategy_hint" need_translate="true" value=""/>
+        <text id="selector_1_param" need_translate="true" value=""/>
+        <text id="selector_2_param" need_translate="true" value=""/>
+        <text id="selector_3_param" need_translate="true" value=""/>
+        <text id="spended_from_fund" need_translate="true" value=""/>
+        <text id="sponsor" need_translate="true" value=""/>
+        <text id="sponsorship_sum" need_translate="true" value=""/>
+        <text id="strategy" need_translate="true" value=""/>
+        <text id="strategy_modifier" need_translate="true" value=""/>
+        <text id="waste_by_person" need_translate="true" value=""/>
+        <text id="waste_in_day" need_translate="true" value=""/>
+        <text id="week" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </election_campaign_window>
     <event_result>
         <text id="button_next" need_translate="false" value="Fortsett"/>
         <text id="fail_text" need_translate="false" value="Beklageligvis ville ingen VIPer komme. Kjøp eiendommen på auksjon for å øke prestisjen din!"/>
@@ -1043,19 +1095,19 @@
         <text id="bet" need_translate="false" value="Innsatsstørrelse"/>
         <text id="cancel_some_meetings" need_translate="false" value="Du må nok kansellere noen møter"/>
         <text id="charitable_contribution" need_translate="false" value="Du har blitt invitert til å ta del i en veldedighetsinnsamling. Det koster $ %1."/>
-        <text id="charitable_contribution_accept" need_translate="false" value="Du har akseptert tilbudet. Omdømmet ditt har gått opp med %1"/>
-        <text id="charitable_contribution_deny" need_translate="false" value="Du har avslått tilbudet. Omdømmet ditt har gått ned med %1"/>
+        <text id="charitable_contribution_accept" need_translate="true" value="Du har akseptert tilbudet. Omdømmet ditt har gått opp med %1"/>
+        <text id="charitable_contribution_deny" need_translate="true" value="Du har avslått tilbudet. Omdømmet ditt har gått ned med %1"/>
         <text id="delay_at_way" need_translate="false" value="Forsinkelse!"/>
         <text id="fortune_money_bonus" need_translate="false" value="Du er heldig! Rikdommen din har økt med %1."/>
         <text id="fortune_money_bonus_to_your_purse" need_translate="false" value="Du spilte verdig. Hent pengene dine!"/>
         <text id="hold_up_at_way" need_translate="false" value="Stopp!"/>
         <text id="hold_up_at_way_and_money_cost" need_translate="false" value="Livet ditt er dyrere! Du har blitt tvunget til å gi vekk $ %1."/>
         <text id="hold_up_at_way_and_win" need_translate="false" value="Du ble forsøkt stoppet. Heldigvis klarte du å komme deg helskinnet fra det. Der var du heldig!"/>
-        <text id="hold_up_at_way_and_wound" need_translate="false" value="Du gav deg ikke i pistolkampen og ble skadet. Som et resultat, brukte du %1 dag(er) på å komme deg på beina igjen."/>
+        <text id="hold_up_at_way_and_wound" need_translate="true" value="Du gav deg ikke i pistolkampen og ble skadet. Som et resultat, brukte du %1 dag(er) på å komme deg på beina igjen."/>
         <text id="money_cost" need_translate="false" value="Du har leid et kjøretøy for %1."/>
         <text id="no_reveal" need_translate="false" value="%1 nektet å krysse %2. Vennskap er større enn alt."/>
-        <text id="politiciant_money_support" need_translate="false" value="Du har fått et tilbud til å bli en donor av Mike sin valgkaamp. Donasjonssummen er %2"/>
-        <text id="politiciant_money_support_accept" need_translate="false" value="Politikerens sjanse for å bli gjenvalgt har gått opp med %1"/>
+        <text id="politiciant_money_support" need_translate="true" value="Du har fått et tilbud til å bli en donor av Mike sin valgkaamp. Donasjonssummen er %2"/>
+        <text id="politiciant_money_support_accept" need_translate="true" value="Politikerens sjanse for å bli gjenvalgt har gått opp med %1"/>
         <text id="politiciant_money_support_deny" need_translate="true" value=""/>
         <text id="relation_event" need_translate="true" value=""/>
         <text id="relation_result_negative_value1" need_translate="false" value="%1 sin lojalitet til deg: %2%"/>
@@ -1139,6 +1191,49 @@
         <text id="share_fraction" need_translate="false" value="Aksjeproposjon:"/>
         <text id="shareholder" need_translate="false" value="Aksjonær:"/>
     </item_with_check_model>
+    <law_archive>
+        <text id="approved" need_translate="true" value=""/>
+        <text id="decrease" need_translate="true" value=""/>
+        <text id="in_progress" need_translate="true" value=""/>
+        <text id="increase" need_translate="true" value=""/>
+        <text id="law_type" need_translate="true" value=""/>
+        <text id="law_vector" need_translate="true" value=""/>
+        <text id="laws_archive" need_translate="true" value=""/>
+        <text id="laws_list" need_translate="true" value=""/>
+        <text id="ratification" need_translate="true" value=""/>
+        <text id="ratification_ended" need_translate="true" value=""/>
+        <text id="ratification_planned" need_translate="true" value=""/>
+        <text id="refused" need_translate="true" value=""/>
+        <text id="stage" need_translate="true" value=""/>
+        <text id="start_date" need_translate="true" value=""/>
+        <text id="voting_ended" need_translate="true" value=""/>
+        <text id="voting_planned" need_translate="true" value=""/>
+    </law_archive>
+    <law_window>
+        <text id="current_value" need_translate="true" value=""/>
+        <text id="democrat" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="dummy" need_translate="true" value=""/>
+        <text id="goveror" need_translate="true" value=""/>
+        <text id="law_of_state" need_translate="true" value=""/>
+        <text id="lobby" need_translate="true" value=""/>
+        <text id="lower_house" need_translate="true" value=""/>
+        <text id="lower_house_voting_date" need_translate="true" value=""/>
+        <text id="majority_party_leader" need_translate="true" value=""/>
+        <text id="menu_lobby" need_translate="true" value=""/>
+        <text id="minority_party_leader" need_translate="true" value=""/>
+        <text id="negative" need_translate="true" value=""/>
+        <text id="neutral" need_translate="true" value=""/>
+        <text id="no_lobby_or_dummy" need_translate="true" value=""/>
+        <text id="no_lobby_or_dummy_governor" need_translate="true" value=""/>
+        <text id="party" need_translate="true" value=""/>
+        <text id="positive" need_translate="true" value=""/>
+        <text id="prognosed_law_result" need_translate="true" value=""/>
+        <text id="republican" need_translate="true" value=""/>
+        <text id="upper_house" need_translate="true" value=""/>
+        <text id="upper_house_voting_date" need_translate="true" value=""/>
+        <text id="votes" need_translate="true" value=""/>
+    </law_window>
     <left_panel>
         <text id="h_1" need_translate="false" value="Assistenter"/>
         <text id="h_2" need_translate="false" value="I utvikling"/>
@@ -1225,7 +1320,7 @@
         <text id="local_influence" need_translate="false" value="Lokal innflytelse"/>
         <text id="loyalty" need_translate="false" value="Lojalitet"/>
         <text id="macroeconomics" need_translate="false" value="Makroøkonomi"/>
-        <text id="marginalization" need_translate="false" value="Andel i bedriften"/>
+        <text id="marginalization" need_translate="true" value="Andel i bedriften"/>
         <text id="market_size" need_translate="false" value="Markedskapasitet"/>
         <text id="microeconomics" need_translate="false" value="Mikroøkonomi"/>
         <text id="net_profit" need_translate="false" value="Netto inntekt"/>
@@ -1256,13 +1351,13 @@
     <map_filters_handler>
         <text id="actual_income" need_translate="false" value="%1 sin inntekt i %2 er $ %3."/>
         <text id="all_actual_income" need_translate="false" value="Totalt aksjonærutbytte i %1 er $ %2"/>
-        <text id="all_potential_income" need_translate="false" value="Totalt potensielt aksjonærutbytte i %1 er $ %2"/>
+        <text id="all_potential_income" need_translate="true" value="Totalt potensielt aksjonærutbytte i %1 er $ %2"/>
         <text id="authority_all_with_loyalty" need_translate="false" value="Antall karakterer i %1 er %2"/>
         <text id="authority_all_without_loyalty" need_translate="false" value="Antall karakterer i %1 er %2.\nResultatet er vist uten deres lojalitet!\nVelg en eier for å ta deres lojalitet i betraktning."/>
         <text id="authority_comparison" need_translate="false" value="Antall karakterer i %1 er %2.\nDu må velge 'Lojalitet' for å sammenligne resultatet av eierne."/>
-        <text id="authority_player_with_loyalty_enemies" need_translate="false" value="Antall karakterer som er dine motstandere i %1 er %2"/>
-        <text id="authority_player_with_loyalty_friends" need_translate="false" value="Antall karakterer som er dine venner i %1 er %2"/>
-        <text id="authority_player_with_loyalty_neutrals" need_translate="false" value="Antallet karakterer som er nøytrale til deg i %1 er %2"/>
+        <text id="authority_player_with_loyalty_enemies" need_translate="true" value="Antall karakterer som er dine motstandere i %1 er %2"/>
+        <text id="authority_player_with_loyalty_friends" need_translate="true" value="Antall karakterer som er dine venner i %1 er %2"/>
+        <text id="authority_player_with_loyalty_neutrals" need_translate="true" value="Antallet karakterer som er nøytrale til deg i %1 er %2"/>
         <text id="authority_player_without_loyalty" need_translate="false" value="Antallet karakterer i %1 er %2"/>
         <text id="company_count" need_translate="false" value="Antallet bedrifter i %1 er %2"/>
         <text id="corporate_taxes_text" need_translate="false" value="Skattesatsen for bedrifter i %1 er %2 %"/>
@@ -1278,7 +1373,7 @@
         <text id="workers_count_text" need_translate="false" value="Antall arbeidere i %1 er %2 %."/>
     </map_filters_handler>
     <map_handler>
-        <text id="ticket_to_some_state" need_translate="false" value="Du har fått en billett til '%1'"/>
+        <text id="ticket_to_some_state" need_translate="true" value="Du har fått en billett til '%1'"/>
         <text id="you_are_moved" need_translate="false" value="Du har flyttet deg"/>
     </map_handler>
     <map_popup>
@@ -1345,24 +1440,23 @@
         <text id="winter" need_translate="false" value="Vinter"/>
     </month_switcher>
     <news_makets>
-        <text id="accident_caption" need_translate="false" value="Ulykke på %1 %2"/>
+        <text id="accident_caption" need_translate="true" value="Ulykke på %1 %2"/>
         <text id="accident_text" need_translate="false" value="Ulykken vil redusere bedriftens produksjon og faktisk inntekt. Aksjeprisen vil muligens gå noe ned. Hvis ulykken blir eliminert, kan aksjeprisen øke igjen."/>
         <text id="add_influence_from_politician_caption" need_translate="true" value=""/>
         <text id="add_influence_from_politician_text" need_translate="true" value=""/>
-        <text id="agent_applying_fail_caption" need_translate="false" value="Agent %1 feilet oppdraget om %2"/>
-        <text id="agent_applying_success_caption" need_translate="false" value="Agent %1 har fullført oppdraget om %2"/>
+        <text id="agent_applying_fail_caption" need_translate="true" value="Agent %1 feilet oppdraget om %2"/>
+        <text id="agent_applying_success_caption" need_translate="true" value="Agent %1 har fullført oppdraget om %2"/>
         <text id="alliance_caption" need_translate="false" value="%1 sin lojalitet til deg går ned med %2%"/>
         <text id="ambition_negative_header" need_translate="false" value="Du var ansvarlig for %1, men du klarte ikke å håndtere det. Du har skuffet meg! Lojaliteten min til deg: %2%"/>
-        <text id="ambition_negative_text" need_translate="false" value="%1 sin lojalitet til deg går opp med %2"/>
+        <text id="ambition_negative_text" need_translate="true" value="%1 sin lojalitet til deg går opp med %2"/>
         <text id="ambition_positive_header" need_translate="false" value="Takk for å fullføre mitt ønske for %1. Jeg vet ikke hva jeg skulle gjort uten din hjelp. Min lojalitet til deg: %2%"/>
-        <text id="ambition_positive_text" need_translate="false" value="Invitasjon til en veldedighet på kvelden fra %1"/>
-        <text id="charity_event_caption" need_translate="false" value="%1Du har fått en invitasjon fra %2 %4 i %3 for å bli med i vededighetsarrangementet %5. Det vil være %6 %8 av %7, %10 %11 og %12 %14 av %13. Invitasjonen er gyldig til %15."/>
+        <text id="ambition_positive_text" need_translate="true" value="Invitasjon til en veldedighet på kvelden fra %1"/>
+        <text id="charity_event_caption" need_translate="true" value="%1Du har fått en invitasjon fra %2 %4 i %3 for å bli med i vededighetsarrangementet %5. Det vil være %6 %8 av %7, %10 %11 og %12 %14 av %13. Invitasjonen er gyldig til %15."/>
         <text id="charity_event_text" need_translate="true" value=""/>
-        <text id="elections_passed_caption" need_translate="true" value=""/>
-        <text id="elections_passed_text_1" need_translate="true" value=""/>
-        <text id="elections_passed_text_2" need_translate="true" value=""/>
-        <text id="elections_passed_text_3" need_translate="true" value=""/>
-        <text id="elections_passed_text_4" need_translate="true" value=""/>
+        <text id="election_ended_caption" need_translate="true" value=""/>
+        <text id="election_ended_text" need_translate="true" value=""/>
+        <text id="election_started_caption" need_translate="true" value=""/>
+        <text id="election_started_text" need_translate="true" value=""/>
         <text id="feudfrom_proprietor_text" need_translate="true" value=""/>
         <text id="feudfrom_сompetitor_text" need_translate="true" value=""/>
         <text id="give_loan_text" need_translate="false" value="Takk for at du låner meg $ % 1. Nå har forholdet mitt med deg blitt bedre."/>
@@ -1380,7 +1474,7 @@
         <text id="mail_body_tail" need_translate="false" value="Beste hilsen, %1"/>
         <text id="make_donation_text" need_translate="false" value="Jeg forstår... det var synd. Uansett er jeg veldig takknemlig for donasjonen din. Jeg setter pris på det."/>
         <text id="player_by_action_caption" need_translate="false" value="%1% av aksjene av bedriften %3 %2 ble kjøpt for $ %5 i %4."/>
-        <text id="player_by_action_text" need_translate="false" value="%1% av aksjenen av bedriften %3 %2 ble kjøpt for $ %4. Avtalen ble laget med %5 i %6."/>
+        <text id="player_by_action_text" need_translate="true" value="%1% av aksjenen av bedriften %3 %2 ble kjøpt for $ %4. Avtalen ble laget med %5 i %6."/>
         <text id="player_by_from_auc_caption" need_translate="false" value="%1 ble kjøpt på auksjon for $ %2!"/>
         <text id="player_by_from_auc_text" need_translate="false" value="%1 ble kjøpt på auksjon i %3 for $ %2"/>
         <text id="player_by_from_npc_caption" need_translate="false" value="%1 ble kjøpt fra %2 for $%3. Du fikk %4 prestisjepoeng."/>
@@ -1389,12 +1483,12 @@
         <text id="player_donation_to_fund_text" need_translate="true" value=""/>
         <text id="player_fail_by_action_caption" need_translate="false" value="%1% av aksjene til bedriften %3 %2 for $ %5 in %4 ble ikke kjøpt."/>
         <text id="player_fail_by_action_text" need_translate="false" value="%1% av bedriften %3 %2 sitt aksjekjøp i %4 feilet. %6 var ikke interessert i å selge for $%5"/>
-        <text id="player_lost_trades_caption" need_translate="false" value="Auksjonen feilet. Du klarte ikke å kjøpe %1 i %2."/>
+        <text id="player_lost_trades_caption" need_translate="true" value="Auksjonen feilet. Du klarte ikke å kjøpe %1 i %2."/>
         <text id="player_lost_trades_text" need_translate="false" value="Startprisen for %1 var $%2. Gjenstanden ble kjøpt av %3 for $%4"/>
         <text id="player_missed_auction_caption" need_translate="false" value="%2 ble kjøpt av %1 for $%3"/>
         <text id="player_missed_auction_text_1" need_translate="false" value="Gjenstanden %2 ble lagt ut for auksjon for $%3 i %1. Den ble kjøpt av %4 i %5 for %6"/>
         <text id="player_missed_auction_text_2" need_translate="false" value="Gjenstanden ble solgt til den høyeste budgiveren. Prisen endte opp høyere enn startprisen. Det er ingenting dårlig med det fordi en dyr gjenstand kan øke kjøperens status i samfunnet og gi han en fortjeneste ved å selge den til en høyere pris i fremtiden"/>
-        <text id="player_missed_auction_text_3" need_translate="false" value="Husk at gjenstanden %1 er en begrenset utgave, noe som gjør dette en god investering. De sier at %2 vil gå opp med %3% per kvartal."/>
+        <text id="player_missed_auction_text_3" need_translate="true" value="Husk at gjenstanden %1 er en begrenset utgave, noe som gjør dette en god investering. De sier at %2 vil gå opp med %3% per kvartal."/>
         <text id="player_missed_auction_text_4" need_translate="false" value="Ifølge denne veksten vil tilbakebetalingsperioden til %1 være %2 kvartal(er) dersom luksusmarkedet er stabilt"/>
         <text id="player_sale_action_caption" need_translate="false" value="%1% av aksjene til bedriften %3 %2 ble solgt for $ %5 i %4"/>
         <text id="player_sale_action_text" need_translate="false" value="%1% av aksjene til bedriften %3 %2 ble solgt til en megler for $ %4"/>
@@ -1404,15 +1498,17 @@
         <text id="player_sale_goods_to_nps_text_bonus" need_translate="false" value="Lojaliteten til deg: %1"/>
         <text id="player_salegoods_from_auc_caption" need_translate="false" value="%2 ble kjøpt av %1 for $%3"/>
         <text id="player_salegoods_from_auc_text" need_translate="false" value="Du har klart å selge en %1 for $%2 i %3. Den ble kjøpt av %4 fra %5"/>
+        <text id="player_sell_by_from_auc_caption" need_translate="true" value=""/>
+        <text id="player_sell_by_from_auc_text" need_translate="true" value=""/>
         <text id="refuse_to_lend_text" need_translate="false" value="Grådighet vil ikke få oss til å bli venner! Tenk over det..."/>
-        <text id="reject_rout_text" need_translate="false" value="Jeg er opprørt over at du kansellerte invitasjonen til veldedighetsarrangementet!"/>
+        <text id="reject_rout_text" need_translate="true" value="Jeg er opprørt over at du kansellerte invitasjonen til veldedighetsarrangementet!"/>
         <text id="robbery_road_caption" need_translate="false" value="Toget fra %1 ble angrepet av banditter. Ditt tap: %2"/>
         <text id="robbery_road_text_1" need_translate="false" value="Under bandittangrepet ble {nickname} skadet. Han trenger {days} dag(er) for å komme seg"/>
-        <text id="robbery_road_text_2" need_translate="false" value="Situasjonen på jernbanen har plutselig eskalert de siste dagene: banditter raner tog ved å skyte og drepe passasjerene nå og da. Den lokale politisjefen har ikke klart å fange dem. Vær forsiktig!"/>
-        <text id="robbery_road_text_3" need_translate="false" value="Den raske utviklingen av industrialiseringen fører til bygging av nye jernbaner. Som et resultat ble nye handelsruter bygget som er et enkelt bytte for banditter. Vær forsiktig med å velge en retning"/>
+        <text id="robbery_road_text_2" need_translate="true" value="Situasjonen på jernbanen har plutselig eskalert de siste dagene: banditter raner tog ved å skyte og drepe passasjerene nå og da. Den lokale politisjefen har ikke klart å fange dem. Vær forsiktig!"/>
+        <text id="robbery_road_text_3" need_translate="true" value="Den raske utviklingen av industrialiseringen fører til bygging av nye jernbaner. Som et resultat ble nye handelsruter bygget som er et enkelt bytte for banditter. Vær forsiktig med å velge en retning"/>
         <text id="robbery_road_text_4" need_translate="false" value="Toget {train_name} ble angrepet av gangstere. {nickname} betalte $ {sum} for å unngå negative konsekvenser. Gangsterne klarte å rømme."/>
         <text id="robbery_road_text_5" need_translate="false" value="Toget {train_name} ble angrepet av gangstere. {nickname} klarte å kjempe tilbake mot gangsterne."/>
-        <text id="strike_caption" need_translate="false" value="Streik ved %1 %2"/>
+        <text id="strike_caption" need_translate="true" value="Streik ved %1 %2"/>
         <text id="strike_occurred_caption" need_translate="false" value="Den største streiken oppstått mellom arbeidere i %1, %2, %3 bedrifter"/>
         <text id="strike_occurred_for_player_caption" need_translate="true" value=""/>
         <text id="strike_occurred_for_player_text" need_translate="true" value=""/>
@@ -1421,11 +1517,11 @@
         <text id="strike_occurred_text_3" need_translate="true" value=""/>
         <text id="strike_occurred_text_4" need_translate="true" value=""/>
         <text id="strike_text" need_translate="false" value="Streiken vil redusere bedriftens produksjon og faktiske inntekt. Aksjeprisen kan synke noe. Hvis streiken blir eliminert kan aksjeprisen gå opp igjen."/>
-        <text id="train_delay_caption" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Ditt tap: %2 dag(er)"/>
-        <text id="train_delay_text_1" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er). Passasjerene og eieren av transportselskapet har for øyeblikket noen utfordringer. Eierne av hest og kjerre har utnyttet situasjonen - billettprisen har gått opp til $%3."/>
-        <text id="train_delay_text_2" need_translate="false" value="Transportbedrifter prøver å komme til topps. De produserer hele tiden nye vogner slik at jernbanens bæreevne vil gjøre det mulig å øke mengden transportert last og passasjerer, slik at eierne tjener mer penger."/>
-        <text id="train_delay_text_3" need_translate="false" value="Ved å forfølge rikdom har ikke eierne av bedriftene følgt med på kvaliteten til jernbanene deres... som et resultat, går skinnene ofte i stykker slik at passasjerene lider og får problemer"/>
-        <text id="train_pay_caption" need_translate="false" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er)."/>
+        <text id="train_delay_caption" need_translate="true" value="Toget fra %1 har kjørt av skinnene. Ditt tap: %2 dag(er)"/>
+        <text id="train_delay_text_1" need_translate="true" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er). Passasjerene og eieren av transportselskapet har for øyeblikket noen utfordringer. Eierne av hest og kjerre har utnyttet situasjonen - billettprisen har gått opp til $%3."/>
+        <text id="train_delay_text_2" need_translate="true" value="Transportbedrifter prøver å komme til topps. De produserer hele tiden nye vogner slik at jernbanens bæreevne vil gjøre det mulig å øke mengden transportert last og passasjerer, slik at eierne tjener mer penger."/>
+        <text id="train_delay_text_3" need_translate="true" value="Ved å forfølge rikdom har ikke eierne av bedriftene følgt med på kvaliteten til jernbanene deres... som et resultat, går skinnene ofte i stykker slik at passasjerene lider og får problemer"/>
+        <text id="train_pay_caption" need_translate="true" value="Toget fra %1 har kjørt av skinnene. Du har tapt %2 dag(er)."/>
         <text id="warning_from_proprietor_text" need_translate="true" value=""/>
     </news_makets>
     <news_window>
@@ -1445,6 +1541,25 @@
         <text id="self" need_translate="false" value="Personlig"/>
         <text id="world" need_translate="false" value="Globalt"/>
     </news_window>
+    <official_person>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="governor_description" need_translate="true" value=""/>
+        <text id="governor_in_genetive" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="judge_description" need_translate="true" value=""/>
+        <text id="judge_in_genetive" need_translate="true" value=""/>
+        <text id="official" need_translate="true" value=""/>
+        <text id="official_in_genetive" need_translate="true" value=""/>
+        <text id="police_chief" need_translate="true" value=""/>
+        <text id="police_chief_description" need_translate="true" value=""/>
+        <text id="police_chief_in_genetive" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="prosecutor_description" need_translate="true" value=""/>
+        <text id="prosecutor_in_genetive" need_translate="true" value=""/>
+        <text id="treasurer" need_translate="true" value=""/>
+        <text id="treasurer_description" need_translate="true" value=""/>
+        <text id="treasurer_in_genetive" need_translate="true" value=""/>
+    </official_person>
     <official_window>
         <text id="beliefs" need_translate="false" value="Oppfatninger"/>
         <text id="characteristics" need_translate="false" value="Ferdigheter"/>
@@ -1475,10 +1590,11 @@
         <text id="cancel_auction" need_translate="false" value="Avbryt"/>
         <text id="market_price" need_translate="false" value="Markedspris"/>
         <text id="next" need_translate="false" value="Fortsett"/>
+        <text id="not_enough_money" need_translate="true" value=""/>
         <text id="prestige" need_translate="false" value="Prestisje"/>
         <text id="start_auction" need_translate="false" value="Delta"/>
-        <text id="you_buy" need_translate="false" value="Gratulerer! Du har klart å vinne auksjonen! Du har kjøpt &quot;%1&quot;"/>
-        <text id="you_dont_buy" need_translate="false" value="Auksjonen feilet"/>
+        <text id="you_buy" need_translate="true" value="Gratulerer! Du har klart å vinne auksjonen! Du har kjøpt &quot;%1&quot;"/>
+        <text id="you_dont_buy" need_translate="true" value="Auksjonen feilet"/>
     </ownership_popup>
     <person_handler>
         <text id="cabaret_whirligirl" need_translate="false" value="Cabaretdansere"/>
@@ -1494,21 +1610,20 @@
         <text id="assistant_director" need_translate="false" value="Direktør for &quot;{companyname}&quot;"/>
         <text id="assistant_director_in_genetive" need_translate="false" value="Direktører for &quot;{companyname}&quot;"/>
         <text id="assistant_in_genetive" need_translate="false" value="Assistent"/>
+        <text id="authority" need_translate="true" value=""/>
         <text id="ceo" need_translate="false" value="Adm.dir."/>
         <text id="democrat" need_translate="false" value="Demokrat"/>
+        <text id="democrat_in_genetive" need_translate="true" value=""/>
         <text id="director" need_translate="false" value="Direktør"/>
         <text id="enemy_relation" need_translate="false" value="Motstander"/>
         <text id="friend_relation" need_translate="false" value="Venn"/>
         <text id="investor" need_translate="false" value="Investor"/>
         <text id="investor_in_genetive" need_translate="false" value=""/>
-        <text id="loyality_bonus" need_translate="false" value="Hvis dine oppfatninger matcher en motstanders oppfatninger, vil du få en lojalitetsbonus på +10 (ellers -10)."/>
+        <text id="loyality_bonus" need_translate="true" value="Hvis dine oppfatninger matcher en motstanders oppfatninger, vil du få en lojalitetsbonus på +10 (ellers -10)."/>
         <text id="married" need_translate="false" value="Gift"/>
         <text id="neutral_relation" need_translate="false" value="Nøytral"/>
-        <text id="official" need_translate="false" value="Embetsmann"/>
-        <text id="official_in_genetive" need_translate="false" value=""/>
         <text id="player" need_translate="false" value="Spiller"/>
         <text id="player_in_genetive" need_translate="false" value="spiller"/>
-        <text id="politician" need_translate="false" value="Politiker"/>
         <text id="politician_in_genetive" need_translate="false" value="politiker"/>
         <text id="relation_type" need_translate="false" value="Lojalitet: %1 (%2/100)"/>
         <text id="religion_atheist" need_translate="false" value="Ateist"/>
@@ -1516,6 +1631,7 @@
         <text id="religion_christian" need_translate="false" value="Kristen"/>
         <text id="religion_muslim" need_translate="false" value="Muslim"/>
         <text id="republican" need_translate="false" value="Republikaner"/>
+        <text id="republican_in_genetive" need_translate="true" value=""/>
         <text id="shareholder" need_translate="false" value="Aksjonær"/>
         <text id="single" need_translate="false" value="Singel"/>
     </person_object>
@@ -1544,7 +1660,7 @@
     </person_selection_window>
     <person_skills>
         <text id="diplomacy" need_translate="false" value="Diplomati"/>
-        <text id="diplomacy_description" need_translate="false" value="Ferdigheten påvirker spillerens bonus/straff til sjansen på å utføre en avtale"/>
+        <text id="diplomacy_description" need_translate="true" value="Ferdigheten påvirker spillerens bonus/straff til sjansen på å utføre en avtale"/>
         <text id="economics" need_translate="false" value="Økonomi"/>
         <text id="economics_description" need_translate="true" value=""/>
         <text id="influence" need_translate="false" value="Politikk"/>
@@ -1803,6 +1919,7 @@
         <text id="taxes" need_translate="false" value="Skatter"/>
     </player_finances_model>
     <player_finances_window>
+        <text id="authority_salary" need_translate="true" value=""/>
         <text id="credits" need_translate="false" value="Lån"/>
         <text id="dinamics" need_translate="false" value="Dynamikk"/>
         <text id="directors_board_salary" need_translate="false" value="Styrets lønn ({company_name})"/>
@@ -1898,13 +2015,13 @@
         <text id="cancel_choose" need_translate="false" value="Avbryt"/>
         <text id="characteristics" need_translate="false" value="Ferdigheter"/>
         <text id="choose_event_date" need_translate="false" value="Velg en arrangementsdato"/>
-        <text id="compromat_already_exists" need_translate="false" value="Du kjenner til hemmelighet på denne karakteren!"/>
+        <text id="compromat_already_exists" need_translate="true" value="Du kjenner til hemmelighet på denne karakteren!"/>
         <text id="conviction" need_translate="false" value="Oppfatninger"/>
         <text id="convictions" need_translate="false" value="Oppfatninger"/>
         <text id="courtesan_already_exists" need_translate="false" value="Agenten har allerede blitt brukt"/>
         <text id="courtesan_only_for_male" need_translate="false" value="Bare menn!"/>
         <text id="diplomacy_left_area_hint_header" need_translate="false" value="Diplomati"/>
-        <text id="diplomacy_left_area_hint_text" need_translate="false" value="Ferdigheten påvirker spillerens bonus/straff på sjansen for å utføre en avtale"/>
+        <text id="diplomacy_left_area_hint_text" need_translate="true" value="Ferdigheten påvirker spillerens bonus/straff på sjansen for å utføre en avtale"/>
         <text id="economics_left_area_hint_header" need_translate="false" value="Økonomi"/>
         <text id="economics_left_area_hint_text" need_translate="false" value="Jo høyere økonominivå, jo bedre er sjansen for at karakteren klarer å styre en bedrift"/>
         <text id="guests_count_invited_to_route" need_translate="false" value="Inviterte %1/%2 gjester"/>
@@ -1916,7 +2033,7 @@
         <text id="influence_left_area_hint_header" need_translate="false" value="Innflytelse"/>
         <text id="influence_left_area_hint_text" need_translate="false" value="Antall innflytelsepoeng som kreves for å forhandle"/>
         <text id="influence_skill_left_area_hint_header" need_translate="false" value="Politikk"/>
-        <text id="influence_skill_left_area_hint_text" need_translate="false" value="Innflytelse per kvartal. En stjerne øker innflytelsen med +1 poeng"/>
+        <text id="influence_skill_left_area_hint_text" need_translate="true" value="Innflytelse per kvartal. En stjerne øker innflytelsen med +1 poeng"/>
         <text id="make_connection" need_translate="false" value="Lås opp"/>
         <text id="make_present" need_translate="false" value="Gi en gave"/>
         <text id="menu_agent_applied_on_current_step" need_translate="false" value="Agenten har allerede blitt brukt!"/>
@@ -1924,10 +2041,13 @@
         <text id="menu_assistant_fire" need_translate="false" value="Spark"/>
         <text id="menu_assistant_hire" need_translate="false" value="Ansett"/>
         <text id="menu_corrupt" need_translate="false" value="Korrupt"/>
+        <text id="menu_election" need_translate="true" value=""/>
         <text id="menu_is_in_prison" need_translate="false" value="Du er i fengsel!"/>
         <text id="menu_is_moving" need_translate="false" value="Du holder på å reise, og du kan derfor ikke utføre forretninger!"/>
+        <text id="menu_law_window" need_translate="true" value=""/>
+        <text id="menu_laws_archive" need_translate="true" value=""/>
         <text id="menu_loan" need_translate="false" value="Lån penger"/>
-        <text id="menu_loan_already_planned" need_translate="false" value="Forhandlingene er allerede planlagt!"/>
+        <text id="menu_loan_already_planned" need_translate="true" value="Forhandlingene er allerede planlagt!"/>
         <text id="menu_loan_different_position" need_translate="false" value="Spilleren er i en annen stat!"/>
         <text id="menu_loan_no_money" need_translate="true" value=""/>
         <text id="menu_loan_no_positive_profit" need_translate="false" value="Karakteren har en negativ balanse"/>
@@ -1940,16 +2060,19 @@
         <text id="menu_negotation" need_translate="false" value="Lag avtale"/>
         <text id="menu_no_agents" need_translate="false" value="Ingen agenter er tilgjengelig"/>
         <text id="menu_no_company" need_translate="false" value="Karakteren er ikke en aksjonær i noen bedrifter!"/>
+        <text id="menu_no_persons_to_corrupt" need_translate="true" value=""/>
         <text id="menu_not_enough_influence" need_translate="false" value="Ikke nok innflytelse!"/>
         <text id="menu_ownerships" need_translate="false" value="Luksus"/>
+        <text id="menu_person_engaged_in_election" need_translate="true" value=""/>
         <text id="menu_person_is_locked" need_translate="false" value="Du må låse opp karakteren!"/>
         <text id="menu_rout" need_translate="false" value="Inviter til arrangement"/>
+        <text id="menu_start_election_not_possible" need_translate="true" value=""/>
         <text id="menu_use_agent" need_translate="false" value="Bruk agent"/>
         <text id="missis" need_translate="true" value=""/>
         <text id="mister" need_translate="true" value=""/>
         <text id="negotiation_different_position" need_translate="false" value="Karakteren er i en annen stat! "/>
         <text id="negotiation_error" need_translate="true" value=""/>
-        <text id="negotiation_has_talked" need_translate="false" value="Forhandlingene har allerede blitt holdt!"/>
+        <text id="negotiation_has_talked" need_translate="true" value="Forhandlingene har allerede blitt holdt!"/>
         <text id="negotiation_low_influence" need_translate="false" value="Du har ikke nok innflytelsespoeng"/>
         <text id="negotiation_need_player" need_translate="false" value="Bare spiller!"/>
         <text id="negotiation_not_enough_money_for_negotiation" need_translate="false" value="Du har ikke nok penger"/>
@@ -1981,7 +2104,7 @@
         <text id="player_locked" need_translate="false" value="Låst"/>
         <text id="player_patience_hint_header" need_translate="false" value="Du vil være klar den %1"/>
         <text id="politics_left_area_hint_header" need_translate="false" value="Politikk"/>
-        <text id="politics_left_area_hint_text" need_translate="false" value="Under utvikling... (den fulle teksten vil bli lagt til i spillet senere)"/>
+        <text id="politics_left_area_hint_text" need_translate="true" value="Under utvikling... (den fulle teksten vil bli lagt til i spillet senere)"/>
         <text id="power_hint_header" need_translate="false" value="Marionetter"/>
         <text id="power_hint_text" need_translate="false" value="Karakterens totale antall av marionetter"/>
         <text id="power_left_area_hint_header" need_translate="false" value="Makt"/>
@@ -2033,17 +2156,7 @@
         <text id="you_escape_marshal_pursuit_because_justice_is_your_man" need_translate="true" value=""/>
     </politican_handler>
     <politican_object>
-        <text id="congress_candidate" need_translate="false" value="Kongresskandidat"/>
-        <text id="congressman" need_translate="false" value="Kongressmann"/>
-        <text id="congressman_in_genetive" need_translate="false" value="kongressmann"/>
-        <text id="legislature_candidate" need_translate="false" value="Lovgivende kandidat"/>
-        <text id="legislature_congressman" need_translate="false" value="Lovgivende kongressmann"/>
-        <text id="legislature_congressman_in_genetive" need_translate="false" value="lovgivende kongressmann"/>
-        <text id="legislature_senator" need_translate="false" value="Lovgivende senator"/>
-        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
         <text id="politician" need_translate="false" value="Politiker"/>
-        <text id="senator" need_translate="false" value="Senator"/>
-        <text id="senator_in_genetive" need_translate="false" value="senator"/>
     </politican_object>
     <politican_panel>
         <text id="bribe_size" need_translate="true" value=""/>
@@ -2054,6 +2167,20 @@
         <text id="limited_for_alpha_version" need_translate="false" value="Under utvikling... Dette er begrenset! Kom tilbake senere. :)"/>
         <text id="state_politicans" need_translate="false" value="Statspolitikere"/>
     </politicans_window>
+    <politician_person>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="congressman_description" need_translate="true" value=""/>
+        <text id="congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_congressman" need_translate="true" value=""/>
+        <text id="legislature_congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_senator" need_translate="true" value=""/>
+        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
+        <text id="politic" need_translate="true" value=""/>
+        <text id="politic_in_genetive" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="senator_description" need_translate="true" value=""/>
+        <text id="senator_in_genetive" need_translate="true" value=""/>
+    </politician_person>
     <politician_window>
         <text id="characteristics" need_translate="false" value="Egenskaper"/>
         <text id="end_term" need_translate="false" value="Mandatperiode"/>
@@ -2066,7 +2193,7 @@
         <text id="influence_change" need_translate="false" value="Ekstra innflytelse"/>
         <text id="influence_change_hint" need_translate="false" value="Ekstra innflytelse"/>
         <text id="influence_change_hint_text" need_translate="false" value="Ekstra innflytelsespoeng hver runde"/>
-        <text id="influence_hint" need_translate="false" value="Personlig innflytelse"/>
+        <text id="influence_hint" need_translate="true" value="Personlig innflytelse"/>
         <text id="influence_hint_text" need_translate="false" value="Den personlige innflytelsen til karakteren"/>
         <text id="party" need_translate="false" value="Parti"/>
         <text id="party_hint_text" need_translate="false" value="Karakterens politiske ståsted"/>
@@ -2075,12 +2202,42 @@
         <text id="rating_hint" need_translate="false" value="Rangering"/>
         <text id="rating_hint_text" need_translate="false" value="Dette er rangeringen blant befolkningen. Jo nærmere 100% den er, jo større er sjansen for at karakteren vil bli valgt for neste mandatperiode"/>
         <text id="reputation" need_translate="false" value="Omdømme"/>
-        <text id="reputation_hint" need_translate="false" value="Karakterens omdømme"/>
+        <text id="reputation_hint" need_translate="true" value="Karakterens omdømme"/>
         <text id="reputation_hint_text" need_translate="false" value="Hvis omdømmet ditt er bedre enn motstanderens omdømme, vil det være mye enklere å lage avtaler, men du vil få en omdømmestraff på -1 poeng"/>
         <text id="sponsors" need_translate="false" value="Donorer"/>
         <text id="sponsors_hint" need_translate="false" value="Valgkampdonorer"/>
         <text id="sponsors_hint_text" need_translate="false" value="Flere donorer bidrar til å vinne valgkampen"/>
+        <text id="vote" need_translate="true" value=""/>
     </politician_window>
+    <popups>
+        <cancel_negotiation>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="loyalty" need_translate="true" value=""/>
+            <text id="reputation" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </cancel_negotiation>
+        <fire_assistant>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="gold_parachute" need_translate="true" value=""/>
+            <text id="salary" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </fire_assistant>
+        <hire_assistant>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="gold_parachute" need_translate="true" value=""/>
+            <text id="salary" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </hire_assistant>
+    </popups>
     <previous_panel>
         <text id="business_offer " need_translate="true" value=""/>
         <text id="days" need_translate="true" value=""/>
@@ -2106,6 +2263,7 @@
         <text id="corruption" need_translate="false" value="Korrupsjonsforsøk"/>
         <text id="courtesan" need_translate="false" value="Kurtisane"/>
         <text id="despicable_act" need_translate="false" value="Sleip handling"/>
+        <text id="election_opponent" need_translate="true" value=""/>
         <text id="failed_negotiation" need_translate="false" value="Mislykket forhandling"/>
         <text id="hired_assistant" need_translate="false" value="Hyrt assistent"/>
         <text id="hired_director" need_translate="false" value="Hyrt direktør"/>
@@ -2118,6 +2276,7 @@
         <text id="total_relation" need_translate="false" value="Lojalitet til deg"/>
         <text id="unreliability" need_translate="false" value="Upålitelig"/>
         <text id="voting_for_director" need_translate="false" value="Stemmen på aksjonærmøtet"/>
+        <text id="voting_in_legislature" need_translate="true" value=""/>
     </relations_handler>
     <relatives>
         <text id="cousin" need_translate="false" value="Søskenbarn"/>
@@ -2255,6 +2414,25 @@
         <text id="state" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
     </start_negotation_window>
+    <state_politic_window>
+        <text id="current_law" need_translate="true" value=""/>
+        <text id="current_value" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="house_title" need_translate="true" value=""/>
+        <text id="law_progress" need_translate="true" value=""/>
+        <text id="lower_house" need_translate="true" value=""/>
+        <text id="lower_house_title" need_translate="true" value=""/>
+        <text id="lower_house_voting_date" need_translate="true" value=""/>
+        <text id="majority_party_leader" need_translate="true" value=""/>
+        <text id="menu_lobby" need_translate="true" value=""/>
+        <text id="minority_party_leader" need_translate="true" value=""/>
+        <text id="ratification_by_governor" need_translate="true" value=""/>
+        <text id="state_politic_info" need_translate="true" value=""/>
+        <text id="support_by_parties" need_translate="true" value=""/>
+        <text id="upper_house" need_translate="true" value=""/>
+        <text id="upper_house_title" need_translate="true" value=""/>
+        <text id="upper_house_voting_date" need_translate="true" value=""/>
+    </state_politic_window>
     <state_window>
         <text id="avg_salary" need_translate="false" value="Gjennomsnittlig lønn"/>
         <text id="companies" need_translate="false" value="Bedrifter"/>
@@ -2272,6 +2450,7 @@
         <text id="officials" need_translate="false" value="Embetsmenn"/>
         <text id="person_tax" need_translate="false" value="Personlig inntektsskatt"/>
         <text id="politicians" need_translate="false" value="Politikere"/>
+        <text id="politics" need_translate="true" value=""/>
         <text id="population" need_translate="false" value="Befolkning"/>
         <text id="population_dynamic" need_translate="false" value="Befolkningsdynamikk"/>
         <text id="state" need_translate="false" value="Stat"/>
@@ -2291,6 +2470,7 @@
         <text id="avaliable_influence" need_translate="false" value="Totalt:"/>
         <text id="base_influence" need_translate="false" value="Karakternivå:"/>
         <text id="cash" need_translate="false" value="Kontanter"/>
+        <text id="collection_influence" need_translate="true" value=""/>
         <text id="companies_influence_change" need_translate="false" value="Assistenter/bedrifters innflytelse per kvartal:"/>
         <text id="company_influence" need_translate="false" value="Bedrifters innflytelse:"/>
         <text id="confidence_summary_total" need_translate="false" value="Totalsum:"/>
@@ -2402,7 +2582,7 @@
     <voting_popup>
         <text id="abstained" need_translate="false" value="Avstått"/>
         <text id="agreed" need_translate="false" value="Enig"/>
-        <text id="apply" need_translate="false" value="Bruk"/>
+        <text id="apply" need_translate="true" value="Bruk"/>
         <text id="apply_button" need_translate="false" value="Ok"/>
         <text id="director_offer_hired" need_translate="false" value="Forslaget ble godkjent!"/>
         <text id="director_offer_not_hired" need_translate="false" value="Forslaget ble avvist!"/>

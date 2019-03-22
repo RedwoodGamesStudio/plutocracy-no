@@ -13,11 +13,11 @@
         <text id="50_header" need_translate="false" value="Kampanjefinansiering"/>
         <text id="51_description" need_translate="false" value="Jeg ønsker å spør deg om å hjelpe %1 med å bli med i styret til %2. Jeg vil være takknemlig for det!"/>
         <text id="51_header" need_translate="false" value="Styret"/>
-        <text id="52_description" need_translate="false" value="Hei! Kand u hjelpe %1 med å bli en aksjonær i %2 fra %3?"/>
+        <text id="52_description" need_translate="true" value="Hei! Kand u hjelpe %1 med å bli en aksjonær i %2 fra %3?"/>
         <text id="52_header" need_translate="false" value="Aksjonær"/>
-        <text id="53_description" need_translate="false" value="%1Inflytelsesrik politiker er alltid den beste måten å løse et 'problem' på. Kan du arrangere et møte med %2 %4 fra %3?"/>
+        <text id="53_description" need_translate="true" value="%1Inflytelsesrik politiker er alltid den beste måten å løse et 'problem' på. Kan du arrangere et møte med %2 %4 fra %3?"/>
         <text id="53_header" need_translate="false" value="Politiske forbindelser"/>
-        <text id="54_description" need_translate="false" value="%1Kan du hjelpe meg å løse et problem, jeg trenger en forbindelse med en embetsmann. Kan du arrangere et møte med %2 %4 fra %3?"/>
+        <text id="54_description" need_translate="true" value="%1Kan du hjelpe meg å løse et problem, jeg trenger en forbindelse med en embetsmann. Kan du arrangere et møte med %2 %4 fra %3?"/>
         <text id="54_header" need_translate="false" value="Forbindelse med en embetsmann"/>
     </event>
     <event_button>
@@ -32,7 +32,7 @@
         <text id="button_20_3_text" need_translate="false" value="Jeg tror ikke det gir mening"/>
         <text id="button_21_1_header" need_translate="false" value="Kom med en dyr gave"/>
         <text id="button_21_1_hover_text" need_translate="false" value="Penger: -$%1\nLojalitet til deg: +%2%"/>
-        <text id="button_21_1_text" need_translate="false" value="En dyr gave er en gest av respekt, selv om det nå og da gir deg muligheten til å manipulere en person ved å tvinge dem til å gjøre det du vil!"/>
+        <text id="button_21_1_text" need_translate="true" value="En dyr gave er en gest av respekt, selv om det nå og da gir deg muligheten til å manipulere en person ved å tvinge dem til å gjøre det du vil!"/>
         <text id="button_21_2_header" need_translate="false" value="Kom med en symbolsk gave"/>
         <text id="button_21_2_hover_text" need_translate="false" value="Penger: -$%1\nLojalitet til deg: +%2%"/>
         <text id="button_21_2_text" need_translate="false" value="Jeg er ganske sikker på at det er tanken som teller"/>
