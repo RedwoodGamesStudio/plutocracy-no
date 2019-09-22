@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agents>
     <agent_class>
-        <text id="class_1" need_translate="false" value="Bølle"/>
+        <text id="class_1" need_translate="true" value="Bølle"/>
         <text id="class_2" need_translate="false" value="Kurtisane"/>
         <text id="class_3" need_translate="false" value="Detektiv"/>
         <text id="class_4" need_translate="false" value="Journalist"/>
-        <text id="class_5" need_translate="false" value="Gangster"/>
+        <text id="class_5" need_translate="true" value="Gangster"/>
         <text id="class_6" need_translate="false" value="Leiemorder"/>
         <text id="class_7" need_translate="false" value="Diplomat"/>
         <text id="class_8" need_translate="false" value="Finansmann"/>
         <text id="no_data" need_translate="true" value=""/>
     </agent_class>
     <agent_result>
-        <text id="1_1_1_female" need_translate="false" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
-        <text id="1_1_1_male" need_translate="false" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
-        <text id="1_1_2_female" need_translate="false" value="Etter 'omskoleringsarbeid' er kunden klar for å vurdere tilbudet ditt"/>
-        <text id="1_1_2_male" need_translate="false" value="Etter 'omskoleringsarbeid' er kunden klar for å vurdere tilbudet ditt"/>
-        <text id="1_1_3_female" need_translate="false" value="Han prøvde å snakke med ut av det… Uansett kommer han til å møte deg halveis nå!"/>
-        <text id="1_1_3_male" need_translate="false" value="Han prøvde å snakke med ut av det… Uansett kommer han til å møte deg halveis nå!"/>
+        <text id="1_1_1_female" need_translate="true" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
+        <text id="1_1_1_male" need_translate="true" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
+        <text id="1_1_2_female" need_translate="true" value="Etter 'omskoleringsarbeid' er kunden klar for å vurdere tilbudet ditt"/>
+        <text id="1_1_2_male" need_translate="true" value="Etter 'omskoleringsarbeid' er kunden klar for å vurdere tilbudet ditt"/>
+        <text id="1_1_3_female" need_translate="true" value="Han prøvde å snakke med ut av det… Uansett kommer han til å møte deg halveis nå!"/>
+        <text id="1_1_3_male" need_translate="true" value="Han prøvde å snakke med ut av det… Uansett kommer han til å møte deg halveis nå!"/>
         <text id="1_2_1_female" need_translate="true" value="Beklageligvis, klarte jeg ikke å fange henne. Mest sannsynlig visste hun at jeg kom på besøk til henne… nå gjemmer hun seg fra meg"/>
         <text id="1_2_1_male" need_translate="true" value="Beklageligvis, klarte jeg ikke å fange han. Mest sannsynlig visste han at jeg kom på besøk til ham… nå gjemmer han seg fra meg"/>
-        <text id="1_2_2_female" need_translate="false" value="Jeg klarte ikke å fullføre oppdraget. Det var for mange vakter. Bedre lykke neste gang…"/>
-        <text id="1_2_2_male" need_translate="false" value="Jeg klarte ikke å fullføre oppdraget. Det var for mange vakter. Bedre lykke neste gang…"/>
-        <text id="1_2_3_female" need_translate="false" value="Noen ringte politiet… Jeg klarte å komme meg vekk! Jeg burde ha vært mer forsiktig"/>
-        <text id="1_2_3_male" need_translate="false" value="Noen ringte politiet… Jeg klarte å komme meg vekk! Jeg burde ha vært mer forsiktig"/>
-        <text id="1_3_1_female" need_translate="false" value="Vel, jeg gikk for langt… hun er på sykehuset. Vi har et problem - hun kommer til å vitne til politiet!"/>
-        <text id="1_3_1_male" need_translate="false" value="Vel, jeg gikk for langt… han er på sykehuset. Vi har et problem - han kommer til å vitne til politiet!"/>
-        <text id="1_3_2_female" need_translate="false" value="Jeg hadde ikke et valg, jeg var på vei tilbake til veggen… mest sannsynlig ringte sekretæren politiet… faen! Det er bra broren min jobber i politiet. Du burde være forberedt for uønskede besøkende, bare i tilfelle"/>
-        <text id="1_3_2_male" need_translate="false" value="Jeg hadde ikke et valg, jeg var på vei tilbake til veggen… mest sannsynlig ringte sekretæren politiet… faen! Det er bra broren min jobber i politiet. Du burde være forberedt for uønskede besøkende, bare i tilfelle"/>
-        <text id="1_3_3_female" need_translate="false" value="Jeg ble revet med ved å avklare et spørsmål… naboene mistenkte at noe var galt og ringte politiet. Jeg ble tvunget til å gå vekk og etterlot meg masse fingeravtrykk"/>
-        <text id="1_3_3_male" need_translate="false" value="Jeg ble revet med ved å avklare et spørsmål… naboene mistenkte at noe var galt og ringte politiet. Jeg ble tvunget til å gå vekk og etterlot meg masse fingeravtrykk"/>
+        <text id="1_2_2_female" need_translate="true" value="Jeg klarte ikke å fullføre oppdraget. Det var for mange vakter. Bedre lykke neste gang…"/>
+        <text id="1_2_2_male" need_translate="true" value="Jeg klarte ikke å fullføre oppdraget. Det var for mange vakter. Bedre lykke neste gang…"/>
+        <text id="1_2_3_female" need_translate="true" value="Noen ringte politiet… Jeg klarte å komme meg vekk! Jeg burde ha vært mer forsiktig"/>
+        <text id="1_2_3_male" need_translate="true" value="Noen ringte politiet… Jeg klarte å komme meg vekk! Jeg burde ha vært mer forsiktig"/>
+        <text id="1_3_1_female" need_translate="true" value="Vel, jeg gikk for langt… hun er på sykehuset. Vi har et problem - hun kommer til å vitne til politiet!"/>
+        <text id="1_3_1_male" need_translate="true" value="Vel, jeg gikk for langt… han er på sykehuset. Vi har et problem - han kommer til å vitne til politiet!"/>
+        <text id="1_3_2_female" need_translate="true" value="Jeg hadde ikke et valg, jeg var på vei tilbake til veggen… mest sannsynlig ringte sekretæren politiet… faen! Det er bra broren min jobber i politiet. Du burde være forberedt for uønskede besøkende, bare i tilfelle"/>
+        <text id="1_3_2_male" need_translate="true" value="Jeg hadde ikke et valg, jeg var på vei tilbake til veggen… mest sannsynlig ringte sekretæren politiet… faen! Det er bra broren min jobber i politiet. Du burde være forberedt for uønskede besøkende, bare i tilfelle"/>
+        <text id="1_3_3_female" need_translate="true" value="Jeg ble revet med ved å avklare et spørsmål… naboene mistenkte at noe var galt og ringte politiet. Jeg ble tvunget til å gå vekk og etterlot meg masse fingeravtrykk"/>
+        <text id="1_3_3_male" need_translate="true" value="Jeg ble revet med ved å avklare et spørsmål… naboene mistenkte at noe var galt og ringte politiet. Jeg ble tvunget til å gå vekk og etterlot meg masse fingeravtrykk"/>
         <text id="2_1_1_female" need_translate="false" value="Som jeg forventet har alle deres egne hemmeligheter… Jeg tror denne informasjonen er nok til å utpresse"/>
         <text id="2_1_1_male" need_translate="false" value="Som jeg forventet har alle deres egne hemmeligheter… Jeg tror denne informasjonen er nok til å utpresse"/>
         <text id="2_1_2_female" need_translate="false" value="Det var så lett… hun forstod ikke engang at hun fortalte meg alt jeg ønsket… he he he"/>
@@ -84,24 +84,6 @@
         <text id="4_3_2_male" need_translate="false" value="Artikkelen ble fjernet fra publikasjonen fordi det ikke er sant…"/>
         <text id="4_3_3_female" need_translate="false" value="En tilbakevisning fra en annen journalist ble publisert. Jeg tror ikke du trenger å vente på et positivt resultat"/>
         <text id="4_3_3_male" need_translate="false" value="En tilbakevisning fra en annen journalist ble publisert. Jeg tror ikke du trenger å vente på et positivt resultat"/>
-        <text id="5_1_1_female" need_translate="false" value="Her er pengene dine! Jeg trodde jeg skulle skyte henne! Kan du tro at hun prøvde å slå meg?"/>
-        <text id="5_1_1_male" need_translate="false" value="Her er pengene dine! Jeg trodde jeg skulle skyte ham! Kan du tro at han prøvde å slå meg?"/>
-        <text id="5_1_2_female" need_translate="false" value="Hun holdt på å drite i buksene hennes når hun så meg! ha ha ha… Det er gjort"/>
-        <text id="5_1_2_male" need_translate="false" value="Han holdt på å drite i buksene hans når han så meg! ha ha ha… Det er gjort"/>
-        <text id="5_1_3_female" need_translate="false" value="Hun holdt på å drite i buksene hennes når hun så meg! ha ha ha… Det er gjort"/>
-        <text id="5_1_3_male" need_translate="false" value="Han holdt på å drite i buksene hans når han så meg! ha ha ha… Det er gjort"/>
-        <text id="5_2_1_female" need_translate="false" value="Damn! Hun klarte å gjemme seg når vi jaget hun. Jeg skyter henne i kneet neste gang"/>
-        <text id="5_2_1_male" need_translate="false" value="Tikens sønn! Han klarte å gjemme seg når vi jaget han. Jeg skyter ham i kneet neste gang"/>
-        <text id="5_2_2_female" need_translate="false" value="Jeg har ingenting som kan gjøre deg glad… det skulle ikke ende slik"/>
-        <text id="5_2_2_male" need_translate="false" value="Jeg har ingenting som kan gjøre deg glad… det skulle ikke ende slik"/>
-        <text id="5_2_3_female" need_translate="false" value="Jeg tror vi har noen problemer… politiet er på vei!"/>
-        <text id="5_2_3_male" need_translate="false" value="Jeg tror vi har noen problemer… politiet er på vei!"/>
-        <text id="5_3_1_female" need_translate="false" value="Jeg har to nyheter: 1. Det er ingen penger. 2. En av fyrene mine mistet pistolen sin der… så, det kommer til å komme noen spørsmål snart…"/>
-        <text id="5_3_1_male" need_translate="false" value="Jeg har to nyheter: 1. Det er ingen penger. 2. En av fyrene mine mistet pistolen sin der… så, det kommer til å komme noen spørsmål snart…"/>
-        <text id="5_3_2_female" need_translate="true" value="Informasjonen var falsk! Det var ingen penger… og ja… noen kjente meg igjen! Jeg tror vi burde ligge lavt…"/>
-        <text id="5_3_2_male" need_translate="true" value="Informasjonen var falsk! Det var ingen penger… og ja… noen kjente meg igjen! Jeg tror vi burde ligge lavt…"/>
-        <text id="5_3_3_female" need_translate="true" value="Informasjonen var falsk! Det var ingen penger… og ja… noen kjente meg igjen! Jeg tror vi burde ligge lavt…"/>
-        <text id="5_3_3_male" need_translate="true" value="Informasjonen var falsk! Det var ingen penger… og ja… noen kjente meg igjen! Jeg tror vi burde ligge lavt…"/>
         <text id="6_1_1_female" need_translate="false" value="Jobben er gjort! Ingen vil merke noe på åstedet. Du kan sove i fred nå"/>
         <text id="6_1_1_male" need_translate="false" value="Jobben er gjort! Ingen vil merke noe på åstedet. Du kan sove i fred nå"/>
         <text id="6_1_2_female" need_translate="false" value="Det er gjort, ma'am! Det tok mye mer tid enn jeg forventet"/>
@@ -123,166 +105,21 @@
         <text id="agent_failed" need_translate="true" value=""/>
         <text id="agent_on_suspect" need_translate="true" value=""/>
     </agent_result>
-    <agent_skill_abduction>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value="Kidnapping: +100% sjanse"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen negative effekter"/>
-    </agent_skill_abduction>
-    <agent_skill_bandit_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Ran i dagslys: 3% mer penger"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_bandit_1>
-    <agent_skill_bandit_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Bevæpnet ran: 10% mer penger"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_bandit_2>
-    <agent_skill_bandit_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Planlagt ran: 10% mer penger"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_bandit_3>
-    <agent_skill_beating>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value="Slå: +70% sjanse"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_beating>
-    <agent_skill_courtesan_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Forfør: +75% lojalitet"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_courtesan_1>
-    <agent_skill_courtesan_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Rout: +50% lojalitet"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_courtesan_2>
-    <agent_skill_courtesan_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Flørt: +25% lojalitet"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_courtesan_3>
-    <agent_skill_detective_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Forfølg"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_detective_1>
-    <agent_skill_detective_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Informanter"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_detective_2>
-    <agent_skill_detective_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Følg med på"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_detective_3>
-    <agent_skill_journalist_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Baktal: -50% målets omdømme"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_journalist_1>
-    <agent_skill_journalist_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Publiser hemmeligheter: -75% målets omdømme"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_journalist_2>
-    <agent_skill_journalist_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Skriv artikkel: -25% målets omdømme"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_journalist_3>
-    <agent_skill_murder_gun>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Pistol"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_murder_gun>
-    <agent_skill_murder_knife>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Kniv"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_murder_knife>
-    <agent_skill_murder_poison>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Gift"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_murder_poison>
-    <agent_skill_threat>
-        <text id="description" need_translate="true" value=""/>
-        <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Trusler: +20% sjanse"/>
-        <text id="negative_result" need_translate="false" value="Mislykket"/>
-        <text id="positive_result" need_translate="false" value="Vellykket"/>
-        <text id="risk" need_translate="false" value="Ingen effekter"/>
-    </agent_skill_threat>
     <agents_bandit>
         <text id="description" need_translate="false" value="Den skumle og glatte cowboyen med en rik kriminell bakgrunn Siden barndommen har han bare kjent en lov - 'Pistolens regler'! På grunn av kapitalismens raske vekst krevde de usammenhengende rettssystemene bare tre ting fra ham: intelligens, besluttsomhet og skyteevne. Etter å ha erklært seg selv for fredløs ble tyveri og ran hans eneste måte å tjene penger på. Hvis du trenger tjenestene hans, vær klar til å betale bra."/>
         <text id="effect" need_translate="true" value="Dersom vellykket, vil agenten stjele opp til 10% av pengene"/>
         <text id="name" need_translate="false" value="Jesse"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="%1 ble ranet. Du fikk $%2"/>
-        <text id="skill" need_translate="false" value="Ran"/>
+        <text id="short_description" need_translate="true" value="%1 ble ranet. Du fikk $%2"/>
         <text id="surname" need_translate="false" value="Hume"/>
     </agents_bandit>
+    <agents_cardinal/>
     <agents_courtesan>
         <text id="description" need_translate="false" value="Poly Adler er en mysteriekvinne og en sann forfører av menn. Tidlig i livet, innså hun at en rik og innflytelsesrik elsker er billetten til et lykkelig liv! Siden den gang har hun lurket i kretsene til adelsmenn, og prøvd å få tak i nyttig informasjon. Hun følger med på private samtaler som kan inneholder hemmeligheter til gifte mannlige karakterer."/>
         <text id="effect" need_translate="true" value="Dersom vellykket, vil agenten hjelpe deg med å manipulere en karakter (bare menn) ved å redusere den påkrevde innflytelsen til å arrangere et møte med han. Sjansen for suksess er opp til din innflytelse på den karakteren."/>
         <text id="name" need_translate="false" value="Poly"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="false" value="%1 er hekta. Påkrevd innflytelse for å låse opp er redusert"/>
-        <text id="skill" need_translate="false" value="Manipulering"/>
         <text id="surname" need_translate="false" value="Adler"/>
     </agents_courtesan>
     <agents_detective>
@@ -291,7 +128,6 @@
         <text id="name" need_translate="false" value="Grant"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="true" value="%1 blir kompromittert. +100% sjanse til avtale"/>
-        <text id="skill" need_translate="false" value="Forfølg"/>
         <text id="surname" need_translate="false" value="Hills"/>
     </agents_detective>
     <agents_diplomat>
@@ -299,8 +135,7 @@
         <text id="effect" need_translate="true" value=""/>
         <text id="name" need_translate="false" value="Mal"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="diplomat"/>
-        <text id="skill" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value="diplomat"/>
         <text id="surname" need_translate="false" value="Goodman"/>
     </agents_diplomat>
     <agents_financier>
@@ -308,26 +143,24 @@
         <text id="effect" need_translate="true" value=""/>
         <text id="name" need_translate="false" value="Jacob"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="bankmann"/>
-        <text id="skill" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value="bankmann"/>
         <text id="surname" need_translate="false" value="Morgan"/>
     </agents_financier>
+    <agents_fireman/>
     <agents_journalist>
         <text id="description" need_translate="false" value="Harry er forfatteren av mange skandaløse artikler, og jobber i “New York Herald». Han utfører alltid agressive etterforskninger ved å avdekke ulike økonomiske svindler i en bedrift. Hvis det er en mulighet å skrive om hemmelighetene til berøkte politikere eller embetsmenn, er Harry klar. Hvis du trenger å fjerne noen fra stillingen deres eller fjerne en konkurrent, vil Harry Copper være glad for å hjelpe deg!"/>
-        <text id="effect" need_translate="false" value="Dersom vellykket, vil en karakters omdømme bli ruinert med 50% - 100%"/>
+        <text id="effect" need_translate="true" value="Dersom vellykket, vil en karakters omdømme bli ruinert med 50% - 100%"/>
         <text id="name" need_translate="false" value="Harry"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="%1 sitt omdømme er ruinert med %2"/>
-        <text id="skill" need_translate="false" value="Baktaler"/>
+        <text id="short_description" need_translate="true" value="%1 sitt omdømme er ruinert med %2"/>
         <text id="surname" need_translate="false" value="Copper"/>
     </agents_journalist>
     <agents_killer>
         <text id="description" need_translate="false" value="Det er ganske vanskelig å forestille seg et politisk eller kriminelt liv uten denne personen. Ifølge ham selv har ingen klart å fange ham! Han har klart å nå større høyder i den kriminelle verdenen på grunn av  hans 'rene jobb' med å eliminere både  en entreprenør og representanter av den politiske eliten. Walter er en av de farligste personene fordi han kan starte å jakte på deg, og hvis han lykkes, vil spillet være over!"/>
-        <text id="effect" need_translate="false" value="Dersom vellykket, blir et mål eliminert"/>
+        <text id="effect" need_translate="true" value="Dersom vellykket, blir et mål eliminert"/>
         <text id="name" need_translate="false" value="Walter"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="false" value="%1 blir drept"/>
-        <text id="skill" need_translate="false" value="Mord"/>
         <text id="surname" need_translate="false" value="Hill"/>
     </agents_killer>
     <agents_trasher>
@@ -336,7 +169,15 @@
         <text id="name" need_translate="false" value="Mika"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="false" value="%1 blir skremt. Sjansen for en avtale går opp!"/>
-        <text id="skill" need_translate="false" value="Utpressing"/>
         <text id="surname" need_translate="false" value="Pshishtov"/>
     </agents_trasher>
+    <bandit_skill/>
+    <cardinal_skill/>
+    <courtesan_skill/>
+    <detective_skill/>
+    <fireman_skill/>
+    <journalist_skill/>
+    <killer_skill/>
+    <killer_stages/>
+    <trasher_skill/>
 </agents>

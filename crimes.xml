@@ -21,63 +21,28 @@
         <text id="low_loyality" need_translate="false" value="Lav lojalitet!"/>
         <text id="no_assistants" need_translate="false" value="Ingen hyrte leiemordere!"/>
     </hints>
+    <other/>
     <popup>
-        <text id="arrest_result_header_1" need_translate="false" value=""/>
-        <text id="arrest_result_header_2" need_translate="false" value="Du er arrestert!"/>
-        <text id="arrest_result_text_1" need_translate="false" value="Jeg stolte på deg, og du forrådte meg! Vennskap er som penger, lettere skapt enn beholdt..."/>
-        <text id="arrest_result_text_2" need_translate="false" value="%1Politisjef %2 mistenker deg for å ha begått forbrytelsen &quot;%3&quot;. Du kan forsøke å gi en bestikkelse eller gå gjennom alle domstolene i rettssystemet."/>
-        <text id="court_popup_1" need_translate="false" value="Korrupt dommer"/>
-        <text id="court_popup_1_hover" need_translate="false" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
-        <text id="court_popup_2" need_translate="false" value="Jeg bryr meg ikke!"/>
-        <text id="court_popup_2_hover" need_translate="false" value="Rettssak: %1"/>
-        <text id="court_popup_header" need_translate="false" value="Rettssaken begynner!"/>
-        <text id="court_popup_text" need_translate="false" value="%1&quot;%3&quot; rettssak blir avholdt den %2. %4 blir beskyldt for å ha begått forbrytelsen"/>
-        <text id="court_result_header" need_translate="false" value="Du ble dømt for forbrytelsen\n&quot;%1&quot;!"/>
-        <text id="court_result_header_1" need_translate="false" value="Dommeren nektet å hjelpe deg"/>
-        <text id="court_result_header_2" need_translate="false" value="Dessverre er dommerens makt begrenset."/>
-        <text id="court_result_header_3" need_translate="false" value="Dommen har falt: ikke skyldig"/>
-        <text id="court_result_text" need_translate="false" value="%1%2 ble sendt til fengsel. Dommer %3 har dømt rettferdig."/>
-        <text id="court_result_text_1" need_translate="false" value="Hva er det du gjør? Prøver du å bestikke meg? Det er en forbrytelse, kom deg ut herfra... men la pengene være igjen, jeg må mate barna mine."/>
-        <text id="court_result_text_2" need_translate="false" value="Nå er det ikke lett å lukke øynene mine og ikke dømme rettferdig. Jeg kan ikke hjelpe deg med det. Ha det bra!"/>
-        <text id="court_result_text_3" need_translate="false" value="%2 er ikke skyldig. Det er en 0% sjanse for en ny straffesak."/>
-        <text id="hide_evidence_popup_1" need_translate="false" value="Skjul bevis"/>
-        <text id="hide_evidence_popup_1_hover" need_translate="false" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
-        <text id="hide_evidence_popup_2" need_translate="false" value="Syndebukk"/>
+        <text id="court_popup_1" need_translate="true" value="Korrupt dommer"/>
+        <text id="court_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
+        <text id="court_popup_2" need_translate="true" value="Jeg bryr meg ikke!"/>
+        <text id="court_popup_2_hover" need_translate="true" value="Rettssak: %1"/>
+        <text id="court_popup_header" need_translate="true" value="Rettssaken begynner!"/>
+        <text id="court_popup_text" need_translate="true" value="%1&quot;%3&quot; rettssak blir avholdt den %2. %4 blir beskyldt for å ha begått forbrytelsen"/>
+        <text id="hide_evidence_popup_1" need_translate="true" value="Skjul bevis"/>
+        <text id="hide_evidence_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
+        <text id="hide_evidence_popup_2" need_translate="true" value="Syndebukk"/>
         <text id="hide_evidence_popup_2_hover" need_translate="true" value="Velg en syndebukk"/>
         <text id="hide_evidence_popup_3" need_translate="false" value="Jeg bryr meg ikke"/>
-        <text id="hide_evidence_popup_3_hover" need_translate="false" value="Du kan bli arrestert den %1"/>
-        <text id="hide_evidence_popup_header" need_translate="false" value="Etterforskning av saken mot\n&quot;%1&quot;"/>
-        <text id="hide_evidence_popup_text" need_translate="false" value="%1Politiet fikk en uttalelse fra %2. Politisjef %3 begynte å se på det."/>
-        <text id="hide_evidence_result_header_1" need_translate="false" value="Politisjefen nektet å hjelpe deg"/>
-        <text id="hide_evidence_result_header_2" need_translate="false" value="Dessverre er politisjefens makt begrenset."/>
-        <text id="hide_evidence_result_header_3" need_translate="false" value="Politisjefen klarte å skjule beviset.\nDu er heldig."/>
-        <text id="hide_evidence_result_text_1" need_translate="false" value="Hva er det du gjør? Prøver du å bestikke meg? Det er en forbrytelse, kom deg ut herfra... men la pengene være igjen, jeg må mate barna mine."/>
-        <text id="hide_evidence_result_text_2" need_translate="false" value="Det er ikke lett å skjule bevis nå. Jeg kan ikke hjelpe deg med det dessverre."/>
-        <text id="hide_evidence_result_text_3" need_translate="false" value="Jeg klarte å skjule beviset i saken mot &quot;%1&quot;. Det er en 0% sjanse for en ny straffesak, men jeg er ikke sikker på om jeg kommer til å komme unna med det neste gang."/>
-        <text id="incriminate_a_case_popup_1" need_translate="false" value="Lukk sak"/>
-        <text id="incriminate_a_case_popup_1_hover" need_translate="false" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
-        <text id="incriminate_a_case_popup_2" need_translate="false" value="Jeg bryr meg ikke"/>
-        <text id="incriminate_a_case_popup_2_hover" need_translate="false" value="Rettssak: %1"/>
-        <text id="incriminate_a_case_popup_header" need_translate="false" value="Startet en straffesak om &quot;%1&quot; mot %2"/>
-        <text id="incriminate_a_case_popup_text" need_translate="false" value="%1Aktor %2 har startet en straffesak"/>
-        <text id="incriminate_a_case_result_header_1" need_translate="false" value="Aktoren nektet å hjelpe deg"/>
-        <text id="incriminate_a_case_result_header_2" need_translate="false" value="Dessverre er aktorens makt begrenset."/>
-        <text id="incriminate_a_case_result_header_3" need_translate="false" value="Straffesak avsluttet"/>
-        <text id="incriminate_a_case_result_text_1" need_translate="false" value="Hva er det du gjør? Prøver du å bestikke meg? Det er en forbrytelse, kom deg ut herfra... men la pengene være igjen, jeg må mate barna mine."/>
-        <text id="incriminate_a_case_result_text_2" need_translate="false" value="Det er ikke så lett å avslutte en straffesak nå, så jeg kan dessverre ikke hjelpe deg med det. Gud velsigne deg."/>
-        <text id="incriminate_a_case_result_text_3" need_translate="false" value="Jeg klarte å avslutte straffesaken om &quot;%1&quot;. Det er en 0% sjanse for en ny straffesak. Det satte meg i fare, så du må ikke forvente at jeg kan gjøre dette for deg neste gang."/>
-        <text id="jail_popup_1" need_translate="false" value="Nåde"/>
-        <text id="jail_popup_1_hover" need_translate="false" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
+        <text id="hide_evidence_popup_3_hover" need_translate="true" value="Du kan bli arrestert den %1"/>
+        <text id="hide_evidence_popup_header" need_translate="true" value="Etterforskning av saken mot\n&quot;%1&quot;"/>
+        <text id="hide_evidence_popup_text" need_translate="true" value="%1Politiet fikk en uttalelse fra %2. Politisjef %3 begynte å se på det."/>
+        <text id="jail_popup_1" need_translate="true" value="Nåde"/>
+        <text id="jail_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
         <text id="jail_popup_2" need_translate="false" value="Gjør ingenting"/>
-        <text id="jail_popup_2_hover" need_translate="false" value="Fengslingen vil være over om: %1"/>
-        <text id="jail_popup_header" need_translate="false" value="Guvernøren er din siste sjanse!"/>
-        <text id="jail_popup_text" need_translate="false" value="%1Du kan søke en benådning fra guvernøren. Hvis du er heldig, vil %2 guvernør %3 benåde deg, og du vil slippe straffen."/>
-        <text id="jail_result_header" need_translate="false" value="%1's fengsling er over"/>
-        <text id="jail_result_header_1" need_translate="false" value="Guvernøren har nektet å hjelpe deg"/>
-        <text id="jail_result_header_2" need_translate="false" value="%1 ble frikjent"/>
-        <text id="jail_result_text" need_translate="false" value="Endelig, jeg er fri!"/>
-        <text id="jail_result_text_1" need_translate="false" value="Hva er det du gjør? Prøver du å bestikke meg? Det er en forbrytelse, kom deg ut herfra... men la pengene være igjen, jeg må mate barna mine."/>
-        <text id="jail_result_text_2" need_translate="false" value="%%3 guvernør %2 har benådet %4 som begikk forbrytelsen &quot;%5&quot;"/>
+        <text id="jail_popup_2_hover" need_translate="true" value="Fengslingen vil være over om: %1"/>
+        <text id="jail_popup_header" need_translate="true" value="Guvernøren er din siste sjanse!"/>
+        <text id="jail_popup_text" need_translate="true" value="%1Du kan søke en benådning fra guvernøren. Hvis du er heldig, vil %2 guvernør %3 benåde deg, og du vil slippe straffen."/>
         <text id="official_result_header_1" need_translate="true" value=""/>
         <text id="official_result_header_2" need_translate="true" value=""/>
         <text id="official_result_text_1" need_translate="true" value=""/>
@@ -86,7 +51,5 @@
         <text id="politician_result_header_2" need_translate="true" value=""/>
         <text id="politician_result_text_1" need_translate="true" value=""/>
         <text id="politician_result_text_2" need_translate="true" value=""/>
-        <text id="scapegoat_popup_header" need_translate="false" value="Velg syndebukk"/>
-        <text id="scapegoat_popup_text" need_translate="false" value="Velg en syndebukk som vil bli anklaget med dine forbrytelser"/>
     </popup>
 </crimes>

@@ -4,11 +4,11 @@
         <text id="00_shares_bank_description" need_translate="true" value=""/>
         <text id="00_shares_bank_name" need_translate="true" value="Jeg vil ha akjser i en bank"/>
         <text id="01_shares_oil_production_description" need_translate="true" value=""/>
-        <text id="01_shares_oil_production_name" need_translate="false" value="Jeg vil ha aksjer i en oljeproduksjonsbedrift"/>
+        <text id="01_shares_oil_production_name" need_translate="true" value="Jeg vil ha aksjer i en oljeproduksjonsbedrift"/>
         <text id="02_shares_transport_company_description" need_translate="true" value=""/>
-        <text id="02_shares_transport_company_name" need_translate="false" value="Jeg vil ha aksjer i en transportbedrift"/>
+        <text id="02_shares_transport_company_name" need_translate="true" value="Jeg vil ha aksjer i en transportbedrift"/>
         <text id="03_shares_petroleum_refinery_description" need_translate="true" value=""/>
-        <text id="03_shares_petroleum_refinery_name" need_translate="false" value="Jeg vil ha aksjer i en oljeraffineringsbedrift"/>
+        <text id="03_shares_petroleum_refinery_name" need_translate="true" value="Jeg vil ha aksjer i en oljeraffineringsbedrift"/>
         <text id="04_control_shares_pack_of_bank_description" need_translate="true" value=""/>
         <text id="04_control_shares_pack_of_bank_name" need_translate="true" value=""/>
         <text id="05_control_shares_pack_of_oil_production_description" need_translate="true" value=""/>
@@ -17,18 +17,10 @@
         <text id="06_control_shares_pack_of_transport_company_name" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_description" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="08_accumulation_description" need_translate="true" value=""/>
-        <text id="08_accumulation_name" need_translate="false" value="Jeg vil være en valgkampsdonor"/>
         <text id="09_found_bank_description" need_translate="true" value=""/>
         <text id="09_found_bank_name" need_translate="true" value=""/>
         <text id="10_found_oil_production_description" need_translate="true" value=""/>
         <text id="10_found_oil_production_name" need_translate="true" value=""/>
-        <text id="11_found_transport_company_description" need_translate="true" value=""/>
-        <text id="11_found_transport_company_name" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_description" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_description" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_name" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_description" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_name" need_translate="true" value=""/>
         <text id="15_add_to_collection_horses_description" need_translate="true" value=""/>
@@ -41,22 +33,20 @@
         <text id="18_add_to_collection_houses_name" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_description" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_name" need_translate="true" value=""/>
-        <text id="20_add_new_friends_description" need_translate="true" value=""/>
-        <text id="20_add_new_friends_name" need_translate="true" value=""/>
         <text id="21_want_to_be_governor_description" need_translate="true" value=""/>
-        <text id="21_want_to_be_governor_name" need_translate="false" value="Jeg vil møte en guvernør"/>
+        <text id="21_want_to_be_governor_name" need_translate="true" value="Jeg vil møte en guvernør"/>
         <text id="22_want_to_be_treasurer_description" need_translate="true" value=""/>
-        <text id="22_want_to_be_treasurer_name" need_translate="false" value="Jeg vil møte en kasserer"/>
+        <text id="22_want_to_be_treasurer_name" need_translate="true" value="Jeg vil møte en kasserer"/>
         <text id="23_want_to_be_judge_description" need_translate="true" value=""/>
-        <text id="23_want_to_be_judge_name" need_translate="false" value="Jeg vil møte en dommer"/>
+        <text id="23_want_to_be_judge_name" need_translate="true" value="Jeg vil møte en dommer"/>
         <text id="24_want_to_be_prosecutor_description" need_translate="true" value=""/>
-        <text id="24_want_to_be_prosecutor_name" need_translate="false" value="Jeg vil møte en aktor"/>
+        <text id="24_want_to_be_prosecutor_name" need_translate="true" value="Jeg vil møte en aktor"/>
         <text id="25_want_to_be_police_chief_description" need_translate="true" value=""/>
-        <text id="25_want_to_be_police_chief_name" need_translate="false" value="Jeg vil møte en politisjef"/>
+        <text id="25_want_to_be_police_chief_name" need_translate="true" value="Jeg vil møte en politisjef"/>
         <text id="26_want_to_be_congressman_description" need_translate="true" value=""/>
-        <text id="26_want_to_be_congressman_name" need_translate="false" value="Jeg vikl møte en kongressmann"/>
+        <text id="26_want_to_be_congressman_name" need_translate="true" value="Jeg vikl møte en kongressmann"/>
         <text id="27_want_to_be_senator_description" need_translate="true" value=""/>
-        <text id="27_want_to_be_senator_name" need_translate="false" value="Jeg vil møte en senator"/>
+        <text id="27_want_to_be_senator_name" need_translate="true" value="Jeg vil møte en senator"/>
         <text id="28_kill_all_enemies_description" need_translate="true" value=""/>
         <text id="28_kill_all_enemies_name" need_translate="true" value=""/>
         <text id="29_buy_all_shares_description" need_translate="true" value=""/>
@@ -72,6 +62,8 @@
         <text id="6" need_translate="true" value=""/>
         <text id="7" need_translate="true" value=""/>
     </categories>
+    <coins_descriptions/>
+    <coins_names/>
     <description_player>
         <text id="aggressive" need_translate="false" value="Karakterens lojalitet til deg vil redusere 2 ganger mer ved mislykkede forhandlinger"/>
         <text id="alcoholic" need_translate="false" value="Det er en 20% sjanse for at karakteren ikke kommer til forhandlingen"/>

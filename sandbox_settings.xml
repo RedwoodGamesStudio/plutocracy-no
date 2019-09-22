@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sandbox_settings>
     <text id="btn_start_game" need_translate="false" value="Start spill"/>
-    <win_settings>
-        <text id="economy" need_translate="false" value="Du må svare på spørsmålet: er grådighet bra? Målet ditt er å bli den første dollar milliardæren i historien. Du har 10 år før 1880-tallet. Velg velstandsnivået du ønsker å oppnå."/>
-        <text id="monopoly" need_translate="false" value="Oppnå 80% av markedsandelen i den valgte industrien: olje, bank, logisikk og annet. Bygg det kraftigste økonomiske imperiet og press ut all konkurranse!"/>
-        <text id="politial_influence" need_translate="false" value="Du må oppnå den totale internasjonele politiske innflytelsen for å vinne! Du kan lobbyisere politikere og lover, samt korrupte tjenestemenn. Gjør ditt valg for å oppnå målet!"/>
-        <text id="superiority" need_translate="false" value="Ta din plass sammen med de rikeste kapitalistene og forretningsmennene i historien. Du sliter med konkurrentene til de rikeste internasjonale klanene og familiene. Er du i stand til å utfordre dem?"/>
-    </win_settings>
+    <win_settings_description/>
+    <win_settings_header/>
     <world_settings>
         <game_difficult>
             <text id="financial_genius" need_translate="false" value="Beinhar økonomi med dynamiske finansielle indikatorer. Oppturer og nedturer av markedet, samt stadig skiftende priser, skjer hvert kvartal. Det er en ganske tøff konkurrerende verden."/>

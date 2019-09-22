@@ -65,8 +65,8 @@
         <text id="38_value" need_translate="true" value=""/>
         <text id="39_text" need_translate="false" value="Aktivitetsfeltet til selskapet"/>
         <text id="39_title" need_translate="false" value="Bedriftstype"/>
-        <text id="3_title" need_translate="false" value="Stat"/>
-        <text id="3_value" need_translate="false" value="Her kan du se en liste over bedrifter basert i staten"/>
+        <text id="3_title" need_translate="true" value="Stat"/>
+        <text id="3_value" need_translate="true" value="Her kan du se en liste over bedrifter basert i staten"/>
         <text id="40_text" need_translate="false" value="Kjøp 51% av aksjene  og ta kontroll over bedriften"/>
         <text id="40_title" need_translate="false" value="Kontroll"/>
         <text id="41_text" need_translate="false" value="Utnevn den beste administrerende direktøren for å forbedre bedriftens ledelse"/>
@@ -85,8 +85,6 @@
         <text id="47_title" need_translate="false" value="Markedspris"/>
         <text id="4_title" need_translate="false" value="Prestasjoner og elite"/>
         <text id="4_value" need_translate="false" value="Dine prestasjoner og poengoversikt"/>
-        <text id="50_title" need_translate="false" value="Tid igjen"/>
-        <text id="50_value" need_translate="false" value="Klokkeslettet på klokken er antall forsøk på å få gjennom en avtale"/>
         <text id="5_title" need_translate="true" value="Autoritet "/>
         <text id="5_value" need_translate="false" value="lobbyisere lover, sponse politikere eller tjenestemenn"/>
         <text id="6_title" need_translate="false" value="Nyheter"/>
