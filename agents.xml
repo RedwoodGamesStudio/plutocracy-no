@@ -2,6 +2,7 @@
 <agents>
     <agent_class>
         <text id="class_1" need_translate="true" value="Bølle"/>
+        <text id="class_10" need_translate="true" value=""/>
         <text id="class_2" need_translate="false" value="Kurtisane"/>
         <text id="class_3" need_translate="false" value="Detektiv"/>
         <text id="class_4" need_translate="false" value="Journalist"/>
@@ -9,9 +10,28 @@
         <text id="class_6" need_translate="false" value="Leiemorder"/>
         <text id="class_7" need_translate="false" value="Diplomat"/>
         <text id="class_8" need_translate="false" value="Finansmann"/>
+        <text id="class_9" need_translate="true" value=""/>
         <text id="no_data" need_translate="true" value=""/>
     </agent_class>
     <agent_result>
+        <text id="10_1_1_female" need_translate="true" value=""/>
+        <text id="10_1_1_male" need_translate="true" value=""/>
+        <text id="10_1_2_female" need_translate="true" value=""/>
+        <text id="10_1_2_male" need_translate="true" value=""/>
+        <text id="10_1_3_female" need_translate="true" value=""/>
+        <text id="10_1_3_male" need_translate="true" value=""/>
+        <text id="10_2_1_female" need_translate="true" value=""/>
+        <text id="10_2_1_male" need_translate="true" value=""/>
+        <text id="10_2_2_female" need_translate="true" value=""/>
+        <text id="10_2_2_male" need_translate="true" value=""/>
+        <text id="10_2_3_female" need_translate="true" value=""/>
+        <text id="10_2_3_male" need_translate="true" value=""/>
+        <text id="10_3_1_female" need_translate="true" value=""/>
+        <text id="10_3_1_male" need_translate="true" value=""/>
+        <text id="10_3_2_female" need_translate="true" value=""/>
+        <text id="10_3_2_male" need_translate="true" value=""/>
+        <text id="10_3_3_female" need_translate="true" value=""/>
+        <text id="10_3_3_male" need_translate="true" value=""/>
         <text id="1_1_1_female" need_translate="true" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
         <text id="1_1_1_male" need_translate="true" value="Når du henger opp ned, vil forståelse komme veldig fort... like fort som du faller fra 8. etasje…"/>
         <text id="1_1_2_female" need_translate="true" value="Etter 'omskoleringsarbeid' er kunden klar for å vurdere tilbudet ditt"/>
@@ -102,8 +122,39 @@
         <text id="6_3_2_male" need_translate="false" value="Det var kaos… jeg ble tvunget til å forlate plassen min… en av tilskuerne så ansiktet mitt ganske godt, så vi kan få noen problemer nå"/>
         <text id="6_3_3_female" need_translate="false" value="Politiet sperret av bygningen hvor jeg var… det er godt det er en kjeller der som jeg kunne gjemme meg i… jeg er redd for at jeg etterlot meg spor"/>
         <text id="6_3_3_male" need_translate="false" value="Politiet sperret av bygningen hvor jeg var… det er godt det er en kjeller der som jeg kunne gjemme meg i… jeg er redd for at jeg etterlot meg spor"/>
+        <text id="9_1_1_female" need_translate="true" value=""/>
+        <text id="9_1_1_male" need_translate="true" value=""/>
+        <text id="9_1_2_female" need_translate="true" value=""/>
+        <text id="9_1_2_male" need_translate="true" value=""/>
+        <text id="9_1_3_female" need_translate="true" value=""/>
+        <text id="9_1_3_male" need_translate="true" value=""/>
+        <text id="9_2_1_female" need_translate="true" value=""/>
+        <text id="9_2_1_male" need_translate="true" value=""/>
+        <text id="9_2_2_female" need_translate="true" value=""/>
+        <text id="9_2_2_male" need_translate="true" value=""/>
+        <text id="9_2_3_female" need_translate="true" value=""/>
+        <text id="9_2_3_male" need_translate="true" value=""/>
+        <text id="9_3_1_female" need_translate="true" value=""/>
+        <text id="9_3_1_male" need_translate="true" value=""/>
+        <text id="9_3_2_female" need_translate="true" value=""/>
+        <text id="9_3_2_male" need_translate="true" value=""/>
+        <text id="9_3_3_female" need_translate="true" value=""/>
+        <text id="9_3_3_male" need_translate="true" value=""/>
         <text id="agent_failed" need_translate="true" value=""/>
         <text id="agent_on_suspect" need_translate="true" value=""/>
+        <text id="detective_blackmail_fail" need_translate="true" value=""/>
+        <text id="detective_blackmail_success" need_translate="true" value=""/>
+        <text id="fireman_fail_text" need_translate="true" value=""/>
+        <text id="fireman_risk_text" need_translate="true" value=""/>
+        <text id="fireman_success_text" need_translate="true" value=""/>
+        <text id="journalist_fail" need_translate="true" value=""/>
+        <text id="journalist_success" need_translate="true" value=""/>
+        <text id="killer_fail_text" need_translate="true" value=""/>
+        <text id="killer_risk_text" need_translate="true" value=""/>
+        <text id="killer_success1_text" need_translate="true" value=""/>
+        <text id="killer_success2_text" need_translate="true" value=""/>
+        <text id="trasher_success_text_to_company" need_translate="true" value=""/>
+        <text id="trasher_success_text_to_person" need_translate="true" value=""/>
     </agent_result>
     <agents_bandit>
         <text id="description" need_translate="false" value="Den skumle og glatte cowboyen med en rik kriminell bakgrunn Siden barndommen har han bare kjent en lov - 'Pistolens regler'! På grunn av kapitalismens raske vekst krevde de usammenhengende rettssystemene bare tre ting fra ham: intelligens, besluttsomhet og skyteevne. Etter å ha erklært seg selv for fredløs ble tyveri og ran hans eneste måte å tjene penger på. Hvis du trenger tjenestene hans, vær klar til å betale bra."/>
@@ -113,13 +164,20 @@
         <text id="short_description" need_translate="true" value="%1 ble ranet. Du fikk $%2"/>
         <text id="surname" need_translate="false" value="Hume"/>
     </agents_bandit>
-    <agents_cardinal/>
+    <agents_cardinal>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_cardinal>
     <agents_courtesan>
         <text id="description" need_translate="false" value="Poly Adler er en mysteriekvinne og en sann forfører av menn. Tidlig i livet, innså hun at en rik og innflytelsesrik elsker er billetten til et lykkelig liv! Siden den gang har hun lurket i kretsene til adelsmenn, og prøvd å få tak i nyttig informasjon. Hun følger med på private samtaler som kan inneholder hemmeligheter til gifte mannlige karakterer."/>
         <text id="effect" need_translate="true" value="Dersom vellykket, vil agenten hjelpe deg med å manipulere en karakter (bare menn) ved å redusere den påkrevde innflytelsen til å arrangere et møte med han. Sjansen for suksess er opp til din innflytelse på den karakteren."/>
         <text id="name" need_translate="false" value="Poly"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="%1 er hekta. Påkrevd innflytelse for å låse opp er redusert"/>
+        <text id="short_description" need_translate="true" value="%1 er hekta. Påkrevd innflytelse for å låse opp er redusert"/>
         <text id="surname" need_translate="false" value="Adler"/>
     </agents_courtesan>
     <agents_detective>
@@ -146,7 +204,14 @@
         <text id="short_description" need_translate="true" value="bankmann"/>
         <text id="surname" need_translate="false" value="Morgan"/>
     </agents_financier>
-    <agents_fireman/>
+    <agents_fireman>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_fireman>
     <agents_journalist>
         <text id="description" need_translate="false" value="Harry er forfatteren av mange skandaløse artikler, og jobber i “New York Herald». Han utfører alltid agressive etterforskninger ved å avdekke ulike økonomiske svindler i en bedrift. Hvis det er en mulighet å skrive om hemmelighetene til berøkte politikere eller embetsmenn, er Harry klar. Hvis du trenger å fjerne noen fra stillingen deres eller fjerne en konkurrent, vil Harry Copper være glad for å hjelpe deg!"/>
         <text id="effect" need_translate="true" value="Dersom vellykket, vil en karakters omdømme bli ruinert med 50% - 100%"/>
@@ -171,13 +236,86 @@
         <text id="short_description" need_translate="false" value="%1 blir skremt. Sjansen for en avtale går opp!"/>
         <text id="surname" need_translate="false" value="Pshishtov"/>
     </agents_trasher>
-    <bandit_skill/>
-    <cardinal_skill/>
-    <courtesan_skill/>
-    <detective_skill/>
-    <fireman_skill/>
-    <journalist_skill/>
-    <killer_skill/>
-    <killer_stages/>
-    <trasher_skill/>
+    <bandit_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </bandit_skill>
+    <cardinal_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </cardinal_skill>
+    <courtesan_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </courtesan_skill>
+    <detective_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </detective_skill>
+    <fireman_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </fireman_skill>
+    <journalist_skill>
+        <text id="decrease_name" need_translate="true" value=""/>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="increase_name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </journalist_skill>
+    <killer_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </killer_skill>
+    <killer_stages>
+        <text id="stage_1_1" need_translate="true" value=""/>
+        <text id="stage_1_2" need_translate="true" value=""/>
+        <text id="stage_1_3" need_translate="true" value=""/>
+        <text id="stage_1_4" need_translate="true" value=""/>
+        <text id="stage_1_5" need_translate="true" value=""/>
+        <text id="stage_2_1" need_translate="true" value=""/>
+        <text id="stage_2_2" need_translate="true" value=""/>
+        <text id="stage_2_3" need_translate="true" value=""/>
+        <text id="stage_2_4" need_translate="true" value=""/>
+        <text id="stage_2_5" need_translate="true" value=""/>
+        <text id="stage_3_1" need_translate="true" value=""/>
+        <text id="stage_3_2" need_translate="true" value=""/>
+        <text id="stage_3_3" need_translate="true" value=""/>
+        <text id="stage_3_4" need_translate="true" value=""/>
+        <text id="stage_3_5" need_translate="true" value=""/>
+    </killer_stages>
+    <trasher_skill>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk_result" need_translate="true" value=""/>
+    </trasher_skill>
 </agents>

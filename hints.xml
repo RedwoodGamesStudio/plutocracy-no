@@ -47,8 +47,8 @@
         <text id="2_value" need_translate="false" value="Bevegelse mellom stater"/>
         <text id="30_title" need_translate="true" value=""/>
         <text id="30_value" need_translate="true" value=""/>
-        <text id="31_title" need_translate="false" value="Omdømme"/>
-        <text id="31_value" need_translate="false" value="Hvis ryktet ditt er bedre enn konkurrentens rykte, er det mye enklere å gjøre avtaler. Imidlertid vil du få omdømmestraffen på -1 poeng."/>
+        <text id="31_title" need_translate="true" value="Omdømme"/>
+        <text id="31_value" need_translate="true" value="Hvis ryktet ditt er bedre enn konkurrentens rykte, er det mye enklere å gjøre avtaler. Imidlertid vil du få omdømmestraffen på -1 poeng."/>
         <text id="32_title" need_translate="true" value=""/>
         <text id="32_value" need_translate="true" value=""/>
         <text id="33_title" need_translate="true" value=""/>
@@ -85,6 +85,12 @@
         <text id="47_title" need_translate="false" value="Markedspris"/>
         <text id="4_title" need_translate="false" value="Prestasjoner og elite"/>
         <text id="4_value" need_translate="false" value="Dine prestasjoner og poengoversikt"/>
+        <text id="51_title" need_translate="true" value=""/>
+        <text id="51_value" need_translate="true" value=""/>
+        <text id="52_title" need_translate="true" value=""/>
+        <text id="52_value" need_translate="true" value=""/>
+        <text id="53_title" need_translate="true" value=""/>
+        <text id="53_value" need_translate="true" value=""/>
         <text id="5_title" need_translate="true" value="Autoritet "/>
         <text id="5_value" need_translate="false" value="lobbyisere lover, sponse politikere eller tjenestemenn"/>
         <text id="6_title" need_translate="false" value="Nyheter"/>

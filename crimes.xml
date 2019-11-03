@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <crimes>
     <crime_type>
+        <text id="burn" need_translate="true" value=""/>
         <text id="corruption" need_translate="true" value=""/>
         <text id="extortion" need_translate="true" value=""/>
         <text id="manipulation" need_translate="true" value=""/>
         <text id="murder" need_translate="true" value=""/>
+        <text id="negligence" need_translate="true" value=""/>
         <text id="persecution" need_translate="true" value=""/>
         <text id="robbery" need_translate="true" value=""/>
         <text id="slander" need_translate="true" value=""/>
@@ -18,31 +20,140 @@
     </effects>
     <hints>
         <text id="already_tried_to_corrupt" need_translate="false" value="Du kan bestikke tjenestemannen en gang til!"/>
+        <text id="corrupt_governor" need_translate="true" value=""/>
+        <text id="government_contract" need_translate="true" value=""/>
+        <text id="hint" need_translate="true" value=""/>
         <text id="low_loyality" need_translate="false" value="Lav lojalitet!"/>
+        <text id="make_a_deal" need_translate="true" value=""/>
         <text id="no_assistants" need_translate="false" value="Ingen hyrte leiemordere!"/>
+        <text id="police_chief_deal" need_translate="true" value=""/>
+        <text id="prosecutor_investigation" need_translate="true" value=""/>
+        <text id="receive_a_grant" need_translate="true" value=""/>
+        <text id="treasurer_grant" need_translate="true" value=""/>
     </hints>
-    <other/>
+    <other>
+        <text id="accept_law" need_translate="true" value=""/>
+        <text id="btn_ok" need_translate="true" value=""/>
+        <text id="chance_requirements" need_translate="true" value=""/>
+        <text id="corrupted_earlier" need_translate="true" value=""/>
+        <text id="government_contract_header" need_translate="true" value=""/>
+        <text id="government_contract_text" need_translate="true" value=""/>
+        <text id="governor_disabled" need_translate="true" value=""/>
+        <text id="governor_is_dummy" need_translate="true" value=""/>
+        <text id="governor_is_friendly" need_translate="true" value=""/>
+        <text id="incorrect_law_stage" need_translate="true" value=""/>
+        <text id="influence_requirements" need_translate="true" value=""/>
+        <text id="judge_disabled" need_translate="true" value=""/>
+        <text id="money_requirements" need_translate="true" value=""/>
+        <text id="no_authority_marks" need_translate="true" value=""/>
+        <text id="not_compromised" need_translate="true" value=""/>
+        <text id="not_enough_evidence" need_translate="true" value=""/>
+        <text id="not_enough_influence" need_translate="true" value=""/>
+        <text id="not_enough_money" need_translate="true" value=""/>
+        <text id="person_is_not_authority" need_translate="true" value=""/>
+        <text id="player_is_not_shareholder" need_translate="true" value=""/>
+        <text id="police_chief_disabled" need_translate="true" value=""/>
+        <text id="police_chief_is_dummy" need_translate="true" value=""/>
+        <text id="police_chief_is_friendly" need_translate="true" value=""/>
+        <text id="prosecutor_disabled" need_translate="true" value=""/>
+        <text id="prosecutor_is_dummy" need_translate="true" value=""/>
+        <text id="prosecutor_is_friendly" need_translate="true" value=""/>
+        <text id="reject_law" need_translate="true" value=""/>
+        <text id="reputation_requirements" need_translate="true" value=""/>
+        <text id="skill_is_not_learned" need_translate="true" value=""/>
+        <text id="treasurer_is_dummy" need_translate="true" value=""/>
+        <text id="treasurer_is_friendly" need_translate="true" value=""/>
+        <text id="two_condition" need_translate="true" value=""/>
+        <text id="veto_is_not_possible" need_translate="true" value=""/>
+        <text id="year_genetive_multiple" need_translate="true" value=""/>
+        <text id="year_genetive_single" need_translate="true" value=""/>
+        <text id="year_multiple" need_translate="true" value=""/>
+        <text id="year_single" need_translate="true" value=""/>
+    </other>
     <popup>
+        <text id="accept_law_popup_fail_header" need_translate="true" value=""/>
+        <text id="accept_law_popup_fail_text" need_translate="true" value=""/>
+        <text id="accept_law_popup_success_header" need_translate="true" value=""/>
+        <text id="accept_law_popup_success_text" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_fail_header" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_fail_text" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_success_header" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_success_text" need_translate="true" value=""/>
+        <text id="contract_popup_fail_header" need_translate="true" value=""/>
+        <text id="contract_popup_fail_text" need_translate="true" value=""/>
+        <text id="contract_popup_success_header" need_translate="true" value=""/>
+        <text id="contract_popup_success_text" need_translate="true" value=""/>
         <text id="court_popup_1" need_translate="true" value="Korrupt dommer"/>
+        <text id="court_popup_1_disabled_hover" need_translate="true" value=""/>
         <text id="court_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
         <text id="court_popup_2" need_translate="true" value="Jeg bryr meg ikke!"/>
+        <text id="court_popup_2_disabled_hover" need_translate="true" value=""/>
         <text id="court_popup_2_hover" need_translate="true" value="Rettssak: %1"/>
+        <text id="court_popup_3" need_translate="true" value=""/>
+        <text id="court_popup_3_disabled_hover" need_translate="true" value=""/>
+        <text id="court_popup_3_hover" need_translate="true" value=""/>
+        <text id="court_popup_fail_header" need_translate="true" value=""/>
+        <text id="court_popup_fail_text" need_translate="true" value=""/>
         <text id="court_popup_header" need_translate="true" value="Rettssaken begynner!"/>
+        <text id="court_popup_success_header" need_translate="true" value=""/>
+        <text id="court_popup_success_text" need_translate="true" value=""/>
         <text id="court_popup_text" need_translate="true" value="%1&quot;%3&quot; rettssak blir avholdt den %2. %4 blir beskyldt for å ha begått forbrytelsen"/>
+        <text id="court_popup_text_to_company" need_translate="true" value=""/>
+        <text id="freedom_popup_header" need_translate="true" value=""/>
+        <text id="freedom_popup_text" need_translate="true" value=""/>
+        <text id="grant_popup_fail_header" need_translate="true" value=""/>
+        <text id="grant_popup_fail_text" need_translate="true" value=""/>
+        <text id="grant_popup_success_header" need_translate="true" value=""/>
+        <text id="grant_popup_success_text" need_translate="true" value=""/>
+        <text id="hide_accident_popup_fail_header" need_translate="true" value=""/>
+        <text id="hide_accident_popup_fail_text" need_translate="true" value=""/>
+        <text id="hide_accident_popup_success_header" need_translate="true" value=""/>
+        <text id="hide_accident_popup_success_text" need_translate="true" value=""/>
         <text id="hide_evidence_popup_1" need_translate="true" value="Skjul bevis"/>
+        <text id="hide_evidence_popup_1_disabled_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
         <text id="hide_evidence_popup_2" need_translate="true" value="Syndebukk"/>
+        <text id="hide_evidence_popup_2_disabled_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_2_hover" need_translate="true" value="Velg en syndebukk"/>
         <text id="hide_evidence_popup_3" need_translate="false" value="Jeg bryr meg ikke"/>
+        <text id="hide_evidence_popup_3_disabled_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_3_hover" need_translate="true" value="Du kan bli arrestert den %1"/>
+        <text id="hide_evidence_popup_fail_header" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_fail_text" need_translate="true" value=""/>
         <text id="hide_evidence_popup_header" need_translate="true" value="Etterforskning av saken mot\n&quot;%1&quot;"/>
+        <text id="hide_evidence_popup_success_header" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_success_text" need_translate="true" value=""/>
         <text id="hide_evidence_popup_text" need_translate="true" value="%1Politiet fikk en uttalelse fra %2. Politisjef %3 begynte å se på det."/>
         <text id="jail_popup_1" need_translate="true" value="Nåde"/>
+        <text id="jail_popup_1_disabled_hover" need_translate="true" value=""/>
         <text id="jail_popup_1_hover" need_translate="true" value="Du har en %1% sjanse for at tjenestemannen tar bestikkelsen (bestikkelsessum: $%2) og en %3% sjanse for at han vil lukke saken"/>
         <text id="jail_popup_2" need_translate="false" value="Gjør ingenting"/>
+        <text id="jail_popup_2_disabled_hover" need_translate="true" value=""/>
         <text id="jail_popup_2_hover" need_translate="true" value="Fengslingen vil være over om: %1"/>
+        <text id="jail_popup_2_journalist_hover" need_translate="true" value=""/>
+        <text id="jail_popup_2_killer_hover" need_translate="true" value=""/>
+        <text id="jail_popup_fail_header" need_translate="true" value=""/>
+        <text id="jail_popup_fail_text" need_translate="true" value=""/>
         <text id="jail_popup_header" need_translate="true" value="Guvernøren er din siste sjanse!"/>
+        <text id="jail_popup_journalist_text" need_translate="true" value=""/>
+        <text id="jail_popup_killer_text" need_translate="true" value=""/>
+        <text id="jail_popup_success_header" need_translate="true" value=""/>
+        <text id="jail_popup_success_text" need_translate="true" value=""/>
         <text id="jail_popup_text" need_translate="true" value="%1Du kan søke en benådning fra guvernøren. Hvis du er heldig, vil %2 guvernør %3 benåde deg, og du vil slippe straffen."/>
+        <text id="make_a_deal_popup_1" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_1_disabled_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_1_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2_disabled_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_fail_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_fail_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_fail_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_fail_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_success_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_success_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_success_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_success_text" need_translate="true" value=""/>
         <text id="official_result_header_1" need_translate="true" value=""/>
         <text id="official_result_header_2" need_translate="true" value=""/>
         <text id="official_result_text_1" need_translate="true" value=""/>
@@ -51,5 +162,9 @@
         <text id="politician_result_header_2" need_translate="true" value=""/>
         <text id="politician_result_text_1" need_translate="true" value=""/>
         <text id="politician_result_text_2" need_translate="true" value=""/>
+        <text id="reject_law_popup_fail_header" need_translate="true" value=""/>
+        <text id="reject_law_popup_fail_text" need_translate="true" value=""/>
+        <text id="reject_law_popup_success_header" need_translate="true" value=""/>
+        <text id="reject_law_popup_success_text" need_translate="true" value=""/>
     </popup>
 </crimes>

@@ -111,7 +111,7 @@
     <player_resource>
         <text id="1" need_translate="false" value="Penger"/>
         <text id="2" need_translate="false" value="Innflytelse"/>
-        <text id="3" need_translate="false" value="Omdømme"/>
+        <text id="3" need_translate="true" value="Omdømme"/>
         <text id="4" need_translate="false" value="Prestisje"/>
         <text id="5" need_translate="false" value="Lojalitet"/>
     </player_resource>
