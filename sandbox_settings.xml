@@ -15,20 +15,22 @@
         <text id="power_victory" need_translate="true" value=""/>
     </win_settings_header>
     <world_settings>
+        <bots_count>
+            <text id="no_bots" need_translate="true" value=""/>
+            <text id="one_bot" need_translate="true" value=""/>
+            <text id="three_bots" need_translate="true" value=""/>
+            <text id="two_bots" need_translate="true" value=""/>
+        </bots_count>
         <game_difficult>
-            <text id="financial_genius" need_translate="false" value="Beinhar økonomi med dynamiske finansielle indikatorer. Oppturer og nedturer av markedet, samt stadig skiftende priser, skjer hvert kvartal. Det er en ganske tøff konkurrerende verden."/>
-            <text id="newbie" need_translate="false" value="Du har akkurat startet å lære det grunnleggende innen økonomi. Konkurrentene dine er vennlige og medgjørlige."/>
-            <text id="plutocrat" need_translate="false" value="For å oppnå makt og storhet, må du gi en overmenneskelig innsats. Er du klar for å føle konsekvensene av avgjørelsene som påvirker menneskets skjebne?"/>
-            <text id="shark_of_capitalism" need_translate="false" value="Du vet hvordan du lager en bedrift. For å vinne mot motstanderne dine, burde du finne den mest snedige måten å oppnå målet. Vær klar til å bruke hjernen din."/>
+            <text id="finance_shark" need_translate="true" value=""/>
+            <text id="piranha" need_translate="true" value=""/>
+            <text id="small_fish" need_translate="true" value=""/>
         </game_difficult>
         <start_condition>
             <text id="company_owner" need_translate="false" value="Du eier 100% av bedriftens aksjer og en liten stab med 10 personer. Kontanter på hånd er $1,000,000"/>
             <text id="experienced_investor" need_translate="false" value="Du eier aksjer av en bedrift verdt $1,000,000. Kontanter på hånd er $100,000"/>
             <text id="low_start" need_translate="false" value="Du har en sparekonto med $100,000. Hvordan vil du starte? Det er opp til deg!"/>
         </start_condition>
-        <start_time>
-            <text id="gilded_epoch" need_translate="false" value="Amerika etter borgerkrigen og avskaffelsen av slaveri, oppgangen av monopolene og dannelsen av den største private egenkapitalen! Det er olje, bank, logisikk og andre næringer. Du har ubegrensede muligheter!"/>
-        </start_time>
         <world_size>
             <text id="big" need_translate="false" value="Et stort antall bedrifter og karakterer. Den gjennomsnittlige spilltiden er 3-5 timer."/>
             <text id="large" need_translate="false" value="Noen titusener av karakterer og en enorm mengde bedrifter. Den gjennomsnittlige spilltiden er mer enn 10 timer."/>

@@ -86,7 +86,7 @@
         <text id="sd_desc" need_translate="true" value=""/>
         <text id="sd_name" need_translate="false" value="South Dakota"/>
         <text id="tn_desc" need_translate="true" value=""/>
-        <text id="tn_name" need_translate="false" value="Tennesy"/>
+        <text id="tn_name" need_translate="true" value="Tennesy"/>
         <text id="tx_desc" need_translate="true" value=""/>
         <text id="tx_name" need_translate="false" value="Texas"/>
         <text id="ut_desc" need_translate="true" value=""/>

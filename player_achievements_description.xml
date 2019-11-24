@@ -2,7 +2,9 @@
 <player_achievements_description>
     <descriptions>
         <text id="artificial_manipulator" need_translate="false" value="Ansett %1 assistenter"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Utfør %1 vellykkede mordforsøk på karakterer"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Skaff deg %1 samleobjekter"/>
         <text id="combinator" need_translate="false" value="Lag %1 vertikale integrasjoner"/>
         <text id="corrupting_power" need_translate="false" value="Utfør %1 korrupte avtaler"/>
@@ -10,6 +12,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Gjennomfør %1 vellykkede forhandlinger"/>
         <text id="great_raider" need_translate="false" value="Ta kontroll over %1 bedrifter uavhengig av bedriftstype"/>
         <text id="individual" need_translate="false" value="Kjøp %1% av en bedrifts aksjer"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Lobby %1 lokal lov"/>
         <text id="local_monopolist" need_translate="false" value="Oppnå %1% markedsandel i hvilken som helst stat"/>
         <text id="master_of_secrets" need_translate="false" value="Få tak i %1 kompromitterende bevis"/>
@@ -17,6 +20,7 @@
         <text id="political_heavyweight" need_translate="false" value="Lobby %1 føderal lov"/>
         <text id="regional_figure" need_translate="false" value="Nå %1% innflytelse i hvilken som helst stat"/>
         <text id="shadow_ruler" need_translate="false" value="Din marionett er USAs leder"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Stopp %1 dommer"/>
         <text id="us_monopolist" need_translate="false" value="Oppnå %1% markedsandel i USA"/>
         <text id="walk_in_all_doors" need_translate="true" value="Sørg for at alle embetsmennene er dine marionetter i enhver stat"/>
@@ -24,7 +28,9 @@
     </descriptions>
     <descriptions_complete>
         <text id="artificial_manipulator" need_translate="true" value="Du har santt %1 assistenter"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Du har utført %1 vellykkede mordforsøk på karakterer"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="true" value="Du har skaffet %1 samleobjekter"/>
         <text id="combinator" need_translate="true" value="Du har laget %1 vertikale integrasjoner"/>
         <text id="corrupting_power" need_translate="true" value="Du har utført %1 korrupte avtaler"/>
@@ -32,6 +38,7 @@
         <text id="diplomat_of_devil" need_translate="true" value="Du har gjennomført %1 vellykkede forhandlinger"/>
         <text id="great_raider" need_translate="true" value="Du har tatt kontroll over %1 bedrifter"/>
         <text id="individual" need_translate="false" value="Du har kjøpt %1% av en bedrifts aksjer"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="true" value="Du har lobbyisert %1 lokal lov"/>
         <text id="local_monopolist" need_translate="true" value="Du har oppnådd %1% markedsandel i hvilken som helst stat"/>
         <text id="master_of_secrets" need_translate="true" value="Du har fått tak i %1 kompromitterende bevis"/>
@@ -39,6 +46,7 @@
         <text id="political_heavyweight" need_translate="true" value="Du har lobbyisert %1 føderal lov"/>
         <text id="regional_figure" need_translate="true" value="Du har nådd %1% innflytelse i hvilken som helst stat"/>
         <text id="shadow_ruler" need_translate="false" value="Nå kontrollerer du USAs leder!"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="true" value="Du har stoppet %1 dommer"/>
         <text id="us_monopolist" need_translate="true" value="Du har oppnådd %1% markedsandel i USA"/>
         <text id="walk_in_all_doors" need_translate="true" value="Alle embetsmennene i staten er dine marionetter"/>
@@ -46,7 +54,9 @@
     </descriptions_complete>
     <names>
         <text id="artificial_manipulator" need_translate="false" value="Dyktig manipulator"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Blodig prins"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Samler"/>
         <text id="combinator" need_translate="false" value="Hjulforhandler"/>
         <text id="corrupting_power" need_translate="false" value="Korrupte myndigheter"/>
@@ -54,6 +64,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Djevelens diplomat"/>
         <text id="great_raider" need_translate="false" value="Hovedaksjonær"/>
         <text id="individual" need_translate="false" value="Eksklusiv eier"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Lokal lobbyist"/>
         <text id="local_monopolist" need_translate="false" value="Lokal monopolist"/>
         <text id="master_of_secrets" need_translate="false" value="Mester av hemmeligheter"/>
@@ -61,6 +72,7 @@
         <text id="political_heavyweight" need_translate="false" value="Politisk tungvekt"/>
         <text id="regional_figure" need_translate="false" value="Regional figur"/>
         <text id="shadow_ruler" need_translate="false" value="Skyggemester"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Markedssjef"/>
         <text id="us_monopolist" need_translate="false" value="USA monopolist"/>
         <text id="walk_in_all_doors" need_translate="false" value="Innflytelsesrik person"/>
@@ -68,7 +80,9 @@
     </names>
     <progress_text>
         <text id="artificial_manipulator" need_translate="false" value="Ansatte assistenter:"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Mordforsøk:"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Samleobjekter:"/>
         <text id="combinator" need_translate="false" value="Vertikale integrasjoner:"/>
         <text id="corrupting_power" need_translate="false" value="Korrupte avtaler:"/>
@@ -76,6 +90,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Gjennomførte forhandlinger:"/>
         <text id="great_raider" need_translate="false" value="Kontroll av bedrifter:"/>
         <text id="individual" need_translate="true" value="Kjøpt aksjeandel:"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Lobby lokale lover:"/>
         <text id="local_monopolist" need_translate="false" value="Markedsandel i en stat:"/>
         <text id="master_of_secrets" need_translate="false" value="Kompromitterende bevis:"/>
@@ -83,6 +98,7 @@
         <text id="political_heavyweight" need_translate="false" value="Lobby føderale lover:"/>
         <text id="regional_figure" need_translate="false" value="Innflytelsesnivå i en stat:"/>
         <text id="shadow_ruler" need_translate="false" value="Marionettpresident:"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Dommer stoppet:"/>
         <text id="us_monopolist" need_translate="false" value="Markedsandel i USA:"/>
         <text id="walk_in_all_doors" need_translate="true" value="Marionett embetsmenn:"/>
@@ -90,7 +106,9 @@
     </progress_text>
     <short_descriptions>
         <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="true" value=""/>
         <text id="combinator" need_translate="true" value=""/>
         <text id="corrupting_power" need_translate="true" value=""/>
@@ -98,6 +116,7 @@
         <text id="diplomat_of_devil" need_translate="true" value=""/>
         <text id="great_raider" need_translate="true" value=""/>
         <text id="individual" need_translate="true" value=""/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="true" value=""/>
         <text id="local_monopolist" need_translate="true" value=""/>
         <text id="master_of_secrets" need_translate="true" value=""/>
@@ -105,6 +124,7 @@
         <text id="political_heavyweight" need_translate="true" value=""/>
         <text id="regional_figure" need_translate="true" value=""/>
         <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="true" value=""/>
         <text id="us_monopolist" need_translate="true" value=""/>
         <text id="walk_in_all_doors" need_translate="true" value=""/>
